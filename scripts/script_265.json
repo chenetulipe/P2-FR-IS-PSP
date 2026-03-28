@@ -6,8 +6,8 @@
     "data_size": 182,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]did[SP]you[SP]hear[SP]what[SP]that[SP]dude[SP]said?\nCome[SP]on...[SP]Hanako?[SP]In[SP]this[SP]day[SP]and[SP]age?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé, t'as entendu ce que le mec a dit?\nAllez... Hanako? À notre époque?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 310,
     "nom_orig": "Eikichi",
     "texte_orig": "Wait...[SP]With[SP]demons[SP]popping[SP]up[SP]all[SP]over,[SP]why\nwould[SP]I[SP]be[SP]surprised[SP]if[SP]she's[SP]real?[1205][001E][SP]I[SP]gotta[SP]get\nwith[SP]the[SP]program[SP]before[SP]it[SP]bites[SP]me[SP]in[SP]the[SP]ass.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Attends... Avec des démons de partout, \npourquoi je m'étonne qu'elle soit réelle?[1205][001E] \nFaut que je me mette à jour avant que ça \nvienne me morde aux fesses."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 226,
     "nom_orig": "Eikichi",
     "texte_orig": "By[SP]the[SP]way,[SP][U+1113],[SP]did[SP]you[SP]get[SP]the[SP]reward\nfrom[SP]him[SP]yet?[SP]I[SP]can't[SP]wait[SP]to[SP]see[SP]the[SP]loot\nhe's[SP]gonna[SP]give[SP]us!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "D'ailleurs, [U+1113], il t'a donné les \nrécompenses? J'ai hâte de voir ce \nqu'on va obtenir!"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 390,
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]what[SP]did[SP]he[SP]give[SP]you,[SP][U+1113]?[SP]Ooh,[SP]a\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]?[SP]Righteous![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nNow[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][U+000F][SP]Then[SP]could\nthis[SP]be...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Alors, t'as eu quoi, [U+1113]? Oh, un\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 222,
     "nom_orig": "Ginko",
     "texte_orig": "Now[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][U+000F][SP]Then[SP]could\nthis[SP]be...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Quand j'y pense, les histoires de fantomes \nsont comme des rumeurs...[1205][U+000F] Alors, \nse pourrait-il que...?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 178,
     "nom_orig": "Lisa",
     "texte_orig": "Hey,[SP][U+1113]...[1205][001E][SP]Maybe[SP]Hanako[SP]really[SP]will\nshow[SP]up[SP]if[SP]this[SP]rumor[SP]spreads[SP]wide[SP]enough.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Hé,[U+1113]...[1205][001E] P'tet que Hanako se montrera \nvraiment si cette rumeur se répand assez."
   },
   {
     "id": 6,
@@ -66,7 +66,7 @@
     "data_size": 166,
     "nom_orig": "Lisa",
     "texte_orig": "Let's[SP]go[SP]to[SP]the[SP]Kuzunoha[SP]Detective[SP]Agency\nand[SP]have[SP]them[SP]spread[SP]the[SP]rumor!",
-    "nom_fr": "",
+    "nom_fr": "Lisa",
     "texte_fr": ""
   },
   {
@@ -76,7 +76,7 @@
     "data_size": 180,
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP][U+1113]...[1205][001E][SP]Maybe[SP]Hanako[SP]really[SP]will\nshow[SP]up[SP]if[SP]this[SP]rumor[SP]spreads[SP]wide[SP]enough.",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": ""
   },
   {
@@ -86,7 +86,7 @@
     "data_size": 168,
     "nom_orig": "Ginko",
     "texte_orig": "Let's[SP]go[SP]to[SP]the[SP]Kuzunoha[SP]Detective[SP]Agency\nand[SP]have[SP]them[SP]spread[SP]the[SP]rumor!",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": ""
   },
   {
@@ -96,7 +96,7 @@
     "data_size": 178,
     "nom_orig": "Lisa",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][U+000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
-    "nom_fr": "",
+    "nom_fr": "Lisa",
     "texte_fr": ""
   },
   {
@@ -106,7 +106,7 @@
     "data_size": 180,
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][U+000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": ""
   },
   {
@@ -116,7 +116,7 @@
     "data_size": 218,
     "nom_orig": "Lisa",
     "texte_orig": "Hey,[SP]Chinyan.[SP]There[SP]might[SP]be[SP]other[SP]demons\nbesides[SP]Hanako[SP]who[SP]appear[SP]if[SP]we[SP]spread[SP]rumors\nabout[SP]them!",
-    "nom_fr": "",
+    "nom_fr": "Lisa",
     "texte_fr": ""
   },
   {
@@ -126,7 +126,7 @@
     "data_size": 220,
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]Chinyan.[SP]There[SP]might[SP]be[SP]other[SP]demons\nbesides[SP]Hanako[SP]who[SP]appear[SP]if[SP]we[SP]spread[SP]rumors\nabout[SP]them!",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": ""
   },
   {
@@ -136,7 +136,7 @@
     "data_size": 278,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]remember[SP]the[SP]rumors[SP]about[SP][1432][NULL][NULL][0014]Hanako[SP]of[SP]the\ntoilets[1432][NULL][NULL][0014][SP]from[SP]when[SP]I[SP]was[SP]a[SP]kid.[1205]([SP]If[SP]she[SP]really\nexists,[SP]that'd[SP]be[SP]a[SP]great[SP]scoop!",
-    "nom_fr": "",
+    "nom_fr": "Maya",
     "texte_fr": ""
   },
   {
@@ -146,7 +146,7 @@
     "data_size": 206,
     "nom_orig": "Maya",
     "texte_orig": "Demons[SP]that[SP]show[SP]up[SP]because[SP]of[SP]rumors...\nWhy[SP]don't[SP]we[SP]call[SP]them[SP][E4][NULL][NULL][U+0006]Rumor[SP]Demons[E4][NULL][NULL][0002][SP]for[SP]now?",
-    "nom_fr": "",
+    "nom_fr": "Maya",
     "texte_fr": ""
   },
   {
@@ -156,7 +156,7 @@
     "data_size": 208,
     "nom_orig": "Yukino",
     "texte_orig": "Hanako,[SP]huh?[1205][U+000F][SP]She's[SP]a[SP]tough[SP]nut[SP]to[SP]crack...[1205][U+000F]\nShe's[SP]resistant[SP]to[SP]fire[SP]and[SP]physical[SP]attacks.",
-    "nom_fr": "",
+    "nom_fr": "Yukino",
     "texte_fr": ""
   },
   {
@@ -166,7 +166,7 @@
     "data_size": 290,
     "nom_orig": "Yukino",
     "texte_orig": "Every[SP]city[SP]is[SP]full[SP]of[SP]rumors[SP]about[SP]ghosts,\ndemons,[SP]and[SP]other[SP]urban[SP]legends.[SP]I[SP]wouldn't[SP]be\nsurprised[SP]if[SP]there[SP]were[SP]others[SP]like[SP]Hanako.",
-    "nom_fr": "",
+    "nom_fr": "Yukino",
     "texte_fr": ""
   },
   {
@@ -176,7 +176,7 @@
     "data_size": 276,
     "nom_orig": "Noriko",
     "texte_orig": "I[SP]wonder[SP]what[SP]happened[SP]to[SP]today's[SP]club\nmeeting...[1205][001E][SP]I[SP]can't[SP]go[SP]home[SP]until[SP]it's[SP]over,\nbut[SP]I[SP]haven't[SP]heard[SP]from[SP]any[SP]of[SP]them[SP]yet.",
-    "nom_fr": "",
+    "nom_fr": "Noriko",
     "texte_fr": ""
   },
   {
@@ -186,7 +186,7 @@
     "data_size": 250,
     "nom_orig": "Noriko",
     "texte_orig": "I[SP]want[SP]to[SP]hurry[SP]and[SP]pick[SP]up[SP]the[SP]search[SP]for\nSister![1205][001E][SP]She[SP]hasn't[SP]given[SP]up[SP]on[SP]her[SP]dream[SP]yet!\nShe[SP]needs[SP]these[SP]shoes!",
-    "nom_fr": "",
+    "nom_fr": "Noriko",
     "texte_fr": ""
   },
   {
@@ -196,7 +196,7 @@
     "data_size": 286,
     "nom_orig": "Noriko",
     "texte_orig": "I[SP]guess[SP]the[SP]club[SP]won't[SP]be[SP]meeting[SP]today,[SP]but[SP]I\ncan't[SP]go[SP]home[SP]because[SP]the[SP]principal[SP]ordered\nus[SP]to[SP]clean[SP]up![SP]I[SP]have[SP]to[SP]find[SP]Sister...",
-    "nom_fr": "",
+    "nom_fr": "Noriko",
     "texte_fr": ""
   },
   {
@@ -206,7 +206,7 @@
     "data_size": 294,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Is[SP]that[SP]the[SP]Boss[SP]of[SP]Cuss[SP]High?[SP]He[SP]looks[SP]dumb\nenough[SP]to[SP]fit[SP]the[SP]bill.[SP]Don't[SP]stick[SP]too[SP]close\nto[SP]him,[SP]or[SP]his[SP]stupidity[SP]will[SP]rub[SP]off.",
-    "nom_fr": "",
+    "nom_fr": "Noriko",
     "texte_fr": ""
   },
   {
@@ -216,7 +216,7 @@
     "data_size": 228,
     "nom_orig": "Male[SP]student",
     "texte_orig": "[U+1112]-senpai,[SP]quit[SP]fooling[SP]around[SP]with[SP]the\nstupid[SP]Boss[SP]of[SP]Cuss[SP]High[SP]and[SP]help[SP]us[SP]destroy\nthe[SP]emblems!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -226,7 +226,7 @@
     "data_size": 274,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Thanks[SP]for[SP]your[SP]help.[SP]All[SP]the[SP]emblems[SP]in[SP]this\nclassroom[SP]should[SP]be[SP]destroyed.[SP]I[SP]hope[SP]that\nputs[SP]an[SP]end[SP]to[SP]this[SP]madness...",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -236,7 +236,7 @@
     "data_size": 296,
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][U+000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][U+000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -246,7 +246,7 @@
     "data_size": 210,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Leave[SP]the[SP]cleanup[SP]to[SP]us[SP]and[SP]go[SP]deal[SP]with\nthe[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge,\n[U+1112]-senpai.",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -256,7 +256,7 @@
     "data_size": 232,
     "nom_orig": "Ill[SP]male[SP]student",
     "texte_orig": "See?[SP]It[SP]was[SP]useless[SP]after[SP]all.[SP]I've[SP]been\ncursed[SP]now[SP]too.[SP]But[SP]I[SP]won't[SP]lose[SP]my[SP]cool\nover[SP]this...",
-    "nom_fr": "",
+    "nom_fr": "Lycéen malade",
     "texte_fr": ""
   },
   {
@@ -266,7 +266,7 @@
     "data_size": 264,
     "nom_orig": "Ill[SP]male[SP]student",
     "texte_orig": "Yep,[SP]you[SP]won't[SP]see[SP]me[SP]making[SP]a[SP]fuss![SP]I'm[SP]cool\nas[SP]a[SP]cucumber![SP]Clean[SP]up?[SP]Sure![SP]Litter[SP]on[SP]the\nground?[SP]No[SP]problem!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen malade",
     "texte_fr": ""
   },
   {
@@ -276,7 +276,7 @@
     "data_size": 250,
     "nom_orig": "Male[SP]student",
     "texte_orig": "The[SP]curse[SP]has[SP]been[SP]lifted[SP]thanks[SP]to[SP]the\nprincipal.[SP]Not[SP]that[SP]I[SP]was[SP]worried[SP]at[SP]all.\nI[SP]knew[SP]this[SP]would[SP]happen.",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -286,7 +286,7 @@
     "data_size": 290,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I-I[SP]saw[SP]her![SP]It[SP]was[SP]really[SP][E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002]![1205][001E][SP]I[SP]always\nheard[SP]rumors,[SP]but...[SP]They're[SP]true![SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
-    "nom_fr": "",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": ""
   },
   {
@@ -296,7 +296,7 @@
     "data_size": 308,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Please,[SP]Senpai![SP]Defeat[SP]Hanako[SP]and[SP]bring[SP]back\nproof[SP]she[SP]really[SP]exists,[SP]and[SP]I'll[SP]make[SP]sure\nto[SP]reward[SP]you[SP]with[SP]a[SP]little[SP]something!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": ""
   },
   {
@@ -306,7 +306,7 @@
     "data_size": 272,
     "nom_orig": "Male[SP]student",
     "texte_orig": "I-I[SP]saw[SP]her![SP]It[SP]was[SP]really[SP][E4][NULL][NULL][U+0006]Hanako[E4][NULL][NULL][0002]![1205][001E][SP]I[SP]always\nheard[SP]rumors,[SP]but...[SP]They're[SP]true![SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -316,7 +316,7 @@
     "data_size": 290,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Please,[SP]Senpai![SP]Defeat[SP]Hanako[SP]and[SP]bring[SP]back\nproof[SP]she[SP]really[SP]exists,[SP]and[SP]I'll[SP]make[SP]sure\nto[SP]reward[SP]you[SP]with[SP]a[SP]little[SP]something!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -326,7 +326,7 @@
     "data_size": 278,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Hanako[SP]should[SP]still[SP]be[SP]here[SP]in[SP]Sevens.\nYou're[SP]my[SP]only[SP]hope,[SP]Senpai![SP]I'm[SP]counting\non[SP]you[SP]to[SP]bring[SP]back[SP]the[SP]proof!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": ""
   },
   {
@@ -336,7 +336,7 @@
     "data_size": 260,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Hanako[SP]should[SP]still[SP]be[SP]here[SP]in[SP]Sevens.\nYou're[SP]my[SP]only[SP]hope,[SP]Senpai![SP]I'm[SP]counting\non[SP]you[SP]to[SP]bring[SP]back[SP]the[SP]proof!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -346,7 +346,7 @@
     "data_size": 326,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][U+0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": ""
   },
   {
@@ -356,7 +356,7 @@
     "data_size": 154,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": ""
   },
   {
@@ -366,7 +366,7 @@
     "data_size": 308,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][U+0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -376,7 +376,7 @@
     "data_size": 136,
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -386,7 +386,7 @@
     "data_size": 224,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Arrrgh![SP]No[SP]one[SP]believes[SP]me[SP]even[SP]when[SP]I[SP]show\nthem[SP]Hanako's[SP]nametag![SP]Tell[SP]them,[SP]Senpai!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": ""
   },
   {
@@ -396,7 +396,7 @@
     "data_size": 206,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Arrrgh![SP]No[SP]one[SP]believes[SP]me[SP]even[SP]when[SP]I[SP]show\nthem[SP]Hanako's[SP]nametag![SP]Tell[SP]them,[SP]Senpai!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -406,7 +406,7 @@
     "data_size": 242,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Even[SP]if[SP]the[SP]emblem[SP]curse[SP]is[SP]lifted,[SP]Hanako\nshould[SP]still[SP]exist![SP]Arrrrgh...[SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -416,7 +416,7 @@
     "data_size": 284,
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "That[SP]guy[SP]cracks[SP]me[SP]up.[SP]Get[SP]this--he[SP]says[SP]he\nsaw[SP]Hanako[SP]in[SP]the[SP]bathroom![SP]C'mon,[SP]we're[SP]not\ngrade-schoolers[SP]anymore.",
-    "nom_fr": "",
+    "nom_fr": "Lycéenne blessée",
     "texte_fr": ""
   },
   {
@@ -426,7 +426,7 @@
     "data_size": 266,
     "nom_orig": "Female[SP]student",
     "texte_orig": "That[SP]guy[SP]cracks[SP]me[SP]up.[SP]Get[SP]this--he[SP]says[SP]he\nsaw[SP]Hanako[SP]in[SP]the[SP]bathroom![SP]C'mon,[SP]we're[SP]not\ngrade-schoolers[SP]anymore.",
-    "nom_fr": "",
+    "nom_fr": "Lycéenne",
     "texte_fr": ""
   },
   {
@@ -436,7 +436,7 @@
     "data_size": 330,
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
-    "nom_fr": "",
+    "nom_fr": "Lycéenne blessée",
     "texte_fr": ""
   },
   {
@@ -446,7 +446,7 @@
     "data_size": 312,
     "nom_orig": "Female[SP]student",
     "texte_orig": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
-    "nom_fr": "",
+    "nom_fr": "Lycéenne",
     "texte_fr": ""
   },
   {
@@ -456,7 +456,7 @@
     "data_size": 274,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Thanks[SP]for[SP]your[SP]help.[SP]All[SP]the[SP]emblems[SP]in[SP]this\nclassroom[SP]should[SP]be[SP]destroyed.[SP]I[SP]hope[SP]that\nputs[SP]an[SP]end[SP]to[SP]this[SP]madness...",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -466,7 +466,7 @@
     "data_size": 296,
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][U+000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][U+000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -476,7 +476,7 @@
     "data_size": 210,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Leave[SP]the[SP]cleanup[SP]to[SP]us[SP]and[SP]go[SP]deal[SP]with\nthe[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge,\n[U+1112]-senpai.",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -486,7 +486,7 @@
     "data_size": 430,
     "nom_orig": "Male[SP]student",
     "texte_orig": "You[SP]destroyed[SP]that[SP]one,[SP][U+1112]-senpai.\nNow[SP]go[SP]and[SP]take[SP]care[SP]of[SP]the[SP]others![E1][E2][E3]>[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n[E1][E2][E3]>[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.",
-    "nom_fr": "",
+    "nom_fr": "Lycéen",
     "texte_fr": ""
   },
   {
@@ -496,7 +496,7 @@
     "data_size": 232,
     "nom_orig": "Noriko",
     "texte_orig": "I'm[SP]about[SP]to[SP]go[SP]look[SP]for[SP]Sister.[1205][001E][SP]If[SP]you[SP]find\nher,[SP]let[SP]me[SP]know[SP]at[SP]once![SP]Alright[SP]then,[SP]please\nexcuse[SP]me!",
-    "nom_fr": "",
+    "nom_fr": "Noriko",
     "texte_fr": ""
   }
 ]
