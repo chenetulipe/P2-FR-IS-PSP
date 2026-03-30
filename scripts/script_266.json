@@ -6,8 +6,8 @@
     "data_size": 260,
     "nom_orig": "???",
     "texte_orig": "Hm?[SP][U+1112]-senpai...[1205][001E][SP]Have[SP]you[SP]seen[SP]Lisa?[1205][001E]\nShe[SP]was[SP]looking[SP]for[SP]you[SP]with[SP]a[SP]letter[SP]in\nher[SP]hand.[1205][001E][SP]You[SP]get[SP]the[SP]picture,[SP]I[SP]hope?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Hm ?[SP][U+1112]-senpai...[1205][001E]Est-ce[SP]que[SP]tu[SP]as[SP]vu[SP]Lisa ?[1205][001E]Elle[SP]est[SP]partie[SP]à[SP]ta[SP]recherche[SP]avec[SP]une[SP]lettre[SP]en[SP]main.[1205][001E][SP]Tu[SP]comprends[SP]ce[SP]que[SP]ça[SP]veut[SP]dire,[SP]j'espère ?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 290,
     "nom_orig": "Mami",
     "texte_orig": "So[SP]don't[SP]be[SP]so[SP]harsh[SP]on[SP]Lisa.[SP]She's[SP]really[SP]into\nyou,[SP]but[SP]you're[SP]so[SP]cold[SP]around[SP]her.[SP]If[SP]you[SP]make\nher[SP]cry,[SP]I'll[SP]be[SP]forced[SP]to[SP]take[SP]action.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mami",
+    "texte_fr": "Donc[SP]ne[SP]soit[SP]pas[SP]si[SP]dur[SP]envers[SP]Lisa.[SP]Elle[SP]est[SP]vraiment[SP]à[SP]fond[SP]sur\ntoi,[SP]mais[SP]t'es[SP]tellement[SP]froid[SP]quand[SP]t'es[SP]avec[SP]elle.[SP]Si[SP]tu[SP]finis[SP]par[SP]la[SP]faire[SP]pleurer,[SP]je[SP]serai[SP]obligé[SP]de[SP]m'en[SP]prendr[SP] à[SP]toi"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 180,
     "nom_orig": "???",
     "texte_orig": "Sheba's[SP]right![SP]If[SP]you[SP]make[SP]Lisa[SP]cry,[SP]I'll[SP]cry\ntoo![SP]We're[SP]best[SP]friends,[SP]after[SP]all!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Sheba[SP]a[SP]raison![SP]Si[SP]tu[SP]fais[SP]pleurer[SP]Lisa,[SP]je[SP]finirais[SP]en[SP]larmes[SP]aussi![SP]On[SP]est[SP]meilleures[SP]amies[SP]après[SP]tout"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 224,
     "nom_orig": "Mami",
     "texte_orig": "Lisa[SP]seemed[SP]pretty[SP]anxious,[SP]though.[1205][U+000F][SP]Hmm...[1205][U+000F]\nCould[SP]this[SP]be[SP]it?[1205][U+000F][SP]Ahaha...[SP]You'll[SP]say[SP]yes,\nwon't[SP]you?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mami",
+    "texte_fr": "Lisa avait l'air quand même plutôt stressée.[1205][U+000F]Hmmm...[1205][U+000F]\nEst ce que cela pourrait être par rapport à ça ?[1205][U+000F]Ahaha... Tu diras oui dans tous les cas n'est ce pas ?"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "???",
     "texte_orig": "Hm?[SP][U+1112]-senpai...[1205][001E][SP]Have[SP]you[SP]seen[SP]Lisa?[1205][001E]\nShe[SP]was[SP]looking[SP]for[SP]you[SP]with[SP]a[SP]letter[SP]in\nher[SP]hand.[1205][001E][SP]You[SP]get[SP]the[SP]picture,[SP]I[SP]hope?",
     "nom_fr": "",
-    "texte_fr": ""
+    "texte_fr": "Hm ?[SP][U+1112]-senpai...[1205][001E]Est-ce[SP]que[SP]tu[SP]as[SP]vu[SP]Lisa ?[1205][001E]Elle[SP]est[SP]partie[SP]à[SP]ta[SP]recherche[SP]avec[SP]une[SP]lettre[SP]en[SP]main.[1205][001E][SP]Tu[SP]comprends[SP]ce[SP]que[SP]ça[SP]veut[SP]dire,[SP]j'espère ?"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Mami",
     "texte_orig": "So[SP]don't[SP]be[SP]so[SP]harsh[SP]on[SP]Lisa.[SP]She's[SP]really[SP]into\nyou,[SP]but[SP]you're[SP]so[SP]cold[SP]around[SP]her.[SP]If[SP]you[SP]make\nher[SP]cry,[SP]I'll[SP]be[SP]forced[SP]to[SP]take[SP]action.",
     "nom_fr": "",
-    "texte_fr": ""
+    "texte_fr": "Donc[SP]ne[SP]soit[SP]pas[SP]si[SP]dur[SP]envers[SP]Lisa.[SP]Elle[SP]est[SP]vraiment[SP]à[SP]fond[SP]sur\ntoi,[SP]mais[SP]t'es[SP]tellement[SP]froid[SP]quand[SP]t'es[SP]avec[SP]elle.[SP]Si[SP]tu[SP]finis[SP]par[SP]la[SP]faire[SP]pleurer,[SP]je[SP]serai[SP]obligé[SP]de[SP]m'en[SP]prendr[SP] à[SP]toi"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "???",
     "texte_orig": "Sheba's[SP]right![SP]If[SP]you[SP]make[SP]Lisa[SP]cry,[SP]I'll[SP]cry\ntoo![SP]We're[SP]best[SP]friends,[SP]after[SP]all!",
     "nom_fr": "",
-    "texte_fr": ""
+    "texte_fr": "Sheba[SP]a[SP]raison![SP]Si[SP]tu[SP]fais[SP]pleurer[SP]Lisa,[SP]je[SP]finirais[SP]en[SP]larmes[SP]aussi![SP]On[SP]est[SP]meilleures[SP]amies[SP]après[SP]tout"
   },
   {
     "id": 7,
