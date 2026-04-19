@@ -487,7 +487,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]the[SP]foreseeable[SP]future,[SP]your[SP]positive\noutlook[SP]will[SP]give[SP]rise[SP]to[SP]new[SP]understandings,\ncausing[SP]all[SP]negotiations[SP]to[SP]proceed[SP]smoothly.",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Bientôt, ta vision positive apportera de\nnouvelles compréhensions, assurant le bon déroulement de\ntoutes les négociations."
+    "texte_fr": "Ta vision positive apportera de nouvelles\n compréhensions, assurant le bon déroulement de\ntoutes les négociations."
   },
   {
     "id": 49,
@@ -777,7 +777,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What?[SP]The[SP]lucky[SP]cat[SP]statue[SP]at[SP]the[SP]Kuzunoha\nDetective[SP]Agency[SP]talks?[SP]But[SP]isn't[SP]it[SP]a[SP]mere\nporcelain[SP]figure?[SP]Most[SP]peculiar...",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Quoi? La statue de chat porte-bohnneur à l'agence détective\nKuzunoha parle? Mais n'est-ce pas une simple statue en\nporcelaine? Très étrange..."
+    "texte_fr": "Quoi? La statue de chat à l'agence\nKuzunoha parle? Mais n'est-ce pas une simple statue en\n? Très étrange..."
   },
   {
     "id": 78,
@@ -817,7 +817,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "They[SP]tell[SP]of[SP]a[SP][E4][NULL][NULL][U+0006]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[E4][NULL][NULL][0002],\nwhose[SP]owner[SP]hides[SP]it[SP]away[SP]to[SP][E4][NULL][NULL][U+0006]charge[SP]exorbitant\nprices[E4][NULL][NULL][0002].[1205][U+000A][SP]What[SP]a[SP]despicable[SP]villain...",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "On dit qu'une [E4][NULL][NULL][U+0006]arme légendaire au Château du Temps[E4][NULL][NULL][0002],\nest cachée pour être vendue [E4][NULL][NULL][U+0006] à prix exorbitant\n[E4][NULL][NULL][0002].[1205][U+000A]Quel homme ignoble..."
+    "texte_fr": "On dit qu'une [E4][NULL][NULL][U+0006]arme légendaire au Château du Temps[E4][NULL][NULL][0002],\nest cachée pour être vendue [E4][NULL][NULL][U+0006] à prix cher\n[E4][NULL][NULL][0002].[1205][U+000A]Quel homme ignoble..."
   },
   {
     "id": 82,
@@ -1107,6 +1107,6 @@
     "nom_orig": "Spiteful[SP]man",
     "texte_orig": "I[SP]told[SP]him[SP]no[SP]one[SP]knows[SP]what[SP]it's[SP]actually\nabout,[SP]it's[SP]just[SP]really[SP]creepy.[1205][U+000F][SP]It's[SP]scarier\nif[SP]you[SP]put[SP]it[SP]that[SP]way,[SP]right?",
     "nom_fr": "Homme malveillant",
-    "texte_fr": "Je lui ai dit que personne ne sait ce que c'est,\nca fait juste flipper.[1205][U+000F] Ca fait encore plus peur\ndit comme ca, non?"
+    "texte_fr": "Je lui ai dit que personne ne sait ce que c'est,\nc'est juste flipper.[1205][U+000F] Ca fait encore plus peur\ndit comme ca, non?"
   }
 ]
