@@ -45,7 +45,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "You[SP]maintain[SP]your[SP]own[SP]bike,[SP]right,\n[1113]?[SP]Looks[SP]like[SP]the[SP]rumors[SP]were[SP]true\nabout[SP]you[SP]being[SP]good[SP]with[SP]machines.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Tu entretiens ta propre moto, [1113]?\nOn dirait que les rumeurs étaient vraies[1205][U+000F]\nsur tes talents avec les machines."
+    "texte_fr": "Tu entretiens ta propre moto, [1113]?\nOn dirait que les rumeurs étaient vraies\nsur tes talents avec les machines."
   },
   {
     "id": 3,
@@ -61,6 +61,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "[1113]-senpai!?[SP]This[SP]is[SP]so[SP]sudden...[1205][001E]\nI'm[SP]inexperienced...[SP]My[SP]heart's[SP]not\nready...[1205][001E][SP]But[SP]maybe[SP]for[SP]you,[SP]I[SP]could...!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "[1113]-senpai!? C'est si soudain... Je n'ai\npas l'habitude... Mon cœur s'emballe... Mais\navec toi, je [1205][U+000F] pourrais essayer!"
+    "texte_fr": "[1113]-senpai!? C'est si soudain... Je n'ai\npas l'habitude... Mon\ncœur s'emballe... Mais\navec toi, je  pourrais essayer!"
   }
 ]

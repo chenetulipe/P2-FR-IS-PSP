@@ -44,6 +44,7 @@
 | **Last Batallion** | Bataillon | Raccourci assumé en raison des contraintes mémoires du moteur. |
 | **In Lak'ech** | In Lak'ech | Terminologie d'origine inca conservée telle quelle. |
 | **Mr. Bunbun** | M. Lapinou | |
+| **Persona user** | Manieur de Persona | Obligatoire, ne jamais utiliser "Utilisateur de Persona". |
 
 <br/>
 

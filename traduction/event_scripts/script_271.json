@@ -13,7 +13,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Yo,[SP][1113]![SP]I[SP]heard[SP]a[SP]rumor[SP]that[SP]Coolest[SP]is\nhere[SP]to[SP]interview[SP]us.[SP]Is[SP]that[SP]true?[SP]Maybe\nthey[SP]just[SP]wanna[SP]talk[SP]to[SP]you.",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Yo, [1113]! J'ai entendu dire que Coolest\nest là pour nous interviewer. Peut-être\nqu'ils sont juste là[1205][U+000F] pour te parler."
+    "texte_fr": "Yo, [1113]! J'ai entendu dire que Coolest\nest là pour nous interviewer. Peut-être\nqu'ils sont juste là pour te parler."
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "After[SP]all,[SP]you're[SP]popular[SP]with[SP]girls[SP]at[SP]other\nschools,[SP]even.[SP]Better[SP]look[SP]out[SP]for[SP]jealous\nguys,[SP]heheh![SP]Oh[SP]wait,[SP]you're[SP]a[SP]good[SP]fighter.",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "T'es populaire avec les filles même dans\nd'autres lycées. Fait gaffe aux mecs\njaloux, heh! [1205][U+000F] Oh attends, tu te bats bien."
+    "texte_fr": "T'es populaire avec les filles même dans\nd'autres lycées. Fait gaffe aux mecs\njaloux, heh!  Oh attends, tu te bats bien."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "What[SP]exactly[SP]happened[SP]here!?[SP]I'm[SP]all[SP]stressed\nout[SP]because[SP]of[SP]the[SP]curse,[SP]but[SP]look[SP]at[SP]Yoko!\nYou[SP]remember,[SP]the[SP]girl[SP]you[SP]rejected?",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Il s'est passé quoi ici!? Je suis stressée à\ncause de la malédiction, mais regarde [1205][U+000F] Yoko!\nTu te souviens, celle que t'as rejeté?"
+    "texte_fr": "Il s'est passé quoi\nici!? Je suis stressée à\ncause de la malédiction,\nmais regarde  Yoko!\nTu te souviens, celle que t'as rejeté?"
   },
   {
     "id": 3,
@@ -109,7 +109,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Huh?[SP]You're[SP]looking[SP]for[SP]Ms.[SP]Saeko?[SP]But[SP]she\nwas[SP]just[SP]walking[SP]down[SP]that[SP]hall[SP]a[SP]second[SP]ago.\nYou[SP]didn't[SP]see[SP]her?",
     "nom_fr": "Lycéen",
-    "texte_fr": "Huh? Tu cherches Mme Saeko? Mais elle\ndescendait dans le hall il y a même\npas une seconde.[1205][U+000F] Tu l'as pas vu?"
+    "texte_fr": "Huh? Tu cherches Mme Saeko? Mais elle\ndescendait dans le hall il y a même\npas une seconde. Tu l'as pas vu?"
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "[1113]-kun,[SP]Ms.[SP]Saeko[SP]was[SP]looking[SP]for[SP]you.\nShe[SP]seemed[SP]annoyed[SP]at[SP]not[SP]being[SP]able[SP]to[SP]find\nyou...[SP]I[SP]think[SP]she[SP]went[SP]to[SP]the[SP]courtyard.",
     "nom_fr": "Lycéen",
-    "texte_fr": "[1113]-kun, Mme Saeko te cherchait. Elle\navait l'air soûlée de pas pouvoir te\ntrouver... Je crois qu'elle est allée dans[1205][U+000F] la[1101]cour."
+    "texte_fr": "[1113]-kun, Mme Saeko te cherchait. Elle\navait l'air soûlée de pas pouvoir te\ntrouver... Je crois qu'elle\nest allée dans la[1101]cour."
   },
   {
     "id": 8,
@@ -157,7 +157,7 @@
     "nom_orig": "Yoko",
     "texte_orig": "Hohoho...[1205][001E][SP]Well?[SP]Aren't[SP]I[SP]gorgeous?[SP]There's[SP]no\nway[SP]I'm[SP]not[SP]chosen[SP]as[SP]Miss[SP]Sevens[SP]this[SP]year.\nI[SP]won't[SP]let[SP]that[SP]foreign[SP]bitch[SP]Lisa[SP]beat[SP]me!",
     "nom_fr": "Yoko",
-    "texte_fr": "Hoho...[1205][001E] Je suis pas magnifique? Aucune\nchance que cette putain d'étrangère de\nLisa me[1205][U+000F] batte au concours Miss Seven!"
+    "texte_fr": "Hoho...[1205][001E] Je suis pas magnifique? Aucune\nchance que cette putain d'étrangère de\nLisa me batte au concours Miss Seven!"
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Hey[SP]there,[SP][1113].[SP]You[SP]know[SP]that[SP]blonde[SP]girl\nLisa[SP]in[SP]2-C[SP]who[SP]follows[SP]you[SP]around?[SP]She[SP]was\nlooking[SP]for[SP]you.[SP]Hey,[SP]is[SP]she[SP]really[SP]American?",
     "nom_fr": "Lycéen",
-    "texte_fr": "Hey toi, [1113]. Tu sais, cette Lisa blonde\nen 2-C qui te suit partout? Elle te cherchait.\nHey, elle est vraiment [1205][U+000F] américaine?"
+    "texte_fr": "Hey toi, [1113]. Tu sais, cette Lisa blonde\nen 2-C qui te\nsuit partout? Elle te cherchait.\nHey, elle est vraiment  américaine?"
   },
   {
     "id": 12,
@@ -205,7 +205,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "She[SP]yells[SP]random[SP]Chinese[SP]and[SP]she's[SP]kinda[SP]weird,\nbut[SP]man,[SP]it'd[SP]be[SP]awesome[SP]having[SP]a[SP]real[SP]blonde[SP]as\na[SP]girlfriend.[SP]I'd[SP]go[SP]after[SP]her[SP]if[SP]I[SP]were[SP]you.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Elle crie des mots chinois et elle est\nbizarre, mais ça serait trop bien\nd'avoir une [1205][U+000F] copine vraiment blonde.[1101]Je tenterais ma chance si j'étais toi."
+    "texte_fr": "Elle crie des mots chinois et elle est\nbizarre, mais ça serait trop bien\nd'avoir une  copine vraiment blonde.[1101]Je\ntenterais ma chance si j'étais toi."
   },
   {
     "id": 13,
@@ -221,6 +221,6 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "You[SP]remember[SP]that[SP]girl[SP]Anna[SP]Yoshizaka[SP]who\ndropped[SP]out?[SP]I[SP]saw[SP]her[SP]near[SP]a[SP]club[SP]the[SP]other\nday.[SP]She[SP]was[SP]with[SP]a[SP]baaaaaaaad[SP]crowd.",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Tu te souviens d'Anna Yoshikaza? Je l'ai vue\nprès d'un club, avec de mauvaises personnes."
+    "texte_fr": "Tu te souviens d'Anna\nYoshikaza? Je l'ai vue\nprès d'un club,\navec de mauvaises personnes."
   }
 ]

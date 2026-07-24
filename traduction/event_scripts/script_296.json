@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Mmm,[SP]that's[SP]some[SP]sweet[SP]piano...[1205][U+000F][SP]I[SP]should[SP]invite\nthis[SP]Nameless[SP]dude[SP]to[SP]join[SP]Gas[SP]Chamber.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mmm, joli piano...[1205][U+000F] Je devrais inviter\nce Nameless dans Gas Chamber."
+    "texte_fr": "Mmm, joli piano... Je devrais inviter\nce Nameless dans Gas Chamber."
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]guys[SP]at[SP]my[SP]school[SP]spread[SP]the[SP]rumor[SP]about\nthe[SP]disease...[1205][U+000F][SP]N-No,[SP]no[SP]way![SP]There's[SP]no[SP]way\nthey'd[SP]pull[SP]something[SP]that[SP]low!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Les gars de mon école ont lancé la rumeur\nsur la maladie...[1205][U+000F] N-Non, impossible! Ils\nne tomberaient pas si bas!"
+    "texte_fr": "Les gars de mon école ont lancé la rumeur\nsur la maladie... N-Non, impossible! Ils\nne tomberaient pas si bas!"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]new[SP]student[SP]council[SP]president's[SP]this[SP]guy\nnamed[SP]Yasuo...[1205][U+000A][SP]He[SP]always[SP]had[SP]these[SP]big[SP]schemes.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le nouveau président des élèves est un certain\nYasuo...[1205][U+000A] Il a toujours eu de grands projets."
+    "texte_fr": "Le nouveau président des\nélèves est un certain\nYasuo...[1205][U+000A] Il a toujours\neu de grands projets."
   },
   {
     "id": 6,
@@ -109,7 +109,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]why[SP]the[SP]other[SP]guys[SP]at[SP]school[SP]hated[SP]him\ntoo.[SP]I'm[SP]surprised[SP]he[SP]snagged[SP]enough[SP]votes[SP]to\nbe[SP]president.",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est pour ça que les autres le\ndétestaient. Étonnant qu'il ait eu\nassez de votes[1205][U+000F] pour être président."
+    "texte_fr": "C'est pour ça que les autres le\ndétestaient. Étonnant qu'il ait eu\nassez de votes pour être président."
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]was[SP]just[SP]gonna[SP]do[SP]what[SP]I[SP]did[SP]with[SP]Sugimoto...[1205][U+000F]\nA[SP]couple[SP]of[SP]punches[SP]would've[SP]settled[SP]it.[1205][U+000F][SP]But...[1205][U+000F]\nI[SP]can't[SP]believe[SP]he's[SP]dead...",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'allais faire comme avec Sugimoto...[1205][U+000F]\nQuelques poings auraient suffi.[1205][U+000F] Mais...[1205][U+000F] Je\nn'arrive pas à croire qu'il soit mort..."
+    "texte_fr": "J'allais faire comme avec Sugimoto...\nQuelques poings auraient suffi. Mais... Je\nn'arrive pas à croire qu'il soit mort..."
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "There's[SP]no[SP]turning[SP]back[SP]now...[1205][U+000F][SP]We[SP]can't[SP]do[SP]much\nif[SP]we[SP]keep[SP]looking[SP]back.[SP]Always[SP]move[SP]forward,\neven[SP]when[SP]facing[SP]death![SP]That's[SP]how[SP]a[SP]man[SP]acts!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pas de retour en arrière...[1205][U+000F] Inutile de\nregarder le passé. Toujours avancer, même\nface à la mort! C'est ça, être un homme!"
+    "texte_fr": "Pas de retour en arrière... Inutile de\nregarder le passé. Toujours avancer, même\nface à la mort! C'est ça, être un homme!"
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]the[SP]hell[SP]is[SP]Ginko[SP]talking[SP]about!?[SP]Those\nMasked[SP]Circle[SP]guys[SP]killed[SP]Yasuo![SP]How[SP]can[SP]she[SP]be\nso[SP]sure[SP]they[SP]won't[SP]do[SP]the[SP]same[SP]to[SP]those[SP]two!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "De quoi parle Ginko!? Le Cercle masqué a tué\nYasuo! Comment peut-elle être si sûre qu'ils\nne feront pas pareil à ces [1205][U+000F] deux-là!?"
+    "texte_fr": "De quoi parle Ginko!?\nLe Cercle masqué a tué\nYasuo! Comment peut-elle\nêtre si sûre qu'ils\nne feront pas pareil à ces  deux-là!?"
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Should[SP]we[SP]just[SP]wait[SP]until[SP]the[SP]show[SP]starts?\nShe'll[SP]be[SP]on[SP]stage[SP]then,[SP]so[SP]we[SP]can[SP]just[SP]catch\nher[SP]there.[SP]No[SP]sweat.",
     "nom_fr": "Eikichi",
-    "texte_fr": "On attend le début du show? Elle sera sur\nscène, on pourra la choper là. Sans problème."
+    "texte_fr": "On attend le début du show? Elle sera sur\nscène, on pourra la\nchoper là. Sans problème."
   },
   {
     "id": 12,
@@ -221,7 +221,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What's[SP]with[SP]Ginko?[SP]She[SP]doesn't[SP]usually[SP]fidget\nquite[SP]that[SP]much...[1205][U+000F][SP]Does[SP]she[SP]need[SP]to[SP]use[SP]the\nbathroom?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Qu'a Ginko? Elle ne remue pas autant\nd'habitude...[1205][U+000F] Elle a besoin d'aller aux\ntoilettes?"
+    "texte_fr": "Qu'a Ginko? Elle ne remue pas autant\nd'habitude... Elle a besoin d'aller aux\ntoilettes?"
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "There[SP]were[SP]still[SP]people[SP]in[SP]Smile[SP]Hirasaka...[1205][U+000F]\nHow[SP]can[SP]that[SP]King[SP]Leo[SP]asshole[SP]still[SP]say[SP]this\nis[SP]some[SP]kinda[SP]game!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Il y avait encore des gens à Smile\nHirasaka...[1205][U+000F] Comment ce connard de Roi\nLion peut dire que c'est un jeu!?"
+    "texte_fr": "Il y avait encore des gens à Smile\nHirasaka... Comment ce connard de Roi\nLion peut dire que c'est un jeu!?"
   },
   {
     "id": 15,
@@ -253,7 +253,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]think[SP]Maya-san's[SP]at[SP]the[SP]end[SP]of[SP]her[SP]rope...\nOkay![SP]A[SP]knight's[SP]duty[SP]is[SP]to[SP]protect[SP]the[SP]ladies.\nWe[SP]gotta[SP]make[SP]sure[SP]to[SP]keep[SP]her[SP]safe!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Maya est à bout de nerfs... OK! Le\ndevoir d'un chevalier est de protéger\nles dames. Gardons-la en sécurité[1205][U+000F] !"
+    "texte_fr": "Maya est à bout de nerfs... OK! Le\ndevoir d'un chevalier est de protéger\nles dames. Gardons-la en sécurité !"
   },
   {
     "id": 16,
@@ -269,7 +269,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Mankind's[SP]responsibility...[1205][U+000F][SP]is[SP]to[SP]be\nannihilated...?[1205][U+000F][SP]If[SP]that[SP]wasn't[SP]a[SP]dream,\nthen[SP]how[SP]am[SP]I[SP]gonna[SP]take[SP]responsibility...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "La responsabilité de l'homme...[1205][U+000F] est\nd'être anéanti...?[1205][U+000F] Si ce n'était\npas un rêve, comment l'assumer...?"
+    "texte_fr": "La responsabilité de l'homme... est\nd'être anéanti...? Si ce n'était\npas un rêve, comment l'assumer...?"
   },
   {
     "id": 17,
@@ -285,7 +285,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Jun[SP]must've[SP]remembered[SP]about[SP]the[SP]Masked[SP]Circle\ngame[SP]too...[SP]Why[SP]else[SP]would[SP]he[SP]have[SP]named[SP]his\norganization[SP]that?[SP]If[SP]only[SP]we[SP]noticed[SP]sooner!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Jun a dû se souvenir du jeu du Cercle\nmasqué... Sinon pourquoi nommer son\ngroupe ainsi? Si seulement on [1205][U+000F] avait su!"
+    "texte_fr": "Jun a dû se souvenir du jeu du Cercle\nmasqué... Sinon pourquoi nommer son\ngroupe ainsi? Si seulement on  avait su!"
   },
   {
     "id": 18,
@@ -391,7 +391,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Ooh![1205][U+000A][SP]Really?[1205][U+000F][SP]Perfect![1205][U+000F][SP]Then[SP][1114][SP]will[SP]be\nour[SP]guitarist!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ooh![1205][U+000A] Vrai?[1205][U+000F] Super![1205][U+000F] [1114] sera notre guitariste!"
+    "texte_fr": "Ooh![1205][U+000A] Vrai? Super! [1114] sera notre guitariste!"
   },
   {
     "id": 24,
@@ -407,7 +407,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A-All[SP]right...[1205][U+000F][SP]You[SP]were[SP]my[SP]last[SP]hope...\nBut[SP]oh[SP]well.",
     "nom_fr": "Eikichi",
-    "texte_fr": "O-OK...[1205][U+000F] Tu étais mon\ndernier espoir... Mais bon."
+    "texte_fr": "O-OK... Tu étais mon\ndernier espoir... Mais bon."
   },
   {
     "id": 25,
@@ -423,7 +423,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Jun's[SP]keyboards[SP]and[SP][1114]'s[SP]guitar![1205][U+000F][SP]Add[SP]my\nsinging[SP]to[SP]the[SP]mix[SP]and[SP]it's[SP]an[SP]unbeatable\nteam![1205][U+000F][SP]Even[SP]the[SP]demons[SP]will[SP]be[SP]all[SP]over[SP]us.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Jun aux claviers et [1114] à la guitare![1205][U+000F]\nAjoute ma voix et on est imbattables![1205][U+000F]\nMême les démons nous adoreront."
+    "texte_fr": "Jun aux claviers et [1114] à la guitare!\nAjoute ma voix et on est imbattables!\nMême les démons nous adoreront."
   },
   {
     "id": 26,
@@ -439,7 +439,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "But[SP]it[SP]feels[SP]kinda[SP]lame[SP]to[SP]be[SP]all[SP]desperate\nabout[SP]it...[1205][U+000F][SP]So[SP]I'm[SP]counting[SP]on[SP]you,[SP][1114]!\nDon't[SP]slack[SP]on[SP]the[SP]practice!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mais c'est naze d'être désespéré\nà ce point...[1205][U+000F] Je compte sur toi,\n[1114]! Ne sèche pas les répètes!"
+    "texte_fr": "Mais c'est naze d'être désespéré\nà ce point... Je compte sur toi,\n[1114]! Ne sèche pas les répètes!"
   },
   {
     "id": 27,
@@ -487,7 +487,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Crying[SP]because[SP]you[SP]lost[SP]something[SP]you[SP]shouldn't\nhave[SP]let[SP]go...[1205][U+000F][SP]Going[SP]through[SP]that[SP]once[SP]is[SP]more\nthan[SP]enough...",
     "nom_fr": "Ginko",
-    "texte_fr": "Pleurer car tu as perdu ce que tu\nn'aurais pas dû lâcher...[1205][U+000F] Le vivre\nune fois suffit amplement..."
+    "texte_fr": "Pleurer car tu as perdu ce que tu\nn'aurais pas dû lâcher... Le vivre\nune fois suffit amplement..."
   },
   {
     "id": 30,
@@ -503,7 +503,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Maya-san[SP]says[SP]otherwise,[SP]but[SP]there's[SP]no[SP]way\nUndie[SP]Boss[SP]is[SP]that[SP]sensitive.[1205][U+000F][SP]She's[SP]just\noverthinking[SP]things.",
     "nom_fr": "Ginko",
-    "texte_fr": "Maya dit l'inverse, mais Boss des calbutes n'est\npas si sensible.[1205][U+000F] Elle se prend trop la tête."
+    "texte_fr": "Maya dit l'inverse, mais\nBoss des calbutes n'est\npas si sensible. Elle\nse prend trop la tête."
   },
   {
     "id": 31,
@@ -535,7 +535,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hmph,[SP]serves[SP]him[SP]right[SP]for[SP]spreading[SP]rumors\nabout[SP]the[SP]curse.[SP]I[SP]don't[SP]feel[SP]the[SP]least[SP]bit\nsorry[SP]for[SP]him.[1205][U+000F][SP]Do[SP]you,[SP][1113]?",
     "nom_fr": "Ginko",
-    "texte_fr": "Bien fait pour lui d'avoir répandu\nces rumeurs. Je n'ai aucune pitié\npour lui.[1205][U+000F] Et toi, [1113]?"
+    "texte_fr": "Bien fait pour lui d'avoir répandu\nces rumeurs. Je n'ai aucune pitié\npour lui. Et toi, [1113]?"
   },
   {
     "id": 33,
@@ -647,7 +647,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "No[SP]worries...[SP]No[SP]fears...[1205][U+000F][SP]Is[SP]there[SP]anyone\nlike[SP]that[SP]in[SP]the[SP]entire[SP]world?",
     "nom_fr": "Ginko",
-    "texte_fr": "Sans tracas ni peurs...[1205][U+000F] Y a-t-il\nquelqu'un comme ça dans le monde?"
+    "texte_fr": "Sans tracas ni peurs... Y a-t-il\nquelqu'un comme ça dans le monde?"
   },
   {
     "id": 40,
@@ -695,7 +695,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "This[SP]place[SP]never[SP]changes,[SP]right?[1205][U+000F][SP]Feels[SP]just\nlike[SP]us...[1205][U+000F][SP]I'm[SP]still[SP]the[SP]same[SP]deep[SP]down[SP]as[SP]I\nused[SP]to[SP]be.[1205][U+000F][SP]And[SP]I'll[SP]probably[SP]stay[SP]that[SP]way...",
     "nom_fr": "Ginko",
-    "texte_fr": "Cet endroit ne change pas.[1205][U+000F] C'est comme\nnous...[1205][U+000F] Au fond, je suis toujours la\nmême.[1205][U+000F] Et je le resterai probablement..."
+    "texte_fr": "Cet endroit ne change pas. C'est comme\nnous... Au fond, je suis toujours la\nmême. Et je le resterai probablement..."
   },
   {
     "id": 43,
@@ -711,7 +711,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What[SP]a[SP]wonderful[SP]song...[1205][001E][SP]It[SP]feels[SP]like[SP]it\ntouches[SP]my[SP]soul.[1205][001E][SP]Doesn't[SP]it[SP]make[SP]you[SP]incredibly\nat[SP]ease?",
     "nom_fr": "Maya",
-    "texte_fr": "Quelle belle chanson...[1205][001E] Elle touche mon âme.[1205][001E]\nNe te sens-tu pas incroyablement apaisé?"
+    "texte_fr": "Quelle belle chanson...[1205][001E]\nElle touche mon âme.[1205][001E]\nNe te sens-tu pas incroyablement apaisé?"
   },
   {
     "id": 44,
@@ -727,7 +727,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We're[SP]human[SP]because[SP]we[SP]dream,[SP]huh...?[1205][U+000F][SP]If[SP]what\nwe[SP]see[SP]when[SP]we're[SP]asleep[SP]are[SP]dreams,[SP]then[SP]to\nimagine[SP]your[SP]ideal[SP]self[SP]is[SP]to[SP]dream[SP]too...",
     "nom_fr": "Maya",
-    "texte_fr": "Nous sommes humains car nous rêvons...[1205][U+000F] Si\nce qu'on voit en dormant sont des rêves,[1205][U+000F]\nimaginer son soi idéal l'est aussi..."
+    "texte_fr": "Nous sommes humains car nous rêvons... Si\nce qu'on voit en dormant sont des rêves,\nimaginer son soi idéal l'est aussi..."
   },
   {
     "id": 45,
@@ -743,7 +743,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]think[SP]Eikichi-kun's[SP]starting[SP]to[SP]realize[SP]the\ncurse[SP]rumor[SP]began[SP]at[SP]Kasugayama[SP]High.[1205][U+000F][SP]He[SP]just\ndidn't[SP]want[SP]to[SP]admit[SP]it.",
     "nom_fr": "Maya",
-    "texte_fr": "Eikichi commence à réaliser que\nla rumeur vient de Kasugayama.[1205][U+000F] Il\nne voulait juste pas l'admettre."
+    "texte_fr": "Eikichi commence à réaliser que\nla rumeur vient de Kasugayama. Il\nne voulait juste pas l'admettre."
   },
   {
     "id": 46,
@@ -759,7 +759,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]reminds[SP]me,[SP]they[SP]talked[SP]up[SP]the[SP]Kasugayama\nstudent[SP]council[SP]president[SP]at[SP]the[SP]office,[SP]too...[1205][U+000F]\nHe's[SP]apparently[SP]unusually[SP]skilled[SP]in[SP]the[SP]role.",
     "nom_fr": "Maya",
-    "texte_fr": "D'ailleurs, ils ont parlé du président\nde Kasugayama à l'agence...[1205][U+000F] Il est\napparemment très doué dans ce rôle."
+    "texte_fr": "D'ailleurs, ils ont parlé du président\nde Kasugayama à l'agence... Il est\napparemment très doué dans ce rôle."
   },
   {
     "id": 47,
@@ -775,7 +775,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]know[SP]this[SP]must[SP]be[SP]hard[SP]on[SP]Eikichi-kun,[SP]too...[1205][U+000F]\nWho[SP]would[SP]ever[SP]have[SP]imagined[SP]that[SP]would[SP]happen?",
     "nom_fr": "Maya",
-    "texte_fr": "Ça doit être dur pour Eikichi aussi...[1205][U+000F]\nQui aurait imaginé que ça arriverait?"
+    "texte_fr": "Ça doit être dur pour Eikichi aussi...\nQui aurait imaginé que ça arriverait?"
   },
   {
     "id": 48,
@@ -807,7 +807,7 @@
     "nom_orig": "Maya",
     "texte_orig": "From[SP]the[SP]pattern[SP]so[SP]far,[SP]no[SP]good[SP]can[SP]come[SP]of\nthe[SP]Masked[SP]Circle[SP]gathering[SP]people[SP]in[SP]one\nplace...[1205][U+000F][SP]We[SP]might[SP]want[SP]to[SP]hurry.",
     "nom_fr": "Maya",
-    "texte_fr": "Vu le schéma actuel, le Cercle\nmasqué ne rassemble pas les gens\npour rien...[1205][U+000F] On devrait se dépêcher."
+    "texte_fr": "Vu le schéma actuel, le Cercle\nmasqué ne rassemble pas les gens\npour rien... On devrait se dépêcher."
   },
   {
     "id": 50,
@@ -823,7 +823,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Those[SP]two[SP]knew[SP]how[SP]Lisa[SP]really[SP]felt.[SP]I'm[SP]sure\nthey'll[SP]be[SP]great[SP]friends[SP]again[SP]once[SP]this[SP]is\nall[SP]over!",
     "nom_fr": "Maya",
-    "texte_fr": "Elles savaient ce que Lisa ressentait. Elles\nredeviendront amies une fois tout ça terminé!"
+    "texte_fr": "Elles savaient ce\nque Lisa ressentait. Elles\nredeviendront amies une\nfois tout ça terminé!"
   },
   {
     "id": 51,
@@ -839,7 +839,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Lisa's[SP]been[SP]upset[SP]ever[SP]since[SP]we[SP]left[SP]Smile\nHirasaka.[1205][U+000F][SP]It's[SP]like[SP]something's[SP]eating[SP]away\nat[SP]her...",
     "nom_fr": "Maya",
-    "texte_fr": "Lisa est bouleversée depuis Smile Hirasaka.[1205][U+000F]\nComme si quelque chose la rongeait..."
+    "texte_fr": "Lisa est bouleversée depuis Smile Hirasaka.\nComme si quelque chose la rongeait..."
   },
   {
     "id": 52,
@@ -919,7 +919,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Even[SP]if[SP]the[SP]Earth[SP]is[SP]annihilated,[SP]as[SP]foretold\nin[SP]the[SP]Oracle,[SP]it[SP]would[SP]just[SP]be[SP]nature's\nprovidence.",
     "nom_fr": "Maya",
-    "texte_fr": "Même si la Terre est détruite, comme prédit\ndans l'Oracle, ce ne serait que la providence."
+    "texte_fr": "Même si la Terre est détruite, comme prédit\ndans l'Oracle, ce ne\nserait que la providence."
   },
   {
     "id": 57,
@@ -967,7 +967,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Does[SP]destiny[SP]really[SP]exist...?[1205][U+000F][SP]Is[SP]that[SP]how[SP]we\nwere[SP]reunited[SP]like[SP]this?",
     "nom_fr": "Maya",
-    "texte_fr": "Le destin existe-t-il...?[1205][U+000F] Est-ce\npour ça qu'on s'est retrouvés?"
+    "texte_fr": "Le destin existe-t-il...? Est-ce\npour ça qu'on s'est retrouvés?"
   },
   {
     "id": 60,
@@ -1031,7 +1031,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "This[SP]really[SP]takes[SP]me[SP]back...[1205][U+000F][SP]I'm[SP]older[SP]now,\nobviously,[SP]but[SP]these[SP]guys[SP]haven't[SP]changed[SP]a\nbit[SP]since[SP]then...",
     "nom_fr": "Yukino",
-    "texte_fr": "Que de souvenirs...[1205][U+000F] J'ai vieilli,\nbien sûr, mais ces gars n'ont pas\nchangé d'un poil depuis..."
+    "texte_fr": "Que de souvenirs... J'ai vieilli,\nbien sûr, mais ces gars n'ont pas\nchangé d'un poil depuis..."
   },
   {
     "id": 64,
@@ -1079,7 +1079,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]thought[SP]the[SP]student[SP]council[SP]president[SP]would\nbe...[SP]you[SP]know,[SP]popular.[SP]But[SP]that's[SP]not[SP]the\nsense[SP]I[SP]get[SP]from[SP]how[SP]Eikichi[SP]talks[SP]about[SP]him.",
     "nom_fr": "Yukino",
-    "texte_fr": "Je pensais que le président des élèves\nserait... populaire. Ce n'est pas l'impression\nque donne Eikichi quand[1205][U+000F] il en parle."
+    "texte_fr": "Je pensais que le président des élèves\nserait... populaire. Ce\nn'est pas l'impression\nque donne Eikichi quand il en parle."
   },
   {
     "id": 67,
@@ -1095,7 +1095,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "They[SP]say[SP]curses,[SP]like[SP]chickens,[SP]come[SP]home[SP]to\nroost...[1205][U+000F][SP]But[SP]that[SP]was[SP]going[SP]a[SP]little[SP]far.[1205][U+000F]\nI[SP]feel[SP]bad[SP]about[SP]what[SP]happened[SP]to[SP]him.",
     "nom_fr": "Yukino",
-    "texte_fr": "On récolte ce qu'on sème, dit-on...[1205][U+000F]\nMais là c'était trop.[1205][U+000F] Je suis\ndésolée de ce qui lui est arrivé."
+    "texte_fr": "On récolte ce qu'on sème, dit-on...\nMais là c'était trop. Je suis\ndésolée de ce qui lui est arrivé."
   },
   {
     "id": 68,
@@ -1175,7 +1175,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Rrrgh,[SP]this[SP]is[SP]so[SP]frustrating...[1205][U+000F][SP]We[SP]knew[SP]it\nwas[SP]a[SP]target,[SP]and[SP]we[SP]couldn't[SP]stop[SP]the[SP]bombs\nfrom[SP]going[SP]off...[1205][U+000F][SP]That[SP]King[SP]Leo's[SP]a[SP]dead[SP]man!",
     "nom_fr": "Yukino",
-    "texte_fr": "Rrrgh, si frustrant...[1205][U+000F] On savait que c'était\nune cible, et on n'a pas pu empêcher les\nbombes...[1205][U+000F] Le Roi Lion est mort!"
+    "texte_fr": "Rrrgh, si frustrant...\nOn savait que c'était\nune cible, et on n'a pas pu empêcher les\nbombes... Le Roi Lion est mort!"
   },
   {
     "id": 73,
@@ -1191,7 +1191,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Heh...[SP]It's[SP]funny.[SP]I[SP]keep[SP]seeing[SP]my[SP]old[SP]friends\nin[SP]you[SP]guys.[SP]It's[SP]like[SP]I've[SP]gone[SP]back[SP]in[SP]time.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hé... C'est drôle. Je revois mes vieux amis\nen vous. C'est comme un saut dans le [1205][U+000F] passé."
+    "texte_fr": "Hé... C'est drôle. Je revois mes vieux amis\nen vous. C'est comme un\nsaut dans le  passé."
   },
   {
     "id": 74,
@@ -1207,7 +1207,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]the[SP]In[SP]Lak'ech[SP]comes[SP]true,[SP]the[SP]world[SP]will\neventually[SP]be[SP]doomed...[1205][U+000F][SP]And[SP]the[SP]people[SP]of\nSumaru[SP]are[SP]already[SP]starting[SP]to[SP]believe[SP]it.",
     "nom_fr": "Yukino",
-    "texte_fr": "Si In Lak'ech se réalise, le monde\nsera condamné...[1205][U+000F] Et les gens de\nSumaru commencent déjà à y croire."
+    "texte_fr": "Si In Lak'ech se réalise, le monde\nsera condamné... Et les gens de\nSumaru commencent déjà à y croire."
   },
   {
     "id": 75,
@@ -1359,7 +1359,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Personas[SP]are[SP]only[SP]a[SP]fraction[SP]of[SP]the[SP]countless\nexisting[SP]personalities.[SP]Whether[SP]they[SP]are[SP]untapped\npotential[SP]or[SP]bitter[SP]enemies[SP]is[SP]up[SP]to[SP]you.",
     "nom_fr": "Igor",
-    "texte_fr": "Les Personae ne sont qu'une fraction des\npersonnalités existantes. Potentiel\ninutilisé ou ennemis jurés, à vous de [1205][U+000F] voir."
+    "texte_fr": "Les Personae ne sont qu'une fraction des\npersonnalités existantes. Potentiel\ninutilisé ou ennemis jurés,\nà vous de  voir."
   },
   {
     "id": 84,
@@ -1391,7 +1391,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Ah...[SP]Your[SP]soul[SP]bears[SP]wounds[SP]too.[1205][U+000F][SP]It[SP]seems\nman's[SP]soul[SP]is[SP]more[SP]easily[SP]wounded[SP]than\nhis[SP]body.",
     "nom_fr": "Igor",
-    "texte_fr": "Ah... Votre âme porte aussi des blessures.[1205][U+000F]\nL'âme se blesse plus facilement que le corps."
+    "texte_fr": "Ah... Votre âme porte aussi des blessures.\nL'âme se blesse plus\nfacilement que le corps."
   },
   {
     "id": 86,
@@ -1407,7 +1407,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Personas[SP]are[SP]born[SP]from[SP]the[SP]sea[SP]of[SP]collective\nunconsciousness.[SP]They[SP]are[SP]another[SP]part[SP]of[SP]you,\nbut[SP]may[SP]also[SP]be[SP]people's[SP]souls[SP]given[SP]form.",
     "nom_fr": "Igor",
-    "texte_fr": "Les Personae naissent de la mer de\nl'inconscient collectif. Elles sont une autre\npart de vous, ou l'âme d'autrui [1205][U+000F] incarnée."
+    "texte_fr": "Les Personae naissent de la mer de\nl'inconscient collectif. Elles\nsont une autre\npart de vous, ou l'âme d'autrui  incarnée."
   },
   {
     "id": 87,
@@ -1455,7 +1455,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Nothing[SP]is[SP]more[SP]uncertain[SP]than[SP]one's[SP]self.\nIs[SP]there[SP]any[SP]way[SP]to[SP]prove[SP]that[SP]the[SP]you[SP]here\nis[SP]the[SP]real[SP]you...?",
     "nom_fr": "Igor",
-    "texte_fr": "Rien n'est plus incertain que soi-même.\nComment prouver que vous êtes le vrai vous...?"
+    "texte_fr": "Rien n'est plus incertain que soi-même.\nComment prouver que vous\nêtes le vrai vous...?"
   },
   {
     "id": 90,
@@ -1471,7 +1471,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Good[SP]or[SP]evil,[SP]those[SP]who[SP]leave[SP]impressions[SP]on\npeople[SP]have[SP]all[SP]been[SP]skilled[SP]Persona-users.\nStarting[SP]with[SP]Jung...[SP]and[SP]even[SP]that[SP]Fuhrer...",
     "nom_fr": "Igor",
-    "texte_fr": "Bons ou mauvais, ceux qui marquent les\nesprits étaient des manieurs de Persona.[1205][U+000F]\nDe Jung... jusqu'à ce Führer..."
+    "texte_fr": "Bons ou mauvais, ceux qui marquent les\nesprits étaient des manieurs de Persona.\nDe Jung... jusqu'à ce Führer..."
   },
   {
     "id": 91,
@@ -1487,7 +1487,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Truly[SP]great[SP]heroes[SP]leave[SP]lasting[SP]impressions\neven[SP]after[SP]they[SP]die.[SP]Will[SP]you[SP]become[SP]such\na[SP]hero?",
     "nom_fr": "Igor",
-    "texte_fr": "Les vrais héros marquent les esprits même\naprès leur mort. Deviendrez-vous un tel héros?"
+    "texte_fr": "Les vrais héros marquent les esprits même\naprès leur mort.\nDeviendrez-vous un tel héros?"
   },
   {
     "id": 92,
@@ -1563,7 +1563,7 @@
     "nom_orig": "Igor",
     "texte_orig": "The[SP]self[SP]suffused[SP]with[SP]divine[SP]love.[SP]The[SP]self\ncapable[SP]of[SP]demonic[SP]cruelty.[SP]People[SP]live[SP]by\nwearing[SP]different[SP]masks.",
     "nom_fr": "Igor",
-    "texte_fr": "Soi d'amour divin. Soi de cruauté démoniaque.\nLes gens portent différents masques."
+    "texte_fr": "Soi d'amour divin.\nSoi de cruauté démoniaque.\nLes gens portent différents masques."
   },
   {
     "id": 96,
@@ -1595,7 +1595,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Those[SP]who[SP]can[SP]summon[SP]Personas[SP]into[SP]material\nforms[SP]and[SP]harness[SP]their[SP]power[SP]are[SP]called\nPersona-users.",
     "nom_fr": "Igor",
-    "texte_fr": "Ceux qui invoquent des Personae et utilisent\nleur pouvoir sont appelés manieurs de Persona."
+    "texte_fr": "Ceux qui invoquent\ndes Personae et utilisent\nleur pouvoir sont\nappelés manieurs de Persona."
   },
   {
     "id": 98,
@@ -1691,7 +1691,7 @@
     "nom_orig": "Igor",
     "texte_orig": "You[SP]can[SP]only[SP]take[SP]on[SP]one[SP]Persona[SP]at[SP]a[SP]time,\nbut[SP]if[SP]you[SP]have[SP]other[SP]Persona[SP]Cards,[SP]you[SP]can\ntake[SP]them[SP]on[SP]at[SP]any[SP]time[SP]as[SP]well.",
     "nom_fr": "Igor",
-    "texte_fr": "Vous ne pouvez prendre qu'une Persona à la\nfois, mais si vous avez d'autres cartes,[1205][U+000F]\nvous pouvez en changer à tout moment."
+    "texte_fr": "Vous ne pouvez prendre qu'une Persona à la\nfois, mais si vous avez d'autres cartes,\nvous pouvez en changer à tout moment."
   },
   {
     "id": 104,
@@ -1723,7 +1723,7 @@
     "nom_orig": "Igor",
     "texte_orig": "A[SP]Persona's[SP]abilities[SP]differ[SP]depending[SP]on\nits[SP]type.[SP]Each[SP]has[SP]its[SP]own[SP]strengths[SP]and\nweaknesses.",
     "nom_fr": "Igor",
-    "texte_fr": "Les capacités d'une Persona varient selon son\ntype. Chacune a ses forces et faiblesses."
+    "texte_fr": "Les capacités d'une\nPersona varient selon son\ntype. Chacune a ses forces et faiblesses."
   },
   {
     "id": 106,
@@ -1771,7 +1771,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Their[SP]type[SP]is[SP]represented[SP]by[SP]the[SP]Arcana[SP]of\nthe[SP]Tarot,[SP]such[SP]as[SP]Magician,[SP]Emperor,[SP]Chariot,\nand[SP]the[SP]like.[SP]There[SP]are[SP]26[SP]types.",
     "nom_fr": "Igor",
-    "texte_fr": "Leur type est représenté par les Arcanes\ndu Tarot, comme le Magicien, l'Empereur,\netc.[1205][U+000F] Il y a 26 types au total."
+    "texte_fr": "Leur type est représenté par les Arcanes\ndu Tarot, comme le Magicien, l'Empereur,\netc. Il y a 26 types au total."
   },
   {
     "id": 109,
@@ -1803,7 +1803,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Though[SP]Personas[SP]are[SP]your[SP]hidden[SP]sides,[SP]it[SP]must\ncome[SP]as[SP]a[SP]surprise[SP]that[SP]you[SP]can[SP]get[SP]in[SP]touch\nwith[SP]this[SP]unconscious[SP]aspect[SP]of[SP]yourself.",
     "nom_fr": "Igor",
-    "texte_fr": "Bien que les Personae soient vos faces\ncachées, cela doit surprendre de toucher\ncet aspect[1205][U+000F] inconscient de vous-même."
+    "texte_fr": "Bien que les Personae soient vos faces\ncachées, cela doit surprendre de toucher\ncet aspect inconscient de vous-même."
   },
   {
     "id": 111,
@@ -1995,7 +1995,7 @@
     "nom_orig": "Igor",
     "texte_orig": "You[SP]may[SP]not[SP]be[SP]able[SP]to[SP]control[SP]a[SP]Persona[SP]if\nyour[SP]connection[SP]to[SP]it[SP]is[SP]weak.[SP]Indeed,[SP]you\nmay[SP]not[SP]be[SP]able[SP]to[SP]take[SP]it[SP]on[SP]at[SP]all.",
     "nom_fr": "Igor",
-    "texte_fr": "Si votre lien est faible, vous pourriez\nne pas contrôler une Persona. Vous\npourriez[1205][U+000F] même ne pas pouvoir la prendre."
+    "texte_fr": "Si votre lien est faible, vous pourriez\nne pas contrôler une Persona. Vous\npourriez même ne pas pouvoir la prendre."
   },
   {
     "id": 123,
@@ -2011,7 +2011,7 @@
     "nom_orig": "Igor",
     "texte_orig": "The[SP]reverse[SP]of[SP]this[SP]is[SP]that[SP]the[SP]closer[SP]they\nare[SP]to[SP]you,[SP]the[SP]easier[SP]it[SP]is[SP]to[SP]use[SP]them.[SP]This\ncan[SP]be[SP]seen[SP]in[SP]the[SP]cost[SP]of[SP]invoking[SP]them.",
     "nom_fr": "Igor",
-    "texte_fr": "À l'inverse, plus elles sont proches de\nvous, plus elles sont faciles à utiliser.[1205][U+000F]\nCela se voit au coût de leur invocation."
+    "texte_fr": "À l'inverse, plus elles sont proches de\nvous, plus elles sont faciles à utiliser.\nCela se voit au coût de leur invocation."
   },
   {
     "id": 124,
@@ -2075,7 +2075,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Personas[SP]are[SP]classified[SP]according[SP]to[SP]the\nArcana[SP]of[SP]the[SP]Tarot,[SP]such[SP]as[SP]Magician[SP]and\nEmperor...",
     "nom_fr": "Igor",
-    "texte_fr": "Les Personae sont classées selon les Arcanes\ndu Tarot, comme le Magicien, l'Empereur..."
+    "texte_fr": "Les Personae sont\nclassées selon les Arcanes\ndu Tarot, comme le Magicien, l'Empereur..."
   },
   {
     "id": 128,
@@ -2187,7 +2187,7 @@
     "nom_orig": "Igor",
     "texte_orig": "The[SP]best[SP]way[SP]to[SP]summon[SP]a[SP]high-level[SP]Persona\nis[SP]to[SP]negotiate[SP]with[SP]equally[SP]high-level[SP]demons.",
     "nom_fr": "Igor",
-    "texte_fr": "Pour invoquer une Persona de haut niveau,\nnégociez avec des démons de niveau équivalent."
+    "texte_fr": "Pour invoquer une Persona de haut niveau,\nnégociez avec des\ndémons de niveau équivalent."
   },
   {
     "id": 135,
@@ -2347,7 +2347,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Only[SP]one[SP]Skill[SP]Card[SP]can[SP]be[SP]used[SP]per[SP]summoning.\nThe[SP]newly[SP]summoned[SP]Persona[SP]will[SP]learn[SP]the\nskill[SP]sealed[SP]within[SP]the[SP]card.",
     "nom_fr": "Igor",
-    "texte_fr": "Une seule Carte de Compétence par\ninvocation. La Persona invoquée apprendra\nla[1205][U+000F] compétence scellée dans la carte."
+    "texte_fr": "Une seule Carte de Compétence par\ninvocation. La Persona invoquée apprendra\nla compétence scellée dans la carte."
   },
   {
     "id": 145,
@@ -2363,7 +2363,7 @@
     "nom_orig": "Igor",
     "texte_orig": "For[SP]instance...[SP]Add[SP]an[SP]Agi[SP]Card[SP]when[SP]summoning\na[SP]new[SP]Persona,[SP]and[SP]that[SP]Persona[SP]will[SP]learn[SP]Agi.",
     "nom_fr": "Igor",
-    "texte_fr": "Par exemple... Ajoutez une carte Agi lors de\nl'invocation, et la Persona apprendra Agi."
+    "texte_fr": "Par exemple... Ajoutez une\ncarte Agi lors de\nl'invocation, et la Persona apprendra Agi."
   },
   {
     "id": 146,
@@ -2427,7 +2427,7 @@
     "nom_orig": "Igor",
     "texte_orig": "There[SP]are[SP]rare[SP]Skill[SP]Cards[SP]as[SP]well,[SP]which[SP]can\nbe[SP]obtained[SP]in[SP]several[SP]ways.[SP]I[SP]suggest[SP]you\nexperiment[SP]for[SP]yourself.",
     "nom_fr": "Igor",
-    "texte_fr": "Il existe aussi des Cartes de\nCompétence rares, obtenues de plusieurs\nfaçons.[1205][U+000F] Expérimentez par vous-même."
+    "texte_fr": "Il existe aussi des Cartes de\nCompétence rares, obtenues de plusieurs\nfaçons. Expérimentez par vous-même."
   },
   {
     "id": 150,
@@ -2459,7 +2459,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Only[SP]one[SP]Incense[SP]Card[SP]can[SP]be[SP]used[SP]in[SP]any\ngiven[SP]summoning.[SP]It[SP]will[SP]increase[SP]the\nstatistics[SP]of[SP]that[SP]Persona.",
     "nom_fr": "Igor",
-    "texte_fr": "Une seule Carte d'Encens par invocation. Elle\naugmentera les statistiques de cette Persona."
+    "texte_fr": "Une seule Carte\nd'Encens par invocation. Elle\naugmentera les statistiques\nde cette Persona."
   },
   {
     "id": 152,
@@ -2555,7 +2555,7 @@
     "nom_orig": "Igor",
     "texte_orig": "I[SP]will[SP]take[SP]good[SP]care[SP]of[SP]newly[SP]summoned\nPersonas[SP]here.",
     "nom_fr": "Igor",
-    "texte_fr": "Je prendrai soin des Personae invoquées ici."
+    "texte_fr": "Je prendrai soin\ndes Personae invoquées ici."
   },
   {
     "id": 158,
@@ -2603,7 +2603,7 @@
     "nom_orig": "Igor",
     "texte_orig": "My[SP]duty[SP]is[SP]to[SP]summon[SP]new[SP]Personas.[SP]I[SP]use[SP]the\nTarot[SP]Cards[SP]you[SP]carry[SP]as[SP]a[SP]medium[SP]to[SP]summon\nthe[SP]Personas[SP]slumbering[SP]deep[SP]within[SP]your[SP]soul.",
     "nom_fr": "Igor",
-    "texte_fr": "Mon devoir est d'invoquer de nouvelles\nPersonae. J'utilise vos Cartes de Tarot pour\n[1205][U+000F]invoquer celles qui sommeillent en vous."
+    "texte_fr": "Mon devoir est d'invoquer de nouvelles\nPersonae. J'utilise vos\nCartes de Tarot pour\ninvoquer celles qui sommeillent en vous."
   },
   {
     "id": 161,
@@ -2651,7 +2651,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Some[SP]require[SP]special[SP]conditions[SP]to[SP]be[SP]summoned.\nThey[SP]slumber[SP]at[SP]the[SP]depths[SP]of[SP]the[SP]unconscious\nmind...[SP]You[SP]will[SP]need[SP]a[SP]way[SP]to[SP]awaken[SP]them.",
     "nom_fr": "Igor",
-    "texte_fr": "Certaines requièrent des conditions spéciales\npour être invoquées. Elles dorment au fond[1205][U+000F] de\nl'inconscient... Vous devrez les éveiller."
+    "texte_fr": "Certaines requièrent\ndes conditions spéciales\npour être invoquées. Elles\ndorment au fond de\nl'inconscient... Vous devrez les éveiller."
   },
   {
     "id": 164,
@@ -2715,7 +2715,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Though[SP]they[SP]are[SP]extremely[SP]powerful,[SP]if[SP]you\nreturn[SP]these[SP]Personas[SP]to[SP]the[SP]sea[SP]of\nunconsciousness[SP]here[SP]in[SP]the[SP]Velvet[SP]Room...",
     "nom_fr": "Igor",
-    "texte_fr": "Bien qu'extrêmement puissantes, si vous\nretournez ces Personae à la mer de\nl'inconscient dans la Chambre de [1205][U+000F] Velours..."
+    "texte_fr": "Bien qu'extrêmement puissantes, si vous\nretournez ces Personae à la mer de\nl'inconscient dans la\nChambre de  Velours..."
   },
   {
     "id": 168,
@@ -2827,7 +2827,7 @@
     "nom_orig": "Igor",
     "texte_orig": "The[SP]details[SP]of[SP]these[SP]mutations[SP]differ[SP]according\nto[SP]the[SP]Persona's[SP]rank.[SP]A[SP]low-level[SP]Persona[SP]may\nsimply[SP]mutate[SP]into[SP]Rank[SP]2[SP]or[SP]gain[SP]a[SP]few[SP]points.",
     "nom_fr": "Igor",
-    "texte_fr": "Ces mutations varient selon le rang de la\nPersona. Une Persona de bas niveau peut\npasser au [1205][U+000F] rang 2 ou gagner des points."
+    "texte_fr": "Ces mutations varient selon le rang de la\nPersona. Une Persona de bas niveau peut\npasser au  rang 2 ou gagner des points."
   },
   {
     "id": 175,
@@ -2843,7 +2843,7 @@
     "nom_orig": "Igor",
     "texte_orig": "But[SP]a[SP]higher-ranked[SP]Persona[SP]may[SP]mutate[SP]to\nlearn[SP]new[SP]skills...[SP]Depending[SP]on[SP]the[SP]Persona,\nit[SP]may[SP]become[SP]an[SP]entirely[SP]different[SP]Persona.",
     "nom_fr": "Igor",
-    "texte_fr": "Mais une Persona de haut rang peut muter et\napprendre de nouvelles compétences... Parfois,\nelle devient une Persona [1205][U+000F] différente."
+    "texte_fr": "Mais une Persona de haut rang peut muter et\napprendre de\nnouvelles compétences... Parfois,\nelle devient une Persona  différente."
   },
   {
     "id": 176,
@@ -2987,7 +2987,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Next,[SP]anger[SP]is[SP]represented[SP]as[SP]a[SP]red[SP]field.\nWhen[SP]this[SP]emotion[SP]is[SP]at[SP]its[SP]peak,[SP]negotiations\nwith[SP]the[SP]demon[SP]will[SP]be[SP]immediately[SP]cut[SP]off.",
     "nom_fr": "Igor",
-    "texte_fr": "Ensuite, la colère est un champ rouge.\nLorsqu'elle est à son comble, les\nnégociations avec le démon sont [1205][U+000F] rompues."
+    "texte_fr": "Ensuite, la colère est un champ rouge.\nLorsqu'elle est à son comble, les\nnégociations avec le démon sont  rompues."
   },
   {
     "id": 185,
@@ -3163,7 +3163,7 @@
     "nom_orig": "Igor",
     "texte_orig": "That[SP]should[SP]cover[SP]the[SP]basics,[SP]I[SP]think.[SP]There\nwill[SP]be[SP]times[SP]when[SP]demons[SP]will[SP]ask[SP]questions\nof[SP]you[SP]or[SP]open[SP]the[SP]battle[SP]by[SP]contacting[SP]you.",
     "nom_fr": "Igor",
-    "texte_fr": "Je pense que cela couvre les bases. Il y a\ndes moments où des démons vous posent des [1205][U+000F]\nquestions ou vous contactent pour combattre."
+    "texte_fr": "Je pense que cela couvre les bases. Il y a\ndes moments où des démons vous posent des \nquestions ou vous\ncontactent pour combattre."
   },
   {
     "id": 196,
@@ -3259,7 +3259,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Their[SP]personalities[SP]can[SP]be[SP]divided[SP]into[SP]eight\nclassifications:[SP]wise,[SP]foolish,[SP]joyful,[SP]timid,\nforceful,[SP]gloomy,[SP]snappish,[SP]and[SP]haughty...",
     "nom_fr": "Igor",
-    "texte_fr": "Leurs personnalités se divisent en 8\ncatégories: sage, idiot, joyeux, timide,\nautoritaire, sombre, hargneux, et [1205][U+000F] hautain..."
+    "texte_fr": "Leurs personnalités se divisent en 8\ncatégories: sage, idiot, joyeux, timide,\nautoritaire, sombre, hargneux,\net  hautain..."
   },
   {
     "id": 202,
@@ -3419,7 +3419,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "All[SP]these[SP]souls[U+070F]\nAre[SP]filled[SP]with[SP]lovely[SP]melodies[U+070F]\nI[SP]am[SP]proud[SP]of[SP]my[SP]duty[SP]to[SP]lure[SP]you[SP]with[SP]song[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Toutes ces âmes[U+070F] Sont pleines de jolies\nmélodies[U+070F] Fière de mon devoir de vous attirer[U+070F]"
+    "texte_fr": "Toutes ces âmes[U+070F] Sont pleines de jolies\nmélodies[U+070F] Fière de mon\ndevoir de vous attirer[U+070F]"
   },
   {
     "id": 212,
@@ -3435,7 +3435,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Light[SP]makes[SP]shadow[U+070F]\nDarkness[SP]reveals[SP]the[SP]light's[SP]shine[U+070F]\nThe[SP]same[SP]can[SP]be[SP]said[SP]of[SP]your[SP]other[SP]self[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "La lumière crée l'ombre[U+070F] L'obscurité révèle la\nlumière[U+070F] Il en va de même pour votre autre soi[U+070F]"
+    "texte_fr": "La lumière crée\nl'ombre[U+070F] L'obscurité révèle la\nlumière[U+070F] Il en va de\nmême pour votre autre soi[U+070F]"
   },
   {
     "id": 213,
@@ -3467,7 +3467,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Man[SP]denies[SP]fate[U+070F]\nAnd[SP]fights[SP]inevitable[SP]tragedy[U+070F]\nBut[SP]fate[SP]is[SP]an[SP]inescapable[SP]part[SP]of[SP]you[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "L'homme renie le destin[U+070F] Et combat l'inévitable[U+070F]\nMais le destin fait partie de vous[U+070F]"
+    "texte_fr": "L'homme renie le\ndestin[U+070F] Et combat l'inévitable[U+070F]\nMais le destin fait partie de vous[U+070F]"
   },
   {
     "id": 215,
@@ -3579,7 +3579,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Please[SP]tell[SP]me[U+070F]\nIf[SP]your[SP]heart[SP]is[SP]filled[SP]with[SP]music[U+070F]\nI[SP]am[SP]certain[SP]you[SP]will[SP]know[SP]the[SP]answer[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Dites-moi[U+070F] Si votre cœur est rempli de musique[U+070F]\nJe suis sûre que vous en avez la réponse[U+070F]"
+    "texte_fr": "Dites-moi[U+070F] Si votre cœur\nest rempli de musique[U+070F]\nJe suis sûre que vous en avez la réponse[U+070F]"
   },
   {
     "id": 222,
@@ -3643,7 +3643,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "But[SP]time[SP]flows[U+070F]\nMemories[SP]fade[SP]and[SP]change[U+070F]\nWhat[SP]is[SP]remembered[SP]is[SP]not[SP]always[SP]what[SP]is[SP]true[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Mais le temps s'écoule[U+070F] Les souvenirs\ns'estompent[U+070F] Ce que l'on garde n'est pas vérité[U+070F]"
+    "texte_fr": "Mais le temps s'écoule[U+070F] Les souvenirs\ns'estompent[U+070F] Ce que l'on\ngarde n'est pas vérité[U+070F]"
   },
   {
     "id": 226,
@@ -3659,7 +3659,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "To[SP]discover[SP]himself[U+070F]\nMan[SP]projects[SP]himself[SP]within[SP]others[U+070F]\nBut[SP]now[SP]men[SP]project[SP]others[SP]within[SP]the[SP]self[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Pour se découvrir[U+070F] L'homme se projette dans les\nautres[U+070F] Mais les autres se projettent en lui[U+070F]"
+    "texte_fr": "Pour se découvrir[U+070F] L'homme\nse projette dans les\nautres[U+070F] Mais les autres se projettent en lui[U+070F]"
   },
   {
     "id": 227,
@@ -3675,7 +3675,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "These[SP]false[SP]images[U+070F]\nOf[SP]others[SP]in[SP]warped[SP]memories[U+070F]\nCreate[SP]a[SP]distorted,[SP]never-was[SP]remembrance[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Ces fausses images[U+070F] D'autres dans des mémoires\ndéformées[U+070F] Créent un souvenir tordu, fictif[U+070F]"
+    "texte_fr": "Ces fausses images[U+070F]\nD'autres dans des mémoires\ndéformées[U+070F] Créent un souvenir tordu, fictif[U+070F]"
   },
   {
     "id": 228,
@@ -3707,7 +3707,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "It[SP]is[SP]proof[U+070F]\nThat[SP]memories[SP]of[SP]a[SP]forgotten[SP]past[U+070F]\nAre[SP]rising[SP]as[SP]a[SP]herald[SP]to[SP]meet[SP]the[SP]true[SP]self[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "C'est la preuve[U+070F] Que les souvenirs d'un passé\noublié[U+070F] S'élèvent pour rencontrer le vrai soi[U+070F]"
+    "texte_fr": "C'est la preuve[U+070F] Que\nles souvenirs d'un passé\noublié[U+070F] S'élèvent pour\nrencontrer le vrai soi[U+070F]"
   },
   {
     "id": 230,
@@ -3881,7 +3881,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "You...[1205][001E][SP]are[SP]the[SP]first[SP]to[SP]answer[SP]in[SP]such[SP]a[SP]way.[1205][001E]\nYou[SP]and[SP]I[SP]are[SP]alike.[SP]We[SP]know[SP]not[SP]how[SP]to[SP]question\nourselves.[SP]It[SP]seems[SP]you,[SP]too,[SP]are[SP]incomplete.",
     "nom_fr": "Nameless",
-    "texte_fr": "Vous...[1205][001E] êtes le premier à répondre ainsi.[1205][001E]\nNous nous ressemblons. Nous ne savons pas\nnous questionner. Vous êtes aussi [1205][U+000F] incomplet."
+    "texte_fr": "Vous...[1205][001E] êtes le premier à répondre ainsi.[1205][001E]\nNous nous ressemblons. Nous ne savons pas\nnous questionner. Vous\nêtes aussi  incomplet."
   },
   {
     "id": 240,
@@ -3927,7 +3927,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]I[SP]know[SP]and[SP]the[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]that[SP]you[SP]know\nyourself...[1205][U+000F][SP]Are[SP]they[SP]the[SP]same?",
     "nom_fr": "Nameless",
-    "texte_fr": "Le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014] que je connais et le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014]\nque vous connaissez...[1205][U+000F] Les mêmes?"
+    "texte_fr": "Le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014] que je connais et le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014]\nque vous connaissez... Les mêmes?"
   },
   {
     "id": 243,
@@ -3958,7 +3958,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "There[SP]are[SP]aspects[SP]of[SP]you[SP]that[SP]you[SP]have[SP]yet[SP]to\ndiscover.[SP]The[SP]same[SP]can[SP]be[SP]said[SP]of[SP]all[SP]humans.",
     "nom_fr": "Nameless",
-    "texte_fr": "Certaines parts de vous restent à découvrir.\nIl en va de même pour tous les humains."
+    "texte_fr": "Certaines parts de\nvous restent à découvrir.\nIl en va de même pour tous les humains."
   },
   {
     "id": 245,
@@ -3989,7 +3989,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "Since[SP]I[SP]gaze[SP]upon[SP]an[SP]inner[SP]world,[SP]I[SP]can[SP]see\nanother[SP]personality[SP]dormant[SP]within[SP]you.[SP]One\nthat[SP]you[SP]unconsciously[SP]reject[SP]and[SP]deny.",
     "nom_fr": "Nameless",
-    "texte_fr": "Puisque j'observe un monde intérieur, je\nvois une autre personnalité dormir en vous.[1205][U+000F]\nCelle que vous rejetez inconsciemment."
+    "texte_fr": "Puisque j'observe un monde intérieur, je\nvois une autre personnalité dormir en vous.\nCelle que vous rejetez inconsciemment."
   },
   {
     "id": 247,
@@ -4005,7 +4005,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "That[SP]figure[SP]becomes[SP]the[SP]score[SP]of[SP]my[SP]melody.\nI[SP]play[SP]the[SP]108[SP]tones[SP]of[SP]sadness[SP]and[SP]200[SP]tones\necho[SP]to[SP]the[SP]sea[SP]of[SP]unconsciousness.",
     "nom_fr": "Nameless",
-    "texte_fr": "Cette figure devient la partition de ma\nmélodie. Je joue les 108 tons de tristesse\net[1205][U+000F] 200 tons font écho à l'inconscient."
+    "texte_fr": "Cette figure devient la partition de ma\nmélodie. Je joue les 108 tons de tristesse\net 200 tons font écho à l'inconscient."
   },
   {
     "id": 248,
@@ -4051,7 +4051,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "Man[SP]only[SP]looks[SP]upon[SP]what[SP]their[SP]eyes[SP]see[SP]and[SP]only\nattend[SP]to[SP]what[SP]their[SP]ears[SP]hear.[SP]But[SP]they[SP]will\nnever[SP]realize[SP]what's[SP]most[SP]precious[SP]that[SP]way...",
     "nom_fr": "Nameless",
-    "texte_fr": "L'homme ne prête attention qu'à ce qu'il\nvoit et entend. Ainsi, ils ne réaliseront\n[1205][U+000F]jamais ce qui est le plus précieux..."
+    "texte_fr": "L'homme ne prête attention qu'à ce qu'il\nvoit et entend. Ainsi, ils ne réaliseront\njamais ce qui est le plus précieux..."
   },
   {
     "id": 251,
@@ -4098,7 +4098,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "What[SP]is[SP]truly[SP]beautiful[SP]arises[SP]from[SP]within\nthe[SP]self...[SP]Have[SP]they[SP]forgotten,[SP]along[SP]with\nthose[SP]2,078[SP]nights...?",
     "nom_fr": "Nameless",
-    "texte_fr": "Ce qui est vraiment beau naît de\nl'intérieur... Ont-ils oublié,\ntout comme[1205][U+000F] ces 2078 nuits...?"
+    "texte_fr": "Ce qui est vraiment beau naît de\nl'intérieur... Ont-ils oublié,\ntout comme ces 2078 nuits...?"
   },
   {
     "id": 254,
@@ -4113,7 +4113,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "Countless[SP]aeons[SP]have[SP]passed[SP]since[SP]I[SP]received\nthis[SP]name.[SP]But[SP]never[SP]was[SP]there[SP]a[SP]moment[SP]that\nI[SP]doubted[SP]the[SP]meaning[SP]of[SP]my[SP]existence.",
     "nom_fr": "Nameless",
-    "texte_fr": "D'innombrables éons ont passé depuis que\nj'ai ce nom. Mais je n'ai jamais douté\nun [1205][U+000F] instant du sens de mon existence."
+    "texte_fr": "D'innombrables éons ont passé depuis que\nj'ai ce nom. Mais je n'ai jamais douté\nun  instant du sens de mon existence."
   },
   {
     "id": 255,
@@ -4129,7 +4129,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "We[SP]immortals[SP]do[SP]not[SP]grasp[SP]the[SP]weight[SP]of[SP]the\npresent.[SP]That[SP]is[SP]why[SP]I[SP]began[SP]counting.[SP]This,\nthat...[SP]everything[SP]that[SP]could[SP]be[SP]counted...",
     "nom_fr": "Nameless",
-    "texte_fr": "Nous, immortels, ignorons le poids du\nprésent. Alors j'ai commencé à compter. Ceci,\ncela... tout ce qui pouvait être [1205][U+000F] compté..."
+    "texte_fr": "Nous, immortels, ignorons le poids du\nprésent. Alors j'ai\ncommencé à compter. Ceci,\ncela... tout ce qui pouvait être  compté..."
   },
   {
     "id": 256,
@@ -4144,7 +4144,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "Only[SP]some[SP]memories[SP]can[SP]be[SP]consciously[SP]recalled.\nMost[SP]fall[SP]into[SP]the[SP]depths[SP]of[SP]consciousness\nwithout[SP]ever[SP]being[SP]dredged[SP]up[SP]again.",
     "nom_fr": "Nameless",
-    "texte_fr": "Seuls certains souvenirs reviennent à\nl'esprit. La plupart tombent dans\nl'inconscient[1205][U+000F] sans jamais être repêchés."
+    "texte_fr": "Seuls certains souvenirs reviennent à\nl'esprit. La plupart tombent dans\nl'inconscient sans jamais être repêchés."
   },
   {
     "id": 257,
@@ -4160,7 +4160,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "But[SP]even[SP]those[SP]memories[SP]never[SP]disappear.\nThey[SP]change[SP]and[SP]warp[SP]over[SP]time[SP]and[SP]eventually\nresurface[SP]in[SP]their[SP]new[SP]forms.",
     "nom_fr": "Nameless",
-    "texte_fr": "Mais ces souvenirs ne disparaissent\njamais. Ils changent, se déforment et\nreviennent[1205][U+000F] sous de nouvelles formes."
+    "texte_fr": "Mais ces souvenirs ne disparaissent\njamais. Ils changent, se déforment et\nreviennent sous de nouvelles formes."
   },
   {
     "id": 258,
@@ -4175,7 +4175,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "Forgotten[SP]memories[SP]suffer[SP]many[SP]distortions[SP]and\nadditions[SP]while[SP]in[SP]the[SP]unconscious[SP]mind[SP]before\neventually[SP]returning[SP]to[SP]the[SP]conscious[SP]mind.",
     "nom_fr": "Nameless",
-    "texte_fr": "Les souvenirs oubliés subissent des\najouts et distorsions dans l'inconscient\navant[1205][U+000F] de revenir à l'esprit conscient."
+    "texte_fr": "Les souvenirs oubliés subissent des\najouts et distorsions dans l'inconscient\navant de revenir à l'esprit conscient."
   },
   {
     "id": 259,
@@ -4207,7 +4207,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "......!?[1205][U+000F][SP]I[SP]see...[SP]Man's[SP]karma[SP]has[SP]taken[SP]form...\nPerhaps[SP]it's[SP]finally[SP]making[SP]its[SP]move...",
     "nom_fr": "Nameless",
-    "texte_fr": "......!?[1205][U+000F] Je vois... Le karma de l'homme a\npris forme... Il passe enfin à l'action..."
+    "texte_fr": "......!? Je vois... Le karma de l'homme a\npris forme... Il passe enfin à l'action..."
   },
   {
     "id": 261,
@@ -4326,7 +4326,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Another[SP]you[SP]lives[SP]within[SP]yourself.[SP]I[SP]wonder\nwhat[SP]that[SP]personality[SP]would[SP]say[SP]if[SP]he[SP]met[SP]me...\nHaha...[SP]I[SP]bet[SP]he'd[SP]double[SP]over[SP]with[SP]laughter.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Un autre vous vit en vous. Je me demande\nce qu'il dirait s'il me rencontrait...[1205][U+000F]\nHaha... Il serait sans doute plié en deux."
+    "texte_fr": "Un autre vous vit en vous. Je me demande\nce qu'il dirait s'il me rencontrait...\nHaha... Il serait sans doute plié en deux."
   },
   {
     "id": 268,
@@ -4342,7 +4342,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "All[SP]Personas[SP]come[SP]from[SP]the[SP]same[SP]collective\nunconsciousness,[SP]but[SP]some[SP]can[SP]control[SP]them[SP]and\nsome[SP]can't.[SP]The[SP]soul[SP]is[SP]beyond[SP]one's[SP]control...",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Toutes les Personae viennent de l'inconscient\ncollectif, mais certains les contrôlent et[1205][U+000F]\nd'autres non. L'âme est hors de contrôle..."
+    "texte_fr": "Toutes les Personae\nviennent de l'inconscient\ncollectif, mais certains les contrôlent et\nd'autres non. L'âme est hors de contrôle..."
   },
   {
     "id": 269,
@@ -4358,7 +4358,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "The[SP]people[SP]here[SP]don't[SP]know[SP]death.[SP]I've[SP]long\nput[SP]it[SP]behind[SP]me[SP]myself.[SP]Will[SP]the[SP]day[SP]come\nwhen[SP]I[SP]regret[SP]that[SP]choice...?",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Les gens d'ici ignorent la mort. Je\nl'ai moi-même laissée derrière moi.\nRegretterai-je[1205][U+000F] un jour ce choix...?"
+    "texte_fr": "Les gens d'ici ignorent la mort. Je\nl'ai moi-même laissée derrière moi.\nRegretterai-je un jour ce choix...?"
   },
   {
     "id": 270,
@@ -4374,7 +4374,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "The[SP]best[SP]thing[SP]about[SP]coming[SP]here,[SP]I[SP]think,\nis[SP]that[SP]I[SP]can[SP]see[SP]the[SP]souls[SP]of[SP]the[SP]people[SP]in\nthe[SP]world[SP]now.[SP]I[SP]can[SP]see[SP]how[SP]they[SP]decline...",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Le meilleur dans le fait de venir ici,\nje trouve, c'est de voir l'âme des gens\ndu monde.[1205][U+000F] Je peux les voir décliner..."
+    "texte_fr": "Le meilleur dans le fait de venir ici,\nje trouve, c'est de voir l'âme des gens\ndu monde. Je peux les voir décliner..."
   },
   {
     "id": 271,
@@ -4390,7 +4390,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Helping[SP]heroes[SP]stand[SP]against[SP]a[SP]mighty[SP]enemy...\nI[SP]just[SP]can't[SP]understand[SP]their[SP]purpose[SP]here.\nBut[SP]then,[SP]I[SP]don't[SP]have[SP]much[SP]of[SP]one[SP]either.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Aider les héros face à un ennemi... Je\nne saisis pas leur but ici. Mais bon,\nje n'en ai pas vraiment non [1205][U+000F] plus."
+    "texte_fr": "Aider les héros face à un ennemi... Je\nne saisis pas leur but ici. Mais bon,\nje n'en ai pas vraiment non  plus."
   },
   {
     "id": 272,
@@ -4438,7 +4438,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "It[SP]was[SP]humans[SP]who[SP]decided[SP]the[SP]image[SP]of[SP]demons.\nBut[SP]there[SP]must[SP]have[SP]been[SP]an[SP]original[SP]to[SP]spark\nthe[SP]imagination...[SP]I[SP]want[SP]to[SP]capture[SP]that.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Ce sont les humains qui ont dessiné l'image\ndes démons. Mais il y a dû avoir un [1205][U+000F]\nmodèle... C'est ce que je veux capturer."
+    "texte_fr": "Ce sont les humains qui ont dessiné l'image\ndes démons. Mais il y a dû avoir un \nmodèle... C'est ce que je veux capturer."
   },
   {
     "id": 275,
@@ -4454,7 +4454,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "False[SP]ideas[SP]are[SP]corrected[SP]by[SP]facing[SP]them[SP]in\nreality.[SP]But[SP]there[SP]is[SP]one[SP]such[SP]idea[SP]that[SP]can't\nbe[SP]thus[SP]corrected...[SP]one's[SP]self-image.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Les fausses idées se corrigent face à la\nréalité. Mais il en est une qui ne peut\nêtre [1205][U+000F] corrigée ainsi... l'image de soi."
+    "texte_fr": "Les fausses idées se corrigent face à la\nréalité. Mais il en est une qui ne peut\nêtre  corrigée ainsi... l'image de soi."
   },
   {
     "id": 276,
@@ -4470,7 +4470,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Ah...[SP]So[SP]that[SP]is[SP]one[SP]type[SP]of[SP]art[SP]given[SP]a[SP]soul\nas[SP]well...[1205][U+000F][SP]But[SP]it[SP]can't[SP]be[SP]called[SP]real.[1205][U+000F][SP]Looks\nlike[SP]it[SP]needs[SP]a[SP]little[SP]more[SP]practice.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Ah... Donc c'est aussi un type d'art doté\nd'une âme...[1205][U+000F] Mais ce n'est pas réel.[1205][U+000F] On\ndirait qu'il faut plus de pratique."
+    "texte_fr": "Ah... Donc c'est aussi un type d'art doté\nd'une âme... Mais ce n'est pas réel. On\ndirait qu'il faut plus de pratique."
   },
   {
     "id": 277,
@@ -4486,7 +4486,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "The[SP]answer[SP]is[SP]always[SP]near,[SP]yet[SP]so[SP]far...[1205][U+000F][SP]But\nonce[SP]it's[SP]found,[SP]there's[SP]no[SP]need[SP]to[SP]hesitate\nanymore.[SP]It[SP]seems[SP]you've[SP]found[SP]it.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "La réponse est toujours proche, mais\nloin...[1205][U+000F] Mais une fois trouvée, plus\nbesoin d'hésiter. Vous l'avez trouvée."
+    "texte_fr": "La réponse est toujours proche, mais\nloin... Mais une fois trouvée, plus\nbesoin d'hésiter. Vous l'avez trouvée."
   },
   {
     "id": 278,
@@ -4570,7 +4570,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "If[SP]you[SP]find[SP]any[SP]Free[SP]Tarot[SP]Cards,[SP]bring[SP]them\nto[SP]me.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Trouvez des Cartes Libres? Apportez-les-moi."
+    "texte_fr": "Trouvez des\nCartes Libres? Apportez-les-moi."
   },
   {
     "id": 283,
@@ -4666,7 +4666,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]do[SP]when[SP]you[SP]want[SP]to[SP]summon[SP]a\nPersona[SP]of[SP]that[SP]Arcana?[SP]Simple.[SP]That's[SP]where\nFree[SP]Tarot[SP]Cards[SP]come[SP]in.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Vous voulez invoquer une Persona de\ncet Arcane? Simple. C'est là que\nles Cartes Libres entrent en [1205][U+000F] jeu."
+    "texte_fr": "Vous voulez invoquer une Persona de\ncet Arcane? Simple. C'est là que\nles Cartes Libres entrent en  jeu."
   },
   {
     "id": 289,
@@ -4698,7 +4698,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "I'm[SP]always[SP]here.[SP]Come[SP]by[SP]if[SP]you[SP]ever[SP]feel[SP]like\nit.[SP]Time[SP]has[SP]no[SP]meaning[SP]here,[SP]after[SP]all.",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Je suis toujours ici. Venez quand vous voulez.\nLe temps n'a aucune signification ici."
+    "texte_fr": "Je suis toujours ici.\nVenez quand vous voulez.\nLe temps n'a aucune signification ici."
   },
   {
     "id": 291,
@@ -4714,7 +4714,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Hm?[1205][U+000F][SP]It[SP]seems[SP]one[SP]of[SP]your[SP]Personas[SP]is[SP]trying[SP]to\nbe[SP]reborn[SP]into[SP]a[SP]new[SP]form.",
     "nom_fr": "Igor",
-    "texte_fr": "Hm?[1205][U+000F] L'une de vos Personae tente de\nrenaître sous une nouvelle forme."
+    "texte_fr": "Hm? L'une de vos Personae tente de\nrenaître sous une nouvelle forme."
   },
   {
     "id": 292,
@@ -4746,7 +4746,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]Fusion[SP]Spells?[1205][U+000F][SP]When[SP]you[SP]use\nthem,[SP]sometimes[SP]your[SP]Personas[SP]will[SP]undergo\nmutations.",
     "nom_fr": "Igor",
-    "texte_fr": "Connaissez-vous les Sorts de Fusion?[1205][U+000F] En les\nutilisant, vos Personae peuvent parfois muter."
+    "texte_fr": "Connaissez-vous les Sorts de Fusion? En les\nutilisant, vos Personae\npeuvent parfois muter."
   },
   {
     "id": 294,
@@ -4762,7 +4762,7 @@
     "nom_orig": "Igor",
     "texte_orig": "These[SP]may[SP]take[SP]the[SP]form[SP]of[SP]increase[SP]in[SP]basic\nstats[SP]or[SP]the[SP]learning[SP]of[SP]new[SP]skills,[SP]but[SP]some\ncan[SP]also[SP]be[SP]reborn[SP]as[SP]new[SP]Personas.",
     "nom_fr": "Igor",
-    "texte_fr": "Cela peut se traduire par des stats accrues,\ndes nouvelles compétences, ou certaines[1205][U+000F]\npeuvent renaître en nouvelles Personae."
+    "texte_fr": "Cela peut se traduire\npar des stats accrues,\ndes nouvelles compétences, ou certaines\npeuvent renaître en nouvelles Personae."
   },
   {
     "id": 295,
@@ -4826,7 +4826,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Oh...[1205][U+000F][SP]And[SP]if[SP]you[SP]already[SP]have[SP]the[SP]Persona[SP]that\nyour[SP]Persona[SP]will[SP]mutate[SP]into,[SP]you[SP]will[SP]not[SP]be\nable[SP]to[SP]perform[SP]the[SP]mutation.",
     "nom_fr": "Igor",
-    "texte_fr": "Oh...[1205][U+000F] Et si vous possédez déjà la Persona\nen laquelle votre Persona va muter, vous\nne pourrez pas effectuer la mutation."
+    "texte_fr": "Oh... Et si vous possédez déjà la Persona\nen laquelle votre Persona va muter, vous\nne pourrez pas effectuer la mutation."
   },
   {
     "id": 299,
@@ -4882,7 +4882,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "The[SP]Tarot[SP]is[SP]a[SP]model[SP]of[SP]the[SP]heart.[SP]One's[SP]heart\naffects[SP]one's[SP]destiny.[1205][001E][SP]Now,[SP]would[SP]you[SP]like[SP]me\nto[SP]paint[SP]you[SP]something?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Le Tarot est un modèle du cœur. Le cœur \naffecte\nle destin.[1205][001E] Voudriez-vous que je vous[1205][U+000F]\npeigne quelque chose?\n[1208][U+0004]Demander carte\nParler\nAnnuler\nQuitter",
+    "texte_fr": "Le Tarot est un modèle du cœur. Le cœur \naffecte\nle destin.[1205][001E] Voudriez-vous que je vous\npeigne quelque chose?\n[1208][U+0004]Demander carte\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -4902,7 +4902,7 @@
     "nom_orig": "Jun",
     "texte_orig": "A[SP]room[SP]between[SP]the[SP]cracks[SP]of[SP]consciousness[SP]and\nunconsciousness...[SP]I[SP]locked[SP]away[SP]my[SP]unbearable\nguilt[SP]and[SP]ran[SP]from[SP]it[SP]all...[SP]Or[SP]so[SP]I[SP]thought.",
     "nom_fr": "Jun",
-    "texte_fr": "Une pièce entre conscience et inconscience...\nJ'ai enfoui ma culpabilité insoutenable[1205][U+000F] et\nj'ai fui... Ou du moins je le croyais."
+    "texte_fr": "Une pièce entre\nconscience et inconscience...\nJ'ai enfoui ma culpabilité insoutenable et\nj'ai fui... Ou du moins je le croyais."
   },
   {
     "id": 303,
@@ -4934,7 +4934,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Is[SP]this[SP]what[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Vous voulez ça?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Vous voulez ça?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -4954,7 +4954,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Will[SP]this[SP]Persona[SP]suffice?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Cette Persona suffira?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Cette Persona suffira?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -4974,7 +4974,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Will[SP]this[SP]Persona[SP]suffice?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Cette Persona suffira?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Cette Persona suffira?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -5010,7 +5010,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]let[SP]go[SP]of[SP]this[SP]Persona?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Voulez-vous vous séparer de\ncette Persona?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Voulez-vous vous séparer de\ncette Persona?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -5045,7 +5045,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Then[SP]I[SP]shall[SP]change[SP]this[SP]aspect[SP]who[SP]fought\nalongside[SP]you[SP]into[SP]a[SP][E4][NULL][NULL][U+0004][120E][U+0001][121D][U+0001][SP]and\nreturn[SP]it[SP]to[SP]you...\n[E1][E2][E3]>[SP][1113][SP]obtained[SP][E4][NULL][NULL][U+0004][120E][U+0001][120E][0002][121D][U+0001].",
     "nom_fr": "Igor",
-    "texte_fr": "Je vais changer cet aspect qui a\ncombattu à vos côtés en un [E4][NULL][NULL][U+0004][120E][U+0001][121D][U+0001] et vous[1205][U+000F]\nle rendre... [E1][E2][E3]> [1113] obtient [E4][NULL][NULL][U+0004][120E][U+0001][120E][0002][121D][U+0001]."
+    "texte_fr": "Je vais changer cet aspect qui a\ncombattu à vos côtés en un [E4][NULL][NULL][U+0004][120E][U+0001][121D][U+0001] et vous\nle rendre... [E1][E2][E3]> [1113] obtient [E4][NULL][NULL][U+0004][120E][U+0001][120E][0002][121D][U+0001]."
   },
   {
     "id": 311,
@@ -5109,7 +5109,7 @@
     "nom_orig": "Igor",
     "texte_orig": "I[SP]cannot[SP]hold[SP]on[SP]to[SP]any[SP]more[SP]Personas[SP]for[SP]you.",
     "nom_fr": "Igor",
-    "texte_fr": "Je ne peux plus garder de Personae pour vous."
+    "texte_fr": "Je ne peux plus\ngarder de Personae pour vous."
   },
   {
     "id": 315,
