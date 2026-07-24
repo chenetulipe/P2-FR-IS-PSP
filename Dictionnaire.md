@@ -92,3 +92,5 @@
 | **Sailor suited girl** | Lycéenne | Archétype standard de PNJ. |
 | **Black-masked boy** | Garçon masqué | Archétype standard de PNJ. |
 
+
+- **Coolest** : Coolest (Nom de magazine)

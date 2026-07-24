@@ -572,7 +572,7 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Oh,[SP]Senpai,[SP]have[SP]you[SP]seen[SP]Chikarin?[1205][001E][SP]Hmm...[1205][U+000F]\nDammit,[SP]I[SP]bet[SP]she's[SP]wolfing[SP]down[SP]burgers\nat[SP]Peace[SP]Diner[SP]again!",
-    "nom_fr": "Lycéen bandé",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": "Oh, Senpai, t'as vu Chikarin?[1205][001E] Hmm...\nBon sang, je parie qu'elle s'empiffre\nencore de burgers au Peace Diner!"
   },
   {
@@ -588,7 +588,7 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "You're[SP]looking[SP]for[SP]the[SP]emblems,[SP]right?\nThe[SP]last[SP]one[SP]left[SP]is[SP]that[SP]one[SP]on[SP]the[SP]wall.\nDestroy[SP]it,[SP]quick!",
-    "nom_fr": "Lycéen bandé",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": "Vous cherchez les insignes, non?\nLe dernier restant est celui sur\nle mur. Détruisez-le, vite!"
   },
   {
@@ -604,7 +604,7 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "That[SP]was[SP]the[SP]last[SP]emblem[SP]here.[SP]There's[SP]no\nmore[SP]in[SP]this[SP]room,[SP]I[SP]don't[SP]think.[SP]Honestly,\nwe[SP]should[SP]have[SP]done[SP]this[SP]sooner!",
-    "nom_fr": "Lycéen bandé",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": "C'était le dernier insigne ici. Y'en a plus\ndans cette pièce, je crois. Franchement, on\naurait dû faire ça plus tôt!"
   },
   {
@@ -620,7 +620,7 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "That[SP]should've[SP]been[SP]the[SP]last[SP]emblem[SP]here.[SP]Have\nyou[SP]been[SP]to[SP]the[SP]other[SP]classes?[SP]Then[SP]the[SP]only\nones[SP]left[SP]should[SP]be[SP]in[SP]the[SP]teachers'[SP]lounge.",
-    "nom_fr": "Lycéen bandé",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": "Ça devrait être le\ndernier insigne ici. Vous\navez fait les autres classes? Alors il ne\ndoit en rester que dans la salle des profs."
   },
   {
@@ -636,8 +636,8 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "You[SP]should[SP]help[SP]clean[SP]up,[SP]Senpai.[SP]Principal\nHanya[SP]seemed[SP]mad...[SP]We[SP]should[SP]never[SP]have[SP]gone\naround[SP]destroying[SP]emblems.",
-    "nom_fr": "Lycéen bandé",
-    "texte_fr": "Vous devriez aider à nettoyer, Senpai. Le\ndirlo Hanya semblait furieux... On n'aurait\njamais dû détruire tous ces insignes."
+    "nom_fr": "Lycéen blessé",
+    "texte_fr": "Vous devriez aider à nettoyer, Senpai. Le\nProviseur Hanya semblait furieux... On n'aurait\njamais dû détruire tous ces insignes."
   },
   {
     "id": 40,
@@ -668,7 +668,7 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "That[SP]was[SP]the[SP]last[SP]emblem[SP]here.[SP]There's[SP]no\nmore[SP]in[SP]this[SP]room,[SP]I[SP]don't[SP]think.[SP]Honestly,\nwe[SP]should[SP]have[SP]done[SP]this[SP]sooner!",
-    "nom_fr": "Lycéen bandé",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": "C'était le dernier insigne ici. Y'en a plus\ndans cette pièce, je crois. Franchement, on\naurait dû faire ça plus tôt!"
   },
   {
@@ -684,7 +684,7 @@
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "That[SP]should've[SP]been[SP]the[SP]last[SP]emblem[SP]here.[SP]Have\nyou[SP]been[SP]to[SP]the[SP]other[SP]classes?[SP]Then[SP]the[SP]only\nones[SP]left[SP]should[SP]be[SP]in[SP]the[SP]teachers'[SP]lounge.",
-    "nom_fr": "Lycéen bandé",
+    "nom_fr": "Lycéen blessé",
     "texte_fr": "Ça devrait être le\ndernier insigne ici. Vous\navez fait les autres classes? Alors il ne\ndoit en rester que dans la salle des profs."
   }
 ]
