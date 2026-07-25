@@ -33,6 +33,7 @@ from src.core.iso import (
 from src.parsers.bin_parser import decode_all_scripts, validate_all_scripts
 from src.encoders.bin_encoder import encode_bin_from_json, encode_bnp_from_json
 from src.encoders.fbe_encoder import encode_fbe_slot, encode_fbe_bnp_from_json
+from src.encoders.mmap_encoder import encode_mmap_bnp_from_json
 
 
 from tkinter import filedialog, messagebox
@@ -299,8 +300,13 @@ def encode_all(
                 encode_fbe_bnp_from_json(
                     str(op), str(jp), log_fn, out_path=str(out / fn)
                 )
+            elif re.match(r'^mmap0[1-6]$', stem):
+                # Format MMAP propriétaire Atlus (MIG.00.1PSP)
+                # Terminateur spécifique [0x1106][E2][E3][0x1431][NULL][NULL]
+                # NE PAS utiliser encode_bnp_from_json (cherche des blocs gzip = erreur)
+                encode_mmap_bnp_from_json(str(op), str(jp), log_fn, out_path=str(out / fn))
             elif on.endswith(".bnp"):
-                # BNP avec blocs gzip embeddés (MMAP01-06)
+                # BNP générique avec blocs gzip embeddés
                 encode_bnp_from_json(str(op), str(jp), log_fn, out_path=str(out / fn))
             else:
                 # BIN direct (CD_SHOP.bin)

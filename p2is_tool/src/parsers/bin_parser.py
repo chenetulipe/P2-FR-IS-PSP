@@ -520,10 +520,19 @@ def validate_all_scripts(scripts_json_dir: str, log_fn=None, progress_fn=None) -
 
 def scan_bnp_bin(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
     from src.parsers.fbe_parser import scan_fbe_bnp
+    import re as _re
 
-    """Extrait les dialogues d'un BNP/BIN (route vers le décodeur spécial si F_BE/TM_EVE)."""
+    """Extrait les dialogues d'un BNP/BIN (route vers le décodeur spécial si F_BE/TM_EVE/MMAP)."""
     if stem.lower() in ("f_be", "tm_eve"):
         return scan_fbe_bnp(data, stem, out_dir, log_fn)
+
+    # ── MMAP01-06 : format MIG.00.1PSP avec terminateur propre ──────────────
+    # Les MMAP utilisent [0x1106][E2][E3][0x1431][NULL][NULL] comme terminateur,
+    # pas [E1][E2][E3][E4]. Le scanner générique ne trouverait rien.
+    if _re.match(r'^mmap0[1-6]$', stem.lower()):
+        from src.encoders.mmap_encoder import scan_mmap_bnp
+        return scan_mmap_bnp(data, stem, out_dir, log_fn)
+
     all_dlgs = find_dialogs(data)
     pos = gz_n = 0
     while gz_n < 200:
