@@ -9,30 +9,29 @@ Les fichiers MMAP (carte du monde, dialogues de PNJ par zone) utilisent un
 format binaire propre différent de l'event.bin :
 
   - Format conteneur : MIG.00.1PSP (format propriétaire Atlus)
-  - Terminateur de dialogue MMAP : [0x1106][0x1102][0x1103][0x1431][0x0000][0x0000]
-    (12 octets) — différent de l'event.bin qui utilise [E1][E2][E3][E4]
+  - Terminateur de dialogue MMAP : 
+      Variante 1: [0x1106][0x1102][0x1103][0x1431][0x0000][0x0000] (12 octets)
+      Variante 2: [0x1106][0x1102][0x1431][0x0000][0x0000] (10 octets)
   - Pas de zéros de padding entre dialogues : slot_size == data_size
   - Les dialogues sont contigus dans la zone de données du BNP
 
-IMPORTANT : Le 'nettoyage' effectué par find_dialogs() de bin_parser.py
-supprime des codes de contrôle critiques ([0x1106], [0x1431]) qui font partie
-du terminateur MMAP, cassant ainsi l'encodage.
-
-Ce module contourne ce problème avec une logique dédiée.
+Ce module gère correctement ces spécificités ainsi que l'alignement
+des menus de choix pour éviter les crashs.
 """
 
 import struct, json, re
 from pathlib import Path
 from src.config import *
-from src.core.text import decode_text, text_to_bytes
+from src.core.text import decode_text, text_to_bytes, _align_menu_text
 
-# ── Terminateur spécifique MMAP ───────────────────────────────────────────────
-# [0x1106][E2=0x1102][E3=0x1103][0x1431][NULL=0x0000][NULL=0x0000]
-MMAP_TERM = [0x1106, 0x1102, 0x1103, 0x1431, 0x0000, 0x0000]
-MMAP_TERM_BYTES = b''.join(struct.pack('<H', w) for w in MMAP_TERM)
-MMAP_TERM_SIZE = len(MMAP_TERM_BYTES)  # 12 octets
+# ── Terminateurs spécifiques MMAP ───────────────────────────────────────────────
+MMAP_TERM_1 = [0x1106, 0x1102, 0x1103, 0x1431, 0x0000, 0x0000]
+MMAP_TERM_2 = [0x1106, 0x1102, 0x1431, 0x0000, 0x0000]
 
-# Codes de contrôle à nettoyer du texte extrait (sans toucher au terminateur)
+MMAP_TERM_1_BYTES = b''.join(struct.pack('<H', w) for w in MMAP_TERM_1)
+MMAP_TERM_2_BYTES = b''.join(struct.pack('<H', w) for w in MMAP_TERM_2)
+
+# Codes de contrôle à nettoyer du texte extrait
 _CTRL_MMAP = {
     0x1101: '[NL]', 0x1102: '[E2]', 0x1103: '[E3]', 0x1104: '[E4]',
     0x1106: '[1106]', 0x1109: '[1109]', 0x1120: '[SP]',
@@ -40,12 +39,7 @@ _CTRL_MMAP = {
     0x1431: '[1431]',
 }
 
-
 def _valid_mmap_name(data: bytes, offset: int) -> bool:
-    """
-    Vérifie qu'un guillemet ouvrant 0x0022 est suivi d'un nom de personnage valide
-    dans le contexte MMAP (même logique que bin_parser._valid_name).
-    """
     j = offset + 2
     if j + 1 >= len(data):
         return False
@@ -56,7 +50,7 @@ def _valid_mmap_name(data: bytes, offset: int) -> bool:
     pr = al = uk = 0
     while j < len(data) - 1:
         cp = struct.unpack_from('<H', data, j)[0]
-        if cp == NL:  # 0x1101 = fin du nom
+        if cp == NL:
             n = len(chars)
             if not (1 <= n <= 40):
                 return False
@@ -76,9 +70,7 @@ def _valid_mmap_name(data: bytes, offset: int) -> bool:
         j += 2
     return False
 
-
 def _decode_mmap_text(raw: bytes) -> str:
-    """Décode le texte binaire Atlus MMAP en texte lisible, en excluant le terminateur."""
     out = ""
     for i in range(0, len(raw) - 1, 2):
         cp = struct.unpack_from('<H', raw, i)[0]
@@ -92,16 +84,7 @@ def _decode_mmap_text(raw: bytes) -> str:
             out += f'[U+{cp:04X}]'
     return out
 
-
 def scan_mmap_bnp(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
-    """
-    Parse un fichier MMAP.BNP et extrait tous les dialogues dans un JSON.
-
-    Contrairement à scan_bnp_bin(), cette fonction utilise le terminateur
-    propre aux MMAP et ne cherche pas de blocs gzip embeddés.
-
-    Returns: nombre de dialogues extraits.
-    """
     dialogs = []
     i = 0
 
@@ -112,16 +95,31 @@ def scan_mmap_bnp(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
             continue
 
         start = i
+        
         # Chercher le terminateur MMAP à partir de start
-        term_idx = data.find(MMAP_TERM_BYTES, start + 2)
-        if term_idx == -1 or term_idx > start + 4000:
-            # Pas de terminateur MMAP dans la fenêtre → pas un dialogue valide
+        idx1 = data.find(MMAP_TERM_1_BYTES, start + 2)
+        idx2 = data.find(MMAP_TERM_2_BYTES, start + 2)
+        
+        if idx1 == -1 and idx2 == -1:
+            i += 2
+            continue
+            
+        # Prendre le plus proche
+        if idx1 != -1 and (idx2 == -1 or idx1 < idx2):
+            term_idx = idx1
+            term_seq = MMAP_TERM_1
+            term_bytes = MMAP_TERM_1_BYTES
+        else:
+            term_idx = idx2
+            term_seq = MMAP_TERM_2
+            term_bytes = MMAP_TERM_2_BYTES
+
+        if term_idx > start + 4000:
             i += 2
             continue
 
-        end = term_idx + MMAP_TERM_SIZE  # inclut le terminateur
+        end = term_idx + len(term_bytes)
 
-        # Décoder le texte (sans le terminateur final)
         raw_text = data[start:term_idx]
         full_text = _decode_mmap_text(raw_text)
 
@@ -133,9 +131,9 @@ def scan_mmap_bnp(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
         entry = {
             'id': len(dialogs),
             'offset': start,
-            'data_size': end - start,   # inclut le terminateur
-            'slot_size': end - start,   # = data_size (pas de padding dans MMAP)
-            '_term': MMAP_TERM,
+            'data_size': end - start,
+            'slot_size': end - start,
+            '_term': term_seq,
             'nom_orig': nom,
             'texte_orig': body_clean,
             'nom_fr': '',
@@ -161,23 +159,10 @@ def scan_mmap_bnp(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
 def encode_mmap_bnp_from_json(
     bin_path: str, json_path: str, log_fn, out_path: str = None
 ) -> str:
-    """
-    Réécrit les dialogues traduits dans un fichier MMAP.BNP.
-
-    Spécificités MMAP :
-    - Terminateur fixe de 12 octets : [0x1106][E2][E3][0x1431][NULL][NULL]
-    - slot_size == data_size (pas de null_gap entre dialogues)
-    - Le texte FR + [NL] suffixe + terminateur doit tenir dans data_size
-    - Pas de padding avec 0x1120 (espace) après le texte : on utilise [NL]
-      puis le terminateur directement
-
-    Si le texte FR est trop long, il est tronqué automatiquement.
-    """
     data = bytearray(open(bin_path, 'rb').read())
     dlgs = json.loads(open(json_path, encoding='utf-8').read(), strict=False)
 
     ok = skip = kept = 0
-    term_bytes = b''.join(struct.pack('<H', w) for w in MMAP_TERM)
     nl_bytes = struct.pack('<H', NL)
 
     for d in dlgs:
@@ -188,18 +173,22 @@ def encode_mmap_bnp_from_json(
             kept += 1
             continue
 
-        # Utiliser l'original si pas de traduction
         n_fr = n_fr or d.get('nom_orig', '').replace('[SP]', ' ').strip()
         t_fr = t_fr or d.get('texte_orig', '').strip()
+        n_orig = d.get('nom_orig', '')
+        t_orig = d.get('texte_orig', '')
 
-        # Encoder le texte FR
+        # Alignement des menus de choix pour éviter les crashs
+        t_fr = _align_menu_text(n_orig, t_orig, n_fr, t_fr)
+
         enc = text_to_bytes('"' + n_fr + '\n' + t_fr)
 
-        # Taille disponible = data_size - taille terminateur - [NL] final
-        # Structure MMAP: [texte encodé][NL=0x1101][TERM 12 octets]
-        avail = d['data_size'] - MMAP_TERM_SIZE - 2  # -2 pour le [NL] final
+        # Terminateur exact du JSON
+        term_seq = d.get('_term', MMAP_TERM_1)
+        term_bytes = b''.join(struct.pack('<H', w) for w in term_seq)
+        
+        avail = d['data_size'] - len(term_bytes) - 2  # -2 pour le [NL] final
 
-        # Tronquer si trop long
         if len(enc) > avail:
             depassement = len(enc) - avail
             if log_fn:
@@ -215,23 +204,25 @@ def encode_mmap_bnp_from_json(
             t_fr = ''.join(tokens)
             enc = text_to_bytes('"' + n_fr + '\n' + t_fr)
 
-        # Padding neutre pour combler l'espace restant
-        # Dans MMAP, on utilise [SP] (0x1120) comme dans event.bin
-        pad_len = avail - len(enc)
-        if pad_len < 0:
-            pad_len = 0
+        # Construire la séquence sans padding interne
+        full = enc + nl_bytes + term_bytes
 
-        null_pad = struct.pack('<H', 0x1120) * (pad_len // 2)
+        # Vérifier si on dépasse la taille
+        if len(full) > d['slot_size']:
+            # Normalement géré par la troncature plus haut, mais sécurité au cas où
+            full = full[:d['slot_size'] - len(term_bytes)] + term_bytes
+        
+        # Padding avec des zéros APRÈS le terminateur
+        # Cela évite que le jeu parse des espaces infinis et freeze les bulles de dialogue
+        pad_len = d['slot_size'] - len(full)
+        if pad_len > 0:
+            full += b'\x00' * pad_len
 
-        # Construire le bloc complet : [texte][SP padding][NL][TERM]
-        full = enc + null_pad + nl_bytes + term_bytes
-
-        # Vérification de taille (doit correspondre exactement)
         if len(full) != d['slot_size']:
             if log_fn:
                 log_fn(
                     f'  [!] [MMAP] [id {d["id"]}] Taille incorrecte: '
-                    f'{len(full)} != {d["slot_size"]}. Ignoré.',
+                    f'{len(full)} != {d["slot_size"]}. Ignore.',
                     'warn'
                 )
             skip += 1
