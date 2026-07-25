@@ -65,47 +65,41 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 
 ---
 
-# Progression de la traduction française
-
 ## État d'Avancement
 
-| Fichier / Composant | Contenu | Progression | Statut |
-|:---|:---|:---:|:---|
-| **Event.bin** | 399 scripts d'histoire | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **MMAP01 · MMAP02 · MMAP03 · MMAP04 · MMAP05 · MMAP06** | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **CD_SHOP** | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **F_BE** | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **TM_EVE** | Événements scénaristiques | En cours | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) → [PR #423](https://github.com/chenetulipe/P2-FR-IS-PSP/pull/423) |
+Voici l'état actuel de la traduction globale. Pour des statistiques exhaustives (graphiques et progression fichier par fichier), veuillez consulter le document **[SUIVI.md](./SUIVI.md)**.
 
-### Accents français
+<div align="center">
 
-| Composant | Intégration | Accents pris en charge | Progression | Statut |
-|:---|:---:|:---|:---:|:---|
-| Textures HD | Oui | — | 35/42 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
-| Police d'écriture HD (Accents FR) | Oui | é è ê ë à â ç î ï ô ù û + majuscules | 100% | ![](https://img.shields.io/badge/-Terminé%20(Bugs)-e1ad01?style=flat-square) |
-| Textures ISO | Non | — | 0/42 | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Police d'écriture (Accents FR) | Oui | N/A | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+| Contenu du Jeu | Progression | Statut |
+|:---|:---:|:---:|
+| **Scripts (Dialogues Histoire)** | 100% | <img src="https://img.shields.io/badge/-Terminé-2ea043?style=flat-square" alt="Terminé" /> |
+| **Police d'écriture (Accents FR)** | 100% | <img src="https://img.shields.io/badge/-Terminé-2ea043?style=flat-square" alt="Terminé" /> |
+| **Scripts (Boutiques, Carte)** | 8/9 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Textures HD** | 35/42 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Autres éléments (Menus, Combats)** | ~ | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
 
-### EBOOT (textes système)
+</div>
+
+<br/>
+
+### EBOOT (Textes Système)
 
 | Contenu | Entrées | Progression | Statut |
-|:---|:---:|:---:|:---|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | ~180 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Commandes & Messages de Combat | ~350 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms de Personnages / PNJs / Boss | ~250 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms d'Armes / Armures / Accessoires | ~600 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms & Descriptions de Compétences | ~900 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms & Descriptions de Personas / Démons | ~450 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms de lieux / Donjons / Carte | ~850 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Objets de quête / Rumeurs / Clés | ~200 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Autres textes (Tutoriels, Infos, etc.) | ~250 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| **Total** | **~4 030** | **0%** | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+|:---|:---:|:---:|:---:|
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Commandes & Messages de Combat | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms d'Armes / Armures / Accessoires | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Compétences | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personas / Démons | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de lieux / Donjons / Carte | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Objets de quête / Rumeurs / Clés | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Autres textes (Tutoriels, Infos, etc.) | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Total** | **~4 030** | **0%** | |
 
-**Notes**
 
-- L'eboot est le dernier gros fichier restant.
-- La police d'écriture fonctionne mais nécessite encore des ajustements mineurs.
-- Le travail sur les textures HD est séparé des textures ISO. Il reste 7 textures HD à finaliser.
+<br/>
 
 ---
 
