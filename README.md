@@ -73,7 +73,7 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 | **MMAP01 · MMAP02 · MMAP03 · MMAP04 · MMAP05 · MMAP06** | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 | **CD_SHOP** | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 | **F_BE** | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **TM_EVE** | Événements scénaristiques | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| **TM_EVE** | Événements scénaristiques | En cours | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) → [PR #423](https://github.com/chenetulipe/P2-FR-IS-PSP/pull/423) |
 
 ### Accents français
 
@@ -90,18 +90,21 @@ Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) da
 
 | Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | **72.2%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~270 | **87.4%** | <img src="https://img.shields.io/badge/-Avancé-2ea44f?style=flat-square" alt="Avancé" /> |
-| Commandes & Messages de Combat | Part 1 | 600 à 899 | ~300 | **79.0%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Personae / Démons | Part 2 & Part 4 | 900 à 3999 | ~800 | **28.0%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~400 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~700 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~2501 | **0.1%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| Autres textes (Tutoriels, Infos, etc.) | Part 1, 2, 7 | 450 à 868 | ~177 | **11.9%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| **Total** | **Part 1 à 7** | **0 à 6573** | **~5,928** | **14.3%** | |
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Commandes & Messages de Combat | Part 1 | 600 à 949 | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personae / Démons | Part 2 & Part 4 | 900 à 1199 & 3500 à 3999 | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Autres textes (Tutoriels, Infos, etc.) | Part 7 | Divers | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Total** | **Part 1 à 7** | **0 à 6573** | **~6 574** | **0%** | |
 
 <br/>
+
+---
+
 **Notes**
 
 - L'eboot est le dernier gros fichier restant.
@@ -159,6 +162,22 @@ Construit sur une architecture autonome, l'outil s'exécute localement et se lan
   <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Langage-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
+
+<br/>
+
+---
+
+## L'Outil de Traitement d'Images (p2is_image_lab)
+
+Le dossier `p2is_image_lab/` contient notre nouvel outil spécialisé dans l'extraction, l'édition et la réinjection des images au format GIM compressé (CRILAYLA), notamment pour modifier les écrans de chargement et autres éléments graphiques complexes.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</div>
+
+> **Note technique** : Une liste globale et consolidée des dépendances de tous nos outils Python (`p2is_tool`, `p2is_audio_lab`, `p2is_image_lab`...) est désormais disponible à la racine du projet dans le fichier `requirements.txt`. Vous pouvez tout installer d'un coup avec `pip install -r requirements.txt`.
 
 <br/>
 
