@@ -42,7 +42,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Ooooh![1205][001E][SP]Ginko's[SP]all[SP]mad[SP]now![SP]One[SP]girl's[SP]vault\nis[SP]another[SP]man's[SP]lesson![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Ginko\nShut[SP]your[SP]face,[SP]Undie[SP]Bastard!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Ooooh![1205][001E] Ginko pète un câble! Ce qui choque une\nfille instruit un homme ![E1][E2] [E3][E4][NULL][NULL]\"Ginko Ferme-la,\nminus!"
+        "texte_fr": "Ooooh![1205][001E] Ginko pète un câble! Ce qui choque une\nfille instruit un homme ![E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Ginko Ferme-la,\nminus!"
     },
     {
         "id": 3,
@@ -492,7 +492,7 @@
         "nom_orig": "Bandaged[SP]female[SP]student",
         "texte_orig": "Oh[SP]yeah,[SP]there[SP]were[SP]some[SP]emblems[SP]in[SP]the[SP]teachers'\nlounge[SP]on[SP]the[SP]second[SP]floor...[1205][000F][SP]But[SP]our[SP]teachers\nare[SP]there.[SP]I[SP]don't[SP]want[SP]them[SP]catching[SP]on!",
         "nom_fr": "Lycéenne blessée",
-        "texte_fr": "Ah oui, il y avait des emblèmes dans la salle\ndes profs au deuxième étage... 205].. Mais nos\nprofs sont là. Jeveux pas qu'ils s'en rendent\ncompte!"
+        "texte_fr": "Ah oui, il y avait des emblèmes dans la salle\ndes profs au deuxième étage... [1205][205].. Mais nos\nprofs sont là. Jeveux pas qu'ils s'en rendent\ncompte!"
     },
     {
         "id": 33,
@@ -732,7 +732,7 @@
         "nom_orig": "Bandaged[SP]female[SP]student",
         "texte_orig": "Oh[SP]yeah,[SP]there[SP]were[SP]some[SP]emblems[SP]in[SP]the[SP]teachers'\nlounge[SP]on[SP]the[SP]second[SP]floor...[1205][000F][SP]But[SP]our[SP]teachers\nare[SP]there.[SP]I[SP]don't[SP]want[SP]them[SP]catching[SP]on!",
         "nom_fr": "Lycéenne blessée",
-        "texte_fr": "Ah oui, il y avait des emblèmes dans la salle\ndes profs au deuxième étage... 205].. Mais nos\nprofs sont là. Jeveux pas qu'ils s'en rendent\ncompte!"
+        "texte_fr": "Ah oui, il y avait des emblèmes dans la salle\ndes profs au deuxième étage... [1205][205].. Mais nos\nprofs sont là. Jeveux pas qu'ils s'en rendent\ncompte!"
     },
     {
         "id": 49,

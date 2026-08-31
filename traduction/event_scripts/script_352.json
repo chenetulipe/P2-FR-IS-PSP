@@ -492,7 +492,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NULL][NULL][0014] Acheter armure[1432][NULL][NULL][0014]\npour acheter depuis notre stock."
+        "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NU[E4][NULL][NULL][0014] Acheter armure[1432][NU[E4][NULL][NULL][0014]\npour acheter depuis notre stock."
     },
     {
         "id": 27,
@@ -522,7 +522,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre. Choisissez enfin l'objet à vendre."
+        "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre. Choisissez enfin l'objet à vendre."
     },
     {
         "id": 29,
@@ -567,7 +567,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NULL][NULL][0014] Acheter armure[1432][NULL][NULL][0014]\npour acheter depuis notre stock."
+        "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NU[E4][NULL][NULL][0014] Acheter armure[1432][NU[E4][NULL][NULL][0014]\npour acheter depuis notre stock."
     },
     {
         "id": 32,
@@ -627,7 +627,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre. Choisissez enfin l'objet à vendre."
+        "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre. Choisissez enfin l'objet à vendre."
     },
     {
         "id": 36,

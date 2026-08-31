@@ -327,7 +327,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Sure,[SP]it[SP]had[SP]been[SP]a[SP]while,[SP]but[SP]wasn't[SP]she\nhis[SP]first[SP]love?[1205][000F][SP]Is[SP]it[SP]that[SP]easy[SP]to[SP]forget\nsomeone's[SP]face?",
         "nom_fr": "Maya",
-        "texte_fr": "Certes, ça faisait longtemps, mais\nc'était son premier 000F]premier\namour. Oublie-t-on un visage si vite?"
+        "texte_fr": "Certes, ça faisait longtemps, mais\nc'était son premier [1205][000F]premier\namour. Oublie-t-on un visage si vite?"
     },
     {
         "id": 22,
@@ -432,7 +432,7 @@
         "nom_orig": "Maya",
         "texte_orig": "It's[SP]because[SP]deep[SP]in[SP]their[SP]hearts,[SP]man[SP]craves\nthe[SP]destruction[SP]of[SP]this[SP]uncontrollable[SP]world.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nPeople's[SP]repressed[SP]emotions...[1205][000F][SP]They[SP]have[SP]a\nsignificant[SP]impact[SP]on[SP]one's[SP]personality.\nThat[SP]is[SP]what[SP]surfaces[SP]as[SP]rumors.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nI[SP]know[SP]how[SP]Yukki[SP]feels...[SP]but[SP]there's[SP]no[SP]sense\ngetting[SP]angry[SP]at[SP]that[SP]teacher.[SP]There's[SP]no[SP]one\nbad[SP]guy[SP]behind[SP]the[SP]rumors,[SP]after[SP]all.",
         "nom_fr": "Maya",
-        "texte_fr": "Car au fond, l'homme désire la destruction de\nce monde incontrôlable.[E1][E2] [E3][E4][NULL][NULL]\"Maya Les émotions\nrefoulées...[1205][000F] Elles ont un fort impact sur\nlapersonnalité. C'est ce qui ressort en\nrumeurs.[E1][E2] [E3][E4][NULL][NULL]\"Maya Je comprends Yukki... mais\ninutile d'en vouloir à ce prof. Il n'y a pas\nun seulméchant derrière les rumeurs, après\ntout."
+        "texte_fr": "Car au fond, l'homme désire la destruction de\nce monde incontrôlable.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Les émotions\nrefoulées...[1205][000F] Elles ont un fort impact sur\nlapersonnalité. C'est ce qui ressort en\nrumeurs.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Je comprends Yukki... mais\ninutile d'en vouloir à ce prof. Il n'y a pas\nun seulméchant derrière les rumeurs, après\ntout."
     },
     {
         "id": 29,
@@ -762,7 +762,7 @@
         "nom_orig": "Expressionless[SP]woman",
         "texte_orig": "That[SP]song,[SP][1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]...[1205][000F][SP]I[SP]bet[SP]it's[SP]just[SP]about\ngranting[SP]your[SP]ideals[SP]and[SP]such.[SP]Will[SP]it[SP]help\nme[SP]to[SP]find[SP]my[SP]own[SP]ideals...?",
         "nom_fr": "Femme sans expression",
-        "texte_fr": "Cette chanson, [1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]...[1205][000F] Je parie\nqu'elle parle d'idéaux exaucés.\nM'aidera-t-elle à trouver les miens?"
+        "texte_fr": "Cette chanson, [1432][NU[E4][NULL][NULL][0014]Joker[1432][NU[E4][NULL][NULL][0014]...[1205][000F] Je parie\nqu'elle parle d'idéaux exaucés.\nM'aidera-t-elle à trouver les miens?"
     },
     {
         "id": 51,
@@ -792,7 +792,7 @@
         "nom_orig": "Expressionless[SP]woman",
         "texte_orig": "Hahaha.[SP]I[SP]know[SP]what[SP]my[SP]ideals[SP]are[SP]now.[SP][1432][NULL][NULL][0014]Please\ndon't[SP]let[SP]me[SP]get[SP]caught[SP]up[SP]in[SP]these[SP]attacks.[1432][NULL][NULL][0014]\nIdeals[SP]change[SP]depending[SP]on[SP]one's[SP]situation.",
         "nom_fr": "Femme sans expression",
-        "texte_fr": "Hahaha. Je connais mes idéaux maintenant.\n[1432][NULL][NULL][0014]Ne laissez pas ces attaques m'avoir.[1432][NULL][NULL][0014]\nLes idéaux changent selon la situation."
+        "texte_fr": "Hahaha. Je connais mes idéaux maintenant.\n[1432][NU[E4][NULL][NULL][0014]Ne laissez pas ces attaques m'avoir.[1432][NU[E4][NULL][NULL][0014]\nLes idéaux changent selon la situation."
     },
     {
         "id": 53,
@@ -807,7 +807,7 @@
         "nom_orig": "Expressionless[SP]woman",
         "texte_orig": "The[SP]In[SP]Lak'ech[SP]is[SP]like[SP]a[SP]book[SP]filled[SP]with[SP]dreams.\nYou[SP]know[SP]how[SP]people[SP]go[SP]to[SP]seminars[SP]to\n[1432][NULL][NULL][0014]discover[SP]themselves[1432][NULL][NULL][0014]?",
         "nom_fr": "Femme sans expression",
-        "texte_fr": "In Lak'ech est un livre plein de\nrêves. Tu sais, comme ces séminaires\npour [1432][NULL][NULL][0014]se découvrir soi-même[1432][NULL][NULL][0014]?"
+        "texte_fr": "In Lak'ech est un livre plein de\nrêves. Tu sais, comme ces séminaires\npour [1432][NU[E4][NULL][NULL][0014]se découvrir soi-même[1432][NU[E4][NULL][NULL][0014]?"
     },
     {
         "id": 54,
@@ -912,7 +912,7 @@
         "nom_orig": "Tanned[SP]woman",
         "texte_orig": "The[SP]secret[SP]lounge...[1205][000F][SP]That's[SP]right...[SP]I've\nbeen[SP]there[SP]too...[1205][000F][SP]Whew...[SP]It's[SP]too[SP]much\neffort[SP]to[SP]talk[SP]anymore...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned[SP]woman\nHe[SP]said...[SP]he'd[SP]grant[SP]my[SP]ideals...[1205][000F][SP]Did[SP]my\ndreams[SP]come[SP]true?[1205][000F][SP]It[SP]doesn't[SP]feel[SP]like[SP]it...[1205][000F]\nNot[SP]that[SP]it[SP]even[SP]matters...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned[SP]woman\nIt's[SP]so[SP]strange...[1205][000F][SP]I[SP]feel[SP]less[SP]and[SP]less\nmotivated...[1205][000F][SP]Even[SP]breathing[SP]is[SP]too[SP]much\ntrouble[SP]now...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned[SP]woman\nNngh...[SP]Uungh...[SP]Nnngh...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned[SP]woman\nNngh...[SP]Uungh...[SP]Nnngh...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned[SP]woman\n......[E1][E2]\n[E3][E4][NULL][NULL]\"Bro\nHey,[SP]how's[SP]it[SP]going?[SP]Check[SP]me[SP]out![SP]Am[SP]I[SP]cool\nor[SP]what?[1205][000F][SP]Anyway,[SP]welcome[SP]to[SP]Bikini[SP]Line!\nWhich[SP]course[SP]did[SP]you[SP]have[SP]in[SP]mind[SP]today?",
         "nom_fr": "Femme bronzée",
-        "texte_fr": "Le salon secret...[1205][000F] C'est ça... J'y suis allée\naussi... Pfiou... C'est trop d'efforts de\nparler...[E1][E2] [E3][E4][NULL][NULL]\"Tanned woman Il a dit... qu'il\nexaucerait mes idéaux... Mes rêves se\nsontréalisés? On ne dirait pas... Pas que ça\nimporte...[E1][E2] [E3][E4][NULL][NULL]\"Tanned woman C'est si bizarre...\nJe suis de moins en moins motivée...\nMêmerespirer est une corvée maintenant...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned woman Nngh... Uungh... Nnngh...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned woman Nngh... Uungh... Nnngh...[E1][E2]\n[E3][E4][NULL][NULL]\"Tanned woman ...... [E1][E2] [E3][E4][NULL][NULL]\"Bro Salut! Regarde-moi\nça! Je suis cool ou quoi? Bienvenue chez\nBikini Line! Quelleséance voulais-tu?"
+        "texte_fr": "Le salon secret...[1205][000F] C'est ça... J'y suis allée\naussi... Pfiou... C'est trop d'efforts de\nparler...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Tanned woman Il a dit... qu'il\nexaucerait mes idéaux... Mes rêves se\nsontréalisés? On ne dirait pas... Pas que ça\nimporte...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Tanned woman C'est si bizarre...\nJe suis de moins en moins motivée...\nMêmerespirer est une corvée maintenant...[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Tanned woman Nngh... Uungh... Nnngh...[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Tanned woman Nngh... Uungh... Nnngh...[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Tanned woman ...... [E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Bro Salut! Regarde-moi\nça! Je suis cool ou quoi? Bienvenue chez\nBikini Line! Quelleséance voulais-tu?"
     },
     {
         "id": 61,
@@ -994,7 +994,7 @@
         "nom_orig": "Bro",
         "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal,[1432][NULL][NULL][0014][SP]our[SP]tanning[SP]beds[SP]will\nrestore[SP]your[SP]HP[SP]and[SP]SP,[SP]plus[SP]cure[SP]any[SP]status\nailments[SP]like[SP]poison[SP]in[SP]the[SP]bargain.",
         "nom_fr": "Mec",
-        "texte_fr": "Si tu choisis [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014], nos cabines te\nrendent tes PV et PC, et guérissent\nles poisons et autres trucs du genre."
+        "texte_fr": "Si tu choisis [1432][NU[E4][NULL][NULL][0014]Soins[1432][NU[E4][NULL][NULL][0014], nos cabines te\nrendent tes PV et PC, et guérissent\nles poisons et autres trucs du genre."
     },
     {
         "id": 65,

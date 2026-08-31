@@ -926,7 +926,7 @@
         "nom_orig": "Count",
         "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can\npurchase[SP]that[SP]category[SP]of[SP]item.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour acheter, choisissez par exemple [1432][NULL][NULL][0014]Acheter\naccessoires [1432][NULL][NULL][0014] pour acheter cette catégorie."
+        "texte_fr": "Pour acheter, choisissez par exemple [1432][NU[E4][NULL][NULL][0014]Acheter\naccessoires [1432][NU[E4][NULL][NULL][0014] pour acheter cette catégorie."
     },
     {
         "id": 55,
@@ -956,7 +956,7 @@
         "nom_orig": "Count",
         "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] pour choisir le type.\nSélectionnez puis quoi vendre."
+        "texte_fr": "Pour vendre. Choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] pour choisir le type.\nSélectionnez puis quoi vendre."
     },
     {
         "id": 57,
@@ -1001,7 +1001,7 @@
         "nom_orig": "Count",
         "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]at[SP]my[SP]store[SP]to\npurchase[SP]weapons.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour acheter, choisissez\n[1432][NULL][NULL][0014]Acheter armes[1432][NULL][NULL][0014] dans ma boutique."
+        "texte_fr": "Pour acheter, choisissez\n[1432][NU[E4][NULL][NULL][0014]Acheter armes[1432][NU[E4][NULL][NULL][0014] dans ma boutique."
     },
     {
         "id": 60,
@@ -1031,7 +1031,7 @@
         "nom_orig": "Count",
         "texte_orig": "Select[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase\naccessories.[SP]Again,[SP]certain[SP]things[SP]can[SP]only[SP]be\nequipped[SP]by[SP]certain[SP]individuals.",
         "nom_fr": "Comte",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour des\naccessoires. Là encore, certains objets\nne sont équipables que par certains."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter accessoires[1432][NU[E4][NULL][NULL][0014] pour des\naccessoires. Là encore, certains objets\nne sont équipables que par certains."
     },
     {
         "id": 62,
@@ -1046,7 +1046,7 @@
         "nom_orig": "Count",
         "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] pour choisir le type.\nSélectionnez puis quoi vendre."
+        "texte_fr": "Pour vendre. Choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] pour choisir le type.\nSélectionnez puis quoi vendre."
     },
     {
         "id": 63,

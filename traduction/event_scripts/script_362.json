@@ -432,7 +432,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "That's[SP]an[SP]interesting[SP]opinion,[SP]Lisa.[SP]Tell[SP]me,\ndo[SP]these[SP][1432][NULL][NULL][0014]weird[SP]friends[1432][NULL][NULL][0014][SP]include[SP]me?",
         "nom_fr": "Yukino",
-        "texte_fr": "Intéressant, Lisa. Ces [1432][NULL][NULL][0014]amies\nbizarres[1432][NULL][NULL][0014] m'incluent-elles?"
+        "texte_fr": "Intéressant, Lisa. Ces [1432][NU[E4][NULL][NULL][0014]amies\nbizarres[1432][NU[E4][NULL][NULL][0014] m'incluent-elles?"
     },
     {
         "id": 29,

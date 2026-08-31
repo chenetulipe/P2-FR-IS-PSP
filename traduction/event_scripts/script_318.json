@@ -199,7 +199,7 @@
         "nom_orig": "Mr.[SP]Tomi",
         "texte_orig": "Select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here[SP]and[SP]through[SP]the[SP]wonder[SP]of[SP]my\nmassage[SP]technique,[SP]your[SP]HP,[SP]SP,[SP]and[SP]any[SP]status\nailments[SP]will[SP]be[SP]cured.",
         "nom_fr": "M. Tomi",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Soigner[1432][NULL][NULL][0014] ici et grâce à\nma technique de massage, vos HP, SP\net altérations d'état seront guéris."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Soigner[1432][NU[E4][NULL][NULL][0014] ici et grâce à\nma technique de massage, vos HP, SP\net altérations d'état seront guéris."
     },
     {
         "id": 12,
@@ -531,7 +531,7 @@
         "nom_orig": "Old[SP]man",
         "texte_orig": "Everyone's[SP]ranting[SP]about[SP][1432][NULL][NULL][0014]Idealians[1432][NULL][NULL][0014][SP]this[SP]and\n[1432][NULL][NULL][0014]Idealians[1432][NULL][NULL][0014][SP]that![SP]Something's[SP]wrong[SP]with[SP]them!",
         "nom_fr": "Vieil homme",
-        "texte_fr": "On parle des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-ci, des\n[1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-là! Un truc cloche chez eux!"
+        "texte_fr": "On parle des [1432][NU[E4][NULL][NULL][0014]Idéaliens[1432][NU[E4][NULL][NULL][0014] par-ci, des\n[1432][NU[E4][NULL][NULL][0014]Idéaliens[1432][NU[E4][NULL][NULL][0014] par-là! Un truc cloche chez eux!"
     },
     {
         "id": 32,

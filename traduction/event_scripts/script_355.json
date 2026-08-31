@@ -42,7 +42,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?\n[1208][0003][1432][NULL][NULL][0014]It's[SP]English.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]French.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]the[SP]voices.[1432][NULL][NULL][0014]",
         "nom_fr": "Eikichi",
-        "texte_fr": "De l'anglais? Ou du français? [1208][0003][1432][NULL][NULL][0014]De l'anglais.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Du\nfrançais.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Les voix.[1432][NULL][NULL][0014]",
+        "texte_fr": "De l'anglais? Ou du français? [1208][0003][1432][NU[E4][NULL][NULL][0014]De l'anglais.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Du\nfrançais.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Les voix.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?",
         "choix_orig": [
             "[0003]",
@@ -828,7 +828,7 @@
         "nom_orig": "Esthetician",
         "texte_orig": "If[SP]you[SP]request[SP]us[SP]to[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]you,[SP]you[SP]can\nrecover[SP]HP,[SP]SP,[SP]and[SP]be[SP]cured[SP]of[SP]any[SP]status\nailments[SP]such[SP]as[SP]poison.",
         "nom_fr": "Esthéticienne",
-        "texte_fr": "En demandant les [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014], vous\nrécupérez vos PV, PM et guérissez\ntout état alté­ré comme le poison."
+        "texte_fr": "En demandant les [1432][NU[E4][NULL][NULL][0014]Soins[1432][NU[E4][NULL][NULL][0014], vous\nrécupérez vos PV, PM et guérissez\ntout état alté­ré comme le poison."
     },
     {
         "id": 53,

@@ -57,7 +57,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "So[SP]what[SP]did[SP]he[SP]give[SP]you,[SP][1113]?[SP]Ooh,[SP]a\n[E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]?[SP]Righteous![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nNow[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][000F][SP]Then[SP]could\nthis[SP]be...?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Alors qu'a-t-il donné, [1113]? Oh, du [E4][NULL][NULL][0004][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]?\nSuper![E1][E2] [E3][E4][NULL][NULL]\"Lisa A y penser, les histoires de\nfantômes sont des rumeurs...[1205][000F] Alors ça veut\ndire...?[1433]"
+        "texte_fr": "Alors qu'a-t-il donné, [1113]? Oh, du [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0002]Thé Brink[E4][NU[E4][NULL][NULL][0002]?\nSuper![E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Lisa A y penser, les histoires de\nfantômes sont des rumeurs...[1205][000F] Alors ça veut\ndire...?[1433]"
     },
     {
         "id": 4,
@@ -207,7 +207,7 @@
         "nom_orig": "Maya",
         "texte_orig": "I[SP]remember[SP]the[SP]rumors[SP]about[SP][1432][NULL][NULL][0014]Hanako[SP]of[SP]the\ntoilets[1432][NULL][NULL][0014][SP]from[SP]when[SP]I[SP]was[SP]a[SP]kid.[1205]([SP]If[SP]she[SP]really\nexists,[SP]that'd[SP]be[SP]a[SP]great[SP]scoop!",
         "nom_fr": "Maya",
-        "texte_fr": "Je me souviens des rumeurs sur [1432][NULL][NULL][0014]Hanako\ndes toilettes[1432][NULL][NULL][0014] quand j'étais gamine.[1205](\nSi elle existe vraiment, quel scoop!"
+        "texte_fr": "Je me souviens des rumeurs sur [1432][NU[E4][NULL][NULL][0014]Hanako\ndes toilettes[1432][NU[E4][NULL][NULL][0014] quand j'étais gamine.[1205](\nSi elle existe vraiment, quel scoop!"
     },
     {
         "id": 14,
@@ -222,7 +222,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Demons[SP]that[SP]show[SP]up[SP]because[SP]of[SP]rumors...\nWhy[SP]don't[SP]we[SP]call[SP]them[SP][E4][NULL][NULL][0006]Rumor[SP]Demons[E4][NULL][NULL][0002][SP]for[SP]now?",
         "nom_fr": "Maya",
-        "texte_fr": "Des démons liés aux rumeurs... On les\nappelle [E4][NULL][NULL][0006]Démons Rumeur[E4][NULL][NULL][0002] pour l'instant?"
+        "texte_fr": "Des démons liés aux rumeurs... On les\nappelle [E4][NU[E4][NULL][NULL][0006]Démons Rumeur[E4][NU[E4][NULL][NULL][0002] pour l'instant?"
     },
     {
         "id": 15,
@@ -432,7 +432,7 @@
         "nom_orig": "Bandaged[SP]male[SP]student",
         "texte_orig": "I-I[SP]saw[SP]her![SP]It[SP]was[SP]really[SP][E4][NULL][NULL][0006]Hanako[E4][NULL][NULL][0002]![1205][001E][SP]I[SP]always\nheard[SP]rumors,[SP]but...[SP]They're[SP]true![SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
         "nom_fr": "Lycéen blessé",
-        "texte_fr": "J-Je l'ai vue! C'était [E4][NULL][NULL][0006]Hanako[E4][NULL][NULL][0002]![1205][001E] J'avais\nentendu des rumeurs, mais... C'est\nvrai! Pourquoi personne me croit!?"
+        "texte_fr": "J-Je l'ai vue! C'était [E4][NU[E4][NULL][NULL][0006]Hanako[E4][NU[E4][NULL][NULL][0002]![1205][001E] J'avais\nentendu des rumeurs, mais... C'est\nvrai! Pourquoi personne me croit!?"
     },
     {
         "id": 29,
@@ -462,7 +462,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "I-I[SP]saw[SP]her![SP]It[SP]was[SP]really[SP][E4][NULL][NULL][0006]Hanako[E4][NULL][NULL][0002]![1205][001E][SP]I[SP]always\nheard[SP]rumors,[SP]but...[SP]They're[SP]true![SP]Why[SP]won't\nanyone[SP]believe[SP]me!?",
         "nom_fr": "Lycéen",
-        "texte_fr": "J-Je l'ai vue! C'était [E4][NULL][NULL][0006]Hanako[E4][NULL][NULL][0002]![1205][001E] J'avais\nentendu des rumeurs, mais... C'est\nvrai! Pourquoi personne me croit!?"
+        "texte_fr": "J-Je l'ai vue! C'était [E4][NU[E4][NULL][NULL][0006]Hanako[E4][NU[E4][NULL][NULL][0002]![1205][001E] J'avais\nentendu des rumeurs, mais... C'est\nvrai! Pourquoi personne me croit!?"
     },
     {
         "id": 31,
@@ -522,7 +522,7 @@
         "nom_orig": "Bandaged[SP]male[SP]student",
         "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
         "nom_fr": "Lycéen blessé",
-        "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
+        "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NU[E4][NULL][NULL][0006]Badge de Hanako[E4][NU[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
     },
     {
         "id": 35,
@@ -537,7 +537,7 @@
         "nom_orig": "Bandaged[SP]male[SP]student",
         "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
         "nom_fr": "Lycéen blessé",
-        "texte_fr": "Pour te remercier, je te donne 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]![1433]"
+        "texte_fr": "Pour te remercier, je te donne 5 [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0002]Thés Brink[E4][NU[E4][NULL][NULL][0002]![1433]"
     },
     {
         "id": 36,
@@ -552,7 +552,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
         "nom_fr": "Lycéen",
-        "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
+        "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NU[E4][NULL][NULL][0006]Badge de Hanako[E4][NU[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
     },
     {
         "id": 37,
@@ -567,7 +567,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
         "nom_fr": "Lycéen",
-        "texte_fr": "En remerciement, 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]![1433]"
+        "texte_fr": "En remerciement, 5 [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0002]Thés Brink[E4][NU[E4][NULL][NULL][0002]![1433]"
     },
     {
         "id": 38,
@@ -657,7 +657,7 @@
         "nom_orig": "Bandaged[SP]female[SP]student",
         "texte_orig": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
         "nom_fr": "Lycéenne blessée",
-        "texte_fr": "Ce gars est comique. Il montre à tout le\nmonde un badge d'école primaire qui dit\n[1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve."
+        "texte_fr": "Ce gars est comique. Il montre à tout le\nmonde un badge d'école primaire qui dit\n[1432][NU[E4][NULL][NULL][0014]Hanako[1432][NU[E4][NULL][NULL][0014] en insistant que c'est la preuve."
     },
     {
         "id": 44,
@@ -672,7 +672,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Ce gars est vraiment comique. Il montre à\ntout le monde un badge d'école primaire qui\ndit [1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve."
+        "texte_fr": "Ce gars est vraiment comique. Il montre à\ntout le monde un badge d'école primaire qui\ndit [1432][NU[E4][NULL][NULL][0014]Hanako[1432][NU[E4][NULL][NULL][0014] en insistant que c'est la preuve."
     },
     {
         "id": 45,

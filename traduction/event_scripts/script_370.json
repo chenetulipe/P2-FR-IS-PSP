@@ -447,7 +447,7 @@
         "nom_orig": "Sister[SP]#2",
         "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
         "nom_fr": "Sœur #2",
-        "texte_fr": "D'abord, acheter. Choisissez [1432][NULL][NULL][0014]Acheter\ndes objets,[1432][NULL][NULL][0014] pour voir nos articles."
+        "texte_fr": "D'abord, acheter. Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter\ndes objets,[1432][NU[E4][NULL][NULL][0014] pour voir nos articles."
     },
     {
         "id": 24,
@@ -477,7 +477,7 @@
         "nom_orig": "Sister[SP]#2",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
         "nom_fr": "Sœur #2",
-        "texte_fr": "Ensuite, vendre. Choisissez [1432][NULL][NULL][0014]Vendre\ndes objets,[1432][NULL][NULL][0014] puis le type d'objet,\npuis l'objet précis à nous vendre."
+        "texte_fr": "Ensuite, vendre. Choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\ndes objets,[1432][NU[E4][NULL][NULL][0014] puis le type d'objet,\npuis l'objet précis à nous vendre."
     },
     {
         "id": 26,

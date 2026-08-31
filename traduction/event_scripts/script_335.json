@@ -462,7 +462,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "First,[SP]you[SP]should[SP]know[SP]that[SP]you[SP]can[SP]buy[SP]armor\nhere[SP]by[SP]selecting[SP][1432][NULL][NULL][0014]Buy[SP]armor.[1432][NULL][NULL][0014]",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Pour acheter des armures,\nsélectionnez [1432][NULL][NULL][0014]Acheter armure.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour acheter des armures,\nsélectionnez [1432][NU[E4][NULL][NULL][0014]Acheter armure.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 25,
@@ -492,7 +492,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Ensuite, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] et vous devrez sélectionner un type\nd'objet. Puis choisissez l'objet à vendre."
+        "texte_fr": "Ensuite, pour vendre. Choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] et vous devrez sélectionner un type\nd'objet. Puis choisissez l'objet à vendre."
     },
     {
         "id": 27,
@@ -552,7 +552,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "First,[SP]you[SP]should[SP]know[SP]that[SP]you[SP]can[SP]buy[SP]armor\nhere[SP]by[SP]selecting[SP][1432][NULL][NULL][0014]Buy[SP]armor.[1432][NULL][NULL][0014]",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Pour acheter des armures,\nsélectionnez [1432][NULL][NULL][0014]Acheter armure.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour acheter des armures,\nsélectionnez [1432][NU[E4][NULL][NULL][0014]Acheter armure.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 31,
@@ -612,7 +612,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Last,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Enfin, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] et vous devrez sélectionner un type\nd'objet. Puis choisissez l'objet à vendre."
+        "texte_fr": "Enfin, pour vendre. Choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] et vous devrez sélectionner un type\nd'objet. Puis choisissez l'objet à vendre."
     },
     {
         "id": 35,

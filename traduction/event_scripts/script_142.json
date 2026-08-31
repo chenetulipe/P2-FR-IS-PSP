@@ -57,7 +57,7 @@
         "nom_orig": "Maya",
         "texte_orig": "The[SP][1432][NULL][NULL][0014]Crawling[SP]Chaos[1432][NULL][NULL][0014][SP]again...[1205][001E][SP]What[SP]exactly\nare[SP]you[SP]talking[SP]about?[1205][001E]",
         "nom_fr": "Maya",
-        "texte_fr": "Le [1432][NULL][NULL][0014]Chaos Rampant[1432][NULL][NULL][0014]...[1205][001E] De quoi\nvous parlez exactement?[1205][001E]"
+        "texte_fr": "Le [1432][NU[E4][NULL][NULL][0014]Chaos Rampant[1432][NU[E4][NULL][NULL][0014]...[1205][001E] De quoi\nvous parlez exactement?[1205][001E]"
     },
     {
         "id": 4,
@@ -222,7 +222,7 @@
         "nom_orig": "Hermes",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Hermes[E4][NULL][NULL][0002]...[1205][001E][SP]Giver[SP]of[SP]fortune[SP]and[SP]fame,[SP]and\nherald[SP]of[SP]souls...[1205][001E][SP]To[SP]my[SP]alter[SP]ego:[SP]Love[SP]thy\nneighbor[SP]with[SP]a[SP]selflessness[SP]like[SP]the[SP]wind's...",
         "nom_fr": "Hermès",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Hermès[E4][NULL][NULL][0002]...[1205][001E] Donneur de fortune et de\ngloire, héraut des âmes...[1205][001E] À mon alter égo:\nAime ton voisin, incarne le vent\nded'altruisme... Le stock de Personae est\nplein. Libérez un emplacement.[E4][NULL][NULL]"
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Hermès[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Donneur de fortune et de\ngloire, héraut des âmes...[1205][001E] À mon alter égo:\nAime ton voisin, incarne le vent\nded'altruisme... Le stock de Personae est\nplein. Libérez un emplacement.[E4][NU[E4][NULL][NULL]"
     },
     {
         "id": 15,
@@ -267,7 +267,7 @@
         "nom_orig": "Apollo",
         "texte_orig": "I[SP]am[SP]thou...[SP]Thou[SP]art[SP]I...[1205][001E][SP]From[SP]the[SP]sea[SP]of\nthy[SP]soul[SP]I[SP]cometh...[1205][001E][SP]Ruler[SP]of[SP]the[SP]blazing[SP]sun\nand[SP]blue[SP]skies,[SP][E4][NULL][NULL][0005]Apollo[E4][NULL][NULL][0002]...",
         "nom_fr": "Apollo",
-        "texte_fr": "Je suis toi... Tu es moi...[1205][001E] Arrivé depuis\nl'océan de ton âme...[1205][001E] Souverain du soleil\nembrasé, des cieux azurés, [E4][NULL][NULL][0005]Apollo[E4][NULL][NULL][0002]..."
+        "texte_fr": "Je suis toi... Tu es moi...[1205][001E] Arrivé depuis\nl'océan de ton âme...[1205][001E] Souverain du soleil\nembrasé, des cieux azurés, [E4][NU[E4][NULL][NULL][0005]Apollo[E4][NU[E4][NULL][NULL][0002]..."
     },
     {
         "id": 18,
@@ -282,7 +282,7 @@
         "nom_orig": "Artemis",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Artemis[E4][NULL][NULL][0002]...[1205][001E][SP]The[SP]moon[SP]goddess[SP]who\nilluminates[SP]your[SP]twilight[SP]virtue...[1205][001E][SP]My[SP]purer\nhalf,[SP]do[SP]not[SP]be[SP]bashful[SP]of[SP]your[SP]destiny.",
         "nom_fr": "Artémis",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Artémis[E4][NULL][NULL][0002]...[1205][001E] Déesse sélène illuminant\nta vertu crépusculaire...[1205][001E] Toi, ma pure\nmoitié, ne craint pas ta destinée."
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Artémis[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Déesse sélène illuminant\nta vertu crépusculaire...[1205][001E] Toi, ma pure\nmoitié, ne craint pas ta destinée."
     },
     {
         "id": 19,
@@ -297,7 +297,7 @@
         "nom_orig": "Venus",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Venus[E4][NULL][NULL][0002]...[1205][001E][SP]Goddess[SP]of[SP]fertility[SP]about\nwhom[SP]beauty[SP]and[SP]love[SP]dance...[1205][001E][SP]I[SP]am[SP]you...\nYou[SP]are[SP]me...[SP]Let[SP]us[SP]become[SP]one...",
         "nom_fr": "Vénus",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Vénus[E4][NULL][NULL][0002]...[1205][001E] Déesse de la fertilité,\namour et beauté dansent avec moi.[1205][001E] Je\nsuis toi... tu es moi... Devenons un..."
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Vénus[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Déesse de la fertilité,\namour et beauté dansent avec moi.[1205][001E] Je\nsuis toi... tu es moi... Devenons un..."
     },
     {
         "id": 20,
@@ -312,7 +312,7 @@
         "nom_orig": "Hades",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Hades[E4][NULL][NULL][0002]...[1205][001E][SP]King[SP]of[SP]the[SP]underworld[SP]who[SP]judges\nthe[SP]evil[SP]and[SP]the[SP]righteous[SP]alike.[1205][001E][SP]I[SP]am[SP]thou...\nThou[SP]art[SP]I...[SP]Let[SP]us[SP]walk[SP]this[SP]path[SP]together...",
         "nom_fr": "Hadès",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Hadès[E4][NULL][NULL][0002]...[1205][001E] Roi des enfers, jugeant\nles vils comme les vertueux.[1205][001E] Je suis toi...\nTu es moi... Marchons côte à côte..."
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Hadès[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Roi des enfers, jugeant\nles vils comme les vertueux.[1205][001E] Je suis toi...\nTu es moi... Marchons côte à côte..."
     },
     {
         "id": 21,
@@ -417,7 +417,7 @@
         "nom_orig": "Maya",
         "texte_orig": "The[SP][1432][NULL][NULL][0014]Crawling[SP]Chaos[1432][NULL][NULL][0014][SP]again...[1205][001E][SP]What[SP]exactly\nare[SP]you[SP]talking[SP]about?[1205][001E]",
         "nom_fr": "Maya",
-        "texte_fr": "Le [1432][NULL][NULL][0014]Chaos Rampant[1432][NULL][NULL][0014]...[1205][001E] De quoi\nvous parlez exactement?[1205][001E]"
+        "texte_fr": "Le [1432][NU[E4][NULL][NULL][0014]Chaos Rampant[1432][NU[E4][NULL][NULL][0014]...[1205][001E] De quoi\nvous parlez exactement?[1205][001E]"
     },
     {
         "id": 28,
@@ -627,7 +627,7 @@
         "nom_orig": "Hermes",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Hermes[E4][NULL][NULL][0002]...[1205][001E][SP]Giver[SP]of[SP]fortune[SP]and[SP]fame,[SP]and\nherald[SP]of[SP]souls...[1205][001E][SP]To[SP]my[SP]alter[SP]ego:[SP]Love[SP]thy\nneighbor[SP]with[SP]a[SP]selflessness[SP]like[SP]the[SP]wind's...",
         "nom_fr": "Hermès",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Hermès[E4][NULL][NULL][0002]...[1205][001E] Donneur de fortune et de\ngloire, héraut des âmes...[1205][001E] À mon alter égo:\nAime ton voisin, incarne le vent\nded'altruisme... Le stock de Personae est\nplein. Libérez un emplacement.[E4][NULL][NULL]"
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Hermès[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Donneur de fortune et de\ngloire, héraut des âmes...[1205][001E] À mon alter égo:\nAime ton voisin, incarne le vent\nded'altruisme... Le stock de Personae est\nplein. Libérez un emplacement.[E4][NU[E4][NULL][NULL]"
     },
     {
         "id": 42,
@@ -672,7 +672,7 @@
         "nom_orig": "Apollo",
         "texte_orig": "I[SP]am[SP]thou...[SP]Thou[SP]art[SP]I...[1205][001E][SP]From[SP]the[SP]sea[SP]of\nthy[SP]soul[SP]I[SP]cometh...[1205][001E][SP]Ruler[SP]of[SP]the[SP]blazing[SP]sun\nand[SP]blue[SP]skies,[SP][E4][NULL][NULL][0005]Apollo[E4][NULL][NULL][0002]...",
         "nom_fr": "Apollo",
-        "texte_fr": "Je suis toi... Tu es moi...[1205][001E] Venu depuis\nl'océan de ton âme...[1205][001E] Souverain du\nsoleil ardent, du ciel azure, [E4][NULL][NULL][0005]Apollo[E4][NULL][NULL][0002]..."
+        "texte_fr": "Je suis toi... Tu es moi...[1205][001E] Venu depuis\nl'océan de ton âme...[1205][001E] Souverain du\nsoleil ardent, du ciel azure, [E4][NU[E4][NULL][NULL][0005]Apollo[E4][NU[E4][NULL][NULL][0002]..."
     },
     {
         "id": 45,
@@ -687,7 +687,7 @@
         "nom_orig": "Artemis",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Artemis[E4][NULL][NULL][0002]...[1205][001E][SP]The[SP]moon[SP]goddess[SP]who\nilluminates[SP]your[SP]twilight[SP]virtue...[1205][001E][SP]My[SP]purer\nhalf,[SP]do[SP]not[SP]be[SP]bashful[SP]of[SP]your[SP]destiny.",
         "nom_fr": "Artémis",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Artémis[E4][NULL][NULL][0002]...[1205][001E] Déesse sélène illuminant\nta vertu crépusculaire...[1205][001E] Toi, ma pure\nmoitié, ne craint pas ta destinée."
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Artémis[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Déesse sélène illuminant\nta vertu crépusculaire...[1205][001E] Toi, ma pure\nmoitié, ne craint pas ta destinée."
     },
     {
         "id": 46,
@@ -702,7 +702,7 @@
         "nom_orig": "Venus",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Venus[E4][NULL][NULL][0002]...[1205][001E][SP]Goddess[SP]of[SP]fertility[SP]about\nwhom[SP]beauty[SP]and[SP]love[SP]dance...[1205][001E][SP]I[SP]am[SP]you...\nYou[SP]are[SP]me...[SP]Let[SP]us[SP]become[SP]one...",
         "nom_fr": "Vénus",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Vénus[E4][NULL][NULL][0002]...[1205][001E] Déesse de la fertilité,\namour et beauté dansent avec moi.[1205][001E] Je\nsuis toi... tu es moi... Devenons un..."
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Vénus[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Déesse de la fertilité,\namour et beauté dansent avec moi.[1205][001E] Je\nsuis toi... tu es moi... Devenons un..."
     },
     {
         "id": 47,
@@ -717,6 +717,6 @@
         "nom_orig": "Hades",
         "texte_orig": "I[SP]am[SP][E4][NULL][NULL][0005]Hades[E4][NULL][NULL][0002]...[1205][001E][SP]King[SP]of[SP]the[SP]underworld[SP]who[SP]judges\nthe[SP]evil[SP]and[SP]the[SP]righteous[SP]alike.[1205][001E][SP]I[SP]am[SP]thou...\nThou[SP]art[SP]I...[SP]Let[SP]us[SP]walk[SP]this[SP]path[SP]together...",
         "nom_fr": "Hadès",
-        "texte_fr": "Je suis [E4][NULL][NULL][0005]Hadès[E4][NULL][NULL][0002]...[1205][001E] Roi des enfers, jugeant\nles vils comme les vertueux.[1205][001E] Je suis toi...\nTu es moi... Marchons côte à côte..."
+        "texte_fr": "Je suis [E4][NU[E4][NULL][NULL][0005]Hadès[E4][NU[E4][NULL][NULL][0002]...[1205][001E] Roi des enfers, jugeant\nles vils comme les vertueux.[1205][001E] Je suis toi...\nTu es moi... Marchons côte à côte..."
     }
 ]

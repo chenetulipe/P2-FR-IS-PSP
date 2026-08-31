@@ -282,7 +282,7 @@
         "nom_orig": "Little[SP]Chii",
         "texte_orig": "Oh[SP]yeah,[SP]now[SP]I[SP]remember![SP]It's[SP]called[SP]a[SP][E4][NULL][NULL][0006]Dresser\nHag[E4][NULL][NULL][0002]![SP]It[SP]yelled[SP]at[SP]me[SP]real[SP]loud[SP]to[SP]climb[SP]inside!",
         "nom_fr": "Petite Chii",
-        "texte_fr": "Ah oui! Ça s'appelle une [E4][NULL][NULL][0006]Vieille du Tiroir[E4][NULL][NULL][0002]!\nElle m'a crié très fort de monter dedans!"
+        "texte_fr": "Ah oui! Ça s'appelle une [E4][NU[E4][NULL][NULL][0006]Vieille du Tiroir[E4][NU[E4][NULL][NULL][0002]!\nElle m'a crié très fort de monter dedans!"
     },
     {
         "id": 19,
@@ -297,7 +297,7 @@
         "nom_orig": "Little[SP]Chii",
         "texte_orig": "It[SP]happened[SP]at[SP]the[SP][E4][NULL][NULL][0006]abandoned[SP]factory[E4][NULL][NULL][0002]!\nBut[SP]this[SP]officer[SP]won't[SP]believe[SP]me...",
         "nom_fr": "Petite Chii",
-        "texte_fr": "C'est arrivé dans la [E4][NULL][NULL][0006]fabrique\nabandonnée[E4][NULL][NULL][0002]! Cet agent ne me croit pas..."
+        "texte_fr": "C'est arrivé dans la [E4][NU[E4][NULL][NULL][0006]fabrique\nabandonnée[E4][NU[E4][NULL][NULL][0002]! Cet agent ne me croit pas..."
     },
     {
         "id": 20,
@@ -312,7 +312,7 @@
         "nom_orig": "Little[SP]Chii",
         "texte_orig": "I[SP]wish[SP]I[SP]had[SP]some[SP][1432][NULL][NULL][0014]hard[SP]evidence[1432][NULL][NULL][0014]...[SP]Then[SP]he'd\nlisten...[SP]But[SP]I[SP]don't.[SP]And[SP]I'm[SP]scared!",
         "nom_fr": "Petite Chii",
-        "texte_fr": "J'veux des [1432][NULL][NULL][0014]preuves concrètes[1432][NULL][NULL][0014]... Il\nm'écouterait... Mais j'en ai pas. J'ai peur!"
+        "texte_fr": "J'veux des [1432][NU[E4][NULL][NULL][0014]preuves concrètes[1432][NU[E4][NULL][NULL][0014]... Il\nm'écouterait... Mais j'en ai pas. J'ai peur!"
     },
     {
         "id": 21,
@@ -357,7 +357,7 @@
         "nom_orig": "Little[SP]Chii",
         "texte_orig": "Here,[SP]you[SP]can[SP]have[SP]my[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Incense[SP]Card[SP]set[E4][NULL][NULL][0002].[1205][000F]\nIt[SP]took[SP]a[SP]long[SP]time[SP]for[SP]me[SP]to[SP]collect[SP]all\nthose![1205][000F][SP]Take[SP]good[SP]care[SP]of[SP]them.",
         "nom_fr": "Petite Chii",
-        "texte_fr": "Tiens, tu peux avoir mon [E4][NULL][NULL][0004][NULL][NULL][0004]kit de Cartes\n[1205][000F]Encens[E4][NULL][NULL][0002]. Ça m'a pris longtemps de\ntout collecter! Prends-en bien soin.[1433]"
+        "texte_fr": "Tiens, tu peux avoir mon [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0004]kit de Cartes\n[1205][000F]Encens[E4][NU[E4][NULL][NULL][0002]. Ça m'a pris longtemps de\ntout collecter! Prends-en bien soin.[1433]"
     },
     {
         "id": 24,
@@ -372,7 +372,7 @@
         "nom_orig": "Little[SP]Chii",
         "texte_orig": "Look,[SP]officer![1205][000F][SP]I[SP]got[SP][1432][NULL][NULL][0014]hard[SP]evidence[1432][NULL][NULL][0014]![1205][000F][SP]Now[SP]you\nhave[SP]to[SP]believe[SP]me!",
         "nom_fr": "Petite Chii",
-        "texte_fr": "Regardez! [1205][000F]J'ai des [1432][NULL][NULL][0014]preuves![1432][NULL][NULL][0014]\nMaintenant vous devez me croire!"
+        "texte_fr": "Regardez! [1205][000F]J'ai des [1432][NU[E4][NULL][NULL][0014]preuves![1432][NU[E4][NULL][NULL][0014]\nMaintenant vous devez me croire!"
     },
     {
         "id": 25,
@@ -742,7 +742,7 @@
         "nom_orig": "Coppy",
         "texte_orig": "Here's[SP]a[SP]gift[SP]as[SP]thanks![1205][000F][SP]It's[SP]an[SP][E4][NULL][NULL][0004]Incense[SP]Set[E4][NULL][NULL][0002]![1205][000F]\nTwo[SP]of[SP]each[SP]kind![SP]Arf!",
         "nom_fr": "Coppy",
-        "texte_fr": "Cadeau! [1205][000F]Un [E4][NULL][NULL][0004]Kit d'Encens[E4][NULL][NULL][0002]!\nDeux de chaque sorte! Ouaf!"
+        "texte_fr": "Cadeau! [1205][000F]Un [E4][NU[E4][NULL][NULL][0004]Kit d'Encens[E4][NU[E4][NULL][NULL][0002]!\nDeux de chaque sorte! Ouaf!"
     },
     {
         "id": 49,

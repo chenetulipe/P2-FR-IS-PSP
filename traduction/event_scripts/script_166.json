@@ -42,7 +42,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Philemon[SP]said[SP][1432][NULL][NULL][0014]someone[1432][NULL][NULL][0014][SP]is[SP]making[SP]rumors\ncome[SP]true...[1205][001E][SP]But[SP]did[SP]he[SP]mean[SP]Jun's[SP]father?",
         "nom_fr": "Ginko",
-        "texte_fr": "D'après Philémon, [1432][NULL][NULL][0014]quelqu'un[1432][NULL][NULL][0014] rend les\nrumeurs réelles...[1205][001E] Ce serait le père de Jun?"
+        "texte_fr": "D'après Philémon, [1432][NU[E4][NULL][NULL][0014]quelqu'un[1432][NU[E4][NULL][NULL][0014] rend les\nrumeurs réelles...[1205][001E] Ce serait le père de Jun?"
     },
     {
         "id": 3,

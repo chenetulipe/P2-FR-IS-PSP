@@ -364,7 +364,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Some[SP]people[SP]been[SP]sayin'[SP][E4][NULL][NULL][0006]I[SP]sell[SP]a[SP]legendary\ncase[SP]here[E4][NULL][NULL][0002],[SP]right?[1205][000F][SP]Who'd[SP]go[SP]startin'[SP]a[SP]rumor\nlike[SP]that?",
         "nom_fr": "Patronne",
-        "texte_fr": "Certains disent [E4][NULL][NULL][0006]que je vends un\nétui légendaire[E4][NULL][NULL][0002], pas vrai? [1205][000F]Qui\na pu lancer une telle rumeur?"
+        "texte_fr": "Certains disent [E4][NU[E4][NULL][NULL][0006]que je vends un\nétui légendaire[E4][NU[E4][NULL][NULL][0002], pas vrai? [1205][000F]Qui\na pu lancer une telle rumeur?"
     },
     {
         "id": 19,
@@ -439,7 +439,7 @@
         "nom_orig": "Washout[SP]student",
         "texte_orig": "Man,[SP]I[SP]just[SP]saw[SP]something[SP]that[SP]scared[SP]the[SP]life\nout[SP]of[SP]me.[1205][000F][SP]You[SP]know[SP]how[SP]that[SP]weird[SP]building\nshowed[SP]up[SP]where[SP]Smile[SP]Hirasaka[SP]was?[E1][E2]\n[E3][E4][NULL][NULL]\"Washout[SP]student\nTons[SP]of[SP]those[SP]soldiers[SP]from[SP]the[SP]Last[SP]Whatever\nwent[SP]in[SP]there.[1205][000F][SP]Then[SP]the[SP]Masked[SP]Circle[SP]guys\nrushed[SP]in[SP]to[SP]follow[SP]them.",
         "nom_fr": "Lycéen raté",
-        "texte_fr": "Mec, j'ai vu un truc terrifiant. Tu vois cet\n[1205][000F]immeuble bizarre là où était le Smile\nHirasaka?[E1][E2] [E3][E4][NULL][NULL]\"Lycéen en échec Pleins de soldats\ndu Bata-truc y sont entrés. Et juste après\nlesgars du Cercle Masqué les ont suivis\ndedans."
+        "texte_fr": "Mec, j'ai vu un truc terrifiant. Tu vois cet\n[1205][000F]immeuble bizarre là où était le Smile\nHirasaka?[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Lycéen en échec Pleins de soldats\ndu Bata-truc y sont entrés. Et juste après\nlesgars du Cercle Masqué les ont suivis\ndedans."
     },
     {
         "id": 24,
@@ -754,7 +754,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "I'm[SP]begging[SP]you![SP]Say[SP]it[SP]ain't[SP]so!\n[1208][0002][1432][NULL][NULL][0014]Good[SP]luck.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Don't[SP]force[SP]yourself.[1432][NULL][NULL][0014]",
         "nom_fr": "Eikichi",
-        "texte_fr": "Pitié! Dis que tu le ferais pas!\n[1208][0002][1432][NULL][NULL][0014]Courage. [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ne te forces pas. [1432][NULL][NULL][0014]",
+        "texte_fr": "Pitié! Dis que tu le ferais pas!\n[1208][0002][1432][NU[E4][NULL][NULL][0014]Courage. [1432][NU[E4][NULL][NULL][0014]\n[1432][NU[E4][NULL][NULL][0014]Ne te forces pas. [1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "I'm[SP]begging[SP]you![SP]Say[SP]it[SP]ain't[SP]so!",
         "choix_orig": [
             "Good[SP]luck.",
@@ -870,7 +870,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "...Fine...[1205][000F][SP]It[SP]doesn't[SP]change[SP]anything...[1205][000F]\nAlright,[SP]here[SP]goes!",
         "nom_fr": "Eikichi",
-        "texte_fr": "... D'accord...[1205][000F] Bah, ça change rien... Bien,\nc'est parti![E3] Eikichi mange...[E2][E1][E2] [E3][E4][NULL][NULL]\"Eikichi J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
+        "texte_fr": "... D'accord...[1205][000F] Bah, ça change rien... Bien,\nc'est parti![E3] Eikichi mange...[E2][E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Eikichi J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
     },
     {
         "id": 52,
@@ -1045,7 +1045,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Let[SP]me[SP]explain[SP]buyin'[SP]to[SP]you[SP]first.[SP]Choose\n[1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]here[SP]and[SP]I'll[SP]sell[SP]you[SP]some.",
         "nom_fr": "Patronne",
-        "texte_fr": "Pour acheter, choisis [1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014]\net je te montre les armes."
+        "texte_fr": "Pour acheter, choisis [1432][NU[E4][NULL][NULL][0014]Acheter[1432][NU[E4][NULL][NULL][0014]\net je te montre les armes."
     },
     {
         "id": 63,
@@ -1075,7 +1075,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Then[SP]there's[SP]sellin'.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014]\nand[SP]then[SP]which[SP]kinda[SP]item[SP]you[SP]wanna[SP]sell.\nThen[SP]choose[SP]somethin'[SP]to[SP]sell[SP]me.",
         "nom_fr": "Patronne",
-        "texte_fr": "Puis y'a la vente. Choisis [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014]\npuis une catégorie d'objet à vendre.\nEnfin, choisis un truc à me vendre."
+        "texte_fr": "Puis y'a la vente. Choisis [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014]\npuis une catégorie d'objet à vendre.\nEnfin, choisis un truc à me vendre."
     },
     {
         "id": 65,
@@ -1120,7 +1120,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Thinkin'[SP]of[SP]dining[SP]in,[SP]huh?[SP]Select[SP][1432][NULL][NULL][0014]Dine[SP]in[1432][NULL][NULL][0014]\nhere[SP]if[SP]you[SP]want[SP]some[SP]of[SP]my[SP]ramen.",
         "nom_fr": "Patronne",
-        "texte_fr": "Envie de manger un bout, hein?\nChoisis [1432][NULL][NULL][0014]Manger[1432][NULL][NULL][0014] pour goûter mes ramen."
+        "texte_fr": "Envie de manger un bout, hein?\nChoisis [1432][NU[E4][NULL][NULL][0014]Manger[1432][NU[E4][NULL][NULL][0014] pour goûter mes ramen."
     },
     {
         "id": 68,

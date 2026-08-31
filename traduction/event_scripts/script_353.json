@@ -192,7 +192,7 @@
         "nom_orig": "Maya",
         "texte_orig": "[1432][NULL][NULL][0014]Joker,[1432][NULL][NULL][0014][SP]huh?[1205][000F][SP]What's[SP]the[SP]Masked[SP]Circle's[SP]game,\nmaking[SP]Lisa[SP]sing[SP]a[SP]song[SP]like[SP]that...?",
         "nom_fr": "Maya",
-        "texte_fr": "[1432][NULL][NULL][0014]Joker,[1432][NULL][NULL][0014] hein? [1205][000F]Quel jeu joue le Cercle\nmasqué en faisant chanter ça à Lisa...?"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Joker,[1432][NU[E4][NULL][NULL][0014] hein? [1205][000F]Quel jeu joue le Cercle\nmasqué en faisant chanter ça à Lisa...?"
     },
     {
         "id": 13,
@@ -492,7 +492,7 @@
         "nom_orig": "Aloof[SP]man",
         "texte_orig": "Like[SP]just[SP]now.[SP][1432][NULL][NULL][0014]Visitors[SP]From[SP]The[SP]Sky:[SP]Are\nThey[SP]After[SP]Sumaru's[SP]Hidden[SP]Treasure?[1432][NULL][NULL][0014]\nDo[SP]they[SP]WANT[SP]to[SP]send[SP]the[SP]city[SP]into[SP]a[SP]panic?",
         "nom_fr": "Homme distant",
-        "texte_fr": "Comme là: [1432][NULL][NULL][0014]Visiteurs du ciel: veulent-ils\nle trésor caché de Sumaru?[1432][NULL][NULL][0014] Ils\nVEULENT paniquer la ville ou quoi?"
+        "texte_fr": "Comme là: [1432][NU[E4][NULL][NULL][0014]Visiteurs du ciel: veulent-ils\nle trésor caché de Sumaru?[1432][NU[E4][NULL][NULL][0014] Ils\nVEULENT paniquer la ville ou quoi?"
     },
     {
         "id": 33,
@@ -1047,7 +1047,7 @@
         "nom_orig": "Sister[SP]#1",
         "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
         "nom_fr": "Sœur #1",
-        "texte_fr": "D'abord, acheter. Choisissez\n[1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014] pour parcourir nos articles."
+        "texte_fr": "D'abord, acheter. Choisissez\n[1432][NU[E4][NULL][NULL][0014]Acheter[1432][NU[E4][NULL][NULL][0014] pour parcourir nos articles."
     },
     {
         "id": 64,
@@ -1077,7 +1077,7 @@
         "nom_orig": "Sister[SP]#1",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
         "nom_fr": "Sœur #1",
-        "texte_fr": "Ensuite, vendre. Choisissez [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014], puis le\ntype d'objet, puis l'objet à nous vendre."
+        "texte_fr": "Ensuite, vendre. Choisissez [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014], puis le\ntype d'objet, puis l'objet à nous vendre."
     },
     {
         "id": 66,

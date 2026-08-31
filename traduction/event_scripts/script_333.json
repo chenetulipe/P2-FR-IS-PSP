@@ -192,7 +192,7 @@
         "nom_orig": "Maya",
         "texte_orig": "I[SP]wonder[SP]what[SP]Brown-san[SP]meant[SP]by[SP][1432][NULL][NULL][0014]tin[SP]men[1432][NULL][NULL][0014]...[1205][000F]\nDoes[SP]he[SP]know[SP]something...?",
         "nom_fr": "Maya",
-        "texte_fr": "Que veut dire Brown par [1432][NULL][NULL][0014]hommes de\nfer[1432][NULL][NULL][0014]...[1205][000F] Il saurait quelque chose?"
+        "texte_fr": "Que veut dire Brown par [1432][NU[E4][NULL][NULL][0014]hommes de\nfer[1432][NU[E4][NULL][NULL][0014]...[1205][000F] Il saurait quelque chose?"
     },
     {
         "id": 13,
@@ -553,7 +553,7 @@
         "nom_orig": "Tony",
         "texte_orig": "But[SP]the[SP]In[SP]Lak'ech,[SP]it[SP]come[SP]true![SP]Am[SP]I[SP]gonna\nbe[SP]an[SP]Idealian?[1205][000F][SP]Oh,[SP]so[SP]much[SP]fun[SP]that[SP]would[SP]be!",
         "nom_fr": "Tony",
-        "texte_fr": "Mais l'In Lak'ech, ça s'est réalisé!\nJe vais devenir 000F]devenir un\nIdéalien? Oh, ce serait super!"
+        "texte_fr": "Mais l'In Lak'ech, ça s'est réalisé!\nJe vais devenir [1205][000F]devenir un\nIdéalien? Oh, ce serait super!"
     },
     {
         "id": 29,
@@ -1198,7 +1198,7 @@
         "nom_orig": "Tony",
         "texte_orig": "First,[SP]how[SP]to[SP]buy[SP]my[SP]things.[SP]You[SP]gotta[SP]start\nby[SP]choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories.[1432][NULL][NULL][0014]",
         "nom_fr": "Tony",
-        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NULL][NULL][0014]Accessoires.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NU[E4][NULL][NULL][0014]Accessoires.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 70,
@@ -1228,7 +1228,7 @@
         "nom_orig": "Tony",
         "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nyou[SP]picka[SP]kind[SP]of[SP]item.[SP]After[SP]that,[SP]you[SP]choose\nwhat[SP]you[SP]wanna[SP]sell[SP]me.",
         "nom_fr": "Tony",
-        "texte_fr": "Ensuite, la vente. Choisis [1432][NULL][NULL][0014]Vendre\nitems[1432][NULL][NULL][0014] puis un type d'objet.\nEnfin, ce que tu veux me vendre."
+        "texte_fr": "Ensuite, la vente. Choisis [1432][NU[E4][NULL][NULL][0014]Vendre\nitems[1432][NU[E4][NULL][NULL][0014] puis un type d'objet.\nEnfin, ce que tu veux me vendre."
     },
     {
         "id": 72,
@@ -1288,7 +1288,7 @@
         "nom_orig": "Tony",
         "texte_orig": "First,[SP]how[SP]you[SP]buy.[SP]You[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014]\nyou[SP]can[SP]buy[SP]some'a[SP]my[SP]weapons.",
         "nom_fr": "Tony",
-        "texte_fr": "D'abord, tu choisis [1432][NULL][NULL][0014]Armes,[1432][NULL][NULL][0014]\npour acheter des armes."
+        "texte_fr": "D'abord, tu choisis [1432][NU[E4][NULL][NULL][0014]Armes,[1432][NU[E4][NULL][NULL][0014]\npour acheter des armes."
     },
     {
         "id": 76,
@@ -1318,7 +1318,7 @@
         "nom_orig": "Tony",
         "texte_orig": "First,[SP]how[SP]to[SP]buy[SP]my[SP]things.[SP]You[SP]gotta[SP]start\nby[SP]choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories.[1432][NULL][NULL][0014]",
         "nom_fr": "Tony",
-        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NULL][NULL][0014]Accessoires.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NU[E4][NULL][NULL][0014]Accessoires.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 78,
@@ -1348,7 +1348,7 @@
         "nom_orig": "Tony",
         "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nyou[SP]picka[SP]kind[SP]of[SP]item.[SP]After[SP]that,[SP]you[SP]choose\nwhat[SP]you[SP]wanna[SP]sell[SP]me.",
         "nom_fr": "Tony",
-        "texte_fr": "Ensuite, la vente. Choisis [1432][NULL][NULL][0014]Vendre\nitems[1432][NULL][NULL][0014] puis un type d'objet.\nEnfin, ce que tu veux me vendre."
+        "texte_fr": "Ensuite, la vente. Choisis [1432][NU[E4][NULL][NULL][0014]Vendre\nitems[1432][NU[E4][NULL][NULL][0014] puis un type d'objet.\nEnfin, ce que tu veux me vendre."
     },
     {
         "id": 80,

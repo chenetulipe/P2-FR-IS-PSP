@@ -687,7 +687,7 @@
         "nom_orig": "Sister[SP]#3",
         "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
         "nom_fr": "Sœur #3",
-        "texte_fr": "D'abord, les achats. Si vous choisissez\n[1432][NULL][NULL][0014] Acheter,[1432][NULL][NULL][0014] choisissez parmi nos articles."
+        "texte_fr": "D'abord, les achats. Si vous choisissez\n[1432][NU[E4][NULL][NULL][0014] Acheter,[1432][NU[E4][NULL][NULL][0014] choisissez parmi nos articles."
     },
     {
         "id": 40,
@@ -717,7 +717,7 @@
         "nom_orig": "Sister[SP]#3",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
         "nom_fr": "Sœur #3",
-        "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] puis\nle type, puis l'article précis."
+        "texte_fr": "Pour vendre, choisissez [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014] puis\nle type, puis l'article précis."
     },
     {
         "id": 42,

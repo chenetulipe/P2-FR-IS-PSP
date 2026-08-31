@@ -327,7 +327,7 @@
         "nom_orig": "Concert[SP]staff",
         "texte_orig": "Do[SP]you[SP]want[SP]to[SP]buy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?\n[1208][0002][1432][NULL][NULL][0014]Yes.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Nah,[SP]never[SP]mind.[1432][NULL][NULL][0014]",
         "nom_fr": "Personnel",
-        "texte_fr": "Tu veux acheter nos badges pour 10,000  yen?\n[1208][0002][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Nan, j'en veux plus.[1432][NULL][NULL][0014]",
+        "texte_fr": "Tu veux acheter nos badges pour 10,000  yen?\n[1208][0002][1432][NU[E4][NULL][NULL][0014]Oui.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Nan, j'en veux plus.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "Do[SP]you[SP]want[SP]to[SP]buy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?",
         "choix_orig": [
             "Yes.",
@@ -353,7 +353,7 @@
         "nom_orig": "Concert[SP]staff",
         "texte_orig": "A-Alright,[SP]it's[SP]a[SP]deal.[SP]Here[SP]y'go,[SP]our\n[E4][NULL][NULL][0006]employee[SP]badges[E4][NULL][NULL][0002].[SP]Make[SP]sure[SP]you[SP]do[SP]your[SP]jobs!\nWe're[SP]counting[SP]on[SP]you!",
         "nom_fr": "Personnel",
-        "texte_fr": "D'Acc-D'accord, c'est un marché.\nVoilà, nos [E4][NULL][NULL][0006]badges d'employés[E4][NULL][NULL][0002]. Fait\ndu bon travail! On compte sur toi!"
+        "texte_fr": "D'Acc-D'accord, c'est un marché.\nVoilà, nos [E4][NU[E4][NULL][NULL][0006]badges d'employés[E4][NU[E4][NULL][NULL][0002]. Fait\ndu bon travail! On compte sur toi!"
     },
     {
         "id": 23,

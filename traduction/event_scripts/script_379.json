@@ -207,7 +207,7 @@
         "nom_orig": "Maya",
         "texte_orig": "This[SP]song...[1205][000F][SP]It's[SP]intolerable![1205][000F][SP]Let's[SP]leave\nthis[SP]place[SP]at[SP]once,[SP][1113]-kun![E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nThis[SP]brings[SP]back[SP]memories...[1205][001E][SP]This[SP]place[SP]was[SP]a\nhuge[SP]help[SP]for[SP]me[SP]and[SP]my[SP]friends[SP]when[SP]we[SP]were\nyounger.[1205][001E][SP]It[SP]was[SP]fun,[SP]despite[SP]everything.",
         "nom_fr": "Maya",
-        "texte_fr": "Cette chanson...[1205][000F] Insupportable! Partons d'ici\ntout de suite, [1113]![E1][E2] [E3][E4][NULL][NULL]\"Yukino Cela me rappelle des\nsouvenirs...[1205][001E] Cet endroit a beaucoup aidé mes\namis et moi dans notrejeunesse.[1205][001E] C'était bien,\nmalgré tout."
+        "texte_fr": "Cette chanson...[1205][000F] Insupportable! Partons d'ici\ntout de suite, [1113]![E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Yukino Cela me rappelle des\nsouvenirs...[1205][001E] Cet endroit a beaucoup aidé mes\namis et moi dans notrejeunesse.[1205][001E] C'était bien,\nmalgré tout."
     },
     {
         "id": 14,
@@ -488,7 +488,7 @@
         "nom_orig": "Igor",
         "texte_orig": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
         "nom_fr": "Igor",
-        "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un\nutilisateur comme vous, l'accepter en soi.\nPosséder sa carte seule ne vous servira àrien."
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Porter[1432][NU[E4][NULL][NULL][0014] un Persona signifie, pour un\nutilisateur comme vous, l'accepter en soi.\nPosséder sa carte seule ne vous servira àrien."
     },
     {
         "id": 28,
@@ -2764,7 +2764,7 @@
         "nom_orig": "Igor",
         "texte_orig": "So,[SP]it[SP]is[SP]time[SP]to[SP]release[SP][E4][NULL][NULL][0005][120E][NULL][121D][0001],\nan[SP]old[SP]part[SP]of[SP]the[SP]soul[SP]that[SP]had\nbeen[SP]awakened...",
         "nom_fr": "Igor",
-        "texte_fr": "Alors, il est temps de libérer [E4][NULL][NULL][0005][120E][NULL][121D][0001], un\nvieux fragment de l'âme éveillé..."
+        "texte_fr": "Alors, il est temps de libérer [E4][NU[E4][NULL][NULL][0005][120E][NULL][121D][0001], un\nvieux fragment de l'âme éveillé..."
     },
     {
         "id": 172,
@@ -2779,7 +2779,7 @@
         "nom_orig": "Igor",
         "texte_orig": "Then[SP]I[SP]shall[SP]change[SP]this[SP]aspect[SP]who[SP]fought\nalongside[SP]you[SP]into[SP]a[SP][E4][NULL][NULL][0004][120E][0001][121D][0001][SP]and\nreturn[SP]it[SP]to[SP]you...",
         "nom_fr": "Igor",
-        "texte_fr": "Je vais transformer cet aspect\nqui a combattu à vos côtés en [E4][NULL][NULL][0004][120E][0001][121D][0001]\net vous le rendre... a obtenu [E4][NULL][NULL]."
+        "texte_fr": "Je vais transformer cet aspect\nqui a combattu à vos côtés en [E4][NU[E4][NULL][NULL][0004][120E][0001][121D][0001]\net vous le rendre... a obtenu [E4][NU[E4][NULL][NULL]."
     },
     {
         "id": 173,
@@ -2854,7 +2854,7 @@
         "nom_orig": "Igor",
         "texte_orig": "It[SP]seems[SP]you[SP]do[SP]not[SP]have[SP]the[SP]requisite\n[E4][NULL][NULL][0006]Tarot[SP]Cards[E4][NULL][NULL][0002][SP]to[SP]summon[SP]this[SP]Persona.",
         "nom_fr": "Igor",
-        "texte_fr": "Il semble que vous n'ayez pas les\n[E4][NULL][NULL][0006]Cartes Tarot[E4][NULL][NULL][0002] requises pour ce Persona."
+        "texte_fr": "Il semble que vous n'ayez pas les\n[E4][NU[E4][NULL][NULL][0006]Cartes Tarot[E4][NU[E4][NULL][NULL][0002] requises pour ce Persona."
     },
     {
         "id": 178,
@@ -2869,6 +2869,6 @@
         "nom_orig": "Igor",
         "texte_orig": "It[SP]seems[SP]you[SP]do[SP]not[SP]have[SP]the[SP]requisite\n[E4][NULL][NULL][0006]Material[SP]Card[E4][NULL][NULL][0002][SP]to[SP]summon[SP]this[SP]Persona.",
         "nom_fr": "Igor",
-        "texte_fr": "Il semble que vous n'ayez pas la [E4][NULL][NULL][0006]Carte\nMatériaux[E4][NULL][NULL][0002] requise pour invoquer ce Persona."
+        "texte_fr": "Il semble que vous n'ayez pas la [E4][NU[E4][NULL][NULL][0006]Carte\nMatériaux[E4][NU[E4][NULL][NULL][0002] requise pour invoquer ce Persona."
     }
 ]

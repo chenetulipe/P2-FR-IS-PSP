@@ -117,7 +117,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Pffft...[SP][1432][NULL][NULL][0014]Infiltrate[1432][NULL][NULL][0014]?[SP]I[SP]didn't[SP]know[SP]Fatty[SP]had\nit[SP]in[SP]her[SP]to[SP]pull[SP]off[SP]a[SP]stealth[SP]mission.",
         "nom_fr": "Eikichi",
-        "texte_fr": "Pfff... [1432][NULL][NULL][0014]Infiltrer[1432][NULL][NULL][0014]? Je savais pas qu'elle\navait les tripes pour jouer aux espions."
+        "texte_fr": "Pfff... [1432][NU[E4][NULL][NULL][0014]Infiltrer[1432][NU[E4][NULL][NULL][0014]? Je savais pas qu'elle\navait les tripes pour jouer aux espions."
     },
     {
         "id": 8,
@@ -252,7 +252,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "I'm[SP]the[SP]one[SP]who[SP]should[SP]be[SP]saying[SP][1432][NULL][NULL][0014]kehhei[1432][NULL][NULL][0014][SP]here![1205][000F]\nMy[SP]guys[SP]would[SP]never[SP]do[SP]that![1205][000F][SP]And[SP]I'm[SP]not[SP]taking\nthis[SP]airhead's[SP]word[SP]that[SP]they[SP]did!",
         "nom_fr": "Eikichi",
-        "texte_fr": "C'est moi qui devrait dire [1432][NULL][NULL][0014]kehhei[1432][NULL][NULL][0014] là!\n[1205][000F]Mes gars feraient jamais ça! Et je crois\npas un mot de ce qu'a dit cette idiote!"
+        "texte_fr": "C'est moi qui devrait dire [1432][NU[E4][NULL][NULL][0014]kehhei[1432][NU[E4][NULL][NULL][0014] là!\n[1205][000F]Mes gars feraient jamais ça! Et je crois\npas un mot de ce qu'a dit cette idiote!"
     },
     {
         "id": 17,
@@ -537,7 +537,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Poster?[1205][000F][SP]Debut?[SP]What[SP]the[SP]hell?",
         "nom_fr": "Ginko",
-        "texte_fr": "Bien, tu savais que le café [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002]\nà Kounan [E4][NULL][NULL][0006]vendait de vraies armes[E4][NULL][NULL][0002] ?[1205][000F]\n[E4][NULL][NULL][0006]Du très bon choix, revente abyssale[E4][NULL][NULL][0002]."
+        "texte_fr": "Bien, tu savais que le café [E4][NU[E4][NULL][NULL][0006]Jolly Roger[E4][NU[E4][NULL][NULL][0002]\nà Kounan [E4][NU[E4][NULL][NULL][0006]vendait de vraies armes[E4][NU[E4][NULL][NULL][0002] ?[1205][000F]\n[E4][NU[E4][NULL][NULL][0006]Du très bon choix, revente abyssale[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 36,
@@ -927,7 +927,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Fate[SP]began[SP]its[SP]workings[SP]alongside[SP]that[SP]large\nclock.[SP]Nothing[SP]you[SP]do[SP]now[SP]can[SP]slow[SP]the\nfulfillment[SP]of[SP]the[SP]Oracle.[1205][000F][SP]Heh.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThe[SP]Oracle[SP]should[SP]go[SP]into[SP]the[SP]details[SP]of[SP]how\nthe[SP]Earth[SP]will[SP]be[SP]annihilated.",
         "nom_fr": "Maya",
-        "texte_fr": "C'est près de la grande horloge que le destin\ns'est mis en marche. Vous ne pouvez plus\nempêcher l'Oracle de se réaliser. [1205][000F]Hé.[E1][E2] [E3][E4][NULL][NULL]\"Maya\nL'Oracle devrait détailler comment la Terre va\nêtre annihilée."
+        "texte_fr": "C'est près de la grande horloge que le destin\ns'est mis en marche. Vous ne pouvez plus\nempêcher l'Oracle de se réaliser. [1205][000F]Hé.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya\nL'Oracle devrait détailler comment la Terre va\nêtre annihilée."
     },
     {
         "id": 62,
@@ -1438,7 +1438,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "That[SP]store[SP][E4][NULL][NULL][0006]Time[SP]Castle[E4][NULL][NULL][0002][SP]sells[SP]more[SP]than[SP]clocks--\nthey[SP]sell[SP][E4][NULL][NULL][0006]weapons[E4][NULL][NULL][0002][SP]too![SP]I[SP]hear[SP][E4][NULL][NULL][0006]their[SP]prices\nare[SP]good,[SP]but[SP]the[SP]quality[SP]sucks[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Le magasin [E4][NULL][NULL][0006]Time Castle[E4][NULL][NULL][0002] vend pas que des\nmontres, mais des [E4][NULL][NULL][0006]armes[E4][NULL][NULL][0002] aussi! Apparemment\n[E4][NULL][NULL][0006]c'est bon marché, mais la qualité craint[E4][NULL][NULL][0002]."
+        "texte_fr": "Le magasin [E4][NU[E4][NULL][NULL][0006]Time Castle[E4][NU[E4][NULL][NULL][0002] vend pas que des\nmontres, mais des [E4][NU[E4][NULL][NULL][0006]armes[E4][NU[E4][NULL][NULL][0002] aussi! Apparemment\n[E4][NU[E4][NULL][NULL][0006]c'est bon marché, mais la qualité craint[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 92,
@@ -1498,7 +1498,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "There's[SP]this[SP]place[SP][E4][NULL][NULL][0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki.\nRumor[SP]is[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002][SP]there![1205][000F]\nHis[SP][E4][NULL][NULL][0006]prices[SP]and[SP]quality[SP]are[SP]okay[E4][NULL][NULL][0002],[SP]I[SP]guess.",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Y'a ce coin, [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki. La\nrumeur dit qu'on y vend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]! [1205][000F]Les\n[E4][NULL][NULL][0006]prix et la qualité sont corrects[E4][NULL][NULL][0002], je crois."
+        "texte_fr": "Y'a ce coin, [E4][NU[E4][NULL][NULL][0006]Tony's Shop[E4][NU[E4][NULL][NULL][0002] à Yumezaki. La\nrumeur dit qu'on y vend de [E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002]! [1205][000F]Les\n[E4][NU[E4][NULL][NULL][0006]prix et la qualité sont corrects[E4][NU[E4][NULL][NULL][0002], je crois."
     },
     {
         "id": 96,
@@ -1528,7 +1528,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][0006]Clair[SP]de[SP]Lune[E4][NULL][NULL][0002][SP]in[SP]Aoba?[1205][000F][SP]I[SP]heard[SP]you\ncan[SP]buy[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002][SP]there.[SP]They're[SP][E4][NULL][NULL][0006]good-\nquality,[SP]but[SP]expensive[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Tu vois le [E4][NULL][NULL][0006]Clair de Lune[E4][NULL][NULL][0002] à Aoba? [1205][000F] J'ai\nentendu qu'on y achetait de [E4][NULL][NULL][0006]vraies\narmes[E4][NULL][NULL][0002]. C'est [E4][NULL][NULL][0006]cher, mais de qualité[E4][NULL][NULL][0002]."
+        "texte_fr": "Tu vois le [E4][NU[E4][NULL][NULL][0006]Clair de Lune[E4][NU[E4][NULL][NULL][0002] à Aoba? [1205][000F] J'ai\nentendu qu'on y achetait de [E4][NU[E4][NULL][NULL][0006]vraies\narmes[E4][NU[E4][NULL][NULL][0002]. C'est [E4][NU[E4][NULL][NULL][0006]cher, mais de qualité[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 98,
@@ -1558,7 +1558,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "Okay,[SP]did[SP]you[SP]know[SP]the[SP][E4][NULL][NULL][0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]cafe[SP]in\nKounan[SP][E4][NULL][NULL][0006]sells[SP]real[SP]weapons[E4][NULL][NULL][0002]?[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection[SP]is\ngreat,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]the[SP]pits[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Bien, tu savais que le café [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002]\nà Kounan [E4][NULL][NULL][0006]vendait de vraies armes[E4][NULL][NULL][0002] ?[1205][000F]\n[E4][NULL][NULL][0006]Du très bon choix, revente abyssale[E4][NULL][NULL][0002]."
+        "texte_fr": "Bien, tu savais que le café [E4][NU[E4][NULL][NULL][0006]Jolly Roger[E4][NU[E4][NULL][NULL][0002]\nà Kounan [E4][NU[E4][NULL][NULL][0006]vendait de vraies armes[E4][NU[E4][NULL][NULL][0002] ?[1205][000F]\n[E4][NU[E4][NULL][NULL][0006]Du très bon choix, revente abyssale[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 100,
@@ -1618,7 +1618,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "[E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Rengedai[SP]now[SP]has[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002]\nfor[SP]sale.[SP]I[SP]hear[SP]the[SP][E4][NULL][NULL][0006]quality[SP]is[SP]great,[SP]but\nthose[SP]prices--yikes[E4][NULL][NULL][0002]!",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] à Rengedai propose de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. On dit que la [E4][NULL][NULL][0006]qualité\nest super, mais ces prix--au secours[E4][NULL][NULL][0002]!"
+        "texte_fr": "[E4][NU[E4][NULL][NULL][0006]Rosa Candida[E4][NU[E4][NULL][NULL][0002] à Rengedai propose de\n[E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002]. On dit que la [E4][NU[E4][NULL][NULL][0006]qualité\nest super, mais ces prix--au secours[E4][NU[E4][NULL][NULL][0002]!"
     },
     {
         "id": 104,
@@ -1648,7 +1648,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "That[SP]store[SP][E4][NULL][NULL][0006]Anima[SP]Mundi[E4][NULL][NULL][0002][SP]around[SP]here[SP]sells[SP][E4][NULL][NULL][0006]real\nweapons[E4][NULL][NULL][0002].[1205][000F][SP]They[SP]have[SP][E4][NULL][NULL][0006]an[SP]amazing[SP]selection,[SP]but\npretty[SP]low[SP]buyback[SP]prices[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Le magasin [E4][NULL][NULL][0006]Anima Mundi[E4][NULL][NULL][0002] près d'ici vend\nde [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. [1205]Il y a [E4][NULL][NULL][0006]une sélection\nincroyable, mais des prix de rachat très bas[E4][NULL][NULL][0002]."
+        "texte_fr": "Le magasin [E4][NU[E4][NULL][NULL][0006]Anima Mundi[E4][NU[E4][NULL][NULL][0002] près d'ici vend\nde [E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002]. [1205]Il y a [E4][NU[E4][NULL][NULL][0006]une sélection\nincroyable, mais des prix de rachat très bas[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 106,
@@ -1678,7 +1678,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "Did[SP]you[SP]know[SP]there's[SP]a[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba\ntoo?[1205][000F][SP]They[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]It's[SP][E4][NULL][NULL][0006]super\nhigh[SP]quality,[SP]but[SP]also[SP]super[SP]expensive[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Tu savais qu'il y avait un [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] à Aoba[1205][000F]\naussi? Ils vendent de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]là-bas. La\n[E4][NULL][NULL][0006]qualité et le prix sont très hauts[E4][NULL][NULL][0002]."
+        "texte_fr": "Tu savais qu'il y avait un [E4][NU[E4][NULL][NULL][0006]Rosa Candida[E4][NU[E4][NULL][NULL][0002] à Aoba[1205][000F]\naussi? Ils vendent de [E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002]là-bas. La\n[E4][NU[E4][NULL][NULL][0006]qualité et le prix sont très hauts[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 108,
@@ -1708,7 +1708,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "Okay,[SP]here's[SP]mine.[1205][000F][SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002][SP]in[SP]Kounan\neven[SP]tailors[SP][E4][NULL][NULL][0006]armor[E4][NULL][NULL][0002]![SP]The[SP][E4][NULL][NULL][0006]quality[SP]is[SP]great,\nbut[SP]it's[SP]very[SP]pricey[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "Bien, à moi. [1205][000F][E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002] à Kounan\nconçoit aussi des [E4][NULL][NULL][0006]armures[E4][NULL][NULL][0002]! La [E4][NULL][NULL][0006]qualité\nest géniale, mais c'est très cher[E4][NULL][NULL][0002]."
+        "texte_fr": "Bien, à moi. [1205][000F][E4][NU[E4][NULL][NULL][0006]London Clothier[E4][NU[E4][NULL][NULL][0002] à Kounan\nconçoit aussi des [E4][NU[E4][NULL][NULL][0006]armures[E4][NU[E4][NULL][NULL][0002]! La [E4][NU[E4][NULL][NULL][0006]qualité\nest géniale, mais c'est très cher[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 110,
@@ -1753,7 +1753,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "If[SP]you[SP]win[SP]the[SP][E4][NULL][NULL][0006]magazine[SP]sweepstakes[E4][NULL][NULL][0002],[SP]you[SP]get\n[E4][NULL][NULL][0006]real[SP]weapons[SP]and[SP]items[E4][NULL][NULL][0002].[1205][000F][SP]I[SP]hear[SP][E4][NULL][NULL][0006]it's[SP]easy[SP]to\nwin,[SP]but[SP]the[SP]prizes[SP]are[SP]kinda[SP]lame[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "En gagnant à la [E4][NULL][NULL][0006]lotterie du magazine[E4][NULL][NULL][0002], tu\nauras des [E4][NULL][NULL][0006]objets et de vraies armes[E4][NULL][NULL][0002].[1205][000F][E4][NULL][NULL][0006] Gagner\nest facile, mais les lots sont passables[E4][NULL][NULL][0002]."
+        "texte_fr": "En gagnant à la [E4][NU[E4][NULL][NULL][0006]lotterie du magazine[E4][NU[E4][NULL][NULL][0002], tu\nauras des [E4][NU[E4][NULL][NULL][0006]objets et de vraies armes[E4][NU[E4][NULL][NULL][0002].[1205][000F][E4][NU[E4][NULL][NULL][0006] Gagner\nest facile, mais les lots sont passables[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 113,
@@ -1798,7 +1798,7 @@
         "nom_orig": "Rumormonger[SP]Chikarin",
         "texte_orig": "[E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002][SP]in[SP]Yumezaki[SP]is[SP]secretly[SP]a[SP][E4][NULL][NULL][0006]casino[E4][NULL][NULL][0002]![1205][000F][SP]From[SP]what\nI[SP]hear,[SP]several[SP]people[SP]won[SP]big[SP]at[SP][E4][NULL][NULL][0006]blackjack[E4][NULL][NULL][0002].",
         "nom_fr": "Commère Chikarin",
-        "texte_fr": "[E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002] à Yumezaki est un [E4][NULL][NULL][0006]casino[E4][NULL][NULL][0002]\n[1205][000F]secret! Pas mal de gens auraient\ntouché le gros lot au [E4][NULL][NULL][0006] blackjack[E4][NULL][NULL][0002]."
+        "texte_fr": "[E4][NU[E4][NULL][NULL][0006]Mu[E4][NU[E4][NULL][NULL][0002] à Yumezaki est un [E4][NU[E4][NULL][NULL][0006]casino[E4][NU[E4][NULL][NULL][0002]\n[1205][000F]secret! Pas mal de gens auraient\ntouché le gros lot au [E4][NU[E4][NULL][NULL][0006] blackjack[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 116,
@@ -2248,7 +2248,7 @@
         "nom_orig": "Kazuya",
         "texte_orig": "You[SP]know[SP]that[SP]stuff[SP]about[SP]the[SP][1432][NULL][NULL][0014]flames[SP]of\nexpiation[1432][NULL][NULL][0014][SP]in[SP]the[SP]In[SP]Lak'ech?[1205][000F][SP]Could[SP]that\nrefer[SP]to[SP]the[SP]bombings?",
         "nom_fr": "Kazuya",
-        "texte_fr": "Tu connais cette histoire de\n[1432][NULL][NULL][0014]flammes de l'expiation[1432][NULL][NULL][0014] dans l'In\n[1205][000F]Lak'ech? Ça désignerait les bombes?"
+        "texte_fr": "Tu connais cette histoire de\n[1432][NU[E4][NULL][NULL][0014]flammes de l'expiation[1432][NU[E4][NULL][NULL][0014] dans l'In\n[1205][000F]Lak'ech? Ça désignerait les bombes?"
     },
     {
         "id": 146,
@@ -2263,7 +2263,7 @@
         "nom_orig": "Kazuya",
         "texte_orig": "The[SP]next[SP]line[SP]of[SP]the[SP]Oracle[SP]went,[SP][1432][NULL][NULL][0014]The[SP]lion's\nroar[SP]echoes[SP]far[SP]and[SP]wide[1432][NULL][NULL][0014]...[SP]Couldn't[SP]that[SP]be\nabout[SP]the[SP]Leonids?",
         "nom_fr": "Kazuya",
-        "texte_fr": "La ligne suivante de l'Oracle dit,\n[1432][NULL][NULL][0014]Le cri du lion retentit au loin[1432][NULL][NULL][0014]...\nCe serait lié aux Lionceaux?"
+        "texte_fr": "La ligne suivante de l'Oracle dit,\n[1432][NU[E4][NULL][NULL][0014]Le cri du lion retentit au loin[1432][NU[E4][NULL][NULL][0014]...\nCe serait lié aux Lionceaux?"
     },
     {
         "id": 147,
@@ -2428,7 +2428,7 @@
         "nom_orig": "Yukiko",
         "texte_orig": "I[SP]don't[SP]care![SP]Can[SP]we[SP]please[SP]just[SP]get[SP]out[SP]of\nhere?[1205][000F][SP]Who[SP]knows[SP]when[SP]those[SP]soldiers[SP]might\ninvade[SP]here[SP]too!?[E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nOh,[SP]Lisa![SP]I[SP]saw[SP]the[SP]poster![SP]Geez,[SP]don't[SP]tease\nus[SP]like[SP]that.[1205][000F][SP]I[SP]totally[SP]figured[SP]it[SP]out[SP]anyway\nas[SP]soon[SP]as[SP]I[SP]saw[SP]it!",
         "nom_fr": "Yukiko",
-        "texte_fr": "M'en fous! On peut pas juste partir d'ici? [1205][000F]Qui\nsait quand les soldats vont venir attaquer ici\naussi!?[E1][E2] [E3][E4][NULL][NULL]\"Lycéenne Oh, Lisa! J'ai vu le poster!\nRoh, fais pas genre. J'aicompris à la seconde\noù je l'ai vu!"
+        "texte_fr": "M'en fous! On peut pas juste partir d'ici? [1205][000F]Qui\nsait quand les soldats vont venir attaquer ici\naussi!?[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Lycéenne Oh, Lisa! J'ai vu le poster!\nRoh, fais pas genre. J'aicompris à la seconde\noù je l'ai vu!"
     },
     {
         "id": 158,
@@ -2623,7 +2623,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "What[SP]do[SP]you[SP]say?\n[1208][0003]Hear[SP]it[SP]again\n[1432][NULL][NULL][0014]I[SP]remember[SP]it[SP]well.[1432][NULL][NULL][0014]\nDon't[SP]listen",
         "nom_fr": "Fuyuko",
-        "texte_fr": "T'en dis quoi? [1208][0003]La réécouter  [1432][NULL][NULL][0014]Je m'en rappelle\nbien.[1432][NULL][NULL][0014] Refuser",
+        "texte_fr": "T'en dis quoi? [1208][0003]La réécouter  [1432][NU[E4][NULL][NULL][0014]Je m'en rappelle\nbien.[1432][NU[E4][NULL][NULL][0014] Refuser",
         "question_orig": "What[SP]do[SP]you[SP]say?",
         "choix_orig": [
             "[0003]Hear[SP]it[SP]again",
@@ -2696,7 +2696,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "How[SP]about[SP]it?[SP]Scary[SP]enough[SP]for[SP]you?\n[1208][0003][1432][NULL][NULL][0014]Very[SP]scary,[SP]actually![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]at[SP]all.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]as[SP]scary[SP]as[SP]you.[1432][NULL][NULL][0014]",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Verdict? C'était assez flippant? [1208][0003][1432][NULL][NULL][0014]À glacer le\nsang! [1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Bof, non. [1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Pas autant que toi. [1432][NULL][NULL][0014]",
+        "texte_fr": "Verdict? C'était assez flippant? [1208][0003][1432][NU[E4][NULL][NULL][0014]À glacer le\nsang! [1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Bof, non. [1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Pas autant que toi. [1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "How[SP]about[SP]it?[SP]Scary[SP]enough[SP]for[SP]you?",
         "choix_orig": [
             "[0003]",
@@ -2755,7 +2755,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "The[SP]story[SP]I[SP]just[SP]told[SP]you[SP]is[SP]true.[1205][000F][SP]I[SP]saw[SP]the\nreal[SP][E4][NULL][NULL][0006]Cursed[SP]Taxi[E4][NULL][NULL][0002][SP]myself![SP]It[SP]was[SP]parked[SP]at[SP]the\n[E4][NULL][NULL][0006]abandoned[SP]factory[E4][NULL][NULL][0002]!",
         "nom_fr": "Fuyuko",
-        "texte_fr": "L'histoire que je t'ai racontée est\nvraie. [1205][000F]J'ai vu le vrai [E4][NULL][NULL][0006]Taxi Maudit[E4][NULL][NULL][0002]!\nIl était garé à [E4][NULL][NULL][0006]l'usine abandonnée[E4][NULL][NULL][0002]!"
+        "texte_fr": "L'histoire que je t'ai racontée est\nvraie. [1205][000F]J'ai vu le vrai [E4][NU[E4][NULL][NULL][0006]Taxi Maudit[E4][NU[E4][NULL][NULL][0002]!\nIl était garé à [E4][NU[E4][NULL][NULL][0006]l'usine abandonnée[E4][NU[E4][NULL][NULL][0002]!"
     },
     {
         "id": 178,
@@ -2770,7 +2770,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "If[SP]I[SP]sent[SP]this[SP]into[SP]my[SP]favorite[SP]magazine,\n[1432][NULL][NULL][0014]May,[1432][NULL][NULL][0014][SP]they'd[SP]definitely[SP]be[SP]interested.[1205][000F]\nProblem[SP]is,[SP]they'll[SP]want[SP]proof!",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Si j'envoie ça à mon magazine\nfavori, [1432][NULL][NULL][0014]May,[1432][NULL][NULL][0014] ils seront intéressés.\n[1205][000F]Problème, ils voudront une preuve!"
+        "texte_fr": "Si j'envoie ça à mon magazine\nfavori, [1432][NU[E4][NULL][NULL][0014]May,[1432][NU[E4][NULL][NULL][0014] ils seront intéressés.\n[1205][000F]Problème, ils voudront une preuve!"
     },
     {
         "id": 179,
@@ -2845,7 +2845,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "Ah![SP]There[SP]it[SP]is![SP]Proof[SP]that[SP]the[SP]Cursed[SP]Taxi\nex...[SP]ists...[1205][000F][SP]Wait.[1205][000F][SP]Is[SP]this...[1205][000F][SP]a[SP][E4][NULL][NULL][0006]Taxi[SP]Hat[E4][NULL][NULL][0002]?",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Enfin! La preuve que le Taxi Maudit ex...\niste...[1205][000F] Stop. [1205][000F]C'est... un [E4][NULL][NULL][0006]Chapeau de Taxi[E4][NULL][NULL][0002]?"
+        "texte_fr": "Enfin! La preuve que le Taxi Maudit ex...\niste...[1205][000F] Stop. [1205][000F]C'est... un [E4][NU[E4][NULL][NULL][0006]Chapeau de Taxi[E4][NU[E4][NULL][NULL][0002]?"
     },
     {
         "id": 184,
@@ -2890,7 +2890,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "Listen[SP]up.[SP]A[SP]Yacht[SP]Hat[SP]has[SP]no[SP]business[SP]being\ninside[SP]a[SP]taxi,[SP]does[SP]it?[1205][000F][SP]That[SP]escort[SP]taxi\nmust[SP]have[SP]been[SP]a[SP][E4][NULL][NULL][0006]Cursed[SP]Escort[E4][NULL][NULL][0002]!",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Écoute. Un Chapeau de Yacht ne devrait\npas être dans un taxi, hein? [1205][000F] Ce taxi\nd'escorte doit être une [E4][NULL][NULL][0006]Escorte Maudite[E4][NULL][NULL][0002]!"
+        "texte_fr": "Écoute. Un Chapeau de Yacht ne devrait\npas être dans un taxi, hein? [1205][000F] Ce taxi\nd'escorte doit être une [E4][NU[E4][NULL][NULL][0006]Escorte Maudite[E4][NU[E4][NULL][NULL][0002]!"
     },
     {
         "id": 187,
@@ -2905,7 +2905,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "If[SP]you[SP]take[SP]my[SP]point,[SP]try[SP]one[SP]more[SP]time.[SP]I'll\ngive[SP]you[SP]this[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Mediarama[SP]Card[E4][NULL][NULL][0002][SP]anyway,[SP]but\nnext[SP]time,[SP]bring[SP]back[SP]a[SP][E4][NULL][NULL][0006]Yacht[SP]Hat[E4][NULL][NULL][0002]!",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Si tu comprends, réessaye. Je te donnerais\ncette [E4][NULL][NULL][0004][NULL][NULL][0004]Carte Mediarama[E4][NULL][NULL][0002], mais la prochaine\nfois, amène-moi un [E4][NULL][NULL][0006]Chapeau de Yacht[E4][NULL][NULL][0002]![1433]"
+        "texte_fr": "Si tu comprends, réessaye. Je te donnerais\ncette [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0004]Carte Mediarama[E4][NU[E4][NULL][NULL][0002], mais la prochaine\nfois, amène-moi un [E4][NU[E4][NULL][NULL][0006]Chapeau de Yacht[E4][NU[E4][NULL][NULL][0002]![1433]"
     },
     {
         "id": 188,
@@ -2935,7 +2935,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "Ah,[SP]that[SP]sweaty[SP][E4][NULL][NULL][0006]Yacht[SP]Hat[E4][NULL][NULL][0002]...[1205][000F][SP]That's[SP]the[SP]one.\nThis[SP]is[SP]undeniable[SP]proof[SP]that[SP]the[SP]Cursed[SP]Escort\nactually[SP]existed!",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Ah, ce [E4][NULL][NULL][0006]Chapeau de Yacht[E4][NULL][NULL][0002] tout suant...[1205][000F] C'est le\nbon. La preuve indéniable que l'Escorte\nMaudite a existée!"
+        "texte_fr": "Ah, ce [E4][NU[E4][NULL][NULL][0006]Chapeau de Yacht[E4][NU[E4][NULL][NULL][0002] tout suant...[1205][000F] C'est le\nbon. La preuve indéniable que l'Escorte\nMaudite a existée!"
     },
     {
         "id": 190,
@@ -2950,7 +2950,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "Thank[SP]you[SP]so[SP]much,[SP][1113]-kun![1205][000F][SP]Here,[SP]this\n[E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Sacrifice[SP]Card[E4][NULL][NULL][0002][SP]is[SP]yours.[SP]Put[SP]it[SP]to[SP]good\nuse...[1205][000F][SP]Bleheheheheh.",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Merci beaucoup, [1113]! Tiens, [1205][000F]cette\n[E4][NULL][NULL][0004][NULL][NULL][0004]Carte de Sacrifice[E4][NULL][NULL][0002] est à toi.\nFais-en bon usage... Bléhéhéhéhé.[1433]"
+        "texte_fr": "Merci beaucoup, [1113]! Tiens, [1205][000F]cette\n[E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0004]Carte de Sacrifice[E4][NU[E4][NULL][NULL][0002] est à toi.\nFais-en bon usage... Bléhéhéhéhé.[1433]"
     },
     {
         "id": 191,
@@ -2965,7 +2965,7 @@
         "nom_orig": "Fuyuko",
         "texte_orig": "Bleheheh...[SP]Now[SP]I[SP]can[SP]submit[SP]the[SP]details[SP]of\nthe[SP]Cursed[SP]Escort[SP]to[SP][1432][NULL][NULL][0014]May[1432][NULL][NULL][0014]...[1205][000F][SP]I'll[SP]finally\nbecome[SP]a[SP]Mayian[SP]like[SP]my[SP]friends![1205][000F][SP]Bleheheheheh!",
         "nom_fr": "Fuyuko",
-        "texte_fr": "Bléhéhé... Je vais pouvoir envoyer les\nélèments de cette affaire à [1432][NULL][NULL][0014]May[1432][NULL][NULL][0014]...[1205][000F] Je vais\ndevenir une Mayae comme mes amis! Bléhéhéhéhé!"
+        "texte_fr": "Bléhéhé... Je vais pouvoir envoyer les\nélèments de cette affaire à [1432][NU[E4][NULL][NULL][0014]May[1432][NU[E4][NULL][NULL][0014]...[1205][000F] Je vais\ndevenir une Mayae comme mes amis! Bléhéhéhéhé!"
     },
     {
         "id": 192,
@@ -2980,7 +2980,7 @@
         "nom_orig": "Part-timer",
         "texte_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Part-timer\nBut[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
         "nom_fr": "Intérimaire",
-        "texte_fr": "Bienvenue au Peace Diner. Que désirez-vous,\nmaraud? [1208][0004]Manger  Discuter un peu  Rien merci\nFiler [1109][E2]  [E3][E4][NULL][NULL]\"Intérimaire Mais de quoi\nparlerons-nous donc? [1208][0003]Bavarder Parler du repas\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
+        "texte_fr": "Bienvenue au Peace Diner. Que désirez-vous,\nmaraud? [1208][0004]Manger  Discuter un peu  Rien merci\nFiler [1109][E2]  [E3][E4][NU[E4][NULL][NULL]\"Intérimaire Mais de quoi\nparlerons-nous donc? [1208][0003]Bavarder Parler du repas\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
         "question_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?",
         "choix_orig": [
             "Dine[SP]in",
@@ -3301,7 +3301,7 @@
         "nom_orig": "Part-timer",
         "texte_orig": "Would[SP]sirrah[SP]like[SP]me[SP]to[SP]explain[SP]dining[SP]in?\nSelect[SP][1432][NULL][NULL][0014]Dine[SP]in[1432][NULL][NULL][0014][SP]here[SP]and[SP]you[SP]may[SP]do[SP]so.",
         "nom_fr": "Intérimaire",
-        "texte_fr": "Le maraud veut savoir comment manger\nici? Désignez [1432][NULL][NULL][0014]Manger[1432][NULL][NULL][0014] et ce sera possible."
+        "texte_fr": "Le maraud veut savoir comment manger\nici? Désignez [1432][NU[E4][NULL][NULL][0014]Manger[1432][NU[E4][NULL][NULL][0014] et ce sera possible."
     },
     {
         "id": 211,

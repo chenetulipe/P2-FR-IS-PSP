@@ -177,7 +177,7 @@
         "nom_orig": "International[SP]military[SP]analyst",
         "texte_orig": "That's[SP]preposterous![SP]There's[SP]no[SP]way[SP]this\n[1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]could[SP]exist.[SP]It's[SP]a\nbaseless[SP]rumor,[SP]pure[SP]and[SP]simple.",
         "nom_fr": "Analyste militaire",
-        "texte_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Bataillon[1432][NULL][NULL][0014] existe. C'est une rumeur\ninfondée, purement et simplement."
+        "texte_fr": "C'est absurde! Impossible que ce\n[1432][NU[E4][NULL][NULL][0014]Bataillon[1432][NU[E4][NULL][NULL][0014] existe. C'est une rumeur\ninfondée, purement et simplement."
     },
     {
         "id": 12,
@@ -327,7 +327,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "It's[SP]all[SP]in[SP]this[SP]book...[SP]Everything[SP]they're\ndoing[SP]is[SP]in[SP]accordance[SP]with[SP]the[SP]Oracle[SP]of\nMaia[SP]in[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014]!",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Tout est dans ce livre... Ce\nqu'ils font est conforme à\nl'Oracle de Maia dans l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]!"
+        "texte_fr": "Tout est dans ce livre... Ce\nqu'ils font est conforme à\nl'Oracle de Maia dans l'[1432][NU[E4][NULL][NULL][0014]In Lak'ech[1432][NU[E4][NULL][NULL][0014]!"
     },
     {
         "id": 22,
@@ -492,7 +492,7 @@
         "nom_orig": "Tamaki",
         "texte_orig": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
         "nom_fr": "Tamaki",
-        "texte_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?\n[NULL][NULL]\"Mme Idéale Car quand l'Oracle sera accompli,\nXibalba et les crânes de cristal exauceront le\nrêve de l'humanité...[E1][E2][E3][E4]"
+        "texte_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?\n[NU[E4][NULL][NULL]\"Mme Idéale Car quand l'Oracle sera accompli,\nXibalba et les crânes de cristal exauceront le\nrêve de l'humanité...[E1][E2][E3][E4]"
     },
     {
         "id": 33,
@@ -567,7 +567,7 @@
         "nom_orig": "Occult[SP]magazine[SP]EIC's[SP]voice",
         "texte_orig": "...I[SP]want[SP]to[SP]show[SP]you[SP]here[SP]the[SP]latest[SP]release\nfrom[SP]our[SP]book[SP]division,[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech.[1432][NULL][NULL][0014]",
         "nom_fr": "Voix de l'Éditeur",
-        "texte_fr": "... Je veux vous montrer ici la dernière\nsortie de notre division livre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]."
+        "texte_fr": "... Je veux vous montrer ici la dernière\nsortie de notre division livre, l'[1432][NU[E4][NULL][NULL][0014]In Lak'ech[1432][NU[E4][NULL][NULL][0014]."
     },
     {
         "id": 38,
@@ -627,7 +627,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Eikichi![SP]You[SP]remember,[SP]don't[SP]you!?\nAbout[SP]playing[SP][1432][NULL][NULL][0014]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]!",
         "nom_fr": "Ginko",
-        "texte_fr": "Eikichi! Tu te souviens, n'est-ce\npas!? Nos jeux au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]!"
+        "texte_fr": "Eikichi! Tu te souviens, n'est-ce\npas!? Nos jeux au [1432][NU[E4][NULL][NULL][0014]Cercle masqué[1432][NU[E4][NULL][NULL][0014]!"
     },
     {
         "id": 42,
@@ -852,7 +852,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "Aliens...[SP]The[SP]Fuhrer...[1205][001E][SP]And[SP]now[SP]this[SP]about\n[1432][NULL][NULL][0014]playing[SP]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]...!?[1205][001E][SP]There's[SP]so\nmuch[SP]I[SP]don't[SP]understand...",
         "nom_fr": "Yukino",
-        "texte_fr": "Les aliens... Le Führer...[1205][001E] Et maintenant\njouer au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E] Il y a\ntant de choses que je saisis pas..."
+        "texte_fr": "Les aliens... Le Führer...[1205][001E] Et maintenant\njouer au [1432][NU[E4][NULL][NULL][0014]Cercle masqué[1432][NU[E4][NULL][NULL][0014]...!?[1205][001E] Il y a\ntant de choses que je saisis pas..."
     },
     {
         "id": 57,
@@ -1446,7 +1446,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "[1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014][SP]means[SP][1432][NULL][NULL][0014]you[SP]are[SP]another[SP]me[1432][NULL][NULL][0014][SP]in\nMayan.[1205][001E][SP]It's[SP]what[SP]we[SP]called[SP]the[SP]oracle[SP]that\nSudou-kun[SP]channeled.",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre\nmoi[1432][NULL][NULL][0014] en maya.[1205][001E] C'est ainsi qu'on dit\nde l'oracle canalisé par Sudou."
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]In Lak'ech[1432][NU[E4][NULL][NULL][0014] signifie [1432][NU[E4][NULL][NULL][0014]tu es un autre\nmoi[1432][NU[E4][NULL][NULL][0014] en maya.[1205][001E] C'est ainsi qu'on dit\nde l'oracle canalisé par Sudou."
     },
     {
         "id": 92,
@@ -2029,7 +2029,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "100 yens, stp, miaou[1432][NULL][NULL][0007] 100 yens,\nstp, miaou[1432][NULL][NULL][0007] 100 yens, stp, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "100 yens, stp, miaou[1432][NU[E4][NULL][NULL][0007] 100 yens,\nstp, miaou[1432][NU[E4][NULL][NULL][0007] 100 yens, stp, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 127,
@@ -2044,7 +2044,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
         "nom_fr": "Statue de chat",
-        "texte_fr": "100 yens, s'il te plaît, miaou[1432][NULL][NULL][0007]\n[1208][0002]Mettre 100 yens\nRien mettre",
+        "texte_fr": "100 yens, s'il te plaît, miaou[1432][NU[E4][NULL][NULL][0007]\n[1208][0002]Mettre 100 yens\nRien mettre",
         "question_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]",
         "choix_orig": [
             "Put[SP]in[SP]100[SP]yen",
@@ -2069,7 +2069,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "T'es fauché, miaou[1432][NULL][NULL][0007] Montre-moi un menteur, je\nte montrerai un voleur, miaou[1432][NULL][NULL][0007] Sors d'ici, fsh[1432][NULL][NULL][0007]"
+        "texte_fr": "T'es fauché, miaou[1432][NU[E4][NULL][NULL][0007] Montre-moi un menteur, je\nte montrerai un voleur, miaou[1432][NU[E4][NULL][NULL][0007] Sors d'ici, fsh[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 129,
@@ -2084,7 +2084,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][0007][1205][000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Ronron...[1205][000F] Je suis ému[1432][NULL][NULL][0007] Tu m'as nourri\n20 fois, miaou[1432][NULL][NULL][0007] J'en attends plus, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Ronron...[1205][000F] Je suis ému[1432][NU[E4][NULL][NULL][0007] Tu m'as nourri\n20 fois, miaou[1432][NU[E4][NULL][NULL][0007] J'en attends plus, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 130,
@@ -2099,7 +2099,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Meowvelous![1432][NULL][NULL][0007][1205][000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][0007][1205][000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Miaourveilleux![1205][000F][1432][NULL][NULL][0007] Tu m'as nourri 50 fois,\nronron[1432][NULL][NULL][0007] Tu es si généreux, ronrrrron[1432][NULL][NULL][0007]"
+        "texte_fr": "Miaourveilleux![1205][000F][1432][NU[E4][NULL][NULL][0007] Tu m'as nourri 50 fois,\nronron[1432][NU[E4][NULL][NULL][0007] Tu es si généreux, ronrrrron[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 131,
@@ -2114,7 +2114,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Amazing,[SP]meow![1205][000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Super, miaou! [1205][000F]Tu m'as nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] Tu caches quelque chose, miaou?"
+        "texte_fr": "Super, miaou! [1205][000F]Tu m'as nourri 80 fois,\nmiaou[1432][NU[E4][NULL][NULL][0007] Tu caches quelque chose, miaou?"
     },
     {
         "id": 132,
@@ -2159,7 +2159,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Use[SP]this[SP][E4][NULL][NULL][0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Utilise ce [E4][NULL][NULL][0004]Set d'encens[E4][NULL][NULL][0002], miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Utilise ce [E4][NU[E4][NULL][NULL][0004]Set d'encens[E4][NU[E4][NULL][NULL][0002], miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 135,
@@ -2174,7 +2174,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Merci, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Merci, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 136,
@@ -2204,7 +2204,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "La porte ne s'ouvre pas,\nmiaou[1432][NULL][NULL][0007] Arrête d'essayer, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "La porte ne s'ouvre pas,\nmiaou[1432][NU[E4][NULL][NULL][0007] Arrête d'essayer, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 138,
@@ -2234,7 +2234,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "T-Take[SP]the[SP][E4][NULL][NULL][0006]In[SP]Lak'ech[E4][NULL][NULL][0002][SP]with[SP]you![SP]You[SP]are\nfighting[SP]the[SP]Masked[SP]Circle...[SP]or[SP]rather,\nthe[SP]Last[SP]Battalion,[SP]aren't[SP]you!?",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Prends l'[E4][NULL][NULL][0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué... ou plutôt,\ncontre le Bataillon, n'est-ce pas!?"
+        "texte_fr": "Prends l'[E4][NU[E4][NULL][NULL][0006]In Lak'ech[E4][NU[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué... ou plutôt,\ncontre le Bataillon, n'est-ce pas!?"
     },
     {
         "id": 140,

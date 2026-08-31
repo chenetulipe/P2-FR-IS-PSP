@@ -87,7 +87,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "H-Hey,[SP]isn't[SP]that[SP]guy[SP]over[SP]there[SP]in[SP]the[SP]Masked\nCircle?[SP][1432][NULL][NULL][0014]New[SP]executive[1432][NULL][NULL][0014]?[SP]What's[SP]he[SP]mean?",
         "nom_fr": "Eikichi",
-        "texte_fr": "H-Hey, ce type là-bas est dans le\nCercle Masqué? [1432][NULL][NULL][0014]Nouveau dirigeant[1432][NULL][NULL][0014]?"
+        "texte_fr": "H-Hey, ce type là-bas est dans le\nCercle Masqué? [1432][NU[E4][NULL][NULL][0014]Nouveau dirigeant[1432][NU[E4][NULL][NULL][0014]?"
     },
     {
         "id": 6,
@@ -762,7 +762,7 @@
         "nom_orig": "Middle-aged[SP]artist",
         "texte_orig": "Many[SP]tried[SP]to[SP]get[SP]their[SP]hands[SP]on[SP]his[SP]work,\nbut[SP]he[SP]accepted[SP]no[SP]praise[SP]and[SP]refused[SP]to[SP]put\na[SP]price[SP]tag[SP]on[SP]his[SP]pieces.\n[E3][E4][NULL][NULL]\"Middle-aged[SP]artist\nHe[SP]was[SP]a[SP]noble[SP]and[SP]proud[SP]artist.",
         "nom_fr": "Artiste d'âge mûr",
-        "texte_fr": "Beaucoup ont voulu mettre la main sur son\nœuvre, mais il refusait louanges et prix.\n[E3][E4][NULL][NULL]\"Artiste d'âge mûr C'était un artiste noble et\nfier."
+        "texte_fr": "Beaucoup ont voulu mettre la main sur son\nœuvre, mais il refusait louanges et prix.\n[E3][E4][NU[E4][NULL][NULL]\"Artiste d'âge mûr C'était un artiste noble et\nfier."
     },
     {
         "id": 51,
@@ -1126,7 +1126,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "I'm[SP]surprised[SP]these[SP]terrorists[SP]are[SP]targeting\nour[SP]fair[SP]city.[SP]Rumor[SP]is,[SP]it[SP]was[SP]these[SP][1432][NULL][NULL][0014]Masked\nCircle[1432][NULL][NULL][0014][SP]beasts...[1205][000F][SP]There's[SP]one[SP]in[SP]every[SP]nation.",
         "nom_fr": "Tailleur",
-        "texte_fr": "Je suis surpris que des terroristes ciblent\nnotre ville. La rumeur dit que c'était\nle [1432][NULL][NULL][0014]Cercle Masqué[1432][NULL][NULL][0014]...[1205][000F] Il y en a partout."
+        "texte_fr": "Je suis surpris que des terroristes ciblent\nnotre ville. La rumeur dit que c'était\nle [1432][NU[E4][NULL][NULL][0014]Cercle Masqué[1432][NU[E4][NULL][NULL][0014]...[1205][000F] Il y en a partout."
     },
     {
         "id": 70,
@@ -1391,7 +1391,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "I'll[SP]first[SP]explain[SP]buying.[SP]If[SP]you[SP]choose[SP]to\n[1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]may[SP]browse[SP]our[SP]wares.",
         "nom_fr": "Tailleur",
-        "texte_fr": "D'abord les achats. Choisissez [1432][NULL][NULL][0014]Acheter\narmures,[1432][NULL][NULL][0014] pour voir nos articles."
+        "texte_fr": "D'abord les achats. Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter\narmures,[1432][NU[E4][NULL][NULL][0014] pour voir nos articles."
     },
     {
         "id": 87,
@@ -1406,7 +1406,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "But[SP]some[SP]armor[SP]cannot[SP]be[SP]equipped[SP]by[SP]just\nanyone.[SP]To[SP]paraphrase[SP]a[SP]saying[SP]in[SP]my[SP]trade,\n[1432][NULL][NULL][0014]measure[SP]twice,[SP]buy[SP]once.[1432][NULL][NULL][0014]",
         "nom_fr": "Tailleur",
-        "texte_fr": "Mais certaines armures ne vont pas\nà tous. Comme on dit chez nous,\n[1432][NULL][NULL][0014]mesurez deux fois, achetez une.[1432][NULL][NULL][0014]"
+        "texte_fr": "Mais certaines armures ne vont pas\nà tous. Comme on dit chez nous,\n[1432][NU[E4][NULL][NULL][0014]mesurez deux fois, achetez une.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 88,
@@ -1421,7 +1421,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "Next,[SP]selling.[SP]If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items,[1432][NULL][NULL][0014]\nyou[SP]may[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.",
         "nom_fr": "Tailleur",
-        "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre\ndes objets,[1432][NULL][NULL][0014] puis un type d'objet."
+        "texte_fr": "Pour vendre, choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\ndes objets,[1432][NU[E4][NULL][NULL][0014] puis un type d'objet."
     },
     {
         "id": 89,

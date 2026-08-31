@@ -334,7 +334,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here,[SP]your[SP]HP,[SP]SP,[SP]and\nstatus[SP]ailments[SP]such[SP]as[SP]poison[SP]will[SP]be\nhealed[SP]through[SP]breathing[SP]in[SP]fragrances.",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Si vous choisissez [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014] ici, vos HP,\nSP et altérations comme le poison seront\nsoignés en inhalant mes fragrances."
+        "texte_fr": "Si vous choisissez [1432][NU[E4][NULL][NULL][0014]Soins[1432][NU[E4][NULL][NULL][0014] ici, vos HP,\nSP et altérations comme le poison seront\nsoignés en inhalant mes fragrances."
     },
     {
         "id": 21,
@@ -606,7 +606,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "I[SP]can't[SP]just[SP]stand[SP]here![1205][000A][SP]Let's[SP]see,[SP]what's[SP]the\nnext[SP]part[SP]of[SP]the[SP]Oracle...[1205][000A][SP][1432][NULL][NULL][0014]Five[SP]skulls[SP]glow\nin[SP]the[SP]depths[SP]of[SP]the[SP]earth[1432][NULL][NULL][0014]?",
         "nom_fr": "Femme âgée",
-        "texte_fr": "Je ne peux pas rester là! Voyons, la suite de\nl'Oracle... [1432][NULL][NULL][0014]Cinq crânes brillent dans les\nprofondeurs de la terre[1432][NULL][NULL][0014]?"
+        "texte_fr": "Je ne peux pas rester là! Voyons, la suite de\nl'Oracle... [1432][NU[E4][NULL][NULL][0014]Cinq crânes brillent dans les\nprofondeurs de la terre[1432][NU[E4][NULL][NULL][0014]?"
     },
     {
         "id": 37,

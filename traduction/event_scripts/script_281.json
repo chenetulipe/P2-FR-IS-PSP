@@ -807,7 +807,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Heh.[SP]Soon[SP]the[SP]people[SP]of[SP]this[SP]city[SP]will[SP]realize\nthe[SP]truths[SP]of[SP]the[SP]In[SP]Lak'ech[SP]and[SP]will[SP]wait[SP]for\nthe[SP]promised[SP]hour.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThat,[SP]after[SP]all,[SP]is[SP]why[SP]the[SP]Masked[SP]Circle\ngranted[SP]people's[SP]ideals.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThe[SP]Masked[SP]Circle[SP]is[SP]made[SP]of[SP]normal[SP]people,\nwhen[SP]you[SP]get[SP]down[SP]to[SP]it.[1205][000F][SP]They'll[SP]never[SP]stand\na[SP]chance[SP]against[SP]the[SP]Last[SP]Battalion...",
         "nom_fr": "Maya",
-        "texte_fr": "Pfff. Bientôt, les gens d'ici reconnaîtront\nles vérités de l'In Lak'ech et attendront\nl'heure promise.[E1][E2] [E3][E4][NULL][NULL]\"Maya C'est bien pour ça que\nle Cercle masqué a exaucé lesidéaux des gens.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Le Cercle masqué n'est composé que de\ngens normaux, tout bienconsidéré. [1205]Il ne pourra\njamais tenir face au Bataillon..."
+        "texte_fr": "Pfff. Bientôt, les gens d'ici reconnaîtront\nles vérités de l'In Lak'ech et attendront\nl'heure promise.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya C'est bien pour ça que\nle Cercle masqué a exaucé lesidéaux des gens.[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Maya Le Cercle masqué n'est composé que de\ngens normaux, tout bienconsidéré. [1205]Il ne pourra\njamais tenir face au Bataillon..."
     },
     {
         "id": 54,
@@ -1077,7 +1077,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "A[SP]lot[SP]of[SP]people[SP]will[SP]think[SP][1432][NULL][NULL][0014]What[SP]if...?[1432][NULL][NULL][0014][SP]even\nif[SP]it[SP]sounds[SP]absurd.",
         "nom_fr": "Yukino",
-        "texte_fr": "Beaucoup de gens penseront [1432][NULL][NULL][0014]Et\nsi...?[1432][NULL][NULL][0014] même si ça paraît absurde."
+        "texte_fr": "Beaucoup de gens penseront [1432][NU[E4][NULL][NULL][0014]Et\nsi...?[1432][NU[E4][NULL][NULL][0014] même si ça paraît absurde."
     },
     {
         "id": 72,
@@ -1137,7 +1137,7 @@
         "nom_orig": "Hanako",
         "texte_orig": "But[SP]then[SP]this[SP]boy[SP]came[SP]up[SP]to[SP]me[SP]and[SP]asked[SP]me\nwhat[SP]my[SP]name[SP]was.[SP]And[SP]I[SP]said,[SP][1432][NULL][NULL][0014]Hanako.[1432][NULL][NULL][0014][1205][000F][SP]And\nhe[SP]ran[SP]off[SP]screaming,[SP][1432][NULL][NULL][0014]It's[SP]Hanako![1432][NULL][NULL][0014]",
         "nom_fr": "Hanako",
-        "texte_fr": "Mais un garcon s'est approché et m'a\ndemandé mon nom. J'ai dit [1432][NULL][NULL][0014]Hanako.[1432][NULL][NULL][0014] Et\n[1205][000F]il s'est enfui en criant [1432][NULL][NULL][0014]C'est Hanako![1432][NULL][NULL][0014]"
+        "texte_fr": "Mais un garcon s'est approché et m'a\ndemandé mon nom. J'ai dit [1432][NU[E4][NULL][NULL][0014]Hanako.[1432][NU[E4][NULL][NULL][0014] Et\n[1205][000F]il s'est enfui en criant [1432][NU[E4][NULL][NULL][0014]C'est Hanako![1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 76,
@@ -1513,7 +1513,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "The[SP]mysterious[SP]owner[SP]of[SP][E4][NULL][NULL][0006]Time[SP]Castle[E4][NULL][NULL][0002]...\nIt[SP]seems[SP]he's[SP]secretly[SP]selling[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].\nTheir[SP][E4][NULL][NULL][0006]quality[SP]and[SP]price[SP]is[SP]average[E4][NULL][NULL][0002],[SP]I[SP]hear.",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Le proprio de [E4][NULL][NULL][0006]Time Castle[E4][NULL][NULL][0002] vend en\nsecret de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. Leur [E4][NULL][NULL][0006]qualité\net prix sont dans la moyenne[E4][NULL][NULL][0002], dit-on."
+        "texte_fr": "Le proprio de [E4][NU[E4][NULL][NULL][0006]Time Castle[E4][NU[E4][NULL][NULL][0002] vend en\nsecret de [E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002]. Leur [E4][NU[E4][NULL][NULL][0006]qualité\net prix sont dans la moyenne[E4][NU[E4][NULL][NULL][0002], dit-on."
     },
     {
         "id": 97,
@@ -1558,7 +1558,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki?[SP]I[SP]hear\nhe[SP]sells[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[SP]His[SP][E4][NULL][NULL][0006]selection[SP]is[SP]good,\nbut[SP]the[SP]resale[SP]value[SP]there[SP]is[SP]low[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Connaissez-vous [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki?\nIl vend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Bon choix,\nmais faible valeur de revente[E4][NULL][NULL][0002]."
+        "texte_fr": "Connaissez-vous [E4][NU[E4][NULL][NULL][0006]Tony's Shop[E4][NU[E4][NULL][NULL][0002] à Yumezaki?\nIl vend de [E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002]. [E4][NU[E4][NULL][NULL][0006]Bon choix,\nmais faible valeur de revente[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 100,
@@ -1603,7 +1603,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][0006]Clair[SP]de[SP]Lune[E4][NULL][NULL][0002][SP]in[SP]Aoba?[SP]I[SP]hear\nyou[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002][SP]there.[SP]The[SP][E4][NULL][NULL][0006]selection\nis[SP]bad,[SP]but[SP]the[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Connaissez-vous [E4][NULL][NULL][0006]Clair de Lune[E4][NULL][NULL][0002] à\nAoba? On y achète de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002].\n[E4][NULL][NULL][0006]Mauvais choix, bons prix de revente[E4][NULL][NULL][0002]."
+        "texte_fr": "Connaissez-vous [E4][NU[E4][NULL][NULL][0006]Clair de Lune[E4][NU[E4][NULL][NULL][0002] à\nAoba? On y achète de [E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002].\n[E4][NU[E4][NULL][NULL][0006]Mauvais choix, bons prix de revente[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 103,
@@ -1648,7 +1648,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "There's[SP]a[SP]cafe[SP]called[SP][E4][NULL][NULL][0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]in[SP]Kounan,\nwhere[SP]it[SP]seems[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F][SP]Rumor\nis[SP]their[SP][E4][NULL][NULL][0006]quality[SP]and[SP]price[SP]is[SP]average[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Il y a un café [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] à Kounan\npour acheter de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002].\n[1205][000F][E4][NULL][NULL][0006]Qualité et prix dans la moyenne[E4][NULL][NULL][0002]."
+        "texte_fr": "Il y a un café [E4][NU[E4][NULL][NULL][0006]Jolly Roger[E4][NU[E4][NULL][NULL][0002] à Kounan\npour acheter de [E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002].\n[1205][000F][E4][NU[E4][NULL][NULL][0006]Qualité et prix dans la moyenne[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 106,
@@ -1663,7 +1663,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "The[SP][1432][NULL][NULL][0014]Jolly[SP]Roger[1432][NULL][NULL][0014][SP]refers[SP]to[SP]the[SP]skull[SP]and\ncrossbones...[SP]Between[SP]the[SP]ship-like[SP]decor[SP]and\nhis[SP]clothing,[SP]the[SP]owner[SP]may[SP]be[SP]an[SP]ex-pirate.",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne et os\ncroisés... Entre le décor marin et ses\nvêtements, le patron est peut-être un\nex-pirate."
+        "texte_fr": "Le [1432][NU[E4][NULL][NULL][0014]Jolly Roger[1432][NU[E4][NULL][NULL][0014] désigne le crâne et os\ncroisés... Entre le décor marin et ses\nvêtements, le patron est peut-être un\nex-pirate."
     },
     {
         "id": 107,
@@ -1708,7 +1708,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "Do[SP]you[SP]know[SP]the[SP]boutique[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002]?[SP]It[SP]seems\nyou[SP]can[SP]actually[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]Rumor\nhas[SP]it[SP]their[SP][E4][NULL][NULL][0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Connaissez-vous [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002]?\nOn y achète de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].\n[E4][NULL][NULL][0006]Qualité et prix dans la moyenne[E4][NULL][NULL][0002]."
+        "texte_fr": "Connaissez-vous [E4][NU[E4][NULL][NULL][0006]Rosa Candida[E4][NU[E4][NULL][NULL][0002]?\nOn y achète de [E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002].\n[E4][NU[E4][NULL][NULL][0006]Qualité et prix dans la moyenne[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 110,
@@ -1753,7 +1753,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][0006]Anima[SP]Mundi[E4][NULL][NULL][0002][SP]in[SP]Yumezaki?[SP]It[SP]seems\nthey[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]The[SP][E4][NULL][NULL][0006]quality[SP]and\nprice[SP]of[SP]their[SP]goods[SP]is[SP]normal[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Connaissez-vous [E4][NULL][NULL][0006]Anima Mundi[E4][NULL][NULL][0002] à\nYumezaki? Ils vendent de [E4][NULL][NULL][0006]vraies\narmures[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Qualité et prix normaux[E4][NULL][NULL][0002]."
+        "texte_fr": "Connaissez-vous [E4][NU[E4][NULL][NULL][0006]Anima Mundi[E4][NU[E4][NULL][NULL][0002] à\nYumezaki? Ils vendent de [E4][NU[E4][NULL][NULL][0006]vraies\narmures[E4][NU[E4][NULL][NULL][0002]. [E4][NU[E4][NULL][NULL][0006]Qualité et prix normaux[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 113,
@@ -1783,7 +1783,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Ah, le nouveau Leader de Kasugayama était\nl'acolyte du Boss de la Mort. [1205][000F]Le bas surpasse\nle haut... Voici ce que je sais.[E1][E2] [E3][E4][NULL][NULL]\"Toku-san\nl'informateur Il y a une [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] à Aoba,\navec de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].[E4][NULL][NULL][0006]Mauvais choix mais bons\nprix de revente[E4][NULL][NULL][0002]."
+        "texte_fr": "Ah, le nouveau Leader de Kasugayama était\nl'acolyte du Boss de la Mort. [1205][000F]Le bas surpasse\nle haut... Voici ce que je sais.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Toku-san\nl'informateur Il y a une [E4][NU[E4][NULL][NULL][0006]Rosa Candida[E4][NU[E4][NULL][NULL][0002] à Aoba,\navec de [E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002].[E4][NU[E4][NULL][NULL][0006]Mauvais choix mais bons\nprix de revente[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 115,
@@ -1813,7 +1813,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "There's[SP]a[SP]European-styled[SP]shop,[SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002],\nin[SP]Kounan.[1205][000A][SP]You[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP][E4][NULL][NULL][0006]Their\nselection[SP]is[SP]good,[SP]but[SP]the[SP]resale[SP]value[SP]isn't[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Il y a [E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002] à Kounan.[1205][000A]On y achète de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].\n[E4][NULL][NULL][0006]Bon choix, faible valeur de revente[E4][NULL][NULL][0002]."
+        "texte_fr": "Il y a [E4][NU[E4][NULL][NULL][0006]London Clothier[E4][NU[E4][NULL][NULL][0002] à Kounan.[1205][000A]On y achète de [E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002].\n[E4][NU[E4][NULL][NULL][0006]Bon choix, faible valeur de revente[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 117,
@@ -1858,7 +1858,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "My[SP]turn.[SP]You[SP]know[SP]the[SP][E4][NULL][NULL][0006]magazine[SP]sweepstakes[E4][NULL][NULL][0002]?[SP]It\nseems[SP]people[SP]win[SP][E4][NULL][NULL][0006]real[SP]weapons[SP]and[SP]rare[SP]items[E4][NULL][NULL][0002].\nIt's[SP][E4][NULL][NULL][0006]hard[SP]to[SP]win,[SP]but[SP]the[SP]prizes[SP]are[SP]good[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "Mon tour. Les [E4][NULL][NULL][0006]loteries de magazines[E4][NULL][NULL][0002]?\nOn gagne de [E4][NULL][NULL][0006]vraies armes et objets\nrares[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Difficile à gagner, bons prix[E4][NULL][NULL][0002]."
+        "texte_fr": "Mon tour. Les [E4][NU[E4][NULL][NULL][0006]loteries de magazines[E4][NU[E4][NULL][NULL][0002]?\nOn gagne de [E4][NU[E4][NULL][NULL][0006]vraies armes et objets\nrares[E4][NU[E4][NULL][NULL][0002]. [E4][NU[E4][NULL][NULL][0006]Difficile à gagner, bons prix[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 120,
@@ -1903,7 +1903,7 @@
         "nom_orig": "Rumormonger[SP]Toku-san",
         "texte_orig": "It[SP]seems[SP]they[SP]offer[SP][E4][NULL][NULL][0006]real[SP]gambling[E4][NULL][NULL][0002][SP]at[SP][E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002].\nThe[SP]rumor[SP]is[SP]that[SP][E4][NULL][NULL][0006]poker[SP]is[SP]the[SP]easiest\ngame[SP]to[SP]win[E4][NULL][NULL][0002].",
         "nom_fr": "Toku-san l'informateur",
-        "texte_fr": "On fait de [E4][NULL][NULL][0006]vrais paris[E4][NULL][NULL][0002] à [E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002]. Selon la\nrumeur, le [E4][NULL][NULL][0006]poker est le plus facile à gagner[E4][NULL][NULL][0002]."
+        "texte_fr": "On fait de [E4][NU[E4][NULL][NULL][0006]vrais paris[E4][NU[E4][NULL][NULL][0002] à [E4][NU[E4][NULL][NULL][0006]Mu[E4][NU[E4][NULL][NULL][0002]. Selon la\nrumeur, le [E4][NU[E4][NULL][NULL][0006]poker est le plus facile à gagner[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 123,
@@ -2128,7 +2128,7 @@
         "nom_orig": "Young[SP]woman",
         "texte_orig": "C'mon,[SP]let's[SP]go[SP]see[SP]the[SP]Kasuga[SP]Festival.[1205][000F][SP]It'll\nbe[SP]sooo[SP]much[SP]fun![1205][000A][SP]I'm[SP]like,[SP]totally[SP]over[SP]this\npark[SP]already.[E1][E2]\n[E3][E4][NULL][NULL]\"Young[SP]woman\nGinji[SP]Sasaki[SP]is[SP]producing[SP]a[SP]new[SP]group,[SP]right?[1205][000F]\nHis[SP]songs[SP]are[SP]the[SP]best![SP]I'm[SP]sooooo[SP]looking\nforward[SP]to[SP]it!",
         "nom_fr": "Jeune femme",
-        "texte_fr": "Allez, on va voir le Festival Kasuga. [1205][000F]Ce sera\ntrop fun! J'en ai trop marre de ce parc de\ntoute façon.[E1][E2] [E3][E4][NULL][NULL]\"Jeune femme Ginji Sasaki produit\nun nouveau groupe, non? Ses chansons sont trop\nbien! J'ai trop hâte de voir ça!"
+        "texte_fr": "Allez, on va voir le Festival Kasuga. [1205][000F]Ce sera\ntrop fun! J'en ai trop marre de ce parc de\ntoute façon.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Jeune femme Ginji Sasaki produit\nun nouveau groupe, non? Ses chansons sont trop\nbien! J'ai trop hâte de voir ça!"
     },
     {
         "id": 138,
@@ -2278,7 +2278,7 @@
         "nom_orig": "Cool[SP]guy",
         "texte_orig": "I[SP][SP]called[SP]an[SP]ambulance,[SP]but[SP]he's[SP]screwed.[SP]His\neyes[SP]were[SP]rolled[SP]back[SP]and[SP]he[SP]wasn't[SP]breathing.\nIs[SP]that[SP]what[SP]they[SP]call[SP][1432][NULL][NULL][0014]sudden[SP]death[1432][NULL][NULL][0014]...?",
         "nom_fr": "Gars stylé",
-        "texte_fr": "J'ai appelé une ambulance, mais il est\nfichu. Ses yeux étaient révulsés, plus\nde respiration. C'est ça [1432][NULL][NULL][0014]mort subite[1432][NULL][NULL][0014]...?"
+        "texte_fr": "J'ai appelé une ambulance, mais il est\nfichu. Ses yeux étaient révulsés, plus\nde respiration. C'est ça [1432][NU[E4][NULL][NULL][0014]mort subite[1432][NU[E4][NULL][NULL][0014]...?"
     },
     {
         "id": 148,
@@ -2383,7 +2383,7 @@
         "nom_orig": "Masked[SP]Circle[SP]member",
         "texte_orig": "Who's[SP]this[SP][1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014]!?[SP]They[SP]never[SP]told\nus[SP]about[SP]guys[SP]like[SP]that![SP]Are[SP]they[SP]some[SP]kind\nof[SP]group[SP]that's[SP]against[SP]our[SP]Masked[SP]Circle!?",
         "nom_fr": "Membre du Cercle masqué",
-        "texte_fr": "C'est quoi ce [1432][NULL][NULL][0014]Bataillon[1432][NULL][NULL][0014]!? On ne nous\navait rien dit sur eux! C'est un\ngroupe contre notre Cercle masqué?"
+        "texte_fr": "C'est quoi ce [1432][NU[E4][NULL][NULL][0014]Bataillon[1432][NU[E4][NULL][NULL][0014]!? On ne nous\navait rien dit sur eux! C'est un\ngroupe contre notre Cercle masqué?"
     },
     {
         "id": 155,
@@ -2878,7 +2878,7 @@
         "nom_orig": "Bored[SP]college[SP]student",
         "texte_orig": "It[SP]yelled[SP]at[SP]some[SP]kid[SP]who[SP]wandered[SP]in[SP]there,\nsaying[SP][1432][NULL][NULL][0014]Get[SP]in[SP]here![1432][NULL][NULL][0014]",
         "nom_fr": "Étudiant ennuyé",
-        "texte_fr": "Elle a crié après un gamin qui\ns'y était aventuré: [1432][NULL][NULL][0014]Entre ici![1432][NULL][NULL][0014]"
+        "texte_fr": "Elle a crié après un gamin qui\ns'y était aventuré: [1432][NU[E4][NULL][NULL][0014]Entre ici![1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 188,

@@ -147,7 +147,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#14![SP][1432][NULL][NULL][0014]Sorry-ia[1432][NULL][NULL][0014][SP]means...[1205][001E]\nWell,[SP]you[SP]probably[SP]figured[SP]that[SP]one[SP]out.",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon de cantonais #14! [1432][NULL][NULL][0014]Sorry-ia[1432][NULL][NULL][0014] veut\ndire...[1205][001E] Bah, vous avez sans doute deviné."
+        "texte_fr": "Leçon de cantonais #14! [1432][NU[E4][NULL][NULL][0014]Sorry-ia[1432][NU[E4][NULL][NULL][0014] veut\ndire...[1205][001E] Bah, vous avez sans doute deviné."
     },
     {
         "id": 10,
@@ -162,7 +162,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#16![1205][001E][SP][1432][NULL][NULL][0014]Hai[1432][NULL][NULL][0014][SP]is[SP]used[SP]like\n[1432][NULL][NULL][0014]Okay![1432][NULL][NULL][0014][SP]when[SP]you[SP]want[SP]to[SP]agree[SP]with[SP]something.\nIt's[SP]pretty[SP]straightforward.",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon de cantonais #16![1205][001E] [1432][NULL][NULL][0014]Hai[1432][NULL][NULL][0014] s'utilise\ncomme [1432][NULL][NULL][0014]Okay![1432][NULL][NULL][0014] quand on est d'accord avec\nquelque chose. C'est plutôt simple."
+        "texte_fr": "Leçon de cantonais #16![1205][001E] [1432][NU[E4][NULL][NULL][0014]Hai[1432][NU[E4][NULL][NULL][0014] s'utilise\ncomme [1432][NU[E4][NULL][NULL][0014]Okay![1432][NU[E4][NULL][NULL][0014] quand on est d'accord avec\nquelque chose. C'est plutôt simple."
     },
     {
         "id": 11,
@@ -1341,7 +1341,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Ah,[SP]welcome.[1205][000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][000F][SP]What[SP]do[SP]you[SP]think?[1205][000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!\n[1208][0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Ah, bienvenue. Nous ne vendons que les  plus\nbeaux vêtements ici. Qu'en dites-vous?\nAchetez sans hésiter! [1208][0005]Acheter armures Vendre\nobjets Parler Rien Quitter",
+        "texte_fr": "Ah, bienvenue. Nous ne vendons que les  plus\nbeaux vêtements ici. Qu'en dites-vous? Achetez\nsans hésiter! [1208][0005]Acheter armures Vendre objets\nParler Rien Quitter",
         "question_orig": "Ah,[SP]welcome.[1205][000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][000F][SP]What[SP]do[SP]you[SP]think?[1205][000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!",
         "choix_orig": [
             "Buy[SP]armor",
@@ -1480,7 +1480,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Commençons par acheter. Choisissez\n[1432][NULL][NULL][0014]Acheter armures[1432][NULL][NULL][0014] pour acheter parmi\nnotre stock d'armures incroyables."
+        "texte_fr": "Commençons par acheter. Choisissez\n[1432][NU[E4][NULL][NULL][0014]Acheter armures[1432][NU[E4][NULL][NULL][0014] pour acheter parmi\nnotre stock d'armures incroyables."
     },
     {
         "id": 93,
@@ -1510,7 +1510,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Ensuite, pour vendre. Choisissez\n[1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] pour choisir le type.\nSélectionnez puis quoi vendre."
+        "texte_fr": "Ensuite, pour vendre. Choisissez\n[1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] pour choisir le type.\nSélectionnez puis quoi vendre."
     },
     {
         "id": 95,

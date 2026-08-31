@@ -117,7 +117,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Deviates...?[1205][000F][SP]My[SP]memories...[1205][000A][SP]changed?[1205][000F][SP]It[SP]can't\nbe...[1205][000A][SP]But[SP]that[SP]must[SP]have[SP]been...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nTh-Then[SP]the[SP]lady[SP]who[SP]was[SP]here[SP]took[SP]off[SP]to[SP]fight\nthe[SP]Last[SP]Battalion!?[SP]C-C'mon,[SP]that's[SP]crazy!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Déviée...[1205][000F] ? Mes souvenirs... modifiés?\nImpossible... Mais ça devait être...[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nA-Alors la dame d'ici est partie battre le\nBataillon!? C-C'est de la folie!"
+        "texte_fr": "Déviée...[1205][000F] ? Mes souvenirs... modifiés?\nImpossible... Mais ça devait être...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Eikichi\nA-Alors la dame d'ici est partie battre le\nBataillon!? C-C'est de la folie!"
     },
     {
         "id": 8,
@@ -192,7 +192,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#13![1205][001E][SP][1432][NULL][NULL][0014]Ng[SP]Hai[1432][NULL][NULL][0014][SP]means...[1205][000F]\nWell,[SP]it's[SP]kind[SP]of[SP]like,[SP][1432][NULL][NULL][0014]No[SP]no[SP]no[SP]no![1432][NULL][NULL][0014]",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon de cantonais #13![1205][001E] [1432][NULL][NULL][0014]Ng Hai[1432][NULL][NULL][0014] veut\ndire... En gros, c'est [1432][NULL][NULL][0014]Non non non![1432][NULL][NULL][0014]"
+        "texte_fr": "Leçon de cantonais #13![1205][001E] [1432][NU[E4][NULL][NULL][0014]Ng Hai[1432][NU[E4][NULL][NULL][0014] veut\ndire... En gros, c'est [1432][NU[E4][NULL][NULL][0014]Non non non![1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 13,
@@ -417,7 +417,7 @@
         "nom_orig": "Maya",
         "texte_orig": "People[SP]who[SP]have[SP]forgotten[SP]the[SP]memories[SP]of[SP]their\npast[SP]are[SP]beginning[SP]to[SP]realize,[SP]through[SP]the[SP]In\nLak'ech,[SP]the[SP]atonement[SP]they[SP]are[SP]destined[SP]for.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHeh...[SP]Don't[SP]you[SP]think[SP]so,[SP][1113]-kun?",
         "nom_fr": "Maya",
-        "texte_fr": "Ceux qui ont oublié leur passé réalisent, via\nl'In Lak'ech, leur expiation destinée.[E1][E2] [E3][E4][NULL][NULL]\"Maya\nHéhé... T'es pas d'accord, [1113]-kun?"
+        "texte_fr": "Ceux qui ont oublié leur passé réalisent, via\nl'In Lak'ech, leur expiation destinée.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya\nHéhé... T'es pas d'accord, [1113]-kun?"
     },
     {
         "id": 28,
@@ -447,7 +447,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "[1432][NULL][NULL][0014]Time[SP]cannot[SP]be[SP]stopped.[SP]The[SP]past[SP]you've[SP]lost\ncannot[SP]be[SP]reclaimed,[1432][NULL][NULL][0014][SP]huh...?",
         "nom_fr": "Yukino",
-        "texte_fr": "[1432][NULL][NULL][0014]Le temps ne s'arrête pas. Le passé\nperdu ne peut être récupéré,[1432][NULL][NULL][0014] hein...?"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Le temps ne s'arrête pas. Le passé\nperdu ne peut être récupéré,[1432][NU[E4][NULL][NULL][0014] hein...?"
     },
     {
         "id": 30,
@@ -1162,7 +1162,7 @@
         "nom_orig": "Nouveau-riche[SP]woman",
         "texte_orig": "[1432][NULL][NULL][0014]He[1432][NULL][NULL][0014]...?[1205][000F][SP]O-Oh[SP]yes,[SP]Takeshi...[1205][000F][SP]H-Haha...[SP]How\ncould[SP]I[SP]forget[SP]my[SP]own[SP]son's[SP]name...?[1205][000F][SP]I[SP]think\nI'm[SP]a[SP]little[SP]drunk[SP]off[SP]this[SP]sudden[SP]fortune.",
         "nom_fr": "Nouvelle riche",
-        "texte_fr": "[1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]...[1205][000F] ? O-Oh oui, Takeshi... H-Haha... Comment\noublier le nom de mon fils...? Je crois\nque je suis un peu ivre de cette fortune."
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Il[1432][NU[E4][NULL][NULL][0014]...[1205][000F] ? O-Oh oui, Takeshi... H-Haha... Comment\noublier le nom de mon fils...? Je crois\nque je suis un peu ivre de cette fortune."
     },
     {
         "id": 75,
@@ -1252,7 +1252,7 @@
         "nom_orig": "Masked[SP]Circle[SP]member",
         "texte_orig": "Hahahaha,[SP]what[SP]fun![SP]This[SP]city[SP]should[SP]burn[SP]to\nthe[SP]ground![SP]That's[SP]what'll[SP]make[SP]me[SP]feel[SP]better!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Masked[SP]Circle[SP]member\nAaaaagh...[SP]Time's[SP]spinning...[1205][000F][SP]Something's\nmissing[SP]from[SP]inside[SP]me...[1205][000F][SP]Stop[SP]it...[SP]Stop\nthis[SP]clock!",
         "nom_fr": "Membre du Cercle masqué",
-        "texte_fr": "Hahahaha, amusant! Cette ville devrait brûler!\nÇa me fera me sentir mieux! Hahahaha![E1][E2] [E3][E4][NULL][NULL]\"Membre\ndu Cercle Aaaaagh...[1205][000F] Le temps tourne...[1205][000F] Il\nmanque un truc en moi... Arrête... Arrête\ncette horloge!"
+        "texte_fr": "Hahahaha, amusant! Cette ville devrait brûler!\nÇa me fera me sentir mieux! Hahahaha![E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Membre\ndu Cercle Aaaaagh...[1205][000F] Le temps tourne...[1205][000F] Il\nmanque un truc en moi... Arrête... Arrête\ncette horloge!"
     },
     {
         "id": 81,
@@ -1557,7 +1557,7 @@
         "nom_orig": "Count",
         "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can\npurchase[SP]that[SP]category[SP]of[SP]item.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour acheter, choisissez par\nexemple [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] et vous\npourrez acheter cette catégorie."
+        "texte_fr": "Pour acheter, choisissez par\nexemple [1432][NU[E4][NULL][NULL][0014]Acheter accessoires[1432][NU[E4][NULL][NULL][0014] et vous\npourrez acheter cette catégorie."
     },
     {
         "id": 98,
@@ -1587,7 +1587,7 @@
         "nom_orig": "Count",
         "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] pour choisir le type d'objet.\nSélectionnez un type puis quoi vendre."
+        "texte_fr": "Pour vendre, choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] pour choisir le type d'objet.\nSélectionnez un type puis quoi vendre."
     },
     {
         "id": 100,
@@ -1632,7 +1632,7 @@
         "nom_orig": "Count",
         "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]at[SP]my[SP]store[SP]to\npurchase[SP]weapons.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour acheter, choisissez par exemple [1432][NULL][NULL][0014]Acheter\narmes[1432][NULL][NULL][0014] chez moi pour acheter des armes."
+        "texte_fr": "Pour acheter, choisissez par exemple [1432][NU[E4][NULL][NULL][0014]Acheter\narmes[1432][NU[E4][NULL][NULL][0014] chez moi pour acheter des armes."
     },
     {
         "id": 103,
@@ -1662,7 +1662,7 @@
         "nom_orig": "Count",
         "texte_orig": "Select[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase\naccessories.[SP]Again,[SP]certain[SP]things[SP]can[SP]only[SP]be\nequipped[SP]by[SP]certain[SP]individuals.",
         "nom_fr": "Comte",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour les\naccessoires. Là encore, certains objets\nne sont équipables que par certains."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter accessoires[1432][NU[E4][NULL][NULL][0014] pour les\naccessoires. Là encore, certains objets\nne sont équipables que par certains."
     },
     {
         "id": 105,
@@ -1677,7 +1677,7 @@
         "nom_orig": "Count",
         "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
         "nom_fr": "Comte",
-        "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] pour choisir le type d'objet.\nSélectionnez un type puis quoi vendre."
+        "texte_fr": "Pour vendre, choisissez [1432][NU[E4][NULL][NULL][0014]Vendre\nobjets[1432][NU[E4][NULL][NULL][0014] pour choisir le type d'objet.\nSélectionnez un type puis quoi vendre."
     },
     {
         "id": 106,

@@ -102,7 +102,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Those[SP]were[SP]the[SP]versions[SP]of[SP]us[SP]everyone[SP]else\nimagined...[1205][000F][SP]Maybe[SP]if[SP]those[SP]sketches[SP]hadn't[SP]gone\nout,[SP]they'd[SP]have[SP]looked[SP]completely[SP]different.",
         "nom_fr": "Maya",
-        "texte_fr": "C'était la version de nous qu'imaginaient les[1205][000F]\nautres... 00F].. Si ces croquis n'avaient pas\ncirculé, elles auraient eu l'air tout autres."
+        "texte_fr": "C'était la version de nous qu'imaginaient les[1205][000F]\nautres... [1205][00F].. Si ces croquis n'avaient pas\ncirculé, elles auraient eu l'air tout autres."
     },
     {
         "id": 7,
@@ -147,7 +147,7 @@
         "nom_orig": "Jun",
         "texte_orig": "For[SP]example,[SP]the[SP][1432][NULL][NULL][0014]Jun[1432][NULL][NULL][0014][SP]Lisa[SP]knows[SP]and[SP]the[SP]one\n[1113][SP]knows[SP]are[SP]a[SP]little[SP]bit[SP]different.",
         "nom_fr": "Jun",
-        "texte_fr": "Par exemple, le [1432][NULL][NULL][0014]Jun[1432][NULL][NULL][0014] que connaît Lisa\net celui que connaît [1113] diffèrent."
+        "texte_fr": "Par exemple, le [1432][NU[E4][NULL][NULL][0014]Jun[1432][NU[E4][NULL][NULL][0014] que connaît Lisa\net celui que connaît [1113] diffèrent."
     },
     {
         "id": 10,
@@ -192,7 +192,7 @@
         "nom_orig": "Jun",
         "texte_orig": "Both[SP]came[SP]true,[SP]so[SP]another[SP]personality[SP]which[SP]had\nnot[SP]previously[SP]existed[SP]came[SP]into[SP]being.[1205][000F][SP]Those\nshadows[SP]are[SP]the[SP][1432][NULL][NULL][0014]us[1432][NULL][NULL][0014][SP]that[SP]the[SP]people[SP]imagined.",
         "nom_fr": "Jun",
-        "texte_fr": "Les deux se sont réalisées, donc une autre\npersonnalité inexistante a vu le jour. Ces\n[1205][000F]Ombres sont le [1432][NULL][NULL][0014]nous[1432][NULL][NULL][0014] qu'imaginaient les gens."
+        "texte_fr": "Les deux se sont réalisées, donc une autre\npersonnalité inexistante a vu le jour. Ces\n[1205][000F]Ombres sont le [1432][NU[E4][NULL][NULL][0014]nous[1432][NU[E4][NULL][NULL][0014] qu'imaginaient les gens."
     },
     {
         "id": 13,
@@ -546,7 +546,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "I[SP]don't[SP]know[SP]where[SP]it[SP]started,[SP]but[SP]there[SP]is[SP]a\nrumor[SP]circulating[SP]that[SP][E4][NULL][NULL][0006]our[SP]restaurant[SP]carries\na[SP]legendary[SP]gun[E4][NULL][NULL][0002].[SP]As[SP]if[SP]that[SP]were[SP]true...",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Je ne sais pas d'où ça vient, mais une\nrumeur court que [E4][NULL][NULL][0006]notre restaurant possède un\npistolet légendaire[E4][NULL][NULL][0002]. Comme si c'était vrai..."
+        "texte_fr": "Je ne sais pas d'où ça vient, mais une\nrumeur court que [E4][NU[E4][NULL][NULL][0006]notre restaurant possède un\npistolet légendaire[E4][NU[E4][NULL][NULL][0002]. Comme si c'était vrai..."
     },
     {
         "id": 31,
@@ -561,7 +561,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "It's[SP]a[SP]lie,[SP]naturally.[E4][NULL][NULL][0006][SP]Having[SP]to[SP]address[SP]it[SP]has\nbeen[SP]a[SP]constant[SP]thorn[SP]in[SP]our[SP]side.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "C'est un mensonge.[E4][NULL][NULL][0006] Devoir y répondre\nest une épine dans notre pied."
+        "texte_fr": "C'est un mensonge.[E4][NU[E4][NULL][NULL][0006] Devoir y répondre\nest une épine dans notre pied."
     },
     {
         "id": 32,
@@ -801,7 +801,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Please...[SP]Don't[SP]make[SP]me[SP]do[SP]this...\n[1208][0002][1432][NULL][NULL][0014]Eat[SP]it.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]okay,[SP]Maya.[1432][NULL][NULL][0014]",
         "nom_fr": "Maya",
-        "texte_fr": "Je vous en supplie... Pas ça...\n[1208][0002][1432][NULL][NULL][0014]Mange-le.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ça va, Maya.[1432][NULL][NULL][0014]",
+        "texte_fr": "Je vous en supplie... Pas ça...\n[1208][0002][1432][NU[E4][NULL][NULL][0014]Mange-le.[1432][NU[E4][NULL][NULL][0014]\n[1432][NU[E4][NULL][NULL][0014]Ça va, Maya.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "Please...[SP]Don't[SP]make[SP]me[SP]do[SP]this...",
         "choix_orig": [
             "Eat[SP]it.",
@@ -857,7 +857,7 @@
         "nom_orig": "Maya",
         "texte_orig": "F-Fine![SP]I'll[SP]eat[SP]it![SP]Just[SP]you[SP]watch![SP]I'll[SP]show\nyou[SP]what[SP]I'm[SP]made[SP]of!",
         "nom_fr": "Maya",
-        "texte_fr": "T-Très bien! Je vais le manger! Vous verrez![E3]\nMaya affronta le plat...[E2][E1][E2] [E3][E4][NULL][NULL] \"Maya J'ai... Je\nl'ai mangé... Spaghetti... di kusaya..."
+        "texte_fr": "T-Très bien! Je vais le manger! Vous verrez![E3]\nMaya affronta le plat...[E2][E1][E2] [E3][E4][NU[E4][NULL][NULL] \"Maya J'ai... Je\nl'ai mangé... Spaghetti... di kusaya..."
     },
     {
         "id": 51,
@@ -932,7 +932,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "How[SP]was[SP]the[SP]taste?\n[1208][0002][1432][NULL][NULL][0014]Delicious.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Horrible.[1432][NULL][NULL][0014]",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "C'était bon?\n[1208][0002][1432][NULL][NULL][0014]Délicieux.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Horrible.[1432][NULL][NULL][0014]",
+        "texte_fr": "C'était bon?\n[1208][0002][1432][NU[E4][NULL][NULL][0014]Délicieux.[1432][NU[E4][NULL][NULL][0014]\n[1432][NU[E4][NULL][NULL][0014]Horrible.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "How[SP]was[SP]the[SP]taste?",
         "choix_orig": [
             "Delicious.",
@@ -1193,7 +1193,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "When[SP]you[SP]request[SP]to[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014][SP]I[SP]will[SP]show\nyou[SP]our[SP]selection[SP]of[SP]armaments.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter armes,[1432][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter armes,[1432][NU[E4][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
     },
     {
         "id": 72,
@@ -1223,7 +1223,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "We[SP]will[SP]also[SP]buy[SP]your[SP]used[SP]wares.[SP]Choose\n[1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]give[SP]you[SP]a[SP]choice\nas[SP]to[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
+        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
     },
     {
         "id": 74,
@@ -1283,7 +1283,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "When[SP]you[SP]request[SP]to[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014][SP]I[SP]will[SP]show\nyou[SP]our[SP]selection[SP]of[SP]armaments.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter armes,[1432][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter armes,[1432][NU[E4][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
     },
     {
         "id": 78,
@@ -1313,7 +1313,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "You[SP]may[SP]also[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]accessories,[1432][NULL][NULL][0014][SP]which\nwill[SP]allow[SP]you[SP]to[SP]inspect[SP]our[SP]fine[SP]line[SP]of\nenhancements.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Vous pouvez aussi choisir [1432][NULL][NULL][0014]Acheter\naccessoires,[1432][NULL][NULL][0014] pour explorer\nnotre gamme d'améliorations."
+        "texte_fr": "Vous pouvez aussi choisir [1432][NU[E4][NULL][NULL][0014]Acheter\naccessoires,[1432][NU[E4][NULL][NULL][0014] pour explorer\nnotre gamme d'améliorations."
     },
     {
         "id": 80,
@@ -1343,7 +1343,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "We[SP]will[SP]also[SP]buy[SP]your[SP]used[SP]wares.[SP]Choose\n[1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]give[SP]you[SP]a[SP]choice\nas[SP]to[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
+        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
     },
     {
         "id": 82,

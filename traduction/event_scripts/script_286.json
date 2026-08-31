@@ -923,7 +923,7 @@
         "nom_orig": "Ginko's[SP]father",
         "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
         "nom_fr": "Père de Ginko",
-        "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.\nLettre [NULL][NULL]Merci de votre participation au tirage.\nHélas, vous n'êtes pas gagnant cettefois. Nous\nvous encourageons à continuer![NULL][NULL]"
+        "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.\nLettre [NU[E4][NULL][NULL]Merci de votre participation au tirage.\nHélas, vous n'êtes pas gagnant cettefois. Nous\nvous encourageons à continuer![NU[E4][NULL][NULL]"
     },
     {
         "id": 61,
@@ -938,7 +938,7 @@
         "nom_orig": "Ginko's[SP]father",
         "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
         "nom_fr": "Père de Ginko",
-        "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.\nLettre [NULL][NULL]Merci de votre participation au tirage.\nFélicitations! Vous avez étésélectionné comme\ngagnant! [NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez pas de\nplace pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+        "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.\nLettre [NU[E4][NULL][NULL]Merci de votre participation au tirage.\nFélicitations! Vous avez étésélectionné comme\ngagnant! [NU[E4][NULL][NULL]Veuillez accepter [E4][NU[E4][NULL][NULL][NULL][E4][NU[E4][NULL][NULL] en guise de prix.\nContinuez à participer![NU[E4][NULL][NULL] Vous n'avez pas de\nplace pour un(e) autre [E4][NU[E4][NULL][NULL][NULL][E4][NU[E4][NULL][NULL]..."
     },
     {
         "id": 62,
@@ -1163,7 +1163,7 @@
         "nom_orig": "Ginko's[SP]father",
         "texte_orig": "There[SP]are[SP]many[SP]theories[SP]as[SP]to[SP]the[SP]culprit's\nidentity,[SP]but[SP]all[SP]of[SP]them[SP]are[SP]the[SP]most[SP]absurd\nrumors.[SP][1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]indeed!",
         "nom_fr": "Père de Ginko",
-        "texte_fr": "Il y a bien des théories sur l'identité\ndu coupable, mais ce sont les rumeurs les\nplus absurdes. [1432][NULL][NULL][0014]Le Bataillon[1432][NULL][NULL][0014], vraiment!"
+        "texte_fr": "Il y a bien des théories sur l'identité\ndu coupable, mais ce sont les rumeurs les\nplus absurdes. [1432][NU[E4][NULL][NULL][0014]Le Bataillon[1432][NU[E4][NULL][NULL][0014], vraiment!"
     },
     {
         "id": 77,

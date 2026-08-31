@@ -12,7 +12,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": ".[1205][000F].[1205][000F].[1205][000F].[1205][000F].[1205][000F].It's[SP]movin'.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nYep.[SP]It's[SP]movin'.",
         "nom_fr": "Eikichi",
-        "texte_fr": "...[1205][000F] Ça bouge.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nOuais. Ça bouge."
+        "texte_fr": "...[1205][000F] Ça bouge.[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Lisa\nOuais. Ça bouge."
     },
     {
         "id": 1,
@@ -117,7 +117,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]!",
         "nom_fr": "Ginko",
-        "texte_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi! Allons\ndîner, [1113]! Pierre Narurato Un mégalithe déterré\nà la construction du lycée. Fait de thamatite,\nil possède un magnétisme anormal.[E1][E2] La légende\ndit que c'est une pierre gardienne où l'être\ncéleste Hiremon a scellé le démon Narurato\nHotefu. Statue en l'honneur du directeur Hanya\n[NULL][NULL]Regardez-moi! Suivez-moi! Ne comptez pas sur\nmoi![NULL][NULL] est lacitation contradictoire écrite ici.\nLa regarder vous met étrangement en colère..."
+        "texte_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi! Allons\ndîner, [1113]! Pierre Narurato Un mégalithe déterré\nà la construction du lycée. Fait de thamatite,\nil possède un magnétisme anormal.[E1][E2] La légende\ndit que c'est une pierre gardienne où l'être\ncéleste Hiremon a scellé le démon Narurato\nHotefu. Statue en l'honneur du directeur Hanya\n[NU[E4][NULL][NULL]Regardez-moi! Suivez-moi! Ne comptez pas sur\nmoi![NU[E4][NULL][NULL] est lacitation contradictoire écrite ici.\nLa regarder vous met étrangement en colère..."
     },
     {
         "id": 8,
@@ -417,7 +417,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "[1432][NULL][NULL][0014]Why[1432][NULL][NULL][0014]...!?[1205][001E][SP]L-Look[SP]at[SP]the[SP]statue![SP]I-It's[SP]walking\naround![SP]D-Don't[SP]you[SP]think[SP]that's[SP]dangerous!?",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue! E-Elle\nse balade! C-C'est dangereux, non !?"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Pourquoi[1432][NU[E4][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue! E-Elle\nse balade! C-C'est dangereux, non !?"
     },
     {
         "id": 28,
@@ -492,7 +492,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "Thank[SP]you,[SP]Principal[SP]Hanya![SP]And[SP]farewell!\n[U+0088]As[SP]we[SP]look[SP]with[SP]reverence\nOn[SP]our[SP]teacher's[SP]elegance[U+0088][E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nIt[SP]was[SP]thanks[SP]to[SP]our[SP]Principal[SP]that[SP]the\ncurse[SP]was[SP]lifted...[SP]Sevens[SP]is[SP]saved!",
         "nom_fr": "Lycéen",
-        "texte_fr": "Merci, directeur Hanya! Et adieu! Nous\ncontemplons avec révérence De notre maître\nl'élégance[E1][E2] [E3][E4][NULL][NULL]\"Lycéen ne C'est grâce au directeur\nque la malédiction est levée... Seven\nestsauvé![0088][0088]"
+        "texte_fr": "Merci, directeur Hanya! Et adieu! Nous\ncontemplons avec révérence De notre maître\nl'élégance[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Lycéen ne C'est grâce au directeur\nque la malédiction est levée... Seven\nestsauvé![0088][0088]"
     },
     {
         "id": 33,

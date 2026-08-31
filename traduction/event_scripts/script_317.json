@@ -297,7 +297,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Right,[SP][1113]-kun?\n[1208][0003][1432][NULL][NULL][0014]The[SP]bigger[SP]the[SP]better.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Yeah,[SP]average[SP]is[SP]best.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]The[SP]smaller[SP]the[SP]better.[1432][NULL][NULL][0014]",
         "nom_fr": "Maya",
-        "texte_fr": "Pas vrai, [1113]? [1208][0003][1432][NULL][NULL][0014]Plus c'est gros, mieux.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]La\nmoyenne, le top.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Plus c'est petit, mieux.[1432][NULL][NULL][0014]",
+        "texte_fr": "Pas vrai, [1113]? [1208][0003][1432][NU[E4][NULL][NULL][0014]Plus c'est gros, mieux.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]La\nmoyenne, le top.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Plus c'est petit, mieux.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "Right,[SP][1113]-kun?",
         "choix_orig": [
             "[0003]",
@@ -416,7 +416,7 @@
         "nom_orig": "Maya",
         "texte_orig": "That[SP]teacher[SP]looked[SP]at[SP]the[SP]concert[SP]hall[SP]and\nsaid,[SP][1432][NULL][NULL][0014]foreign[SP]song[SP]ensue.[1432][NULL][NULL][0014][SP]Didn't[SP]Prince\nTaurus[SP]say[SP]something[SP]like[SP]that?",
         "nom_fr": "Maya",
-        "texte_fr": "La prof a regardé la salle et a\ndit [1432][NULL][NULL][0014]foreign song ensue.[1432][NULL][NULL][0014]. Le Prince\nTaureau n'a pas dit un truc du genre?"
+        "texte_fr": "La prof a regardé la salle et a\ndit [1432][NU[E4][NULL][NULL][0014]foreign song ensue.[1432][NU[E4][NULL][NULL][0014]. Le Prince\nTaureau n'a pas dit un truc du genre?"
     },
     {
         "id": 27,
@@ -461,7 +461,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Hahaha...[1205][000F][SP]No[SP]need[SP]to[SP]worry.[SP]Everyone[SP]in[SP]Sumaru\nwill[SP]believe[SP]in[SP]the[SP]In[SP]Lak'ech[SP]soon.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIn[SP]due[SP]time,[SP]that[SP]book's[SP]prophecies[SP]will\nbecome[SP]reality.",
         "nom_fr": "Maya",
-        "texte_fr": "Hahaha...[1205][000F] Pas de soucis. Sumaru croira en l'In\nLak'ech bientôt.[E1][E2] [E3][E4][NULL][NULL]\"Maya Bientôt, les prophéties\nde ce livre deviendront réalité."
+        "texte_fr": "Hahaha...[1205][000F] Pas de soucis. Sumaru croira en l'In\nLak'ech bientôt.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Bientôt, les prophéties\nde ce livre deviendront réalité."
     },
     {
         "id": 30,
@@ -566,7 +566,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "What[SP]was[SP]it[SP]that[SP]teacher[SP]mistook[SP]us[SP]for?[1205][000A]\nI[SP]heard[SP]her[SP]say[SP][1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014][SP]something...[1205][000F][SP]Didn't\nring[SP]any[SP]bells.",
         "nom_fr": "Yukino",
-        "texte_fr": "Pourquoi la prof nous a-t-elle pris? Elle a\ndit [1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014] un truc... Ça me dit rien du tout."
+        "texte_fr": "Pourquoi la prof nous a-t-elle pris? Elle a\ndit [1432][NU[E4][NULL][NULL][0014]Last[1432][NU[E4][NULL][NULL][0014] un truc... Ça me dit rien du tout."
     },
     {
         "id": 37,
@@ -723,7 +723,7 @@
         "nom_orig": "Mr.[SP]Tomi",
         "texte_orig": "Select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here[SP]and[SP]through[SP]the[SP]wonder[SP]of[SP]my\nmassage[SP]technique,[SP]your[SP]HP,[SP]SP,[SP]and[SP]any[SP]status\nailments[SP]will[SP]be[SP]cured.",
         "nom_fr": "M. Tomi",
-        "texte_fr": "Sélectionnez [1432][NULL][NULL][0014]Soin[1432][NULL][NULL][0014] et grâce à ma\ntechnique de massage, vos PV, SP\net altérations seront guéris."
+        "texte_fr": "Sélectionnez [1432][NU[E4][NULL][NULL][0014]Soin[1432][NU[E4][NULL][NULL][0014] et grâce à ma\ntechnique de massage, vos PV, SP\net altérations seront guéris."
     },
     {
         "id": 46,

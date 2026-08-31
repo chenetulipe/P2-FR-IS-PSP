@@ -342,7 +342,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Can[SP]you[SP]play[SP]any[SP]instruments,[SP][1114]?\n[1208][0002][1432][NULL][NULL][0014]I[SP]can[SP]play[SP]guitar.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]None[SP]at[SP]all.[1432][NULL][NULL][0014]",
         "nom_fr": "Eikichi",
-        "texte_fr": "Tu joues d'un instrument, [1114]?\n[1208][0002][1432][NULL][NULL][0014]Guitare.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Non.[1432][NULL][NULL][0014]",
+        "texte_fr": "Tu joues d'un instrument, [1114]?\n[1208][0002][1432][NU[E4][NULL][NULL][0014]Guitare.[1432][NU[E4][NULL][NULL][0014]\n[1432][NU[E4][NULL][NULL][0014]Non.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "Can[SP]you[SP]play[SP]any[SP]instruments,[SP][1114]?",
         "choix_orig": [
             "I[SP]can[SP]play[SP]guitar.",
@@ -548,7 +548,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "H-Hey,[SP][1113]...[SP]That[SP][1432][NULL][NULL][0014]Big[SP]Sis[1432][NULL][NULL][0014][SP]Eikichi[SP]was\ntalking[SP]about...[SP]N-Never[SP]mind,[SP]it's[SP]nothing.",
         "nom_fr": "Ginko",
-        "texte_fr": "Hé, [1113]... La [1432][NULL][NULL][0014]Sœurette[1432][NULL][NULL][0014] dont Eikichi\nparlait... R-Rien, oublie."
+        "texte_fr": "Hé, [1113]... La [1432][NU[E4][NULL][NULL][0014]Sœurette[1432][NU[E4][NULL][NULL][0014] dont Eikichi\nparlait... R-Rien, oublie."
     },
     {
         "id": 36,
@@ -623,7 +623,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "A[SP][E4][NULL][NULL][0006]Salvia[E4][NULL][NULL][0002][SP]flower...[SP]It[SP]meant...[SP][1432][NULL][NULL][0014]Thinking[SP]of\nyou[1432][NULL][NULL][0014]...?",
         "nom_fr": "Ginko",
-        "texte_fr": "Une [E4][NULL][NULL][0006]Sauge[E4][NULL][NULL][0002]... Ça veut\ndire... [1432][NULL][NULL][0014]Je pense à toi[1432][NULL][NULL][0014]...?"
+        "texte_fr": "Une [E4][NU[E4][NULL][NULL][0006]Sauge[E4][NU[E4][NULL][NULL][0002]... Ça veut\ndire... [1432][NU[E4][NULL][NULL][0014]Je pense à toi[1432][NU[E4][NULL][NULL][0014]...?"
     },
     {
         "id": 41,
@@ -1579,7 +1579,7 @@
         "nom_orig": "Igor",
         "texte_orig": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
         "nom_fr": "Igor",
-        "texte_fr": "[1432][NULL][NULL][0014]Prendre[1432][NULL][NULL][0014] une Persona signifie, pour\nun manieur comme vous, l'accepter en\nlui. Avoir sa carte ne suffit pas."
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Prendre[1432][NU[E4][NULL][NULL][0014] une Persona signifie, pour\nun manieur comme vous, l'accepter en\nlui. Avoir sa carte ne suffit pas."
     },
     {
         "id": 100,
@@ -3574,7 +3574,7 @@
         "nom_orig": "Nameless",
         "texte_orig": "For[SP]what[SP]reason[SP]were[SP]you[SP]born?\n[1208][0004][1432][NULL][NULL][0014]I[SP]don't[SP]know.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'll[SP]never[SP]tell.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]To[SP]find[SP]that[SP]answer.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Never[SP]thought[SP]about[SP]it.[1432][NULL][NULL][0014]",
         "nom_fr": "Nameless",
-        "texte_fr": "Pourquoi êtes-vous né? [1208][0004][1432][NULL][NULL][0014]Je ne sais pas.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]C'est\nun secret.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Pour le découvrir.[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Jamais réfléchi.[1432][NULL][NULL][0014]",
+        "texte_fr": "Pourquoi êtes-vous né? [1208][0004][1432][NU[E4][NULL][NULL][0014]Je ne sais pas.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]C'est\nun secret.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Pour le découvrir.[1432][NU[E4][NULL][NULL][0014] [1432][NU[E4][NULL][NULL][0014]Jamais réfléchi.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "For[SP]what[SP]reason[SP]were[SP]you[SP]born?",
         "choix_orig": [
             "[0004]",
@@ -3665,7 +3665,7 @@
         "nom_orig": "Nameless",
         "texte_orig": "Take[SP]this.[1205][001E][SP]The[SP]10th[SP]and[SP]7th[SP]man[SP]who[SP]gave[SP]your\nanswer[SP]left[SP]it.[SP]A[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Revival[SP]Bead[E4][NULL][NULL][0002]...[SP]I[SP]have[SP]no\nuse[SP]for[SP]it.",
         "nom_fr": "Nameless",
-        "texte_fr": "Prenez ceci.[1205][001E] Le 17e homme à donner\ncette réponse l'a laissé. [E4][NULL][NULL][0004][NULL][NULL][0002]Perle\nde Vie[E4][NULL][NULL][0002]... Je n'en ai aucun usage.[1433]"
+        "texte_fr": "Prenez ceci.[1205][001E] Le 17e homme à donner\ncette réponse l'a laissé. [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0002]Perle\nde Vie[E4][NU[E4][NULL][NULL][0002]... Je n'en ai aucun usage.[1433]"
     },
     {
         "id": 238,
@@ -3740,7 +3740,7 @@
         "nom_orig": "Nameless",
         "texte_orig": "The[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]I[SP]know[SP]and[SP]the[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]that[SP]you[SP]know\nyourself...[1205][000F][SP]Are[SP]they[SP]the[SP]same?",
         "nom_fr": "Nameless",
-        "texte_fr": "Le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014] que je connais et le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014]\n[1205][000F]que vous connaissez... Les mêmes?"
+        "texte_fr": "Le [1432][NU[E4][NULL][NULL][0014]vous[1432][NU[E4][NULL][NULL][0014] que je connais et le [1432][NU[E4][NULL][NULL][0014]vous[1432][NU[E4][NULL][NULL][0014]\n[1205][000F]que vous connaissez... Les mêmes?"
     },
     {
         "id": 243,
@@ -3755,7 +3755,7 @@
         "nom_orig": "Nameless",
         "texte_orig": "If[SP]not,[SP]then[SP]there[SP]are[SP]as[SP]many[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014]s[SP]as[SP]there\nare[SP]humans[SP]in[SP]the[SP]world.[SP]The[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]here[SP]right\nnow[SP]is[SP]only[SP]one[SP]of[SP]these.",
         "nom_fr": "Nameless",
-        "texte_fr": "Sinon, il y a autant de [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014]\nqu'il y a d'humains. Le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014] ici\nprésent n'est que l'un d'entre eux."
+        "texte_fr": "Sinon, il y a autant de [1432][NU[E4][NULL][NULL][0014]vous[1432][NU[E4][NULL][NULL][0014]\nqu'il y a d'humains. Le [1432][NU[E4][NULL][NULL][0014]vous[1432][NU[E4][NULL][NULL][0014] ici\nprésent n'est que l'un d'entre eux."
     },
     {
         "id": 244,
@@ -3995,7 +3995,7 @@
         "nom_orig": "Nameless",
         "texte_orig": "If[SP]man[SP]does[SP]not[SP]believe[SP]in[SP]himself,[SP]he[SP]cannot\nsupport[SP]his[SP]soul.[SP]But[SP]the[SP]existence[SP]of[SP]the\n[1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]that[SP]you[SP]believe[SP]in[SP]is[SP]so[SP]tenuous...",
         "nom_fr": "Nameless",
-        "texte_fr": "Si l'homme ne croit pas en lui, il ne\npeut soutenir son âme. Mais l'existence\ndu [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014] en qui vous croyez est si ténue..."
+        "texte_fr": "Si l'homme ne croit pas en lui, il ne\npeut soutenir son âme. Mais l'existence\ndu [1432][NU[E4][NULL][NULL][0014]vous[1432][NU[E4][NULL][NULL][0014] en qui vous croyez est si ténue..."
     },
     {
         "id": 260,
@@ -4861,7 +4861,7 @@
         "nom_orig": "Igor",
         "texte_orig": "So,[SP]it[SP]is[SP]time[SP]to[SP]release[SP][E4][NULL][NULL][0005][120E][NULL][121D][0001],\nan[SP]old[SP]part[SP]of[SP]the[SP]soul[SP]that[SP]had\nbeen[SP]awakened...",
         "nom_fr": "Igor",
-        "texte_fr": "Il est temps de libérer [E4][NULL][NULL][0005][120E][NULL][121D][0001], une vieille\npart de l'âme qui fut éveillée..."
+        "texte_fr": "Il est temps de libérer [E4][NU[E4][NULL][NULL][0005][120E][NULL][121D][0001], une vieille\npart de l'âme qui fut éveillée..."
     },
     {
         "id": 310,
@@ -4876,7 +4876,7 @@
         "nom_orig": "Igor",
         "texte_orig": "Then[SP]I[SP]shall[SP]change[SP]this[SP]aspect[SP]who[SP]fought\nalongside[SP]you[SP]into[SP]a[SP][E4][NULL][NULL][0004][120E][0001][121D][0001][SP]and\nreturn[SP]it[SP]to[SP]you...",
         "nom_fr": "Igor",
-        "texte_fr": "Je vais changer cet aspect qui\na combattu à vos côtés en un [E4][NULL][NULL][0004][120E][0001][121D][0001]\net vous le rendre... obtient [E4][NULL][NULL]."
+        "texte_fr": "Je vais changer cet aspect qui\na combattu à vos côtés en un [E4][NU[E4][NULL][NULL][0004][120E][0001][121D][0001]\net vous le rendre... obtient [E4][NU[E4][NULL][NULL]."
     },
     {
         "id": 311,
@@ -4951,7 +4951,7 @@
         "nom_orig": "Igor",
         "texte_orig": "It[SP]seems[SP]you[SP]do[SP]not[SP]have[SP]the[SP]requisite\n[E4][NULL][NULL][0006]Tarot[SP]Cards[E4][NULL][NULL][0002][SP]to[SP]summon[SP]this[SP]Persona.",
         "nom_fr": "Igor",
-        "texte_fr": "Il semble que vous manquez des [E4][NULL][NULL][0006]Cartes\nde Tarot[E4][NULL][NULL][0002] requises pour l'invoquer."
+        "texte_fr": "Il semble que vous manquez des [E4][NU[E4][NULL][NULL][0006]Cartes\nde Tarot[E4][NU[E4][NULL][NULL][0002] requises pour l'invoquer."
     },
     {
         "id": 316,
@@ -4966,6 +4966,6 @@
         "nom_orig": "Igor",
         "texte_orig": "It[SP]seems[SP]you[SP]do[SP]not[SP]have[SP]the[SP]requisite\n[E4][NULL][NULL][0006]Material[SP]Card[E4][NULL][NULL][0002][SP]to[SP]summon[SP]this[SP]Persona.",
         "nom_fr": "Igor",
-        "texte_fr": "Il semble que vous n'ayez pas la [E4][NULL][NULL][0006]Carte\nMatériaux[E4][NULL][NULL][0002] requise pour invoquer ce Persona."
+        "texte_fr": "Il semble que vous n'ayez pas la [E4][NU[E4][NULL][NULL][0006]Carte\nMatériaux[E4][NU[E4][NULL][NULL][0002] requise pour invoquer ce Persona."
     }
 ]

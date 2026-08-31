@@ -1137,7 +1137,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "D'accord... Les achats d'abord.\nSélectionnez [1432][NULL][NULL][0014]Acheter armures[1432][NULL][NULL][0014] pour\nacquérir nos magnifiques armures."
+        "texte_fr": "D'accord... Les achats d'abord.\nSélectionnez [1432][NU[E4][NULL][NULL][0014]Acheter armures[1432][NU[E4][NULL][NULL][0014] pour\nacquérir nos magnifiques armures."
     },
     {
         "id": 70,
@@ -1167,7 +1167,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Pour vendre: [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet. Enfin,\nchoisissez l'objet à vendre."
+        "texte_fr": "Pour vendre: [1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] puis\nchoisissez le type d'objet. Enfin,\nchoisissez l'objet à vendre."
     },
     {
         "id": 72,
@@ -1212,7 +1212,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "D'accord... Les achats d'abord.\nSélectionnez [1432][NULL][NULL][0014]Acheter armures[1432][NULL][NULL][0014] pour\nacquérir nos magnifiques armures."
+        "texte_fr": "D'accord... Les achats d'abord.\nSélectionnez [1432][NU[E4][NULL][NULL][0014]Acheter armures[1432][NU[E4][NULL][NULL][0014] pour\nacquérir nos magnifiques armures."
     },
     {
         "id": 75,
@@ -1272,7 +1272,7 @@
         "nom_orig": "Saleswoman",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
         "nom_fr": "Vendeuse",
-        "texte_fr": "Pour vendre: [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet. Enfin,\nchoisissez l'objet à vendre."
+        "texte_fr": "Pour vendre: [1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] puis\nchoisissez le type d'objet. Enfin,\nchoisissez l'objet à vendre."
     },
     {
         "id": 79,

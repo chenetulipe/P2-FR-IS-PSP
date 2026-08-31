@@ -27,7 +27,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Dude,[SP]there's[SP]a[SP]manager[SP]behind[SP]the[SP]counter.\nLooks[SP]like[SP]he's[SP]exchanging[SP]coins...[SP]Did[SP]this\nplace[SP]really[SP]turn[SP]into[SP]a[SP]casino?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nAll[SP]forms[SP]of[SP]gambling[SP]are[SP]forbidden[SP]at[SP]Cuss\nHigh.[SP]It[SP]was[SP]a[SP]school[SP]rule,[SP]but[SP]I[SP]clamped\ndown[SP]on[SP]it[SP]too.[SP]It's[SP]bad[SP]for[SP]the[SP]students.",
         "nom_fr": "Eikichi",
-        "texte_fr": "Mec, il y a un gérant derrière le comptoir. Il\néchange des jetons... Cet endroit est vraiment\ndevenu un casino?[E1][E2] [E3][E4][NULL][NULL]\"Eikichi Tout jeu d'argent\nest interdit à Kasugayama.C'était le\nrèglement, mais j'ai sévi aussi. C'est mauvais\npour les élèves."
+        "texte_fr": "Mec, il y a un gérant derrière le comptoir. Il\néchange des jetons... Cet endroit est vraiment\ndevenu un casino?[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Eikichi Tout jeu d'argent\nest interdit à Kasugayama.C'était le\nrèglement, mais j'ai sévi aussi. C'est mauvais\npour les élèves."
     },
     {
         "id": 2,
@@ -372,7 +372,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Heh.[SP]What[SP]have[SP]you[SP]come[SP]here[SP]for?[1205][000F][SP]To[SP]try[SP]and\nescape[SP]the[SP]resurfacing[SP]memories?[1205][000F][SP]Sorry[SP]to[SP]say,\nbut[SP]that[SP]won't[SP]be[SP]possible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDon't[SP]worry,[SP]Yukki.[SP]I'm[SP]sure[SP]Fujii-san[SP]will[SP]be\njust[SP]fine.[SP]C'mon,[SP]you[SP]need[SP]to[SP]calm[SP]down.",
         "nom_fr": "Maya",
-        "texte_fr": "Hé. Que viens-tu faire ici? [1205][000F]Tenter d'fuir les\nsouvenirs qui refont surface? Désolée, mais\nc'est impossible.[E1][E2] [E3][E4][NULL][NULL]\"Maya T'en fais pas, Yukki.\nJe suis sûre que Fujii-san ira bien. Allez,\ncalme-toi."
+        "texte_fr": "Hé. Que viens-tu faire ici? [1205][000F]Tenter d'fuir les\nsouvenirs qui refont surface? Désolée, mais\nc'est impossible.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya T'en fais pas, Yukki.\nJe suis sûre que Fujii-san ira bien. Allez,\ncalme-toi."
     },
     {
         "id": 25,
@@ -1047,7 +1047,7 @@
         "nom_orig": "Manager",
         "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[1109][E2]\n[E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
         "nom_fr": "Gérant",
-        "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors? [1208][0005]Acheter pièces\nÉchanger contre prix Parler au gérant Rien\nPartir [1109][E2] [E3][E4][NULL][NULL]\"Gérant Quels prix voulez-vous?\n[1208][0005][1210][B_00][U+5501][B_00]Sélection cachée Contre objets Contre armes\nContre accessoires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP] Contre cartes[B_00][5501][B_00]",
+        "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors? [1208][0005]Acheter pièces\nÉchanger contre prix Parler au gérant Rien\nPartir [1109][E2] [E3][E4][NU[E4][NULL][NULL]\"Gérant Quels prix voulez-vous?\n[1208][0005][1210][B_00][U+5501][B_00]Sélection cachée Contre objets Contre armes\nContre accessoires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP] Contre cartes[B_00][5501][B_00]",
         "question_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?",
         "choix_orig": [
             "Buy[SP]coins",
@@ -1426,7 +1426,7 @@
         "nom_orig": "Manager",
         "texte_orig": "Talk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]coins,[1432][NULL][NULL][0014][SP]and[SP]I'll\ngive[SP]you[SP]coins[SP]to[SP]play[SP]the[SP]games[SP]in[SP]exchange\nfor[SP]cash.",
         "nom_fr": "Gérant",
-        "texte_fr": "Parlez-moi et choisissez [1432][NULL][NULL][0014]Acheter\ndes jetons[1432][NULL][NULL][0014], je vous en donnerai\npour jouer contre de l'argent."
+        "texte_fr": "Parlez-moi et choisissez [1432][NU[E4][NULL][NULL][0014]Acheter\ndes jetons[1432][NU[E4][NULL][NULL][0014], je vous en donnerai\npour jouer contre de l'argent."
     },
     {
         "id": 90,
@@ -1456,7 +1456,7 @@
         "nom_orig": "Manager",
         "texte_orig": "What[SP]you[SP]can[SP]do[SP]is[SP]redeem[SP]them[SP]for[SP]prizes.\nTalk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Redeem[SP]for[SP]prizes[1432][NULL][NULL][0014]\nwhen[SP]you[SP]want[SP]to[SP]do[SP]that.",
         "nom_fr": "Gérant",
-        "texte_fr": "Vous pouvez les échanger contre des\nprix. Parlez-moi et choisissez [1432][NULL][NULL][0014]Échanger\ndes prix[1432][NULL][NULL][0014] quand vous le voudrez."
+        "texte_fr": "Vous pouvez les échanger contre des\nprix. Parlez-moi et choisissez [1432][NU[E4][NULL][NULL][0014]Échanger\ndes prix[1432][NU[E4][NULL][NULL][0014] quand vous le voudrez."
     },
     {
         "id": 92,

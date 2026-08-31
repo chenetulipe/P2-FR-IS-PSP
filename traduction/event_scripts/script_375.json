@@ -117,7 +117,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "[1432][NULL][NULL][0014]Ancient[SP]traditions[1432][NULL][NULL][0014][SP]like[SP]fortune[SP]telling[SP]are\nnonsense.[SP]Just[SP]trust[SP]me[SP]and[SP]go[SP]check[SP]out[SP]the\nSakanoue[SP]Building.",
         "nom_fr": "Eikichi",
-        "texte_fr": "[1432][NULL][NULL][0014]Traditions ancestrales[1432][NULL][NULL][0014] comme la\nvoyance, c'est du vent. Faites\nconfiance et allez au bâtiment Sakanoue."
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Traditions ancestrales[1432][NU[E4][NULL][NULL][0014] comme la\nvoyance, c'est du vent. Faites\nconfiance et allez au bâtiment Sakanoue."
     },
     {
         "id": 8,
@@ -132,7 +132,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "[1432][NULL][NULL][0014]Ancient[SP]traditions[1432][NULL][NULL][0014][SP]like[SP]fortune[SP]telling[SP]are\nnonsense.[SP]Just[SP]trust[SP]me[SP]and[SP]go[SP]check[SP]out[SP]the\nSakanoue[SP]Building.",
         "nom_fr": "Eikichi",
-        "texte_fr": "[1432][NULL][NULL][0014]Traditions ancestrales[1432][NULL][NULL][0014] comme la\nvoyance, c'est du vent. Faites\nconfiance et allez au bâtiment Sakanoue."
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Traditions ancestrales[1432][NU[E4][NULL][NULL][0014] comme la\nvoyance, c'est du vent. Faites\nconfiance et allez au bâtiment Sakanoue."
     },
     {
         "id": 9,
@@ -192,7 +192,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Seriously,[SP]that[SP]guy[SP]never[SP]makes[SP]any[SP]sense[SP]to\nme.[1205][000F][SP]What's[SP]this[SP][1432][NULL][NULL][0014]crawling[SP]chaos[1432][NULL][NULL][0014][SP]about?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Sérieux, ce mec me comprend jamais.\n[1205][000F]C'est quoi ce [1432][NULL][NULL][0014]chaos rampant[1432][NULL][NULL][0014]?"
+        "texte_fr": "Sérieux, ce mec me comprend jamais.\n[1205][000F]C'est quoi ce [1432][NU[E4][NULL][NULL][0014]chaos rampant[1432][NU[E4][NULL][NULL][0014]?"
     },
     {
         "id": 13,
@@ -522,7 +522,7 @@
         "nom_orig": "Maya",
         "texte_orig": "These[SP]fears[SP]and[SP]anxieties[SP]actually[SP]spring[SP]only\nfrom[SP]oneself.[1205][000F][SP]Before[SP]he[SP]knows[SP]it,[SP]man[SP]has\nunconsciously[SP]repressed[SP]these[SP]emotions.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n...Just[SP]as[SP]you[SP]all[SP]did.[1205][000F][SP]But[SP]this[SP]selfish\nretreat[SP]from[SP]the[SP]truth[SP]cannot[SP]be[SP]forgiven\nany[SP]longer.[1205][000F][SP]Heh.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nCrawling[SP]Chaos...[1205][000F][SP]Philemon[SP]did[SP]say,[SP][1432][NULL][NULL][0014]if[SP]we[SP]want\nto[SP]save[SP]our[SP]friend[SP]from[SP]the[SP]clutches[SP]of[SP]the\nCrawling[SP]Chaos[SP]who[SP]toys[SP]with[SP]man's[SP]fate[1432][NULL][NULL][0014]...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nThat[SP]fortune[SP]teller's[SP]equally[SP]famous[SP]as[SP]an\ninformant.[1205][000F][SP]She[SP]talks[SP]to[SP]enough[SP]people[SP]to[SP]know\nwhat's[SP]going[SP]on[SP]in[SP]the[SP]world.",
         "nom_fr": "Maya",
-        "texte_fr": "Ces peurs et angoisses ne naissent que de\nsoi-même. [1205][000F]Sans le savoir, l'homme a refoulé\nces émotions.[E1][E2] [E3][E4][NULL][NULL]\"Maya ... Tout comme vous l'avez\nfait. Mais ce repli égoïste loin dela vérité\nne peut plus être toléré. Heh.[E1][E2] [E3][E4][NULL][NULL]\"Maya Chaos\nrampant... Philémon a dit: [1432][NULL][NULL][0014]si nous voulons\nsauver notre ami des griffes duChaos rampant\nqui joue du destin[1432][NULL][NULL][0014]...[E1][E2] [E3][E4][NULL][NULL]\"Yukino Cette diseuse\nest aussi connue comme informatrice. Elle\nparle à tant de gensqu'elle sait ce qui se\npasse dans le monde."
+        "texte_fr": "Ces peurs et angoisses ne naissent que de\nsoi-même. [1205][000F]Sans le savoir, l'homme a refoulé\nces émotions.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya ... Tout comme vous l'avez\nfait. Mais ce repli égoïste loin dela vérité\nne peut plus être toléré. Heh.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Chaos\nrampant... Philémon a dit: [1432][NU[E4][NULL][NULL][0014]si nous voulons\nsauver notre ami des griffes duChaos rampant\nqui joue du destin[1432][NU[E4][NULL][NULL][0014]...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Yukino Cette diseuse\nest aussi connue comme informatrice. Elle\nparle à tant de gensqu'elle sait ce qui se\npasse dans le monde."
     },
     {
         "id": 35,
@@ -822,7 +822,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "Thank[SP]you[SP]for[SP]choosing[SP]me[SP]today.[SP]I'll[SP]be[SP]your\nbro--[1205][000F]*ahem*[SP]I-I[SP]said[SP]nothing.[SP]And[SP]you[SP]heard\nnothing.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nAh.[SP]You[SP]sit[SP]before[SP]me[SP]again.[SP]Have[SP]you[SP]lost\nsight[SP]of[SP]your[SP]future?[SP]Or[SP]have[SP]you[SP]come[SP]for\nstories[SP]of[SP]man's[SP]karma?",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Merci de m'avoir choisie aujourd'hui. Je [1205][000F]serai\nvotre fr--*hem* J-Je n'ai rien dit. Et vous\nnon plus.[E1][E2] [E3][E4][NULL][NULL]\"Rumormonger Sumaru Genie Ah. Vous\nrevoilà. Avez-vous perdu de vue votreavenir?\nOu pour les récits du karma humain?"
+        "texte_fr": "Merci de m'avoir choisie aujourd'hui. Je [1205][000F]serai\nvotre fr--*hem* J-Je n'ai rien dit. Et vous\nnon plus.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Rumormonger Sumaru Genie Ah. Vous\nrevoilà. Avez-vous perdu de vue votreavenir?\nOu pour les récits du karma humain?"
     },
     {
         "id": 55,
@@ -905,7 +905,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "Ask[SP]to[SP][1432][NULL][NULL][0014]Hear[SP]your[SP]fortune[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]take\na[SP]glimpse[SP]into[SP]your[SP]future.",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Tirer les cartes[1432][NULL][NULL][0014] et\nj'entrerai dans votre avenir."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Tirer les cartes[1432][NU[E4][NULL][NULL][0014] et\nj'entrerai dans votre avenir."
     },
     {
         "id": 59,
@@ -1560,7 +1560,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "Yes...[SP]I[SP]see[SP]something...[1205][000F][SP]Your[SP]destiny[SP]is\nsolidifying...[SP]Hmm...[1205][000F][SP]This[SP]is...[1205][000F]\nThe[SP]Five[SP]of[SP]Cups...[E1][E2]\n\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nLoss...[1205][000F][SP]The[SP]card[SP]tells[SP]of[SP]a[SP]sudden[SP]parting.",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Oui... Je vois [1205][000F]quelque chose... Votre destin\nse précise... Hm... C'est... Le Cinq de\nCoupes...[E1][E2] [E3][E4][NULL][NULL]\"Génie Sumaru Perte... La carte\nprésage une séparation soudaine."
+        "texte_fr": "Oui... Je vois [1205][000F]quelque chose... Votre destin\nse précise... Hm... C'est... Le Cinq de\nCoupes...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Génie Sumaru Perte... La carte\nprésage une séparation soudaine."
     },
     {
         "id": 102,
@@ -1650,7 +1650,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "Man's[SP]karma...[SP]Repressed[SP]emotions...[1205][000F][SP]The[SP]card\ntells[SP]of[SP]a[SP]decrease[SP]in[SP]your[SP]luck[SP]with[SP]money.[1205][000F]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nFor[SP]the[SP]foreseeable[SP]future,[SP]you[SP]will[SP]be[SP]counted\namong[SP]the[SP]poor,[SP]forced[SP]to[SP]live[SP]in[SP]poverty[SP]and\nhunger.",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Le karma humain...[1205][000F] Émotions refoulées... La\ncarte présage une baisse de votre chance en\nargent. [E3][E4][NULL][NULL]\"Génie Sumaru Pour lesprochains temps,\nvous serez compté parmi les pauvres, contraint\nde vivre dans la misère."
+        "texte_fr": "Le karma humain...[1205][000F] Émotions refoulées... La\ncarte présage une baisse de votre chance en\nargent. [E3][E4][NU[E4][NULL][NULL]\"Génie Sumaru Pour lesprochains temps,\nvous serez compté parmi les pauvres, contraint\nde vivre dans la misère."
     },
     {
         "id": 108,
@@ -1805,7 +1805,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "They[SP]tell[SP]of[SP][E4][NULL][NULL][0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki,[SP]which\nsells[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]quality[SP]is[SP]exquisite,\nthough[SP]the[SP]prices[SP]are[SP]high[E4][NULL][NULL][0002].[SP]How[SP]dangerous...",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "On dit que [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki vend de\n[E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. [1205][000F]Leur qualité LL][NULL][0006]qualité est\nexquise, mais les prix sont élevés[E4][NULL][NULL][0002]. Que c'est\ndangereux..."
+        "texte_fr": "On dit que [E4][NU[E4][NULL][NULL][0006]Tony's Shop[E4][NU[E4][NULL][NULL][0002] à Yumezaki vend de\n[E4][NU[E4][NULL][NULL][0006]vraies armes[E4][NU[E4][NULL][NULL][0002]. [1205][000F]Leur qualité [E4][NULL][NULL][0006]qualité est\nexquise, mais les prix sont élevés[E4][NU[E4][NULL][NULL][0002]. Que c'est\ndangereux..."
     },
     {
         "id": 115,
@@ -1835,7 +1835,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "But[SP]no[SP]matter.[SP]My[SP]tale[SP]for[SP]you[SP]concerns[SP][E4][NULL][NULL][0006]Clair\nde[SP]Lune[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]which[SP]sells[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F]\nTheir[SP][E4][NULL][NULL][0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Peu importe. Mon histoire concerne\n[E4][NULL][NULL][0006]Clair de Lune[E4][NULL][NULL][0002] à Aoba, qui vend de [E4][NULL][NULL][0006]vraies\narmes[E4][NULL][NULL][0002]. [1205][000F]Leur [E4][NULL][NULL][0006]qualité et prix sont moyens[E4][NULL][NULL][0002]."
+        "texte_fr": "Peu importe. Mon histoire concerne\n[E4][NU[E4][NULL][NULL][0006]Clair de Lune[E4][NU[E4][NULL][NULL][0002] à Aoba, qui vend de [E4][NU[E4][NULL][NULL][0006]vraies\narmes[E4][NU[E4][NULL][NULL][0002]. [1205][000F]Leur [E4][NU[E4][NULL][NULL][0006]qualité et prix sont moyens[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 117,
@@ -1865,7 +1865,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "It[SP]would[SP]appear[SP][E4][NULL][NULL][0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]sells[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F]\nI'm[SP]quite[SP]surprised[SP]that[SP]one[SP]so[SP]near[SP]to[SP]us[SP]would\nsell[SP][E4][NULL][NULL][0006]high-quality,[SP]high-price[SP]armaments[E4][NULL][NULL][0002].",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Il semble que [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] vende de [E4][NULL][NULL][0006]vraies[1205][000F]\narmes[E4][NULL][NULL][0002]. Je suis surprise qu'un si proche voisin\nvende des [E4][NULL][NULL][0006]armements de qualité, au prix fort[E4][NULL][NULL][0002]."
+        "texte_fr": "Il semble que [E4][NU[E4][NULL][NULL][0006]Jolly Roger[E4][NU[E4][NULL][NULL][0002] vende de [E4][NU[E4][NULL][NULL][0006]vraies[1205][000F]\narmes[E4][NU[E4][NULL][NULL][0002]. Je suis surprise qu'un si proche voisin\nvende des [E4][NU[E4][NULL][NULL][0006]armements de qualité, au prix fort[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 119,
@@ -1895,7 +1895,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "I[SP]am[SP]told[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]at[SP][E4][NULL][NULL][0006]Anima[SP]Mundi[E4][NULL][NULL][0002]\nin[SP]Yumezaki.[1205][000F][SP]It's[SP][E4][NULL][NULL][0006]high[SP]quality,[SP]but[SP]expensive[E4][NULL][NULL][0002]...\nThough[SP]I[SP]haven't[SP]confirmed[SP]the[SP]tale[SP]for[SP]myself.",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "On peut acheter de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002] chez [E4][NULL][NULL][0006]Anima[1205][000F]\nMundi [E4][NULL][NULL][0002] à Yumezaki. C'est [E4][NULL][NULL][0006]haut de gamme,\nmais cher[E4][NULL][NULL][0002]... Je n'ai pas confirmé moi-même."
+        "texte_fr": "On peut acheter de [E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002] chez [E4][NU[E4][NULL][NULL][0006]Anima[1205][000F]\nMundi [E4][NU[E4][NULL][NULL][0002] à Yumezaki. C'est [E4][NU[E4][NULL][NULL][0006]haut de gamme,\nmais cher[E4][NU[E4][NULL][NULL][0002]... Je n'ai pas confirmé moi-même."
     },
     {
         "id": 121,
@@ -1940,7 +1940,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "The[SP][E4][NULL][NULL][0006]Aoba[SP]branch[SP]of[SP]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]appears[SP]to\nsell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection[SP]is[SP]impeccable,\nbut[SP]their[SP]resale[SP]prices[SP]are[SP]lacking[E4][NULL][NULL][0002].",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "La [E4][NULL][NULL][0006]branche d'Aoba de Rosa Candida[E4][NULL][NULL][0002] vend de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [1205][000F][E4][NULL][NULL][0006]Sélection irréprochable,\nmais prix de revente décevants[E4][NULL][NULL][0002]."
+        "texte_fr": "La [E4][NU[E4][NULL][NULL][0006]branche d'Aoba de Rosa Candida[E4][NU[E4][NULL][NULL][0002] vend de\n[E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002]. [1205][000F][E4][NU[E4][NULL][NULL][0006]Sélection irréprochable,\nmais prix de revente décevants[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 124,
@@ -1970,7 +1970,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "As[SP]for[SP]me,[SP]I[SP]tell[SP]the[SP]tale[SP]of[SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002],\nwhich[SP]sells[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection[SP]is\npoor,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]high[E4][NULL][NULL][0002].",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Quant à moi, je conte [E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002],\nqui vend de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [1205][000F][E4][NULL][NULL][0006]Sélection\npauvre, prix de revente élevés[E4][NULL][NULL][0002]."
+        "texte_fr": "Quant à moi, je conte [E4][NU[E4][NULL][NULL][0006]London Clothier[E4][NU[E4][NULL][NULL][0002],\nqui vend de [E4][NU[E4][NULL][NULL][0006]vraies armures[E4][NU[E4][NULL][NULL][0002]. [1205][000F][E4][NU[E4][NULL][NULL][0006]Sélection\npauvre, prix de revente élevés[E4][NU[E4][NULL][NULL][0002]."
     },
     {
         "id": 126,
@@ -2000,7 +2000,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "To[SP]share[SP]stories[SP]is[SP]not[SP]my[SP]avowed[SP]vocation.[1205][000F]\nThus,[SP]I[SP]have[SP]no[SP]desire[SP]for[SP]recompense.",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Partager des histoires n'est pas\nma vocation. Aussi ]Aussi n'ai-je\naucun désir de contrepartie."
+        "texte_fr": "Partager des histoires n'est pas\nma vocation. Aussi ] Aussi n'ai-je\naucun désir de contrepartie."
     },
     {
         "id": 128,
@@ -2205,7 +2205,7 @@
         "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
         "texte_orig": "When[SP]I[SP]came[SP]to,[SP]I[SP]was[SP]here...[1205][000F][SP]This[SP][1432][NULL][NULL][0014]crystal[1432][NULL][NULL][0014]\nball[SP]is[SP]just[SP]glass.[SP]Everything[SP]I[SP]said,[SP]I[SP]made\nup...[1205][000F][SP]The[SP]thing[SP]is,[SP]it[SP]comes[SP]true[SP]anyway!",
         "nom_fr": "Génie de Sumaru",
-        "texte_fr": "Quand je suis revenu(e) [1205][000F]à moi, j'étais ici...\nCette [1432][NULL][NULL][0014]boule de cristal[1432][NULL][NULL][0014] n'est que du verre.\nJ'inventais... Sauf que ça se réalise\nquandmême!"
+        "texte_fr": "Quand je suis revenu(e) [1205][000F]à moi, j'étais ici...\nCette [1432][NU[E4][NULL][NULL][0014]boule de cristal[1432][NU[E4][NULL][NULL][0014] n'est que du verre.\nJ'inventais... Sauf que ça se réalise\nquandmême!"
     },
     {
         "id": 141,

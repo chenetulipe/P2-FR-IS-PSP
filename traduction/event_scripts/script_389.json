@@ -88,7 +88,7 @@
         "nom_orig": "Employee",
         "texte_orig": "Now[SP]that's[SP]weird...[1205][000F][SP]Did[SP]we[SP]used[SP]to[SP]carry[SP]this\n[1432][NULL][NULL][0014]secret[SP]CD[1432][NULL][NULL][0014]?[1205][000F][SP]Huh,[SP]well,[SP]I[SP]see[SP]we[SP]have[SP]it[SP]in\nstock...[SP]so[SP]I[SP]guess[SP]we[SP]carry[SP]it[SP]now!",
         "nom_fr": "Employé",
-        "texte_fr": "C'est bizarre...[1205][000F] On vendait ce\n[1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014] avant ?[1205][000F] Enfin, on l'a en\nstock, alors on le vend !"
+        "texte_fr": "C'est bizarre...[1205][000F] On vendait ce\n[1432][NU[E4][NULL][NULL][0014]CD secret[1432][NU[E4][NULL][NULL][0014] avant ?[1205][000F] Enfin, on l'a en\nstock, alors on le vend !"
     },
     {
         "id": 13,
@@ -123,7 +123,7 @@
         "nom_orig": "Employee",
         "texte_orig": "If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]CDs[1432][NULL][NULL][0014][SP]here,[SP]you[SP]can[SP]look\nthrough[SP]our[SP]unmatched[SP]selection[SP]of[SP]tunes!",
         "nom_fr": "Employé",
-        "texte_fr": "Si tu choisis [1432][NULL][NULL][0014]Acheter des CD[1432][NULL][NULL][0014], tu pourras\nparcourir notre vaste catalogue musical !"
+        "texte_fr": "Si tu choisis [1432][NU[E4][NULL][NULL][0014]Acheter des CD[1432][NU[E4][NULL][NULL][0014], tu pourras\nparcourir notre vaste catalogue musical !"
     },
     {
         "id": 18,

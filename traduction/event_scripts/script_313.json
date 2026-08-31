@@ -192,7 +192,7 @@
         "nom_orig": "Lisa",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#1![SP][1432][NULL][NULL][0014]Lei[SP]Ho[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]Hello.[1432][NULL][NULL][0014][SP]Useful,[SP]huh?",
         "nom_fr": "Lisa",
-        "texte_fr": "Leçon de Cantonais #1! [1432][NULL][NULL][0014]Lei Ho[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]Salut.[1432][NULL][NULL][0014] Pratique nan?"
+        "texte_fr": "Leçon de Cantonais #1! [1432][NU[E4][NULL][NULL][0014]Lei Ho[1432][NU[E4][NULL][NULL][0014]\nsignifie [1432][NU[E4][NULL][NULL][0014]Salut.[1432][NU[E4][NULL][NULL][0014] Pratique nan?"
     },
     {
         "id": 13,
@@ -222,7 +222,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#1![SP][1432][NULL][NULL][0014]Lei[SP]Ho[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]Hello.[1432][NULL][NULL][0014][SP]Useful,[SP]huh?",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon de Cantonais #1! [1432][NULL][NULL][0014]Lei Ho[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]Salut.[1432][NULL][NULL][0014] Pratique nan?"
+        "texte_fr": "Leçon de Cantonais #1! [1432][NU[E4][NULL][NULL][0014]Lei Ho[1432][NU[E4][NULL][NULL][0014]\nsignifie [1432][NU[E4][NULL][NULL][0014]Salut.[1432][NU[E4][NULL][NULL][0014] Pratique nan?"
     },
     {
         "id": 15,
@@ -252,7 +252,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#17![1205][001E][SP][1432][NULL][NULL][0014]Baaibaai[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]Goodbye.[1432][NULL][NULL][0014][SP]That[SP]one's[SP]pretty[SP]easy.",
         "nom_fr": "Ginko",
-        "texte_fr": "Lesson de Cantonais #17![1205][001E] [1432][NULL][NULL][0014]Baaibaai[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]Au revoir.[1432][NULL][NULL][0014] Facile, celui-là."
+        "texte_fr": "Lesson de Cantonais #17![1205][001E] [1432][NU[E4][NULL][NULL][0014]Baaibaai[1432][NU[E4][NULL][NULL][0014]\nsignifie [1432][NU[E4][NULL][NULL][0014]Au revoir.[1432][NU[E4][NULL][NULL][0014] Facile, celui-là."
     },
     {
         "id": 17,
@@ -282,7 +282,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Hey[SP][1113],[SP]do[SP]you[SP]think[SP]this[SP][1432][NULL][NULL][0014]game[1432][NULL][NULL][0014][SP]thing\nhas[SP]anything[SP]to[SP]do[SP]with[SP]that[SP]Oracle?",
         "nom_fr": "Ginko",
-        "texte_fr": "Dis, [1113], tu penses pas que ce\n[1432][NULL][NULL][0014]jeu[1432][NULL][NULL][0014] a un lien avec cet Oracle?"
+        "texte_fr": "Dis, [1113], tu penses pas que ce\n[1432][NU[E4][NULL][NULL][0014]jeu[1432][NU[E4][NULL][NULL][0014] a un lien avec cet Oracle?"
     },
     {
         "id": 19,
@@ -507,7 +507,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Can[SP]you[SP]deny[SP]Ms.[SP]Ideal's[SP]line[SP]of[SP]thought?[1205][000F]\nAfter[SP]all,[SP]you're[SP]switching[SP]out[SP]dreams[SP]and\nreality[SP]for[SP]your[SP]own[SP]convenience...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nEveryone[SP]says[SP]they[SP]want[SP]peace,[SP]but[SP]maybe[SP]deep\ndown,[SP]they[SP]want[SP]to[SP]tear[SP]it[SP]all[SP]down[SP]and[SP]start\nover[SP]from[SP]the[SP]rubble.",
         "nom_fr": "Maya",
-        "texte_fr": "Peut-on réfuter la logique de Mme Ideal? [1205][000F]Vous\naussi vous intervertissez rêves et réalité à\nvotre avantage...[E1][E2] [E3][E4][NULL][NULL]\"Maya Chacun prétend\nsouhaiter la paix, mais\npeut-êtrequ'inconsciemment on souhaite tout\ndétruire pour pouvoir repartir de zéro."
+        "texte_fr": "Peut-on réfuter la logique de Mme Ideal? [1205][000F]Vous\naussi vous intervertissez rêves et réalité à\nvotre avantage...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Chacun prétend\nsouhaiter la paix, mais\npeut-êtrequ'inconsciemment on souhaite tout\ndétruire pour pouvoir repartir de zéro."
     },
     {
         "id": 34,
@@ -552,7 +552,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "They[SP]say[SP][1432][NULL][NULL][0014]the[SP]best[SP]defense[SP]is[SP]a[SP]good[SP]offense,[1432][NULL][NULL][0014]\nbut[SP]fighting[SP]demons[SP]isn't[SP]that[SP]simple.[SP]Something\nto[SP]keep[SP]in[SP]mind.",
         "nom_fr": "Yukino",
-        "texte_fr": "On dit que [1432][NULL][NULL][0014]la meilleur défense c'est\nl'attaque,[1432][NULL][NULL][0014] mais affronter des démons\nest bien plus délicat. Penses-y."
+        "texte_fr": "On dit que [1432][NU[E4][NULL][NULL][0014]la meilleur défense c'est\nl'attaque,[1432][NU[E4][NULL][NULL][0014] mais affronter des démons\nest bien plus délicat. Penses-y."
     },
     {
         "id": 37,
@@ -612,7 +612,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "King[SP]Leo[SP]did[SP]say[SP]it[SP]was[SP]his[SP]duty[SP]to[SP]light[SP]the\n[1432][NULL][NULL][0014]flames[SP]of[SP]expiation.[1432][NULL][NULL][0014]",
         "nom_fr": "Yukino",
-        "texte_fr": "Pour le Roi Lion c'est un devoir\nd'allumer le [1432][NULL][NULL][0014]feu de l'expiation.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour le Roi Lion c'est un devoir\nd'allumer le [1432][NU[E4][NULL][NULL][0014]feu de l'expiation.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 41,
@@ -1131,7 +1131,7 @@
         "nom_orig": "Masked[SP]Circle[SP]member",
         "texte_orig": "Uuunghhh..[SP]Aaaaagh...[1205][000A][SP]Uaaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Weird[SP]woman\nHahahah...[SP]I've[SP]been[SP]mocked[SP]all[SP]my[SP]life[SP]for\nbeing[SP]butch,[SP]but[SP]that[SP]ends[SP]today![SP]I've[SP]finally\nbecome[SP]a[SP]man!",
         "nom_fr": "Membre du Cercle masqué",
-        "texte_fr": "Ggggn... Aaagh... Uaagh...[E1][E2] [E3][E4][NULL][NULL]\"Pas une femme\nHaha... Toute ma vie on m'a dénigré car\nj'étais trop masculin, maisc'est fini! Je suis\nenfin un homme!"
+        "texte_fr": "Ggggn... Aaagh... Uaagh...[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Pas une femme\nHaha... Toute ma vie on m'a dénigré car\nj'étais trop masculin, maisc'est fini! Je suis\nenfin un homme!"
     },
     {
         "id": 73,
@@ -1221,7 +1221,7 @@
         "nom_orig": "Weird[SP]woman",
         "texte_orig": "Just[SP]when[SP]I[SP]think[SP]we'd[SP]be[SP]getting[SP]to[SP]be[SP]good\nfriends,[SP]they'd[SP]let[SP]their[SP]dicks[SP]take[SP]over[SP]and\nmake[SP]a[SP]pass[SP]at[SP]me.\n[1205][000F]\n[E4][NULL][NULL]\"Weird[SP]woman\nWhen[SP]I[SP]said[SP]no,[SP]these[SP][1432][NULL][NULL][0014]friends[1432][NULL][NULL][0014][SP]of[SP]mine[SP]turned\nreal[SP]cold...[1205][000F][SP]That's[SP]the[SP]part[SP]I[SP]hated[SP]most.",
         "nom_fr": "Pas une femme",
-        "texte_fr": "Quand je pense avoir trouvé de bons amis, leur\nbite prend le contrôle et ils me font des\navances. [E4][NULL][NULL]\"Femme bizarre [1205][000F]Pas une femmePuis\nquand j'ai dit non, ces [1432][NULL][NULL][0014]amis[1432][NULL][NULL][0014] sont devenus\ndistants... C'est ce qui me débectais le plus."
+        "texte_fr": "Quand je pense avoir trouvé de bons amis, leur\nbite prend le contrôle et ils me font des\navances. [E4][NU[E4][NULL][NULL]\"Femme bizarre [1205][000F]Pas une femmePuis\nquand j'ai dit non, ces [1432][NU[E4][NULL][NULL][0014]amis[1432][NU[E4][NULL][NULL][0014] sont devenus\ndistants... C'est ce qui me débectais le plus."
     },
     {
         "id": 79,
@@ -1540,7 +1540,7 @@
         "nom_orig": "Whistler",
         "texte_orig": "You[SP]actually[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?\nFfff.[SP]Choose[SP][1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]buy[SP]some[SP]armor.",
         "nom_fr": "Siffleur",
-        "texte_fr": "Faut vraiment t'expliquer un magasin?\nPfff. Choisis [1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014] pour une armure."
+        "texte_fr": "Faut vraiment t'expliquer un magasin?\nPfff. Choisis [1432][NU[E4][NULL][NULL][0014]Acheter,[1432][NU[E4][NULL][NULL][0014] pour une armure."
     },
     {
         "id": 97,
@@ -1570,7 +1570,7 @@
         "nom_orig": "Whistler",
         "texte_orig": "Or[SP]you[SP]can[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]if[SP]you[SP]have\nsomething[SP]you[SP]want[SP]to[SP]get[SP]rid[SP]of.[SP]Pick[SP]which\nkind[SP]of[SP]item,[SP]then[SP]choose[SP]what[SP]you[SP]wanna[SP]sell.",
         "nom_fr": "Siffleur",
-        "texte_fr": "Sinon tu peux choisir [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
+        "texte_fr": "Sinon tu peux choisir [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
     },
     {
         "id": 99,

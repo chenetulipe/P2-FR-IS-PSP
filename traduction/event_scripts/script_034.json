@@ -27,7 +27,7 @@
         "nom_orig": "Prince[SP]Taurus",
         "texte_orig": "Ngh...[1205][001E][SP]The[SP][1432][NULL][NULL][0014]foreign[SP]song[1432][NULL][NULL][0014][SP]was[SP]fulfilled...[1205][001E]\nHalf[SP]of[SP]my[SP]job[SP]is[SP]done.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince[SP]Taurus\nThe[SP]Earth[SP]crystal[SP]skull[SP]will[SP]be[SP]full[SP]soon...[1205][001E]\nI'll[SP]make[SP]sure[SP]that[SP]everything[SP]is[SP]complete\nin[SP]time[SP]for[SP]the[SP]End[SP]of[SP]Nahui-Ollin...",
         "nom_fr": "Prince Taureau",
-        "texte_fr": "Ngh...[1205][001E] La [1432][NULL][NULL][0014]chanson étrangère[1432][NULL][NULL][0014] s'est finie...[1205][001E] Ma\ntâche va finir.[E1][E2] [E3][E4][NULL][NULL]\"Prince Taureau Le crâne de\ncristal de la Terre sera bientôt plein...[1205][001E] Je\nm'assurerai que tout soit prêtpour la Fin de\nNahui-Ollin..."
+        "texte_fr": "Ngh...[1205][001E] La [1432][NU[E4][NULL][NULL][0014]chanson étrangère[1432][NU[E4][NULL][NULL][0014] s'est finie...[1205][001E] Ma\ntâche va finir.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Prince Taureau Le crâne de\ncristal de la Terre sera bientôt plein...[1205][001E] Je\nm'assurerai que tout soit prêtpour la Fin de\nNahui-Ollin..."
     },
     {
         "id": 2,
@@ -42,7 +42,7 @@
         "nom_orig": "Maya",
         "texte_orig": "What's[SP]your[SP]ultimate[SP]aim[SP]in[SP]harvesting\npeople's[SP]dreaming[SP]hearts[SP]with[SP]those[SP]skulls!?\nWhat[SP]is[SP]this[SP][1432][NULL][NULL][0014]End[SP]of[SP]Nahui-Ollin[1432][NULL][NULL][0014]!?",
         "nom_fr": "Maya",
-        "texte_fr": "Quel est votre but avec ces crânes qui\nrécoltent le cœur rêveur des gens!?\nC'est quoi cette [1432][NULL][NULL][0014]Fin de Nahui-Ollin[1432][NULL][NULL][0014]!?"
+        "texte_fr": "Quel est votre but avec ces crânes qui\nrécoltent le cœur rêveur des gens!?\nC'est quoi cette [1432][NU[E4][NULL][NULL][0014]Fin de Nahui-Ollin[1432][NU[E4][NULL][NULL][0014]!?"
     },
     {
         "id": 3,
@@ -87,7 +87,7 @@
         "nom_orig": "Prince[SP]Taurus",
         "texte_orig": "Hahaha![SP]Their[SP]modest[SP]dreams[SP]will[SP]be[SP]used[SP]as\na[SP]foundation[SP]for[SP]opening[SP][1432][NULL][NULL][0014]Heaven's[SP]Gate[1432][NULL][NULL][0014]!\nFarewell,[SP]Lisa-kun!",
         "nom_fr": "Prince Taureau",
-        "texte_fr": "Hahaha! Leurs modestes rêves\nserviront de fondation pour ouvrir\nla [1432][NULL][NULL][0014]Porte du Ciel[1432][NULL][NULL][0014]! Adieu, Lisa!"
+        "texte_fr": "Hahaha! Leurs modestes rêves\nserviront de fondation pour ouvrir\nla [1432][NU[E4][NULL][NULL][0014]Porte du Ciel[1432][NU[E4][NULL][NULL][0014]! Adieu, Lisa!"
     },
     {
         "id": 6,

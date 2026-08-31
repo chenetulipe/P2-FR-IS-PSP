@@ -387,7 +387,7 @@
         "nom_orig": "Masquerade[SP]committee[SP]member",
         "texte_orig": "C'mon,[SP]the[SP]masquerade's[SP]already[SP]started!\nEveryone[SP]has[SP]to[SP]wear[SP]a[SP][E4][NULL][NULL][0006]mask[E4][NULL][NULL][0002],[SP]so[SP]take[SP]this\nwith[SP]you.[SP]Make[SP]sure[SP]you[SP]put[SP]it[SP]on[SP]inside.",
         "nom_fr": "Comité",
-        "texte_fr": "Allez, la mascarade a commencé!\nIl faut porter un [E4][NULL][NULL][0006]masque[E4][NULL][NULL][0002], alors\nprends ça. Mets-le à l'intérieur."
+        "texte_fr": "Allez, la mascarade a commencé!\nIl faut porter un [E4][NU[E4][NULL][NULL][0006]masque[E4][NU[E4][NULL][NULL][0002], alors\nprends ça. Mets-le à l'intérieur."
     },
     {
         "id": 26,

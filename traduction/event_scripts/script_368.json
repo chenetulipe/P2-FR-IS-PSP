@@ -72,7 +72,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "To[SP]me,[SP]she[SP]was[SP]my[SP]other[SP][1432][NULL][NULL][0014]Big[SP]Sis.[1432][NULL][NULL][0014]",
         "nom_fr": "Ginko",
-        "texte_fr": "Elle était mon autre [1432][NULL][NULL][0014]sœurette.[1432][NULL][NULL][0014]"
+        "texte_fr": "Elle était mon autre [1432][NU[E4][NULL][NULL][0014]sœurette.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 5,
@@ -207,7 +207,7 @@
         "nom_orig": "Jun",
         "texte_orig": "Yukino-san's[SP]Persona[SP]is[SP]still[SP]encouraging[SP]me.[1205][000F]\nIt's[SP]saying,[SP][1432][NULL][NULL][0014]Don't[SP]give[SP]up.[1432][NULL][NULL][0014][1205][000F][SP]So[SP]I[SP]won't.",
         "nom_fr": "Jun",
-        "texte_fr": "Le Persona de Yukino m'encourage encore.\n[1205]Il dit [1432][NULL][NULL][0014]N'abandonne pas.[1432][NULL][NULL][0014] Alors je tiendrai."
+        "texte_fr": "Le Persona de Yukino m'encourage encore.\n[1205]Il dit [1432][NU[E4][NULL][NULL][0014]N'abandonne pas.[1432][NU[E4][NULL][NULL][0014] Alors je tiendrai."
     },
     {
         "id": 14,
@@ -640,7 +640,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "I'll[SP]first[SP]explain[SP]buying.[SP]If[SP]you[SP]choose[SP]to\n[1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]may[SP]browse[SP]our[SP]wares.",
         "nom_fr": "Tailleur",
-        "texte_fr": "D'abord les achats. En choisissant\n[1432][NULL][NULL][0014]Acheter armures,[1432][NULL][NULL][0014] vous voyez nos articles."
+        "texte_fr": "D'abord les achats. En choisissant\n[1432][NU[E4][NULL][NULL][0014]Acheter armures,[1432][NU[E4][NULL][NULL][0014] vous voyez nos articles."
     },
     {
         "id": 37,
@@ -655,7 +655,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "But[SP]some[SP]armor[SP]cannot[SP]be[SP]equipped[SP]by[SP]just\nanyone.[SP]To[SP]paraphrase[SP]a[SP]saying[SP]in[SP]my[SP]trade,\n[1432][NULL][NULL][0014]measure[SP]twice,[SP]buy[SP]once.[1432][NULL][NULL][0014]",
         "nom_fr": "Tailleur",
-        "texte_fr": "Certaines armures ne conviennent pas\nà tous. Comme on dit dans mon métier:\n[1432][NULL][NULL][0014]mesurer deux fois, acheter une.[1432][NULL][NULL][0014]"
+        "texte_fr": "Certaines armures ne conviennent pas\nà tous. Comme on dit dans mon métier:\n[1432][NU[E4][NULL][NULL][0014]mesurer deux fois, acheter une.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 38,
@@ -670,7 +670,7 @@
         "nom_orig": "Tailor",
         "texte_orig": "Next,[SP]selling.[SP]If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items,[1432][NULL][NULL][0014]\nyou[SP]may[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.",
         "nom_fr": "Tailleur",
-        "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre objets,[1432][NULL][NULL][0014]\npuis sélectionnez le type à vendre."
+        "texte_fr": "Pour vendre, choisissez [1432][NU[E4][NULL][NULL][0014]Vendre objets,[1432][NU[E4][NULL][NULL][0014]\npuis sélectionnez le type à vendre."
     },
     {
         "id": 39,

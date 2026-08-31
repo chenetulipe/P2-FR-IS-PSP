@@ -27,7 +27,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Usually,[SP]you[SP]hear[SP]about[SP]something,[SP]and[SP]you\nthink,[SP][1432][NULL][NULL][0014]Oh,[SP]well,[SP]if[SP]he[SP]said[SP]so,[1432][NULL][NULL][0014][SP]and[SP]assume\nit's[SP]the[SP]truth.",
         "nom_fr": "Eikichi",
-        "texte_fr": "D'habitude, on entend quelque chose,\net on pense [1432][NULL][NULL][0014]Oh, si il le dit,[1432][NULL][NULL][0014] et\non assume que c'est la vérité."
+        "texte_fr": "D'habitude, on entend quelque chose,\net on pense [1432][NU[E4][NULL][NULL][0014]Oh, si il le dit,[1432][NU[E4][NULL][NULL][0014] et\non assume que c'est la vérité."
     },
     {
         "id": 2,
@@ -364,7 +364,7 @@
         "nom_orig": "Esthetician",
         "texte_orig": "If[SP]you[SP]request[SP]us[SP]to[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]you,[SP]you[SP]can\nrecover[SP]HP,[SP]SP,[SP]and[SP]be[SP]cured[SP]of[SP]any[SP]status\nailments[SP]such[SP]as[SP]poison.",
         "nom_fr": "Esthéticienne",
-        "texte_fr": "Si vous demandez un [1432][NULL][NULL][0014]Soin[1432][NULL][NULL][0014], vous\nrécupérez PV, PS et soignez tout\nstatut négatif, comme le poison."
+        "texte_fr": "Si vous demandez un [1432][NU[E4][NULL][NULL][0014]Soin[1432][NU[E4][NULL][NULL][0014], vous\nrécupérez PV, PS et soignez tout\nstatut négatif, comme le poison."
     },
     {
         "id": 23,

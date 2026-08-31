@@ -87,7 +87,7 @@
         "nom_orig": "Maya",
         "texte_orig": "A[SP][E4][NULL][NULL][0006]Raspberry[SP]flower[E4][NULL][NULL][0002]...[1205][001E][SP][1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Deep[SP]down,\nJun-kun[SP]knows[SP]all[SP]this[SP]already...",
         "nom_fr": "Maya",
-        "texte_fr": "Une [E4][NULL][NULL][0006]fleur de framboisier[E4][NULL][NULL][0002]...[1205][001E] [1432][NULL][NULL][0014]Le regret[1432][NULL][NULL][0014]...[1205][001E] Au\nfond, Jun sait déjà tout ça..."
+        "texte_fr": "Une [E4][NU[E4][NULL][NULL][0006]fleur de framboisier[E4][NU[E4][NULL][NULL][0002]...[1205][001E] [1432][NU[E4][NULL][NULL][0014]Le regret[1432][NU[E4][NULL][NULL][0014]...[1205][001E] Au\nfond, Jun sait déjà tout ça..."
     },
     {
         "id": 6,
@@ -117,7 +117,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "[1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Jun[SP]hasn't[SP]changed[SP]at[SP]all...[1205][001E]\nThe[SP]real[SP]Jun[SP]is[SP]still[SP]in[SP]there!",
         "nom_fr": "Ginko",
-        "texte_fr": "[1432][NULL][NULL][0014]Le regret...[1205][001E] [1432][NULL][NULL][0014]... Jun n'a pas changé du\ntout... Le vrai Jun est toujours là!"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Le regret...[1205][001E] [1432][NU[E4][NULL][NULL][0014]... Jun n'a pas changé du\ntout... Le vrai Jun est toujours là!"
     },
     {
         "id": 8,
@@ -147,7 +147,7 @@
         "nom_orig": "Maya",
         "texte_orig": "I[SP]remember[SP]Philemon[SP]telling[SP]us...[1205][001E][SP]we[SP]had\nto[SP]save[SP]Jun-kun[SP]from[SP]the[SP]clutches[SP]of[SP]the\n[1432][NULL][NULL][0014]Crawling[SP]Chaos[1432][NULL][NULL][0014]...",
         "nom_fr": "Maya",
-        "texte_fr": "Je me souviens, Philémon nous\na dit...[1205][001E] Nous devons sauver Jun\ndes griffes du [1432][NULL][NULL][0014] Chaos Rampant [1432][NULL][NULL][0014]..."
+        "texte_fr": "Je me souviens, Philémon nous\na dit...[1205][001E] Nous devons sauver Jun\ndes griffes du [1432][NU[E4][NULL][NULL][0014] Chaos Rampant [1432][NU[E4][NULL][NULL][0014]..."
     },
     {
         "id": 10,

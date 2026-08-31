@@ -117,7 +117,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Okay...[1205][001E][SP]So[SP]basically,[SP]Jun-kun[SP]thinks[SP]that\n[1432][NULL][NULL][0014]they're[SP]much[SP]further[SP]ahead[1432][NULL][NULL][0014]...",
         "nom_fr": "Maya",
-        "texte_fr": "Okay...[1205][001E] Donc Jun-kun pense qu'\n[1432][NULL][NULL][0014]ils sont beaucoup plus devant[1432][NULL][NULL][0014]..."
+        "texte_fr": "Okay...[1205][001E] Donc Jun-kun pense qu'\n[1432][NU[E4][NULL][NULL][0014]ils sont beaucoup plus devant[1432][NU[E4][NULL][NULL][0014]..."
     },
     {
         "id": 8,
@@ -132,7 +132,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Eikichi-kun[SP]thinks[SP][1432][NULL][NULL][0014]We[SP]must[SP]be[SP]almost[SP]caught\nup[SP]with[SP]them[1432][NULL][NULL][0014]...[1205][001E][SP]And[SP]Lisa[SP][1432][NULL][NULL][0014]doesn't[SP]really[SP]care.[1432][NULL][NULL][0014]",
         "nom_fr": "Maya",
-        "texte_fr": "Eikichi-kun pense [1432][NULL][NULL][0014] qu'on les a presque\nrattrapés[1432][NULL][NULL][0014]...[1205][001E] Et Lisa [1432][NULL][NULL][0014] s'en fiche un peu.[1432][NULL][NULL][0014]"
+        "texte_fr": "Eikichi-kun pense [1432][NU[E4][NULL][NULL][0014] qu'on les a presque\nrattrapés[1432][NU[E4][NULL][NULL][0014]...[1205][001E] Et Lisa [1432][NU[E4][NULL][NULL][0014] s'en fiche un peu.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 9,
@@ -384,7 +384,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "I[SP]keep[SP]thinking,[SP][1432][NULL][NULL][0014]I[SP]wish[SP]the[SP]next[SP]room[SP]was\na[SP]shower[SP]stall![1432][NULL][NULL][0014][SP]But[SP]it[SP]doesn't[SP]work.\nArrrgh...[SP]I[SP]wanna[SP]get[SP]cleaned[SP]up!",
         "nom_fr": "Ginko",
-        "texte_fr": "Je me dis, [1432][NULL][NULL][0014]si seulement la prochaine\npièce soit une douche![1432][NULL][NULL][0014] Mais ça marche\npas. Argh... Je veux me doucher!"
+        "texte_fr": "Je me dis, [1432][NU[E4][NULL][NULL][0014]si seulement la prochaine\npièce soit une douche![1432][NU[E4][NULL][NULL][0014] Mais ça marche\npas. Argh... Je veux me doucher!"
     },
     {
         "id": 25,

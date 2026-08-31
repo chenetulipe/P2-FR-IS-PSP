@@ -237,7 +237,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#3![1205][001E][SP][1432][NULL][NULL][0014]Fanna[1432][NULL][NULL][0014][SP]means\nsomething[SP]like,[SP][1432][NULL][NULL][0014]I[SP]don't[SP]like[SP]this...[1432][NULL][NULL][0014]\nYou[SP]use[SP]it[SP]when[SP]you're[SP]feeling[SP]let[SP]down.",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon de cantonais #3![1205][001E] [1432][NULL][NULL][0014]Fanna[1432][NULL][NULL][0014] veut\ndire quelque chose comme [1432][NULL][NULL][0014]J'aime pas\nça...[1432][NULL][NULL][0014] Ça s'utilise quand on est déçu."
+        "texte_fr": "Leçon de cantonais #3![1205][001E] [1432][NU[E4][NULL][NULL][0014]Fanna[1432][NU[E4][NULL][NULL][0014] veut\ndire quelque chose comme [1432][NU[E4][NULL][NULL][0014]J'aime pas\nça...[1432][NU[E4][NULL][NULL][0014] Ça s'utilise quand on est déçu."
     },
     {
         "id": 16,
@@ -252,7 +252,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#12![1205][001E][SP][1432][NULL][NULL][0014]Holeen[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]poor[SP]thing,[1432][NULL][NULL][0014][SP]basically,[SP]for[SP]when[SP]you're\nsympathizing[SP]with[SP]someone.",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon de cantonais #12![1205][001E] [1432][NULL][NULL][0014]Holeen[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]pauvre chou,[1432][NULL][NULL][0014] pour exprimer\nde la sympathie envers quelqu'un."
+        "texte_fr": "Leçon de cantonais #12![1205][001E] [1432][NU[E4][NULL][NULL][0014]Holeen[1432][NU[E4][NULL][NULL][0014]\nsignifie [1432][NU[E4][NULL][NULL][0014]pauvre chou,[1432][NU[E4][NULL][NULL][0014] pour exprimer\nde la sympathie envers quelqu'un."
     },
     {
         "id": 17,
@@ -342,7 +342,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Weren't[SP]the[SP]mugshots[SP]posted[SP]as[SP][1432][NULL][NULL][0014]important\nwitnesses[1432][NULL][NULL][0014]?[SP]Why[SP]are[SP]people[SP]jumping[SP]to[SP]the\nconclusion[SP]they're[SP]of[SP]the[SP]terrorists...?",
         "nom_fr": "Ginko",
-        "texte_fr": "Les portraits étaient affichés comme\n[1432][NULL][NULL][0014]témoins importants[1432][NULL][NULL][0014], non? Pourquoi les gens\nconcluent que ce sont des terroristes?"
+        "texte_fr": "Les portraits étaient affichés comme\n[1432][NU[E4][NULL][NULL][0014]témoins importants[1432][NU[E4][NULL][NULL][0014], non? Pourquoi les gens\nconcluent que ce sont des terroristes?"
     },
     {
         "id": 23,
@@ -492,7 +492,7 @@
         "nom_orig": "Maya",
         "texte_orig": "How[SP]did[SP]he[SP]know[SP]that[SP]was[SP][E4][NULL][NULL][0006]Linda's[SP]Bra[E4][NULL][NULL][0002]?[SP]Would[SP]he\nhave[SP]noticed[SP]the[SP]difference[SP]if[SP]we[SP]gave[SP]him[SP]one\nof[SP]mine...?",
         "nom_fr": "Maya",
-        "texte_fr": "Comment savait-il que c'était le\n[E4][NULL][NULL][0006]soutien-gorge de Linda[E4][NULL][NULL][0002]? Et le mien,\nil aurait vu la différence...?"
+        "texte_fr": "Comment savait-il que c'était le\n[E4][NU[E4][NULL][NULL][0006]soutien-gorge de Linda[E4][NU[E4][NULL][NULL][0002]? Et le mien,\nil aurait vu la différence...?"
     },
     {
         "id": 33,
@@ -567,7 +567,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Crises[SP]are[SP]prerequisites[SP]for[SP]the[SP]evolution[SP]of\nany[SP]species.[SP]Only[SP]those[SP]who[SP]overcome[SP]the[SP]crisis\nwill[SP]greet[SP]the[SP]new[SP]era.[SP]Those[SP]that[SP]don't,[SP]die.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nAren't[SP]humans[SP]the[SP]contradictory[SP]ones,[SP]thinking\nthat[SP]prosperity[SP]and[SP]survival[SP]are[SP]all?[SP]Have[SP]they\nforgotten[SP]the[SP]laws[SP]of[SP]evolution?[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nI[SP]think[SP]Jun-kun's[SP]objective[SP]has[SP]been[SP]twisted\nby[SP]the[SP]power[SP]of[SP]rumors,[SP]too...[1205][000F][SP]But[SP]is[SP]that[SP]also\nthe[SP]reason[SP]they[SP]went[SP]public[SP]with[SP]that[SP]book...?",
         "nom_fr": "Maya",
-        "texte_fr": "Les crises sont des prérequis à l'évolution de\ntoute espèce. Seuls ceux qui les surmontent\naccèdent à la nouvelle ère.[E1][E2] [E3][E4][NULL][NULL]\"Maya Les humains\nne sont-ils pas contradictoires à penser\nqueprospérité et survie sont tout?\nAuraient-ils oublié les lois de l'évolution?[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Je pense que l'objectif de Jun-kun a été\ndéformé [1205][000F]par lepouvoir des rumeurs... Mais\nest-ce pour ça qu'ils ont publié ce livre...?"
+        "texte_fr": "Les crises sont des prérequis à l'évolution de\ntoute espèce. Seuls ceux qui les surmontent\naccèdent à la nouvelle ère.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Les humains\nne sont-ils pas contradictoires à penser\nqueprospérité et survie sont tout?\nAuraient-ils oublié les lois de l'évolution?[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Maya Je pense que l'objectif de Jun-kun a été\ndéformé [1205][000F]par lepouvoir des rumeurs... Mais\nest-ce pour ça qu'ils ont publié ce livre...?"
     },
     {
         "id": 38,
@@ -1234,7 +1234,7 @@
         "nom_orig": "Washout[SP]student",
         "texte_orig": "Well,[SP]don't[SP]that[SP]beat[SP]all?[SP]Ma'am[SP]really[SP]was[SP]an\nex-spy.[SP]City[SP]folk[SP]never[SP]fail[SP]to[SP]surprise[SP]me.[E1][E2]\n[E3][E4][NULL][NULL]\"Washout[SP]student\nMa'am's[SP]stories[SP]are[SP]always[SP]so[SP]interesting.[1205][000F]\nEspecially[SP]lately,[SP]they[SP]seem[SP]to[SP]be[SP]even[SP]more\nplausible!",
         "nom_fr": "Lycéen raté",
-        "texte_fr": "Ben ça alors! La patronne était espionne. Les\ngens de la ville m'étonneront toujours.[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant raté Ses histoires sont fascinantes.\n[1205][000F]Ces derniers temps, elles semblent de plus en\nplus crédibles!"
+        "texte_fr": "Ben ça alors! La patronne était espionne. Les\ngens de la ville m'étonneront toujours.[E1][E2]\n[E3][E4][NU[E4][NULL][NULL]\"Étudiant raté Ses histoires sont fascinantes.\n[1205][000F]Ces derniers temps, elles semblent de plus en\nplus crédibles!"
     },
     {
         "id": 77,
@@ -1249,7 +1249,7 @@
         "nom_orig": "Washout[SP]student",
         "texte_orig": "Cuss[SP]High's[SP]school[SP]festival[SP]is[SP]almost[SP]here.\nThey're[SP]calling[SP]it[SP][1432][NULL][NULL][0014]Kasuga[SP]Festival[1432][NULL][NULL][0014][SP]this[SP]year.\nEven[SP]the[SP]name[SP]sounds[SP]flashy[SP]now...",
         "nom_fr": "Lycéen raté",
-        "texte_fr": "La fête scolaire du Lycée Kakasu approche.\nIls l'appellent [1432][NULL][NULL][0014]Festival Kasuga[1432][NULL][NULL][0014] cette\nannée. Même le nom sonne plus chic..."
+        "texte_fr": "La fête scolaire du Lycée Kakasu approche.\nIls l'appellent [1432][NU[E4][NULL][NULL][0014]Festival Kasuga[1432][NU[E4][NULL][NULL][0014] cette\nannée. Même le nom sonne plus chic..."
     },
     {
         "id": 78,
@@ -1474,7 +1474,7 @@
         "nom_orig": "Bodyguard",
         "texte_orig": "Rumor[SP]has[SP]it[SP]the[SP][1432][NULL][NULL][0014]lion's[SP]roar[1432][NULL][NULL][0014][SP]the[SP]In[SP]Lak'ech\ntalks[SP]about[SP]is[SP]the[SP]Leonids.[1205][000F][SP]What[SP]do[SP]you[SP]think?",
         "nom_fr": "Garde du corps",
-        "texte_fr": "Selon l'In Lak'ech, le [1432][NULL][NULL][0014]rugissement\ndu lion[1432][NULL][NULL][0014] serait les Léonides. [1205][000F]Et vous?"
+        "texte_fr": "Selon l'In Lak'ech, le [1432][NU[E4][NULL][NULL][0014]rugissement\ndu lion[1432][NU[E4][NULL][NULL][0014] serait les Léonides. [1205][000F]Et vous?"
     },
     {
         "id": 93,
@@ -1519,7 +1519,7 @@
         "nom_orig": "Maniac",
         "texte_orig": "There[SP]was[SP]this[SP]singer[SP]who[SP]got[SP]lost[SP]in[SP]Aoba[SP]Park\non[SP]the[SP]way[SP]to[SP]a[SP]concert.[SP]Rumor[SP]is[SP][E4][NULL][NULL][0006]she[SP]starved\nto[SP]death[SP]and[SP]her[SP]ghost[SP]still[SP]haunts[SP]the[SP]park[E4][NULL][NULL][0002].",
         "nom_fr": "Fan obsédé",
-        "texte_fr": "Une chanteuse s'est perdue au Parc Aoba en\nallant à un concert. La rumeur dit [E4][NULL][NULL][0006]qu'elle\nest morte de faim et hante le parc[E4][NULL][NULL][0002] ."
+        "texte_fr": "Une chanteuse s'est perdue au Parc Aoba en\nallant à un concert. La rumeur dit [E4][NU[E4][NULL][NULL][0006]qu'elle\nest morte de faim et hante le parc[E4][NU[E4][NULL][NULL][0002] ."
     },
     {
         "id": 96,
@@ -1594,7 +1594,7 @@
         "nom_orig": "Maniac",
         "texte_orig": "No,[SP]I[SP]shouldn't[SP]ask.[SP]I[SP]shouldn't...[1205][000F][SP]But[SP]I[SP]really\ndo[SP]want[SP]it...[SP][E4][NULL][NULL][0006]Linda's[SP]Bra[E4][NULL][NULL][0002]...[1205][000F][SP]Her[SP]ghost[SP]shows[SP]up\nin[SP]Aoba[SP]Park,[SP]I[SP]hear...",
         "nom_fr": "Fan obsédé",
-        "texte_fr": "Non, je ne devrais pas demander...[1205][000F] Mais je le\nveux tellement... Le [E4][NULL][NULL][0006]soutien-gorge de Linda[E4][NULL][NULL][0002]...\nSon fantôme..."
+        "texte_fr": "Non, je ne devrais pas demander...[1205][000F] Mais je le\nveux tellement... Le [E4][NU[E4][NULL][NULL][0006]soutien-gorge de Linda[E4][NU[E4][NULL][NULL][0002]...\nSon fantôme..."
     },
     {
         "id": 101,
@@ -1609,7 +1609,7 @@
         "nom_orig": "Maniac",
         "texte_orig": "My[SP]God...[SP]That[SP]thing's[SP]a[SP]collector's[SP]item!\nEvery[SP]superfan's[SP]envy![SP][E4][NULL][NULL][0006]Linda's[SP]Bra[E4][NULL][NULL][0002]...![1205][000F]\nW-Would[SP]you[SP]be[SP]willing[SP]to[SP]give[SP]it[SP]to[SP]me!?",
         "nom_fr": "Fan obsédé",
-        "texte_fr": "Mon Dieu... C'est une pièce de collection\n! L'envie de tout super-fan! Le\n[1205][E4][NULL][NULL][0006]soutien-gorge de Linda[E4][NULL][NULL][0002]...! Me le donner!?"
+        "texte_fr": "Mon Dieu... C'est une pièce de collection\n! L'envie de tout super-fan! Le\n[1205][E4][NU[E4][NULL][NULL][0006]soutien-gorge de Linda[E4][NU[E4][NULL][NULL][0002]...! Me le donner!?"
     },
     {
         "id": 102,
@@ -1664,7 +1664,7 @@
         "nom_orig": "Maniac",
         "texte_orig": "Here,[SP]I'll[SP]give[SP]you[SP]this[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Frei[SP]Card[E4][NULL][NULL][0002][SP]to[SP]show[SP]how\ngrateful[SP]I[SP]am.[SP]It's[SP]part[SP]of[SP]my[SP]collection.",
         "nom_fr": "Fan obsédé",
-        "texte_fr": "Je vous donne cette [E4][NULL][NULL][0004][NULL][NULL][0004]Carte\nFrei[E4][NULL][NULL][0002] en remerciement. Elle\nfait partie de ma collection.[1433]"
+        "texte_fr": "Je vous donne cette [E4][NU[E4][NULL][NULL][0004][NU[E4][NULL][NULL][0004]Carte\nFrei[E4][NU[E4][NULL][NULL][0002] en remerciement. Elle\nfait partie de ma collection.[1433]"
     },
     {
         "id": 105,
@@ -1764,7 +1764,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Let[SP]me[SP]explain[SP]buyin'[SP]to[SP]you[SP]first.[SP]Choose\n[1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]here[SP]and[SP]I'll[SP]sell[SP]you[SP]some.",
         "nom_fr": "Patronne",
-        "texte_fr": "Pour acheter, choisis [1432][NULL][NULL][0014]Acheter\ndes armes[1432][NULL][NULL][0014] et je te vends."
+        "texte_fr": "Pour acheter, choisis [1432][NU[E4][NULL][NULL][0014]Acheter\ndes armes[1432][NU[E4][NULL][NULL][0014] et je te vends."
     },
     {
         "id": 111,
@@ -1794,7 +1794,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Then[SP]there's[SP]sellin'.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014]\nand[SP]then[SP]which[SP]kinda[SP]item[SP]you[SP]wanna[SP]sell.\nThen[SP]choose[SP]somethin'[SP]to[SP]sell[SP]me.",
         "nom_fr": "Patronne",
-        "texte_fr": "Ensuite la vente. Choisis [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] puis\nle type d'objet à vendre. Ensuite\nchoisis ce que tu veux me vendre."
+        "texte_fr": "Ensuite la vente. Choisis [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014] puis\nle type d'objet à vendre. Ensuite\nchoisis ce que tu veux me vendre."
     },
     {
         "id": 113,
@@ -1839,7 +1839,7 @@
         "nom_orig": "Ma'am",
         "texte_orig": "Thinkin'[SP]of[SP]dining[SP]in,[SP]huh?[SP]Select[SP][1432][NULL][NULL][0014]Dine[SP]in[1432][NULL][NULL][0014]\nhere[SP]if[SP]you[SP]want[SP]some[SP]of[SP]my[SP]ramen.",
         "nom_fr": "Patronne",
-        "texte_fr": "Tu penses à manger ici? Choisis\n[1432][NULL][NULL][0014]Manger sur place[1432][NULL][NULL][0014] si tu veux mon ramen."
+        "texte_fr": "Tu penses à manger ici? Choisis\n[1432][NU[E4][NULL][NULL][0014]Manger sur place[1432][NU[E4][NULL][NULL][0014] si tu veux mon ramen."
     },
     {
         "id": 116,

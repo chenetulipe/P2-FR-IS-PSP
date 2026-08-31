@@ -462,7 +462,7 @@
         "nom_orig": "Maya",
         "texte_orig": "If[SP]we[SP]went[SP]around[SP]asking,[SP][1432][NULL][NULL][0014]Have[SP]your[SP]ideals\ncome[SP]true?[1432][NULL][NULL][0014][SP]we'd[SP]be[SP]no[SP]different[SP]than[SP]them...",
         "nom_fr": "Maya",
-        "texte_fr": "Si on demandait: [1432][NULL][NULL][0014]Vos idéaux se sont\nréalisés?[1432][NULL][NULL][0014] on serait comme eux..."
+        "texte_fr": "Si on demandait: [1432][NU[E4][NULL][NULL][0014]Vos idéaux se sont\nréalisés?[1432][NU[E4][NULL][NULL][0014] on serait comme eux..."
     },
     {
         "id": 31,
@@ -597,7 +597,7 @@
         "nom_orig": "Maya",
         "texte_orig": "It's[SP]man's[SP]eternal[SP]dream[SP]to[SP]ascend[SP]into[SP]the\nstate[SP]of[SP]Idealian.[SP]Only[SP]Xibalba[SP]can[SP]grant[SP]it.\nEveryone[SP]will[SP]be[SP]wishing[SP]for[SP]its[SP]emergence.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJoker...[SP]Or[SP]Jun-kun,[SP]rather,[SP]is[SP]planning\nsomething[SP]at[SP]Mt.[SP]Katatsumuri.[SP]His[SP]executives\nwill[SP]be[SP]with[SP]him[SP]there.",
         "nom_fr": "Maya",
-        "texte_fr": "C'est le rêve éternel de l'homme de devenir un\nIdéalien. Seul Xibalba le peut. Tous espèrent\nson avènement.[E1][E2] [E3][E4][NULL][NULL]\"Maya Joker... Enfin Jun-kun,\nprépare un truc au Mt. Katatsumuri.Ses cadres\nseront avec lui là-bas."
+        "texte_fr": "C'est le rêve éternel de l'homme de devenir un\nIdéalien. Seul Xibalba le peut. Tous espèrent\nson avènement.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Maya Joker... Enfin Jun-kun,\nprépare un truc au Mt. Katatsumuri.Ses cadres\nseront avec lui là-bas."
     },
     {
         "id": 40,
@@ -1572,7 +1572,7 @@
         "nom_orig": "Pappy",
         "texte_orig": "Ha...[SP]Haha...[SP]I'm[SP]on[SP]my[SP]first[SP]date[SP]today.\nShe[SP]suddenly[SP]asked[SP]me[SP]out...[SP]I'm[SP]so[SP]nervous!\nShe's[SP]the[SP]one[SP]who[SP]suggested[SP]we[SP]come[SP]here,[SP]too.[E1][E2]\n\n[E3][E4][NULL][NULL]\"Pappy\nI[SP]thought[SP]I[SP]had[SP]no[SP]chance[SP]with[SP]her[SP]because\nshe'd[SP]always[SP]avoid[SP]me...[SP]This[SP]feels[SP]like[SP]a\ndream[SP]come[SP]true![SP]Somebody[SP]pinch[SP]me!",
         "nom_fr": "Papy",
-        "texte_fr": "Ha... Haha... C'est mon premier rancard. Elle\nme l'a demandé... Je suis si nerveux ! C'est\nelle qui a suggéré cet endroit.[E1][E2] [E3][E4][NULL][NULL]\"Pappy Je\ncroyais ne faire aucune chance avec elle, elle\nm'évitait... C'est commeun rêve devenu\nréalité! Pincez-moi!"
+        "texte_fr": "Ha... Haha... C'est mon premier rancard. Elle\nme l'a demandé... Je suis si nerveux ! C'est\nelle qui a suggéré cet endroit.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Pappy Je\ncroyais ne faire aucune chance avec elle, elle\nm'évitait... C'est commeun rêve devenu\nréalité! Pincez-moi!"
     },
     {
         "id": 97,
@@ -2092,7 +2092,7 @@
         "nom_orig": "Tony",
         "texte_orig": "First,[SP]how[SP]to[SP]buy[SP]my[SP]things.[SP]You[SP]gotta[SP]start\nby[SP]choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories.[1432][NULL][NULL][0014]",
         "nom_fr": "Tony",
-        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NULL][NULL][0014]Accessoires.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NU[E4][NULL][NULL][0014]Accessoires.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 131,
@@ -2122,7 +2122,7 @@
         "nom_orig": "Tony",
         "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nyou[SP]picka[SP]kind[SP]of[SP]item.[SP]After[SP]that,[SP]you[SP]choose\nwhat[SP]you[SP]wanna[SP]sell[SP]me.",
         "nom_fr": "Tony",
-        "texte_fr": "Ensuite, la vente. Choisis [1432][NULL][NULL][0014]Vendre\nitems[1432][NULL][NULL][0014], puis un type d'objet,\npuis ce que tu veux me vendre."
+        "texte_fr": "Ensuite, la vente. Choisis [1432][NU[E4][NULL][NULL][0014]Vendre\nitems[1432][NU[E4][NULL][NULL][0014], puis un type d'objet,\npuis ce que tu veux me vendre."
     },
     {
         "id": 133,
@@ -2182,7 +2182,7 @@
         "nom_orig": "Tony",
         "texte_orig": "First,[SP]how[SP]you[SP]buy.[SP]You[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014]\nyou[SP]can[SP]buy[SP]some'a[SP]my[SP]weapons.",
         "nom_fr": "Tony",
-        "texte_fr": "D'abord, tu choisis [1432][NULL][NULL][0014]Armes,[1432][NULL][NULL][0014]\npour acheter des armes."
+        "texte_fr": "D'abord, tu choisis [1432][NU[E4][NULL][NULL][0014]Armes,[1432][NU[E4][NULL][NULL][0014]\npour acheter des armes."
     },
     {
         "id": 137,
@@ -2212,7 +2212,7 @@
         "nom_orig": "Tony",
         "texte_orig": "First,[SP]how[SP]to[SP]buy[SP]my[SP]things.[SP]You[SP]gotta[SP]start\nby[SP]choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories.[1432][NULL][NULL][0014]",
         "nom_fr": "Tony",
-        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NULL][NULL][0014]Accessoires.[1432][NULL][NULL][0014]"
+        "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NU[E4][NULL][NULL][0014]Accessoires.[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 139,
@@ -2242,7 +2242,7 @@
         "nom_orig": "Tony",
         "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nyou[SP]picka[SP]kind[SP]of[SP]item.[SP]After[SP]that,[SP]you[SP]choose\nwhat[SP]you[SP]wanna[SP]sell[SP]me.",
         "nom_fr": "Tony",
-        "texte_fr": "Ensuite, la vente. Choisis [1432][NULL][NULL][0014]Vendre\nitems[1432][NULL][NULL][0014], puis un type d'objet,\npuis ce que tu veux me vendre."
+        "texte_fr": "Ensuite, la vente. Choisis [1432][NU[E4][NULL][NULL][0014]Vendre\nitems[1432][NU[E4][NULL][NULL][0014], puis un type d'objet,\npuis ce que tu veux me vendre."
     },
     {
         "id": 141,

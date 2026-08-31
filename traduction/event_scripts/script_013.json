@@ -162,7 +162,7 @@
         "nom_orig": "Maya",
         "texte_orig": "[1432][NULL][NULL][0014]I[SP]shudder[SP]when[SP]I[SP]behold[SP]his[SP]face.\nThe[SP]moon[SP]reveals[SP]to[SP]me[SP]my[SP]own[SP]likeness.\nYou[SP]Doppelganger,[SP]you[SP]pale[SP]companion!",
         "nom_fr": "Maya",
-        "texte_fr": "[1432][NULL][NULL][0014]Je frémis devant son visage. La\nLune révèle ma ressemblance. Toi\nDoppelganger, mon pâle compagnon!"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Je frémis devant son visage. La\nLune révèle ma ressemblance. Toi\nDoppelganger, mon pâle compagnon!"
     },
     {
         "id": 11,
@@ -177,7 +177,7 @@
         "nom_orig": "Maya",
         "texte_orig": "[1432][NULL][NULL][0014]Why[SP]do[SP]you[SP]mimic[SP]my[SP]lovesickness,\nThat[SP]tormented[SP]me[SP]at[SP]this[SP]place\nFor[SP]so[SP]many[SP]nights[SP]in[SP]the[SP]past?[1432][NULL][NULL][0014]",
         "nom_fr": "Maya",
-        "texte_fr": "[1432][NULL][NULL][0014]Pourquoi imites-tu mon mal d'amour, Qui me\ntorturait en ce lieu Tant de nuits passées?[1432][NULL][NULL][0014]"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Pourquoi imites-tu mon mal d'amour, Qui me\ntorturait en ce lieu Tant de nuits passées?[1432][NU[E4][NULL][NULL][0014]"
     },
     {
         "id": 12,
@@ -192,7 +192,7 @@
         "nom_orig": "Maya",
         "texte_orig": "That's[SP]from[SP]a[SP]poem[SP]called[SP][1432][NULL][NULL][0014]Der[SP]Doppelganger.[1432][NULL][NULL][0014]\nHave[SP]you[SP]heard[SP]of[SP]it,[SP][1113]-kun?",
         "nom_fr": "Maya",
-        "texte_fr": "C'est d'un poème appelé [1432][NULL][NULL][0014]Der Doppelganger.[1432][NULL][NULL][0014]\nT'en as entendu parler, [1113]-kun?"
+        "texte_fr": "C'est d'un poème appelé [1432][NU[E4][NULL][NULL][0014]Der Doppelganger.[1432][NU[E4][NULL][NULL][0014]\nT'en as entendu parler, [1113]-kun?"
     },
     {
         "id": 13,
@@ -282,7 +282,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "Hey,[SP]that's[SP]a[SP]great[SP]idea![SP]Hamya[SP]did[SP]say\nthat[SP]the[SP][1432][NULL][NULL][0014]emblem[SP]curse[1432][NULL][NULL][0014][SP]was[SP]started[SP]by\nsome[SP]students[SP]from[SP]Cuss[SP]High.",
         "nom_fr": "Yukino",
-        "texte_fr": "Hé, bonne idée! Hanya a dit que la\n[1432][NULL][NULL][0014]malédiction[1432][NULL][NULL][0014] venait d'élèves du Lycée Kasu."
+        "texte_fr": "Hé, bonne idée! Hanya a dit que la\n[1432][NU[E4][NULL][NULL][0014]malédiction[1432][NU[E4][NULL][NULL][0014] venait d'élèves du Lycée Kasu."
     },
     {
         "id": 19,
@@ -387,7 +387,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "He's[SP]not[SP]dead,[SP]is[SP]he!?\n[1208][0002][1432][NULL][NULL][0014]He's[SP]dead.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]No,[SP]he[SP]made[SP]it.[1432][NULL][NULL][0014]",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Il est pas mort, hein!?\n[1208][0002][1432][NULL][NULL][0014]Il est mort.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il s'en est sorti.[1432][NULL][NULL][0014]",
+        "texte_fr": "Il est pas mort, hein!?\n[1208][0002][1432][NU[E4][NULL][NULL][0014]Il est mort.[1432][NU[E4][NULL][NULL][0014]\n[1432][NU[E4][NULL][NULL][0014]Il s'en est sorti.[1432][NU[E4][NULL][NULL][0014]",
         "question_orig": "He's[SP]not[SP]dead,[SP]is[SP]he!?",
         "choix_orig": [
             "He's[SP]dead.",

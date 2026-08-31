@@ -12,7 +12,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Heheh...[SP]Coming[SP]to[SP]a[SP]place[SP]like[SP]this[SP]is[SP]for\nchumps.[1205][001E][SP]I[SP]naturally[SP]release[SP]pheromones[SP]called\n[1432][NULL][NULL][0014]Pheroma[SP]XX,[1432][NULL][NULL][0014][SP]so[SP]I[SP]don't[SP]need[SP]any[SP]cologne.",
         "nom_fr": "Eikichi",
-        "texte_fr": "Héhé... Venir ici c'est pour les nuls.[1205][001E]\nJ'émets des phéromones nommées [1432][NULL][NULL][0014]Pheroma\nXX[1432][NULL][NULL][0014], j'ai pas besoin d'eau de cologne."
+        "texte_fr": "Héhé... Venir ici c'est pour les nuls.[1205][001E]\nJ'émets des phéromones nommées [1432][NU[E4][NULL][NULL][0014]Pheroma\nXX[1432][NU[E4][NULL][NULL][0014], j'ai pas besoin d'eau de cologne."
     },
     {
         "id": 1,
@@ -267,7 +267,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Caracol[SP]means[SP][1432][NULL][NULL][0014]snail,[1432][NULL][NULL][0014][SP]huh?[SP]Maybe[SP]the[SP]Rings[SP]of\nTime[SP]are[SP]a[SP]metaphor[SP]for[SP]something,[SP]too.",
         "nom_fr": "Maya",
-        "texte_fr": "Caracol veut dire [1432][NULL][NULL][0014]escargot,[1432][NULL][NULL][0014] hein? Les\nAnneaux sont peut-être une métaphore aussi."
+        "texte_fr": "Caracol veut dire [1432][NU[E4][NULL][NULL][0014]escargot,[1432][NU[E4][NULL][NULL][0014] hein? Les\nAnneaux sont peut-être une métaphore aussi."
     },
     {
         "id": 18,
@@ -424,7 +424,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here,[SP]your[SP]HP,[SP]SP,[SP]and\nstatus[SP]ailments[SP]such[SP]as[SP]poison[SP]will[SP]be\nhealed[SP]through[SP]breathing[SP]in[SP]fragrances.",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "En choisissant [1432][NULL][NULL][0014]Soin[1432][NULL][NULL][0014], vos PV,\nSP et altérations sont soignés\nen respirant nos parfums."
+        "texte_fr": "En choisissant [1432][NU[E4][NULL][NULL][0014]Soin[1432][NU[E4][NULL][NULL][0014], vos PV,\nSP et altérations sont soignés\nen respirant nos parfums."
     },
     {
         "id": 27,
@@ -794,7 +794,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "A[SP]woman[SP]who[SP]came[SP]here[SP]said[SP]this:[SP][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]be\nan[SP]adult[SP]who[SP]can[SP]still[SP]trust[SP]in[SP]youth...[1432][NULL][NULL][0014]\nWell[SP]then,[SP]may[SP]your[SP]day[SP]be[SP]a[SP]wonderful[SP]one.",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Une cliente a dit: [1432][NULL][NULL][0014]Je veux être une\nadulte qui fait encore confiance à la\njeunesse...[1432][NULL][NULL][0014] Alors, excellente journée."
+        "texte_fr": "Une cliente a dit: [1432][NU[E4][NULL][NULL][0014]Je veux être une\nadulte qui fait encore confiance à la\njeunesse...[1432][NU[E4][NULL][NULL][0014] Alors, excellente journée."
     },
     {
         "id": 51,
@@ -1011,7 +1011,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "[1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far[SP]and[SP]wide...[1432][NULL][NULL][0014][1205][000F][SP]Is[SP]that\nhow[SP]it[SP]went?[1205][000F][SP]Some[SP]say[SP]that[SP]passage[SP]is[SP]about\nthe[SP]Leonids...[1205][000F][SP]Will[SP]it[SP]come[SP]true[SP]too...?",
         "nom_fr": "Femme âgée",
-        "texte_fr": "[1432][NULL][NULL][0014]Le rugissement du lion résonne...[1205][000F] [1432][NULL][NULL][0014] C'est\nça? Certains disent que ce passage concerne\nles Léonides... Ça va aussi se réaliser...?"
+        "texte_fr": "[1432][NU[E4][NULL][NULL][0014]Le rugissement du lion résonne...[1205][000F] [1432][NU[E4][NULL][NULL][0014] C'est\nça? Certains disent que ce passage concerne\nles Léonides... Ça va aussi se réaliser...?"
     },
     {
         "id": 64,

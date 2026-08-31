@@ -1277,7 +1277,7 @@
         "nom_orig": "Hanako",
         "texte_orig": "Then[SP]the[SP]man[SP]ran[SP]off[SP]screaming,[SP][1432][NULL][NULL][0014]It's[SP]Bukimi![1432][NULL][NULL][0014]\nHow[SP]rude!",
         "nom_fr": "Hanako",
-        "texte_fr": "Puis il a fui en criant:\n[1432][NULL][NULL][0014]C'est Bukimi![1432][NULL][NULL][0014] Quel culot!"
+        "texte_fr": "Puis il a fui en criant:\n[1432][NU[E4][NULL][NULL][0014]C'est Bukimi![1432][NU[E4][NULL][NULL][0014] Quel culot!"
     },
     {
         "id": 80,
@@ -1347,7 +1347,7 @@
         "nom_orig": "Sister[SP]#5",
         "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
         "nom_fr": "Sœur #5",
-        "texte_fr": "Achat: via [1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014], choisissez\nparmi nos divers articles."
+        "texte_fr": "Achat: via [1432][NU[E4][NULL][NULL][0014]Acheter[1432][NU[E4][NULL][NULL][0014], choisissez\nparmi nos divers articles."
     },
     {
         "id": 84,
@@ -1377,7 +1377,7 @@
         "nom_orig": "Sister[SP]#5",
         "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
         "nom_fr": "Sœur #5",
-        "texte_fr": "Vente: via [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014], choisissez\nle type d'objet, puis l'objet."
+        "texte_fr": "Vente: via [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014], choisissez\nle type d'objet, puis l'objet."
     },
     {
         "id": 86,

@@ -402,7 +402,7 @@
         "nom_orig": "Manager",
         "texte_orig": "We're[SP]technically[SP]open[SP]today,[SP]but[SP]we're\nshut[SP]down[SP]now[SP]because[SP]of[SP]some[SP]music[SP]video\nshoot.[SP]And[SP]with[SP]all[SP]these[SP]customers[SP]here...",
         "nom_fr": "Gérant",
-        "texte_fr": "Techniquement on est ouverts aujourd'hui, mais\non est fermés pour un tournage de clip. Et\navec tous ces clients... Machine #1 de la\nrangée des bornes Wild 9.[E1][E2] [E3][E4][NULL][NULL]\"Manager Oh désolé,\nmonsieur! Vous ne pouvez pas jouer\nmaintenant.C'est un peu chaotique en ce\nmoment. Machine #2 de la rangée des bornes\nWild 9."
+        "texte_fr": "Techniquement on est ouverts aujourd'hui, mais\non est fermés pour un tournage de clip. Et\navec tous ces clients... Machine #1 de la\nrangée des bornes Wild 9.[E1][E2] [E3][E4][NU[E4][NULL][NULL]\"Manager Oh désolé,\nmonsieur! Vous ne pouvez pas jouer\nmaintenant.C'est un peu chaotique en ce\nmoment. Machine #2 de la rangée des bornes\nWild 9."
     },
     {
         "id": 27,
@@ -552,7 +552,7 @@
         "nom_orig": "Manager",
         "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.",
         "nom_fr": "Gérant",
-        "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment. Machine de blackjack [NULL][NULL]Unissons nos\nForces[NULL][NULL]."
+        "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment. Machine de blackjack [NU[E4][NULL][NULL]Unissons nos\nForces[NU[E4][NULL][NULL]."
     },
     {
         "id": 37,
@@ -687,7 +687,7 @@
         "nom_orig": "Manager",
         "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.",
         "nom_fr": "Gérant",
-        "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu chaotique\nen ce moment. Jeu de bingo [NULL][NULL]Fortune's Reel[NULL][NULL]."
+        "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu chaotique\nen ce moment. Jeu de bingo [NU[E4][NULL][NULL]Fortune's Reel[NU[E4][NULL][NULL]."
     },
     {
         "id": 46,

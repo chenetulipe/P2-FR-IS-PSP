@@ -237,7 +237,7 @@
         "nom_orig": "Principal[SP]Hanya",
         "texte_orig": "Foolish[SP]girl![SP]How[SP]dare[SP]you?[SP]The[SP][1432][NULL][NULL][0014]emblem\ncurse[1432][NULL][NULL][0014][SP]is[SP]a[SP]divine[SP]punishment[SP]brought[SP]on\nby[SP]the[SP]students'[SP]poor[SP]conduct!",
         "nom_fr": "Proviseur Hanya",
-        "texte_fr": "Pauvre idiote! Comment oses-tu?\nCette [1432][NULL][NULL][0014] malédiction[1432][NULL][NULL][0014] est un châtiment\ndivin infligé aux mauvais élèves!"
+        "texte_fr": "Pauvre idiote! Comment oses-tu?\nCette [1432][NU[E4][NULL][NULL][0014] malédiction[1432][NU[E4][NULL][NULL][0014] est un châtiment\ndivin infligé aux mauvais élèves!"
     },
     {
         "id": 16,

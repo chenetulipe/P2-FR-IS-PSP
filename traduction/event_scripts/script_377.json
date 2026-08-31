@@ -379,7 +379,7 @@
         "nom_orig": "Trish",
         "texte_orig": "Choose[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here[SP]and[SP]I'll[SP]restore[SP]your[SP]HP[SP]and\nSP,[SP]plus[SP]cure[SP]any[SP]status[SP]ailments[SP]like[SP]poison.",
         "nom_fr": "Trish",
-        "texte_fr": "Choisis [1432][NULL][NULL][0014] Soigner[1432][NULL][NULL][0014] et je te rends PV et PC,\net je guéris les effets négatifs, le poison."
+        "texte_fr": "Choisis [1432][NU[E4][NULL][NULL][0014] Soigner[1432][NU[E4][NULL][NULL][0014] et je te rends PV et PC,\net je guéris les effets négatifs, le poison."
     },
     {
         "id": 24,

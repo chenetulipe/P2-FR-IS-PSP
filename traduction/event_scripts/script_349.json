@@ -357,7 +357,7 @@
         "nom_orig": "Pretentious[SP]man",
         "texte_orig": "I[SP]heard[SP]that[SP]Garcon[SP]used[SP]to[SP]be[SP]in[SP]the[SP]French\nmilitary.[SP]They[SP]call[SP]him[SP]the[SP][1432][NULL][NULL][0014]Garcon[SP]from[SP]Hell.[1432][NULL][NULL][0014][1205][000F]\nMaybe[SP]he[SP]really[SP]does[SP]sell[SP]weapons[SP]here...",
         "nom_fr": "Homme prétentieux",
-        "texte_fr": "Apparemment Garcon était dans l'armée\nFrançaise. On l'appelle [1432][NULL][NULL][0014]Garcon de l'Enfer[1432][NULL][NULL][0014]\n[1205][000F]Peut-être qu'il vend vraiment des armes ici..."
+        "texte_fr": "Apparemment Garcon était dans l'armée\nFrançaise. On l'appelle [1432][NU[E4][NULL][NULL][0014]Garcon de l'Enfer[1432][NU[E4][NULL][NULL][0014]\n[1205][000F]Peut-être qu'il vend vraiment des armes ici..."
     },
     {
         "id": 24,
@@ -1141,7 +1141,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "When[SP]you[SP]request[SP]to[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014][SP]I[SP]will[SP]show\nyou[SP]our[SP]selection[SP]of[SP]armaments.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter armes,[1432][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter armes,[1432][NU[E4][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
     },
     {
         "id": 70,
@@ -1171,7 +1171,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "We[SP]will[SP]also[SP]buy[SP]your[SP]used[SP]wares.[SP]Choose\n[1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]give[SP]you[SP]a[SP]choice\nas[SP]to[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
+        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
     },
     {
         "id": 72,
@@ -1231,7 +1231,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "When[SP]you[SP]request[SP]to[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014][SP]I[SP]will[SP]show\nyou[SP]our[SP]selection[SP]of[SP]armaments.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter armes,[1432][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
+        "texte_fr": "Choisissez [1432][NU[E4][NULL][NULL][0014]Acheter armes,[1432][NU[E4][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
     },
     {
         "id": 76,
@@ -1261,7 +1261,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "You[SP]may[SP]also[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]accessories,[1432][NULL][NULL][0014][SP]which\nwill[SP]allow[SP]you[SP]to[SP]inspect[SP]our[SP]fine[SP]line[SP]of\nenhancements.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Vous pouvez aussi choisir [1432][NULL][NULL][0014]Acheter\naccessoires,[1432][NULL][NULL][0014] pour explorer\nnotre gamme d'améliorations."
+        "texte_fr": "Vous pouvez aussi choisir [1432][NU[E4][NULL][NULL][0014]Acheter\naccessoires,[1432][NU[E4][NULL][NULL][0014] pour explorer\nnotre gamme d'améliorations."
     },
     {
         "id": 78,
@@ -1291,7 +1291,7 @@
         "nom_orig": "Garcon[SP]Soejima",
         "texte_orig": "We[SP]will[SP]also[SP]buy[SP]your[SP]used[SP]wares.[SP]Choose\n[1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]give[SP]you[SP]a[SP]choice\nas[SP]to[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.",
         "nom_fr": "Garçon Soejima",
-        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
+        "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NU[E4][NULL][NULL][0014]Vendre objets[1432][NU[E4][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
     },
     {
         "id": 80,

@@ -445,7 +445,7 @@
         "nom_orig": "Whistler",
         "texte_orig": "You[SP]actually[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?\nFfff.[SP]Choose[SP][1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]buy[SP]some[SP]armor.",
         "nom_fr": "Siffleur",
-        "texte_fr": "Faut vraiment t'expliquer un magasin?\nPfff. Choisis [1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014] pour une armure."
+        "texte_fr": "Faut vraiment t'expliquer un magasin?\nPfff. Choisis [1432][NU[E4][NULL][NULL][0014]Acheter,[1432][NU[E4][NULL][NULL][0014] pour une armure."
     },
     {
         "id": 24,
@@ -475,7 +475,7 @@
         "nom_orig": "Whistler",
         "texte_orig": "Or[SP]you[SP]can[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]if[SP]you[SP]have\nsomething[SP]you[SP]want[SP]to[SP]get[SP]rid[SP]of.[SP]Pick[SP]which\nkind[SP]of[SP]item,[SP]then[SP]choose[SP]what[SP]you[SP]wanna[SP]sell.",
         "nom_fr": "Siffleur",
-        "texte_fr": "Sinon tu peux choisir [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
+        "texte_fr": "Sinon tu peux choisir [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
     },
     {
         "id": 26,

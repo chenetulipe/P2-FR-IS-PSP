@@ -27,7 +27,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Welcome,[SP]meow[1432][NULL][NULL][0007]\nWelcome,[SP]meow[1432][NULL][NULL][0007]\nWelcome,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Salut, miaou[1432][NULL][NULL][0007] Salut, miaou[1432][NULL][NULL][0007] Salut, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Salut, miaou[1432][NU[E4][NULL][NULL][0007] Salut, miaou[1432][NU[E4][NULL][NULL][0007] Salut, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 2,
@@ -478,7 +478,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "100 yens, miaou[1432][NULL][NULL][0007] 100 yens,\nmiaou[1432][NULL][NULL][0007] 100 yens, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "100 yens, miaou[1432][NU[E4][NULL][NULL][0007] 100 yens,\nmiaou[1432][NU[E4][NULL][NULL][0007] 100 yens, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 29,
@@ -493,7 +493,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
         "nom_fr": "Statue de chat",
-        "texte_fr": "100 yens, miaou[1432][NULL][NULL][0007]\n[1208][0002]Mettre 100 yens\nRien mettre",
+        "texte_fr": "100 yens, miaou[1432][NU[E4][NULL][NULL][0007]\n[1208][0002]Mettre 100 yens\nRien mettre",
         "question_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]",
         "choix_orig": [
             "Put[SP]in[SP]100[SP]yen",
@@ -518,7 +518,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Oh, t'es fauché, miaou[1432][NULL][NULL][0007] Menteur un jour,\nvoleur toujours, miaou[1432][NULL][NULL][0007] Dégage d'ici[1432][NULL][NULL][0007]"
+        "texte_fr": "Oh, t'es fauché, miaou[1432][NU[E4][NULL][NULL][0007] Menteur un jour,\nvoleur toujours, miaou[1432][NU[E4][NULL][NULL][0007] Dégage d'ici[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 31,
@@ -533,7 +533,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][0007][1205][000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Rrron...[1205][000F] Merci[1432][NULL][NULL][0007] Tu m'as nourri 20\nfois, miaou[1432][NULL][NULL][0007] J'en veux plus, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Rrron...[1205][000F] Merci[1432][NU[E4][NULL][NULL][0007] Tu m'as nourri 20\nfois, miaou[1432][NU[E4][NULL][NULL][0007] J'en veux plus, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 32,
@@ -548,7 +548,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Meowvelous![1432][NULL][NULL][0007][1205][000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][0007][1205][000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Miaougnifique![1205][000F][1432][NULL][NULL][0007] Tu m'as nourri\n50 fois, rrron[1432][NULL][NULL][0007] Tu es si généreux[1432][NULL][NULL][0007]"
+        "texte_fr": "Miaougnifique![1205][000F][1432][NU[E4][NULL][NULL][0007] Tu m'as nourri\n50 fois, rrron[1432][NU[E4][NULL][NULL][0007] Tu es si généreux[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 33,
@@ -563,7 +563,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Amazing,[SP]meow![1205][000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Incroyable, miaou! [1205][000F]80 repas déja,\nmiaou[1432][NULL][NULL][0007] T'as pas un agenda félin, miaou?"
+        "texte_fr": "Incroyable, miaou! [1205][000F]80 repas déja,\nmiaou[1432][NU[E4][NULL][NULL][0007] T'as pas un agenda félin, miaou?"
     },
     {
         "id": 34,
@@ -608,7 +608,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Use[SP]this[SP][E4][NULL][NULL][0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Utilise ce [E4][NULL][NULL][0004]Kit d'Encens[E4][NULL][NULL][0002], miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Utilise ce [E4][NU[E4][NULL][NULL][0004]Kit d'Encens[E4][NU[E4][NULL][NULL][0002], miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 37,
@@ -623,7 +623,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Merci, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Merci, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 38,
@@ -653,7 +653,7 @@
         "nom_orig": "Lucky[SP]cat[SP]statue",
         "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][0007]",
         "nom_fr": "Statue de chat",
-        "texte_fr": "Cette porte s'ouvre pas,\nmiaou[1432][NULL][NULL][0007] Arrête d'essayer, miaou[1432][NULL][NULL][0007]"
+        "texte_fr": "Cette porte s'ouvre pas,\nmiaou[1432][NU[E4][NULL][NULL][0007] Arrête d'essayer, miaou[1432][NU[E4][NULL][NULL][0007]"
     },
     {
         "id": 40,
