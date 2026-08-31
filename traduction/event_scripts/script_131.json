@@ -1,137 +1,137 @@
 [
-  {
-    "id": 0,
-    "offset": 258710,
-    "data_size": 152,
-    "slot_size": 152,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Shadow[SP]Yukino",
-    "texte_orig": "Heh...[1205][001E][SP]You're[SP]such[SP]idiots...[1205][001E][SP]I[SP]told[SP]you\nI'm[SP]Yukino...",
-    "nom_fr": "Ombre de Yukino",
-    "texte_fr": "Ha...[1205][001E] Vous êtes idiots...[1205][001E] Je SUIS Yukino..."
-  },
-  {
-    "id": 1,
-    "offset": 258868,
-    "data_size": 238,
-    "slot_size": 238,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Shadow[SP]Yukino",
-    "texte_orig": "I'm[SP]taking[SP]this[SP]girl's[SP]ego[SP]to[SP]the[SP]abyss[SP]of\nthe[SP]collective[SP]unconsciousness![1205][001E][SP]Rue[SP]your[SP]own\nstupidity!",
-    "nom_fr": "Ombre de Yukino",
-    "texte_fr": "Je vais plonger son égo dans l'inconscient\ncollectif![1205][001E] À vous d'assumer les conséquences!"
-  },
-  {
-    "id": 2,
-    "offset": 259112,
-    "data_size": 30,
-    "slot_size": 30,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Wait!",
-    "nom_fr": "Maya",
-    "texte_fr": "Stop!"
-  },
-  {
-    "id": 3,
-    "offset": 259148,
-    "data_size": 136,
-    "slot_size": 136,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "That[SP]wasn't[SP]really...[1205][001E][SP]the[SP]real[SP]Yukino-san,\nwas[SP]it...?",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Ce n'était pas...[1205][001E] la vraie Yukino, hein...?"
-  },
-  {
-    "id": 4,
-    "offset": 259290,
-    "data_size": 62,
-    "slot_size": 62,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "It[SP]couldn'tve[SP]been...",
-    "nom_fr": "Maya",
-    "texte_fr": "Impossible..."
-  },
-  {
-    "id": 5,
-    "offset": 259358,
-    "data_size": 190,
-    "slot_size": 190,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "I[SP]do[SP]have[SP]a[SP]really[SP]bad[SP]feeling[SP]about[SP]this...[1205][001E]\nBut[SP]we[SP]need[SP]to[SP]hurry[SP]on[SP]ahead[SP]for[SP]now.",
-    "nom_fr": "Maya",
-    "texte_fr": "J'ai un mauvais pressentiment...[1205][001E] Dépechôns-nous maintenant."
-  },
-  {
-    "id": 6,
-    "offset": 259554,
-    "data_size": 182,
-    "slot_size": 182,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "But[SP]Eikichi...[1205][001E][SP]We[SP]didn't[SP]save[SP]Anna...[1205][001E]\nYukino-san's[SP]going[SP]to[SP]be[SP]devastated...",
-    "nom_fr": "Ginko",
-    "texte_fr": "Mais Eikichi...[1205][001E] On a pas sauvé\nAnna...[1205][001E] Yukino va être dévastée..."
-  },
-  {
-    "id": 7,
-    "offset": 259742,
-    "data_size": 190,
-    "slot_size": 190,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "I[SP]hope...[SP]Yukki[SP]isn't...[1205][001E][SP]But[SP]then...[SP]the[SP]real\nYukki[SP]would[SP]never[SP]say[SP]those[SP]things...",
-    "nom_fr": "Maya",
-    "texte_fr": "J'espère qu'elle n'est pas...[1205][001E] Mais... Yukki ne dirait jamais ca..."
-  },
-  {
-    "id": 8,
-    "offset": 259938,
-    "data_size": 240,
-    "slot_size": 254,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Y-You're[SP]right...[1205][001E][SP]The[SP]real[SP]one's[SP]outside...[1205][001E]\nThat[SP]was[SP]an[SP]impostor,[SP]like[SP]the[SP]fake[SP]Big[SP]Maya\nfrom[SP]before...",
-    "nom_fr": "Eikichi",
-    "texte_fr": "T-Tu as raison...[1205][001E] La vraie est dehors...[1205][001E] C'était une impostrice, comme la\nfausse Grande Maya de tout à l'heure..."
-  }
+    {
+        "id": 0,
+        "offset": 258710,
+        "data_size": 152,
+        "slot_size": 152,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Shadow[SP]Yukino",
+        "texte_orig": "Heh...[1205][001E][SP]You're[SP]such[SP]idiots...[1205][001E][SP]I[SP]told[SP]you\nI'm[SP]Yukino...",
+        "nom_fr": "Ombre de Yukino",
+        "texte_fr": "Ha...[1205][001E] Vous êtes idiots...[1205][001E] Je SUIS Yukino..."
+    },
+    {
+        "id": 1,
+        "offset": 258868,
+        "data_size": 238,
+        "slot_size": 238,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Shadow[SP]Yukino",
+        "texte_orig": "I'm[SP]taking[SP]this[SP]girl's[SP]ego[SP]to[SP]the[SP]abyss[SP]of\nthe[SP]collective[SP]unconsciousness![1205][001E][SP]Rue[SP]your[SP]own\nstupidity!",
+        "nom_fr": "Ombre de Yukino",
+        "texte_fr": "Je vais plonger son égo dans l'inconscient\ncollectif![1205][001E] À vous d'assumer les conséquences!"
+    },
+    {
+        "id": 2,
+        "offset": 259112,
+        "data_size": 30,
+        "slot_size": 30,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Wait!",
+        "nom_fr": "Maya",
+        "texte_fr": "Stop!"
+    },
+    {
+        "id": 3,
+        "offset": 259148,
+        "data_size": 136,
+        "slot_size": 136,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "That[SP]wasn't[SP]really...[1205][001E][SP]the[SP]real[SP]Yukino-san,\nwas[SP]it...?",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Ce n'était pas...[1205][001E] la vraie Yukino, hein...?"
+    },
+    {
+        "id": 4,
+        "offset": 259290,
+        "data_size": 62,
+        "slot_size": 62,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "It[SP]couldn'tve[SP]been...",
+        "nom_fr": "Maya",
+        "texte_fr": "Impossible..."
+    },
+    {
+        "id": 5,
+        "offset": 259358,
+        "data_size": 190,
+        "slot_size": 190,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "I[SP]do[SP]have[SP]a[SP]really[SP]bad[SP]feeling[SP]about[SP]this...[1205][001E]\nBut[SP]we[SP]need[SP]to[SP]hurry[SP]on[SP]ahead[SP]for[SP]now.",
+        "nom_fr": "Maya",
+        "texte_fr": "J'ai un mauvais pressentiment...[1205][001E]\nDépechôns-nous maintenant."
+    },
+    {
+        "id": 6,
+        "offset": 259554,
+        "data_size": 182,
+        "slot_size": 182,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "But[SP]Eikichi...[1205][001E][SP]We[SP]didn't[SP]save[SP]Anna...[1205][001E]\nYukino-san's[SP]going[SP]to[SP]be[SP]devastated...",
+        "nom_fr": "Ginko",
+        "texte_fr": "Mais Eikichi...[1205][001E] On a pas sauvé\nAnna...[1205][001E] Yukino va être dévastée..."
+    },
+    {
+        "id": 7,
+        "offset": 259742,
+        "data_size": 190,
+        "slot_size": 190,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "I[SP]hope...[SP]Yukki[SP]isn't...[1205][001E][SP]But[SP]then...[SP]the[SP]real\nYukki[SP]would[SP]never[SP]say[SP]those[SP]things...",
+        "nom_fr": "Maya",
+        "texte_fr": "J'espère qu'elle n'est pas...[1205][001E] Mais... Yukki ne\ndirait jamais ca..."
+    },
+    {
+        "id": 8,
+        "offset": 259938,
+        "data_size": 240,
+        "slot_size": 254,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Y-You're[SP]right...[1205][001E][SP]The[SP]real[SP]one's[SP]outside...[1205][001E]\nThat[SP]was[SP]an[SP]impostor,[SP]like[SP]the[SP]fake[SP]Big[SP]Maya\nfrom[SP]before...",
+        "nom_fr": "Eikichi",
+        "texte_fr": "T-Tu as raison...[1205][001E] La vraie est dehors...[1205][001E]\nC'était une impostrice, comme la fausse Grande\nMaya de tout à l'heure..."
+    }
 ]

@@ -1,377 +1,377 @@
 [
-  {
-    "id": 0,
-    "offset": 364118,
-    "data_size": 212,
-    "slot_size": 212,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Wow![SP]Looks[SP]like[SP]the[SP]party's[SP]in[SP]full[SP]swing.\nThis[SP]seems[SP]pretty[SP]upscale[SP]for[SP]a[SP]high[SP]school\nfestival.",
-    "nom_fr": "Maya",
-    "texte_fr": "Woah! La fête bat son plein à ce\nque je vois. Ça a l'air luxueux\npour un festival de lycée."
-  },
-  {
-    "id": 1,
-    "offset": 364336,
-    "data_size": 106,
-    "slot_size": 106,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "What's[SP]wrong,[SP][1113]-kun?[SP]Is[SP]my[SP]mask\non[SP]crooked?",
-    "nom_fr": "Maya",
-    "texte_fr": "Un souci [1113]? Mon masque est de travers?"
-  },
-  {
-    "id": 2,
-    "offset": 364448,
-    "data_size": 174,
-    "slot_size": 174,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "What[SP]the[SP]hell[SP]is[SP]Yasuo[SP]doing!?[SP]Isn't[SP]that\nthe[SP]same[SP]kinda[SP]skull[SP]Joker[SP]had!?",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Que fout Yasuo bordel!? Ce crâne\nressemble à celui de Joker!?"
-  },
-  {
-    "id": 3,
-    "offset": 364628,
-    "data_size": 136,
-    "slot_size": 136,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Yasuo",
-    "texte_orig": "Huh?[SP]Th-That's[SP]enough...[SP]P-Please[SP]stop...[1205][001E]\nStop[SP]already!",
-    "nom_fr": "Yasuo",
-    "texte_fr": "A.. Assez! Arrêtez...[1205][001E] Arrêtez!!"
-  },
-  {
-    "id": 4,
-    "offset": 364770,
-    "data_size": 208,
-    "slot_size": 208,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "We[SP]gotta[SP]hurry[SP]and[SP]put[SP]an[SP]end[SP]to[SP]this,\nor[SP]else[SP]everyone[SP]here[SP]is[SP]going[SP]to[SP]turn\ninto[SP]shadowmen!",
-    "nom_fr": "Ginko",
-    "texte_fr": "On doit se dépêcher d'en finir, ou tout\nle monde se transformera en ombres!"
-  },
-  {
-    "id": 5,
-    "offset": 364984,
-    "data_size": 50,
-    "slot_size": 50,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Anna",
-    "texte_orig": "...What[SP]a[SP]fool.",
-    "nom_fr": "Anna",
-    "texte_fr": "... Quel abruti."
-  },
-  {
-    "id": 6,
-    "offset": 365040,
-    "data_size": 140,
-    "slot_size": 140,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Yukino",
-    "texte_orig": "Anna,[SP]is[SP]that[SP]you!?[SP]Hurry[SP]and[SP]get[SP]out!\nIt's[SP]not[SP]safe[SP]here!",
-    "nom_fr": "Yukino",
-    "texte_fr": "Anna, c'est toi!? Fuis\nd'ici vite! C'est dangereux!"
-  },
-  {
-    "id": 7,
-    "offset": 365186,
-    "data_size": 50,
-    "slot_size": 50,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Anna",
-    "texte_orig": "...I[SP]know[SP]that.",
-    "nom_fr": "Anna",
-    "texte_fr": "... Je sais."
-  },
-  {
-    "id": 8,
-    "offset": 365242,
-    "data_size": 158,
-    "slot_size": 158,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Yasuo,[SP]you[SP]smug[SP]prick![SP]What're[SP]you[SP]doing!?\nQuit[SP]it[SP]with[SP]the[SP]skull!",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Yasuo, sale connard! Tu\nfous quoi!? Lâche ce crâne!"
-  },
-  {
-    "id": 9,
-    "offset": 365406,
-    "data_size": 96,
-    "slot_size": 96,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Wait![SP]C'mon,[SP][1113],[SP]let's[SP]go[SP]after[SP]him!",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Attends! Viens [1113], on le chope!"
-  },
-  {
-    "id": 10,
-    "offset": 365508,
-    "data_size": 178,
-    "slot_size": 178,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Grazie,[SP][1113]-kun![SP]If[SP]I'd[SP]kept[SP]that[SP]mask\non,[SP]I'd[SP]be[SP]in[SP]the[SP]same[SP]boat[SP]as[SP]these[SP]kids!",
-    "nom_fr": "Maya",
-    "texte_fr": "Merci, [1113]! Avec ce masque, je serais\ndans le même état que ces gens!"
-  },
-  {
-    "id": 11,
-    "offset": 365692,
-    "data_size": 264,
-    "slot_size": 264,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "I[SP]can't[SP]believe[SP]he's[SP]turning[SP]the[SP]whole[SP]school\ninto[SP]shadowmen...[1205][001E][SP]What[SP]is[SP]he[SP]thinking!?\nHe's[SP]done[SP]it[SP]for[SP]the[SP]last[SP]time!",
-    "nom_fr": "Eikichi",
-    "texte_fr": "J'arrive pas à croire qu'il veuille\ntransformer tous les élèves en ombres...[1205][001E] Cette fois il dépasse les bornes!"
-  },
-  {
-    "id": 12,
-    "offset": 365962,
-    "data_size": 264,
-    "slot_size": 264,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "I[SP]couldn't[SP]really[SP]see[SP]too[SP]clearly,[SP]but\nEikichi's[SP]right.[SP]Didn't[SP]that[SP]skull[SP]Yasuo\nhad[SP]seem[SP]like[SP]the[SP]same[SP]one[SP]we[SP]saw[SP]before?",
-    "nom_fr": "Ginko",
-    "texte_fr": "Je n'ai pas très bien vu, mais il\na raison. Le crâne que Yasuo avait,\nc'était pas le même que la dernière fois?"
-  },
-  {
-    "id": 13,
-    "offset": 366232,
-    "data_size": 196,
-    "slot_size": 196,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Yukino",
-    "texte_orig": "What[SP]was[SP]Anna[SP]doing[SP]here?[SP]And[SP]that[SP]feeling\nI[SP]had[SP]a[SP]moment[SP]ago...[1205][001E][SP]Nah,[SP]it[SP]can't[SP]be...",
-    "nom_fr": "Yukino",
-    "texte_fr": "Que faisait Anna ici? Et cette sensation\ntout à l'heure...[1205][001E] Non, impossible..."
-  },
-  {
-    "id": 14,
-    "offset": 366434,
-    "data_size": 222,
-    "slot_size": 222,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Cuss[SP]High[SP]shadowman",
-    "texte_orig": "I[SP]was[SP]gonna[SP]hook[SP]up[SP]with[SP]a[SP]cute[SP]girl[SP]at[SP]this\nmasquerade...[SP]But[SP]I[SP]don't[SP]care[SP]anymore...",
-    "nom_fr": "Ombre Kasugayama",
-    "texte_fr": "J'allais conclure avec une fille\nmignonne... Mais je m'en fiche maintenant..."
-  },
-  {
-    "id": 15,
-    "offset": 366662,
-    "data_size": 78,
-    "slot_size": 78,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Cuss[SP]High[SP]shadowman",
-    "texte_orig": "Aah...[SP]Unnh...",
-    "nom_fr": "Ombre Kasugayama",
-    "texte_fr": "Aah... Unh..."
-  },
-  {
-    "id": 16,
-    "offset": 366746,
-    "data_size": 226,
-    "slot_size": 226,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Cuss[SP]High[SP]student",
-    "texte_orig": "I[SP]thought[SP]there[SP]was[SP]a[SP]girl[SP]here[SP]a[SP]moment[SP]ago\nI[SP]was[SP]dancing[SP]with...[SP]Was[SP]I[SP]imagining[SP]things?",
-    "nom_fr": "Élève de Kasu",
-    "texte_fr": "Je croyais danser avec une fille ici\ntout à l'heure... Ai-je halluciné?"
-  },
-  {
-    "id": 17,
-    "offset": 366978,
-    "data_size": 204,
-    "slot_size": 204,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Cuss[SP]High[SP]student",
-    "texte_orig": "*pant*[SP]*pant*[SP]Th-This[SP]is[SP]so[SP]much[SP]fun...\nBut...[SP]*pant*[SP]Wh-Why[SP]am[SP]I[SP]so[SP]exhausted?",
-    "nom_fr": "Élève de Kasu",
-    "texte_fr": "*halète* C'est si drôle... Mais...\n*halète* Pourquoi suis-je si fatigué?"
-  },
-  {
-    "id": 18,
-    "offset": 367188,
-    "data_size": 280,
-    "slot_size": 280,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "St.[SP]Hermelin[SP]student",
-    "texte_orig": "A[SP]cool[SP]Cuss[SP]High[SP]student[SP]was[SP]just[SP]hitting\non[SP]me![SP]But[SP]he[SP]was[SP]gone[SP]when[SP]I[SP]looked[SP]back...[1205][001E]\nHey,[SP]was[SP]it[SP]all[SP]a[SP]dream!?",
-    "nom_fr": "Élève de St. Hermelin",
-    "texte_fr": "Un gars super cool de Kasugayama me\ndraguait! Mais il a disparu en un\ninstant...[1205][001E] Est-ce que j'aurais rêvé?"
-  },
-  {
-    "id": 19,
-    "offset": 367474,
-    "data_size": 212,
-    "slot_size": 212,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "St.[SP]Hermelin[SP]shadowman",
-    "texte_orig": "I[SP]feel[SP]real[SP]tired[SP]for[SP]some[SP]reason...\nBut[SP]going[SP]home[SP]would[SP]be[SP]so[SP]much[SP]effort...",
-    "nom_fr": "Ombre St. Hermelin",
-    "texte_fr": "Je me sens si épuisé... Mais rentrer\nchez moi demande trop d'efforts..."
-  },
-  {
-    "id": 20,
-    "offset": 367692,
-    "data_size": 250,
-    "slot_size": 250,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Karukozaka[SP]student",
-    "texte_orig": "Hey,[SP]doesn't[SP]this[SP]place[SP]seem[SP]a[SP]lot[SP]less\ncrowded[SP]all[SP]of[SP]a[SP]sudden?[SP]Don't[SP]tell[SP]me[SP]it's\nover[SP]already...!?",
-    "nom_fr": "Élève de Karukozaka",
-    "texte_fr": "Hé, tu trouves pas que c'est moins\npeuplé ici d'un coup? La fête\nest pas déjà finie j'espère!?"
-  },
-  {
-    "id": 21,
-    "offset": 367948,
-    "data_size": 80,
-    "slot_size": 80,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Karukozaka[SP]shadowman",
-    "texte_orig": "Ohh...[SP]Aahh...",
-    "nom_fr": "Ombre Karukozaka",
-    "texte_fr": "Ohh... Aahh..."
-  },
-  {
-    "id": 22,
-    "offset": 368034,
-    "data_size": 206,
-    "slot_size": 206,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Young[SP]female[SP]shadowman",
-    "texte_orig": "I'm[SP]a[SP]good[SP]dancer...[SP]But[SP]my[SP]strength[SP]is\nfading...[SP]Doesn't[SP]matter,[SP]though...",
-    "nom_fr": "Ombre jeune fille",
-    "texte_fr": "Je danse bien... Mais mes forces\nm'abandonnent... Peu importe..."
-  },
-  {
-    "id": 23,
-    "offset": 368246,
-    "data_size": 278,
-    "slot_size": 278,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Sevens[SP]shadowman",
-    "texte_orig": "The[SP]emblem[SP]curse[SP]has[SP]been[SP]lifted...\nEverything'll[SP]be[SP]A-OK[SP]once[SP]I[SP]get[SP]a[SP]Cuss\nHigh[SP]boyfriend...[SP]But[SP]I[SP]don't[SP]care[SP]now...",
-    "nom_fr": "Ombre Seven",
-    "texte_fr": "La malédiction est levée... J'irai\nbien si j'ai un copain de Kasugayama...\nMais maintenant je m'en fiche..."
-  },
-  {
-    "id": 24,
-    "offset": 368530,
-    "data_size": 78,
-    "slot_size": 78,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Sevens[SP]shadowman",
-    "texte_orig": "...Gah...[SP]Gwuh...",
-    "nom_fr": "Ombre Seven",
-    "texte_fr": "...Ah... Eugh..."
-  }
+    {
+        "id": 0,
+        "offset": 364118,
+        "data_size": 212,
+        "slot_size": 212,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Wow![SP]Looks[SP]like[SP]the[SP]party's[SP]in[SP]full[SP]swing.\nThis[SP]seems[SP]pretty[SP]upscale[SP]for[SP]a[SP]high[SP]school\nfestival.",
+        "nom_fr": "Maya",
+        "texte_fr": "Woah! La fête bat son plein à ce\nque je vois. Ça a l'air luxueux\npour un festival de lycée."
+    },
+    {
+        "id": 1,
+        "offset": 364336,
+        "data_size": 106,
+        "slot_size": 106,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "What's[SP]wrong,[SP][1113]-kun?[SP]Is[SP]my[SP]mask\non[SP]crooked?",
+        "nom_fr": "Maya",
+        "texte_fr": "Un souci [1113]? Mon masque est de travers?"
+    },
+    {
+        "id": 2,
+        "offset": 364448,
+        "data_size": 174,
+        "slot_size": 174,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "What[SP]the[SP]hell[SP]is[SP]Yasuo[SP]doing!?[SP]Isn't[SP]that\nthe[SP]same[SP]kinda[SP]skull[SP]Joker[SP]had!?",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Que fout Yasuo bordel!? Ce crâne\nressemble à celui de Joker!?"
+    },
+    {
+        "id": 3,
+        "offset": 364628,
+        "data_size": 136,
+        "slot_size": 136,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Yasuo",
+        "texte_orig": "Huh?[SP]Th-That's[SP]enough...[SP]P-Please[SP]stop...[1205][001E]\nStop[SP]already!",
+        "nom_fr": "Yasuo",
+        "texte_fr": "A.. Assez! Arrêtez...[1205][001E] Arrêtez!!"
+    },
+    {
+        "id": 4,
+        "offset": 364770,
+        "data_size": 208,
+        "slot_size": 208,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "We[SP]gotta[SP]hurry[SP]and[SP]put[SP]an[SP]end[SP]to[SP]this,\nor[SP]else[SP]everyone[SP]here[SP]is[SP]going[SP]to[SP]turn\ninto[SP]shadowmen!",
+        "nom_fr": "Ginko",
+        "texte_fr": "On doit se dépêcher d'en finir, ou tout\nle monde se transformera en ombres!"
+    },
+    {
+        "id": 5,
+        "offset": 364984,
+        "data_size": 50,
+        "slot_size": 50,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Anna",
+        "texte_orig": "...What[SP]a[SP]fool.",
+        "nom_fr": "Anna",
+        "texte_fr": "... Quel abruti."
+    },
+    {
+        "id": 6,
+        "offset": 365040,
+        "data_size": 140,
+        "slot_size": 140,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Yukino",
+        "texte_orig": "Anna,[SP]is[SP]that[SP]you!?[SP]Hurry[SP]and[SP]get[SP]out!\nIt's[SP]not[SP]safe[SP]here!",
+        "nom_fr": "Yukino",
+        "texte_fr": "Anna, c'est toi!? Fuis\nd'ici vite! C'est dangereux!"
+    },
+    {
+        "id": 7,
+        "offset": 365186,
+        "data_size": 50,
+        "slot_size": 50,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Anna",
+        "texte_orig": "...I[SP]know[SP]that.",
+        "nom_fr": "Anna",
+        "texte_fr": "... Je sais."
+    },
+    {
+        "id": 8,
+        "offset": 365242,
+        "data_size": 158,
+        "slot_size": 158,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Yasuo,[SP]you[SP]smug[SP]prick![SP]What're[SP]you[SP]doing!?\nQuit[SP]it[SP]with[SP]the[SP]skull!",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Yasuo, sale connard! Tu\nfous quoi!? Lâche ce crâne!"
+    },
+    {
+        "id": 9,
+        "offset": 365406,
+        "data_size": 96,
+        "slot_size": 96,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Wait![SP]C'mon,[SP][1113],[SP]let's[SP]go[SP]after[SP]him!",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Attends! Viens [1113], on le chope!"
+    },
+    {
+        "id": 10,
+        "offset": 365508,
+        "data_size": 178,
+        "slot_size": 178,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Grazie,[SP][1113]-kun![SP]If[SP]I'd[SP]kept[SP]that[SP]mask\non,[SP]I'd[SP]be[SP]in[SP]the[SP]same[SP]boat[SP]as[SP]these[SP]kids!",
+        "nom_fr": "Maya",
+        "texte_fr": "Merci, [1113]! Avec ce masque, je serais\ndans le même état que ces gens!"
+    },
+    {
+        "id": 11,
+        "offset": 365692,
+        "data_size": 264,
+        "slot_size": 264,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "I[SP]can't[SP]believe[SP]he's[SP]turning[SP]the[SP]whole[SP]school\ninto[SP]shadowmen...[1205][001E][SP]What[SP]is[SP]he[SP]thinking!?\nHe's[SP]done[SP]it[SP]for[SP]the[SP]last[SP]time!",
+        "nom_fr": "Eikichi",
+        "texte_fr": "J'arrive pas à croire qu'il veuille\ntransformer tous les élèves en ombres...[1205][001E] Cette\nfois il dépasse les bornes!"
+    },
+    {
+        "id": 12,
+        "offset": 365962,
+        "data_size": 264,
+        "slot_size": 264,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "I[SP]couldn't[SP]really[SP]see[SP]too[SP]clearly,[SP]but\nEikichi's[SP]right.[SP]Didn't[SP]that[SP]skull[SP]Yasuo\nhad[SP]seem[SP]like[SP]the[SP]same[SP]one[SP]we[SP]saw[SP]before?",
+        "nom_fr": "Ginko",
+        "texte_fr": "Je n'ai pas très bien vu, mais il\na raison. Le crâne que Yasuo avait,\nc'était pas le même que la dernière fois?"
+    },
+    {
+        "id": 13,
+        "offset": 366232,
+        "data_size": 196,
+        "slot_size": 196,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Yukino",
+        "texte_orig": "What[SP]was[SP]Anna[SP]doing[SP]here?[SP]And[SP]that[SP]feeling\nI[SP]had[SP]a[SP]moment[SP]ago...[1205][001E][SP]Nah,[SP]it[SP]can't[SP]be...",
+        "nom_fr": "Yukino",
+        "texte_fr": "Que faisait Anna ici? Et cette sensation\ntout à l'heure...[1205][001E] Non, impossible..."
+    },
+    {
+        "id": 14,
+        "offset": 366434,
+        "data_size": 222,
+        "slot_size": 222,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Cuss[SP]High[SP]shadowman",
+        "texte_orig": "I[SP]was[SP]gonna[SP]hook[SP]up[SP]with[SP]a[SP]cute[SP]girl[SP]at[SP]this\nmasquerade...[SP]But[SP]I[SP]don't[SP]care[SP]anymore...",
+        "nom_fr": "Ombre Kasugayama",
+        "texte_fr": "J'allais conclure avec une fille\nmignonne... Mais je m'en fiche maintenant..."
+    },
+    {
+        "id": 15,
+        "offset": 366662,
+        "data_size": 78,
+        "slot_size": 78,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Cuss[SP]High[SP]shadowman",
+        "texte_orig": "Aah...[SP]Unnh...",
+        "nom_fr": "Ombre Kasugayama",
+        "texte_fr": "Aah... Unh..."
+    },
+    {
+        "id": 16,
+        "offset": 366746,
+        "data_size": 226,
+        "slot_size": 226,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Cuss[SP]High[SP]student",
+        "texte_orig": "I[SP]thought[SP]there[SP]was[SP]a[SP]girl[SP]here[SP]a[SP]moment[SP]ago\nI[SP]was[SP]dancing[SP]with...[SP]Was[SP]I[SP]imagining[SP]things?",
+        "nom_fr": "Élève de Kasu",
+        "texte_fr": "Je croyais danser avec une fille ici\ntout à l'heure... Ai-je halluciné?"
+    },
+    {
+        "id": 17,
+        "offset": 366978,
+        "data_size": 204,
+        "slot_size": 204,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Cuss[SP]High[SP]student",
+        "texte_orig": "*pant*[SP]*pant*[SP]Th-This[SP]is[SP]so[SP]much[SP]fun...\nBut...[SP]*pant*[SP]Wh-Why[SP]am[SP]I[SP]so[SP]exhausted?",
+        "nom_fr": "Élève de Kasu",
+        "texte_fr": "*halète* C'est si drôle... Mais...\n*halète* Pourquoi suis-je si fatigué?"
+    },
+    {
+        "id": 18,
+        "offset": 367188,
+        "data_size": 280,
+        "slot_size": 280,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "St.[SP]Hermelin[SP]student",
+        "texte_orig": "A[SP]cool[SP]Cuss[SP]High[SP]student[SP]was[SP]just[SP]hitting\non[SP]me![SP]But[SP]he[SP]was[SP]gone[SP]when[SP]I[SP]looked[SP]back...[1205][001E]\nHey,[SP]was[SP]it[SP]all[SP]a[SP]dream!?",
+        "nom_fr": "Élève de St. Hermelin",
+        "texte_fr": "Un gars super cool de Kasugayama me\ndraguait! Mais il a disparu en un\ninstant...[1205][001E] Est-ce que j'aurais rêvé?"
+    },
+    {
+        "id": 19,
+        "offset": 367474,
+        "data_size": 212,
+        "slot_size": 212,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "St.[SP]Hermelin[SP]shadowman",
+        "texte_orig": "I[SP]feel[SP]real[SP]tired[SP]for[SP]some[SP]reason...\nBut[SP]going[SP]home[SP]would[SP]be[SP]so[SP]much[SP]effort...",
+        "nom_fr": "Ombre St. Hermelin",
+        "texte_fr": "Je me sens si épuisé... Mais rentrer\nchez moi demande trop d'efforts..."
+    },
+    {
+        "id": 20,
+        "offset": 367692,
+        "data_size": 250,
+        "slot_size": 250,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Karukozaka[SP]student",
+        "texte_orig": "Hey,[SP]doesn't[SP]this[SP]place[SP]seem[SP]a[SP]lot[SP]less\ncrowded[SP]all[SP]of[SP]a[SP]sudden?[SP]Don't[SP]tell[SP]me[SP]it's\nover[SP]already...!?",
+        "nom_fr": "Élève de Karukozaka",
+        "texte_fr": "Hé, tu trouves pas que c'est moins\npeuplé ici d'un coup? La fête\nest pas déjà finie j'espère!?"
+    },
+    {
+        "id": 21,
+        "offset": 367948,
+        "data_size": 80,
+        "slot_size": 80,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Karukozaka[SP]shadowman",
+        "texte_orig": "Ohh...[SP]Aahh...",
+        "nom_fr": "Ombre Karukozaka",
+        "texte_fr": "Ohh... Aahh..."
+    },
+    {
+        "id": 22,
+        "offset": 368034,
+        "data_size": 206,
+        "slot_size": 206,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Young[SP]female[SP]shadowman",
+        "texte_orig": "I'm[SP]a[SP]good[SP]dancer...[SP]But[SP]my[SP]strength[SP]is\nfading...[SP]Doesn't[SP]matter,[SP]though...",
+        "nom_fr": "Ombre jeune fille",
+        "texte_fr": "Je danse bien... Mais mes forces\nm'abandonnent... Peu importe..."
+    },
+    {
+        "id": 23,
+        "offset": 368246,
+        "data_size": 278,
+        "slot_size": 278,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Sevens[SP]shadowman",
+        "texte_orig": "The[SP]emblem[SP]curse[SP]has[SP]been[SP]lifted...\nEverything'll[SP]be[SP]A-OK[SP]once[SP]I[SP]get[SP]a[SP]Cuss\nHigh[SP]boyfriend...[SP]But[SP]I[SP]don't[SP]care[SP]now...",
+        "nom_fr": "Ombre Seven",
+        "texte_fr": "La malédiction est levée... J'irai\nbien si j'ai un copain de Kasugayama...\nMais maintenant je m'en fiche..."
+    },
+    {
+        "id": 24,
+        "offset": 368530,
+        "data_size": 78,
+        "slot_size": 78,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Sevens[SP]shadowman",
+        "texte_orig": "...Gah...[SP]Gwuh...",
+        "nom_fr": "Ombre Seven",
+        "texte_fr": "...Ah... Eugh..."
+    }
 ]
