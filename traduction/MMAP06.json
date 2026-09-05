@@ -792,7 +792,7 @@
         "nom_orig": "Boy[121D][0001]",
         "texte_orig": "But[SP]what's[SP]uh-nye-a-lated[SP]mean?",
         "nom_fr": "Garçon",
-        "texte_fr": "La Sorcière du Buffet, c'est le monstre\ndont mon pote Chii parlait ?[1106] Donc il ne mentait pas en disant l'avoir\nvue à l'usine !"
+        "texte_fr": "La Sorcière du Buffet, c'est le monstre dont\nmon pote Chii parlait ?[1106] Donc il ne mentait pas en disant l'avoir\nvue à l'usine !"
     },
     {
         "id": 53,
@@ -1047,7 +1047,7 @@
         "nom_orig": "Boy",
         "texte_orig": "Um,[SP]I[SP]heard[SP]Jumping[SP]Geezer[SP]is[SP]at\nMt.[SP]Katatsumuri.",
         "nom_fr": "Garçon",
-        "texte_fr": "Le Sauteur Vieux est au mont Katatsumuri. Le\nSauteur Vieux, un type qui te court après\net te piétine la tête."
+        "texte_fr": "Le Sauteur Vieux est au mont Katatsumuri. Le\nSauteur Vieux, un type qui te court après et\nte piétine la tête."
     },
     {
         "id": 70,
@@ -1122,7 +1122,7 @@
         "nom_orig": "Boy",
         "texte_orig": "I[SP]wonder[SP]if[SP]Dresser[SP]Hag[SP]is[SP]the[SP]monster[SP]my\nfriend[SP]Chii[SP]was[SP]talking[SP]about.",
         "nom_fr": "Garçon",
-        "texte_fr": "La Sorcière du Buffet, c'est le monstre\ndont mon pote Chii parlait ? Donc il ne\nmentait pas en disant l'avoir vue à l'usine\n!"
+        "texte_fr": "La Sorcière du Buffet, c'est le monstre dont\nmon pote Chii parlait ? Donc il ne mentait\npas en disant l'avoir vue à l'usine !"
     },
     {
         "id": 75,
@@ -2562,7 +2562,7 @@
         "nom_orig": "Old[SP]man",
         "texte_orig": "The[SP]people[SP]in[SP]this[SP]city[SP]are[SP]appalling.[1205][000A][SP]They\nknow[SP]they're[SP]safe,[SP]so[SP]they're[SP]imagining[SP]what\nmight[SP]destroy[SP]the[SP]Earth[SP]below.",
         "nom_fr": "Vieil homme",
-        "texte_fr": "Les gens sont épouvantables.   En sécurité,\nils imaginent la destruction de la Terre. À\nquoi bon si des gens comme eux évoluent ?\nJe n'ai pas beaucoup d'espoir..."
+        "texte_fr": "Les gens sont épouvantables.   En sécurité,\nils imaginent la destruction de la Terre. À\nquoi bon si des gens comme eux évoluent ? Je\nn'ai pas beaucoup d'espoir..."
     },
     {
         "id": 171,
@@ -3657,7 +3657,7 @@
         "nom_orig": "Old[SP]man",
         "texte_orig": "Lately,[SP]the[SP]magazines[SP]have[SP]been[SP]giving[SP]out\nreal[SP]weapons[SP]and[SP]items[SP]in[SP]contests.[SP]They're\neasy[SP]to[SP]win,[SP]but[SP]why[SP]would[SP]you[SP]want[SP]to?",
         "nom_fr": "Vieil homme",
-        "texte_fr": "Concours de magazines faciles à gagner,\nmais pourquoi voudrais-tu ?"
+        "texte_fr": "Concours de magazines faciles à gagner, mais\npourquoi voudrais-tu ?"
     },
     {
         "id": 244,
@@ -3912,7 +3912,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "I[SP]know[SP]you're[SP]worried[SP]about[SP]your[SP]school,[SP]but[SP]I\ndon't[SP]think[SP]they'll[SP]strike[SP]here.[SP]We[SP]don't[SP]have\nmuch[SP]time,[SP]man.[SP]Let's[SP]go.",
         "nom_fr": "Michel",
-        "texte_fr": "Je sais que tu t'inquiètes, mais pas ici.\nOn a peu de temps. Allons-y."
+        "texte_fr": "Je sais que tu t'inquiètes, mais pas ici. On\na peu de temps. Allons-y."
     },
     {
         "id": 261,

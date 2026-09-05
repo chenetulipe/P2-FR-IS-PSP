@@ -327,7 +327,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Sure,[SP]it[SP]had[SP]been[SP]a[SP]while,[SP]but[SP]wasn't[SP]she\nhis[SP]first[SP]love?[1205][000F][SP]Is[SP]it[SP]that[SP]easy[SP]to[SP]forget\nsomeone's[SP]face?",
         "nom_fr": "Maya",
-        "texte_fr": "Certes, ça faisait longtemps, mais c'était\nson premier [1205][000F]premier amour. Oublie-t-on\nun visage si vite?"
+        "texte_fr": "Certes, ça faisait longtemps, mais c'était\nson premier [1205][000F]premier amour. Oublie-t-on un\nvisage si vite?"
     },
     {
         "id": 22,
@@ -1500,7 +1500,7 @@
         "nom_orig": "Bro",
         "texte_orig": "Yikes![SP]C'mon,[SP]dude.[SP]You[SP]don't[SP]have[SP]enough[SP]money.[1205][000F]\nI[SP]can't[SP]let[SP]you[SP]use[SP]the[SP]tanning[SP]beds[SP]like[SP]this.",
         "nom_fr": "Mec",
-        "texte_fr": "Ouille! Mec, t'as pas assez d'argent. [1205][000F] Je\npeux pas [1205][0F]pas te laisser les lits de\nbronzage comme ça."
+        "texte_fr": "Ouille! Mec, t'as pas assez d'argent. [1205][000F] Je\npeux pas [1205][0F]pas te laisser les lits de bronzage\ncomme ça."
     },
     {
         "id": 96,

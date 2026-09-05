@@ -222,7 +222,7 @@
         "nom_orig": "Jun",
         "texte_orig": "There's[SP]a[SP]line[SP]in[SP]the[SP]Oracle[SP]about[SP]the[SP]star\ncoming[SP]to[SP]a[SP]halt...[1205][000F][SP]I[SP]think[SP]that's[SP]why[SP]all[SP]the\ndifferent[SP]rumors[SP]were[SP]whittled[SP]down[SP]to[SP]one.",
         "nom_fr": "Jun",
-        "texte_fr": "L'oracle parle d'une étoile qui\ns'arrêtera... Je [1205][205]Je pense que c'est pour\nça que toutes les rumeurs se sont réduit à\nune seule."
+        "texte_fr": "L'oracle parle d'une étoile qui\ns'arrêtera... Je [1205][205]Je pense que c'est pour ça\nque toutes les rumeurs se sont réduit à une\nseule."
     },
     {
         "id": 15,
@@ -1971,7 +1971,7 @@
         "nom_orig": "Spiteful[SP]man",
         "texte_orig": "I[SP]told[SP]him[SP]no[SP]one[SP]knows[SP]what[SP]it's[SP]actually\nabout,[SP]it's[SP]just[SP]really[SP]creepy.[1205][000F][SP]It's[SP]scarier\nif[SP]you[SP]put[SP]it[SP]that[SP]way,[SP]right?",
         "nom_fr": "Homme malveillant",
-        "texte_fr": "Je lui ai dit que personne sait ce que\nc'est. Dit [1205][05]Dit comme ca, Ca fait encore\nplus peur non?"
+        "texte_fr": "Je lui ai dit que personne sait ce que\nc'est. Dit [1205][05]Dit comme ca, Ca fait encore plus\npeur non?"
     },
     {
         "id": 124,
