@@ -12,7 +12,7 @@
     "nom_orig": "Katsuya",
     "texte_orig": "*sigh*[1205][001E][SP]I[SP]can't[SP]enjoy[SP]the[SP]festival[SP]at[SP]my[SP]own\npace[SP]with[SP]you[SP]around.[SP]My[SP]allowance[SP]is\ndraining[SP]fast,[SP]too...",
     "nom_fr": "Katsuya",
-    "texte_fr": "*soupir*[1205][001E] J'peux pas profiter du\nfestival à mon rythme avec toi.\nMon argent part vite lui aussi..."
+    "texte_fr": "*soupir*[1205][001E] J'peux pas profiter du festival à\nmon rythme avec toi. Mon argent part vite\nlui aussi..."
   },
   {
     "id": 1,
@@ -72,7 +72,7 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "Papa[SP]and[SP]Mama[SP]were[SP]fighting[SP]today,[SP]too...[1205][001E]\nAnd[SP]they[SP]promised[SP]they'd[SP]go[SP]to[SP]the[SP]festival\nwith[SP]me.[1205][001E][SP]Why[SP]are[SP]grown-ups[SP]always[SP]so[SP]mad?",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Papa et Maman se disputaient encore...[1205][001E] Ils avaient promis de venir au festival\navec moi.[1205][001E] Pourquoi ils s'énervent autant?"
+    "texte_fr": "Papa et Maman se disputaient encore...[1205][001E] Ils\navaient promis de venir au festival avec\nmoi.[1205][001E] Pourquoi ils s'énervent autant?"
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "nom_orig": "Man's[SP]voice",
     "texte_orig": "Aaargh![SP]Will[SP]you[SP]shut[SP]up,[SP]Eikichi!?\nI[SP]bought[SP]you[SP]a[SP]mask[SP]already!",
     "nom_fr": "Voix d'homme",
-    "texte_fr": "Aaargh! La ferme, Eikichi!?\nJe t'ai déjà acheté un masque!"
+    "texte_fr": "Aaargh! La ferme, Eikichi!? Je t'ai déjà\nacheté un masque!"
   },
   {
     "id": 7,
@@ -147,7 +147,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "*sniffle*[1205][001E][SP]*sob*[1205][001E][SP]Y-Yeah...",
     "nom_fr": "Eikichi",
-    "texte_fr": "*snif*[1205][001E] O-Ouais...[1205][001E] "
+    "texte_fr": "*snif*[1205][001E] O-Ouais...[1205][001E]"
   },
   {
     "id": 10,
@@ -222,7 +222,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "M-My[SP]dad's[SP]r-really[SP]scary...[1205][001E][SP]H-He's[SP]like,\neighteenth[SP]rank[SP]in[SP]k-k-karate[SP]and[SP]judo...",
     "nom_fr": "Eikichi",
-    "texte_fr": "M-Mon père fait super peur...[1205][001E] I-Il\nest 18ème dan de k-karaté et judo..."
+    "texte_fr": "M-Mon père fait super peur...[1205][001E] I-Il est 18ème\ndan de k-karaté et judo..."
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "My[SP]Papa's[SP]nice[SP]to[SP]me.[SP]He[SP]reads[SP]books[SP]to[SP]me\nand[SP]shows[SP]me[SP]the[SP]stars.[1205][001E][SP]But[SP]he[SP]doesn't[SP]get\nalong[SP]with[SP]Mama...",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Mon Papa est gentil. Il me lit des\nlivres et me montre les étoiles.[1205][001E]\nMais il s'entend pas avec Maman..."
+    "texte_fr": "Mon Papa est gentil. Il me lit des livres et\nme montre les étoiles.[1205][001E] Mais il s'entend pas\navec Maman..."
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "Ah![SP]Look,[SP]Lisa.[SP]There[SP]are[SP]children[SP]here[SP]with\nthe[SP]same[SP]masks[SP]as[SP]yours.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Ah! Regarde, Lisa. Y a des enfants\navec le même masque que toi ici."
+    "texte_fr": "Ah! Regarde, Lisa. Y a des enfants avec le\nmême masque que toi ici."
   },
   {
     "id": 17,
@@ -282,7 +282,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "Go[SP]on,[SP]it's[SP]all[SP]right.[SP]Those[SP]kids[SP]won't\ntease[SP]you[SP]just[SP]because[SP]you[SP]have[SP]blonde[SP]hair.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Vas-y, t'en fais pas. Ces enfants ne\nse moqueront pas de tes cheveux blonds."
+    "texte_fr": "Vas-y, t'en fais pas. Ces enfants ne se\nmoqueront pas de tes cheveux blonds."
   },
   {
     "id": 19,
@@ -312,7 +312,7 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "A[SP]justice[SP]hero[SP]would[SP]never[SP]pick[SP]on[SP]anyone!\nCome[SP]on!",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Un héros de la justice\nn'embête personne! Allez viens!"
+    "texte_fr": "Un héros de la justice n'embête personne!\nAllez viens!"
   },
   {
     "id": 21,
@@ -342,7 +342,7 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "Hahahaha![SP]Oh[SP]man,[SP]what're[SP]we[SP]gonna[SP]do[SP]with\nyou,[SP]Yellow?",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Hahahaha! Mais qu'est-ce\nqu'on va faire de toi, Jaune?"
+    "texte_fr": "Hahahaha! Mais qu'est-ce qu'on va faire de\ntoi, Jaune?"
   },
   {
     "id": 23,
@@ -357,7 +357,7 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "Whew...[SP]I'm[SP]tired...[1205][001E][SP]I[SP]haven't[SP]laughed[SP]this\nmuch[SP]in[SP]a[SP]while...",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Ouf... J'suis fatigué...[1205][001E] J'avais\npas autant ri depuis un bail..."
+    "texte_fr": "Ouf... J'suis fatigué...[1205][001E] J'avais pas autant\nri depuis un bail..."
   },
   {
     "id": 24,
@@ -387,7 +387,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Of[SP]c-course![SP]W-We'll[SP]always[SP]be[SP]p-p-pals!\nR-Right!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "B-Bien sûr! O-On restera\nc-copains! P-Pas vrai!?"
+    "texte_fr": "B-Bien sûr! O-On restera c-copains! P-Pas\nvrai!?"
   },
   {
     "id": 26,
@@ -432,7 +432,7 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "It'll[SP]be[SP]just[SP]between[SP]us.[SP]We'll[SP]be[SP]secret\nfriends[SP]who[SP]never[SP]take[SP]off[SP]their[SP]masks\nwhen[SP]they[SP]meet!",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Ça reste entre nous. On sera des\namis secrets qui n'enlèvent jamais\nle masque quand ils se voient!"
+    "texte_fr": "Ça reste entre nous. On sera des amis\nsecrets qui n'enlèvent jamais le masque\nquand ils se voient!"
   },
   {
     "id": 29,
@@ -447,6 +447,6 @@
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "Hmm...[1205]<[SP]The[SP]Masked[SP]Circle![SP]From[SP]now[SP]on,[SP]we're\nthe[SP]members[SP]of[SP]the[SP]Masked[SP]Circle!",
     "nom_fr": "Garçon masqué",
-    "texte_fr": "Hmm...[1205] Le Cercle Masqué ! Désormais,\nrépandons les rumeurs pour les\nfaire revenir à la réalité."
+    "texte_fr": "Hmm...[1205] Le Cercle Masqué ! Désormais,\nrépandons les rumeurs pour les faire revenir\nà la réalité."
   }
 ]

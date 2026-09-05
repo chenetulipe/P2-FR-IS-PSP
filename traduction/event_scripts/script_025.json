@@ -12,7 +12,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wow![SP]Looks[SP]like[SP]the[SP]party's[SP]in[SP]full[SP]swing.\nThis[SP]seems[SP]pretty[SP]upscale[SP]for[SP]a[SP]high[SP]school\nfestival.",
     "nom_fr": "Maya",
-    "texte_fr": "Woah! La fête bat son plein à ce\nque je vois. Ça a l'air luxueux\npour un festival de lycée."
+    "texte_fr": "Woah! La fête bat son plein à ce que je\nvois. Ça a l'air luxueux pour un festival de\nlycée."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]the[SP]hell[SP]is[SP]Yasuo[SP]doing!?[SP]Isn't[SP]that\nthe[SP]same[SP]kinda[SP]skull[SP]Joker[SP]had!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Que fout Yasuo bordel!? Ce crâne\nressemble à celui de Joker!?"
+    "texte_fr": "Que fout Yasuo bordel!? Ce crâne ressemble à\ncelui de Joker!?"
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We[SP]gotta[SP]hurry[SP]and[SP]put[SP]an[SP]end[SP]to[SP]this,\nor[SP]else[SP]everyone[SP]here[SP]is[SP]going[SP]to[SP]turn\ninto[SP]shadowmen!",
     "nom_fr": "Ginko",
-    "texte_fr": "On doit se dépêcher d'en finir, ou tout\nle monde se transformera en ombres!"
+    "texte_fr": "On doit se dépêcher d'en finir, ou tout le\nmonde se transformera en ombres!"
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Anna,[SP]is[SP]that[SP]you!?[SP]Hurry[SP]and[SP]get[SP]out!\nIt's[SP]not[SP]safe[SP]here!",
     "nom_fr": "Yukino",
-    "texte_fr": "Anna, c'est toi!? Fuis\nd'ici vite! C'est dangereux!"
+    "texte_fr": "Anna, c'est toi!? Fuis d'ici vite! C'est\ndangereux!"
   },
   {
     "id": 7,
@@ -132,7 +132,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yasuo,[SP]you[SP]smug[SP]prick![SP]What're[SP]you[SP]doing!?\nQuit[SP]it[SP]with[SP]the[SP]skull!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Yasuo, sale connard! Tu\nfous quoi!? Lâche ce crâne!"
+    "texte_fr": "Yasuo, sale connard! Tu fous quoi!? Lâche ce\ncrâne!"
   },
   {
     "id": 9,
@@ -162,7 +162,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Grazie,[SP][1113]-kun![SP]If[SP]I'd[SP]kept[SP]that[SP]mask\non,[SP]I'd[SP]be[SP]in[SP]the[SP]same[SP]boat[SP]as[SP]these[SP]kids!",
     "nom_fr": "Maya",
-    "texte_fr": "Merci, [1113]! Avec ce masque, je serais\ndans le même état que ces gens!"
+    "texte_fr": "Merci, [1113]! Avec ce masque, je serais dans le\nmême état que ces gens!"
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]believe[SP]he's[SP]turning[SP]the[SP]whole[SP]school\ninto[SP]shadowmen...[1205][001E][SP]What[SP]is[SP]he[SP]thinking!?\nHe's[SP]done[SP]it[SP]for[SP]the[SP]last[SP]time!",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'arrive pas à croire qu'il veuille\ntransformer tous les élèves en ombres...[1205][001E] Cette fois il dépasse les bornes!"
+    "texte_fr": "J'arrive pas à croire qu'il veuille\ntransformer tous les élèves en ombres...[1205][001E]\nCette fois il dépasse les bornes!"
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]couldn't[SP]really[SP]see[SP]too[SP]clearly,[SP]but\nEikichi's[SP]right.[SP]Didn't[SP]that[SP]skull[SP]Yasuo\nhad[SP]seem[SP]like[SP]the[SP]same[SP]one[SP]we[SP]saw[SP]before?",
     "nom_fr": "Ginko",
-    "texte_fr": "Je n'ai pas très bien vu, mais il\na raison. Le crâne que Yasuo avait,\nc'était pas le même que la dernière fois?"
+    "texte_fr": "Je n'ai pas très bien vu, mais il a raison.\nLe crâne que Yasuo avait, c'était pas le\nmême que la dernière fois?"
   },
   {
     "id": 13,
@@ -222,7 +222,7 @@
     "nom_orig": "Cuss[SP]High[SP]shadowman",
     "texte_orig": "I[SP]was[SP]gonna[SP]hook[SP]up[SP]with[SP]a[SP]cute[SP]girl[SP]at[SP]this\nmasquerade...[SP]But[SP]I[SP]don't[SP]care[SP]anymore...",
     "nom_fr": "Ombre Kasugayama",
-    "texte_fr": "J'allais conclure avec une fille\nmignonne... Mais je m'en fiche maintenant..."
+    "texte_fr": "J'allais conclure avec une fille mignonne...\nMais je m'en fiche maintenant..."
   },
   {
     "id": 15,
@@ -252,7 +252,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "I[SP]thought[SP]there[SP]was[SP]a[SP]girl[SP]here[SP]a[SP]moment[SP]ago\nI[SP]was[SP]dancing[SP]with...[SP]Was[SP]I[SP]imagining[SP]things?",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Je croyais danser avec une fille ici\ntout à l'heure... Ai-je halluciné?"
+    "texte_fr": "Je croyais danser avec une fille ici tout à\nl'heure... Ai-je halluciné?"
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "*pant*[SP]*pant*[SP]Th-This[SP]is[SP]so[SP]much[SP]fun...\nBut...[SP]*pant*[SP]Wh-Why[SP]am[SP]I[SP]so[SP]exhausted?",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "*halète* C'est si drôle... Mais...\n*halète* Pourquoi suis-je si fatigué?"
+    "texte_fr": "*halète* C'est si drôle... Mais... *halète*\nPourquoi suis-je si fatigué?"
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "St.[SP]Hermelin[SP]student",
     "texte_orig": "A[SP]cool[SP]Cuss[SP]High[SP]student[SP]was[SP]just[SP]hitting\non[SP]me![SP]But[SP]he[SP]was[SP]gone[SP]when[SP]I[SP]looked[SP]back...[1205][001E]\nHey,[SP]was[SP]it[SP]all[SP]a[SP]dream!?",
     "nom_fr": "Élève de St. Hermelin",
-    "texte_fr": "Un gars super cool de Kasugayama me\ndraguait! Mais il a disparu en un\ninstant...[1205][001E] Est-ce que j'aurais rêvé?"
+    "texte_fr": "Un gars super cool de Kasugayama me\ndraguait! Mais il a disparu en un instant...[1205][001E]\nEst-ce que j'aurais rêvé?"
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
     "nom_orig": "St.[SP]Hermelin[SP]shadowman",
     "texte_orig": "I[SP]feel[SP]real[SP]tired[SP]for[SP]some[SP]reason...\nBut[SP]going[SP]home[SP]would[SP]be[SP]so[SP]much[SP]effort...",
     "nom_fr": "Ombre St. Hermelin",
-    "texte_fr": "Je me sens si épuisé... Mais rentrer\nchez moi demande trop d'efforts..."
+    "texte_fr": "Je me sens si épuisé... Mais rentrer chez\nmoi demande trop d'efforts..."
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
     "nom_orig": "Karukozaka[SP]student",
     "texte_orig": "Hey,[SP]doesn't[SP]this[SP]place[SP]seem[SP]a[SP]lot[SP]less\ncrowded[SP]all[SP]of[SP]a[SP]sudden?[SP]Don't[SP]tell[SP]me[SP]it's\nover[SP]already...!?",
     "nom_fr": "Élève de Karukozaka",
-    "texte_fr": "Hé, tu trouves pas que c'est moins\npeuplé ici d'un coup? La fête\nest pas déjà finie j'espère!?"
+    "texte_fr": "Hé, tu trouves pas que c'est moins peuplé\nici d'un coup? La fête est pas déjà finie\nj'espère!?"
   },
   {
     "id": 21,
@@ -357,7 +357,7 @@
     "nom_orig": "Sevens[SP]shadowman",
     "texte_orig": "The[SP]emblem[SP]curse[SP]has[SP]been[SP]lifted...\nEverything'll[SP]be[SP]A-OK[SP]once[SP]I[SP]get[SP]a[SP]Cuss\nHigh[SP]boyfriend...[SP]But[SP]I[SP]don't[SP]care[SP]now...",
     "nom_fr": "Ombre Seven",
-    "texte_fr": "La malédiction est levée... J'irai\nbien si j'ai un copain de Kasugayama...\nMais maintenant je m'en fiche..."
+    "texte_fr": "La malédiction est levée... J'irai bien si\nj'ai un copain de Kasugayama... Mais\nmaintenant je m'en fiche..."
   },
   {
     "id": 24,

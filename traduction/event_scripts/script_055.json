@@ -12,7 +12,7 @@
     "nom_orig": "???",
     "texte_orig": "Ciaaaao,[SP]Ma-ya![SP]What's[SP]with[SP]the[SP]high[SP]school\nentourage?[SP]They[SP]don't[SP]look[SP]like[SP]they're[SP]here\nto[SP]box.",
     "nom_fr": "???",
-    "texte_fr": "Ciaaaao, Ma-ya! C'est quoi cette\nescorte de lycéens? Ils ont\npas l'air d'être là pour boxer."
+    "texte_fr": "Ciaaaao, Ma-ya! C'est quoi cette escorte de\nlycéens? Ils ont pas l'air d'être là pour\nboxer."
   },
   {
     "id": 1,
@@ -57,7 +57,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't[SP]blame[SP]you[SP]for[SP]being[SP]skeptical,[SP]but\nit's[SP]true![SP]There's[SP]no[SP]time![SP]Hurry[SP]and[SP]get\nout[SP]of[SP]the[SP]gym!",
     "nom_fr": "Maya",
-    "texte_fr": "Je te reproche pas d'être sceptique,\nmais c'est vrai! On n'a plus le\ntemps! Sors vite de la salle!"
+    "texte_fr": "Je te reproche pas d'être sceptique, mais\nc'est vrai! On n'a plus le temps! Sors vite\nde la salle!"
   },
   {
     "id": 4,
@@ -117,7 +117,7 @@
     "nom_orig": "Ulala",
     "texte_orig": "You[SP]weren't[SP]kidding[SP]about[SP]the[SP]bomb[SP]thing!?\nTell[SP]me[SP]again[SP]what's[SP]going[SP]on,[SP]Ma-ya!?",
     "nom_fr": "Ulala",
-    "texte_fr": "Tu plaisantais pas pour la bombe!?\nRedis-moi ce qui se passe, Ma-ya!?"
+    "texte_fr": "Tu plaisantais pas pour la bombe!? Redis-moi\nce qui se passe, Ma-ya!?"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Like[SP]I[SP]said,[SP]there's[SP]no[SP]time![SP]All[SP]I[SP]can[SP]say\nfor[SP]sure[SP]is[SP]that[SP]this[SP]organization[SP]called[SP]the\nMasked[SP]Circle[SP]set[SP]them!",
     "nom_fr": "Maya",
-    "texte_fr": "On a pas le temps! Tout ce que\nje sais, c'est que l'organisation\ndu Cercle masqué les a posées!"
+    "texte_fr": "On a pas le temps! Tout ce que je sais,\nc'est que l'organisation du Cercle masqué\nles a posées!"
   },
   {
     "id": 9,
@@ -162,7 +162,7 @@
     "nom_orig": "Ulala",
     "texte_orig": "That,[SP]I've[SP]heard[SP]of...[SP]Makimura[SP]used[SP]to\ntalk[SP]about[SP]them[SP]all[SP]the[SP]time.[1205][001E][SP]Let[SP]me[SP]guess,\nhe's[SP]out[SP]for[SP]my[SP]blood[SP]now!?",
     "nom_fr": "Ulala",
-    "texte_fr": "J'en ai entendu parler... Makimura\nen parlait souvent.[1205][001E] Laisse-moi\ndeviner, il veut ma peau!?"
+    "texte_fr": "J'en ai entendu parler... Makimura en\nparlait souvent.[1205][001E] Laisse-moi deviner, il veut\nma peau!?"
   },
   {
     "id": 11,
@@ -192,7 +192,7 @@
     "nom_orig": "Maya",
     "texte_orig": "...There[SP]she[SP]goes.[1205][001E][SP]I[SP]hope[SP]she[SP]remembers[SP]to\nget[SP]out[SP]of[SP]the[SP]gym.",
     "nom_fr": "Maya",
-    "texte_fr": "... Elle est partie.[1205][001E] J'espère\nqu'elle sortira d'ici."
+    "texte_fr": "... Elle est partie.[1205][001E] J'espère qu'elle\nsortira d'ici."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Anyway,[SP]now[SP]that[SP]we[SP]know[SP]this[SP]is[SP]the[SP]next\ntarget,[SP]we[SP]don't[SP]have[SP]a[SP]second[SP]to[SP]lose.\nLet's[SP]find[SP]that[SP]transmitter!",
     "nom_fr": "Maya",
-    "texte_fr": "Bref, puisqu'on sait que c'est\nla cible, pas une seconde à\nperdre. Trouvons ce transmetteur!"
+    "texte_fr": "Bref, puisqu'on sait que c'est la cible, pas\nune seconde à perdre. Trouvons ce\ntransmetteur!"
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Ulala[SP]loses[SP]it[SP]when[SP]it[SP]comes[SP]to[SP]that[SP]guy.\nThough[SP]I[SP]don't[SP]blame[SP]her...[SP]He[SP]was[SP]a[SP]con\nartist,[SP]after[SP]all!",
     "nom_fr": "Maya",
-    "texte_fr": "Ulala perd les pédales quand il\ns'agit de ce type. Je la blâme\npas... C'était un escroc, après tout!"
+    "texte_fr": "Ulala perd les pédales quand il s'agit de ce\ntype. Je la blâme pas... C'était un escroc,\naprès tout!"
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]chica's[SP]strength[SP]was[SP]amazing.\nI[SP]thought[SP]she[SP]was[SP]boxing[SP]to[SP]lose[SP]weight,\nbut[SP]she[SP]was[SP]dead[SP]serious[SP]about[SP]it.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Cette chica est très forte.\nJe croyais qu'elle boxait pour\nmaigrir, mais elle est sérieuse."
+    "texte_fr": "Cette chica est très forte. Je croyais\nqu'elle boxait pour maigrir, mais elle est\nsérieuse."
   },
   {
     "id": 16,
@@ -267,7 +267,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "She[SP]packs[SP]a[SP]punch...[1205][001E][SP]Once[SP]this[SP]business[SP]is\nover,[SP]I'd[SP]like[SP]to[SP]go[SP]a[SP]few[SP]rounds[SP]with[SP]her.",
     "nom_fr": "Yukino",
-    "texte_fr": "Elle a de la poigne...[1205][001E] Après ça,\nj'aimerais faire quelques rounds avec elle."
+    "texte_fr": "Elle a de la poigne...[1205][001E] Après ça, j'aimerais\nfaire quelques rounds avec elle."
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Sakai-kun",
     "texte_orig": "One,[SP]two,[SP]one,[SP]two...[SP]My[SP]goal[1205][000A][SP]is[SP]to[SP]lose[1205][000A]\n60[SP]pounds![SP]I[SP]don't[1205][000A][SP]have[SP]time[1205][000A][SP]to[SP]run!",
     "nom_fr": "Sakai-kun",
-    "texte_fr": "Un, deux... Mon but est de perdre 30kg! Pas le temps de fuir!"
+    "texte_fr": "Un, deux... Mon but est de perdre 30kg! Pas\nle temps de fuir!"
   },
   {
     "id": 19,
@@ -312,7 +312,7 @@
     "nom_orig": "GOLD[SP]staffer",
     "texte_orig": "Even[SP]a[SP]club[SP]like[SP]this[SP]has[SP]become[SP]a[SP]target\nfor[SP]terrorists...[1205][001E][SP]*gasp*[SP]What[SP]am[SP]I[SP]doing\nstanding[SP]here?[SP]I[SP]need[SP]to[SP]evacuate[SP]everyone!",
     "nom_fr": "Staff",
-    "texte_fr": "Même ce club est la cible de terroristes...[1205][001E] *gasp* Je dois évacuer tout le monde!"
+    "texte_fr": "Même ce club est la cible de terroristes...[1205][001E]\n*gasp* Je dois évacuer tout le monde!"
   },
   {
     "id": 21,
@@ -357,6 +357,6 @@
     "nom_orig": "GOLD[SP]staffer",
     "texte_orig": "Even[SP]a[SP]club[SP]like[SP]this[SP]has[SP]become[SP]a[SP]target\nfor[SP]terrorists...[1205][001E][SP]*gasp*[SP]What[SP]am[SP]I[SP]doing\nstanding[SP]here?[SP]I[SP]need[SP]to[SP]evacuate[SP]everyone!",
     "nom_fr": "Staff",
-    "texte_fr": "Même ce club est la cible de terroristes...[1205][001E] *gasp* Je dois évacuer tout le monde!"
+    "texte_fr": "Même ce club est la cible de terroristes...[1205][001E]\n*gasp* Je dois évacuer tout le monde!"
   }
 ]

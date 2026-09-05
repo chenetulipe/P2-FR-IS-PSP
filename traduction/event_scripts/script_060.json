@@ -12,7 +12,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Eikichi's[SP]acting[SP]kinda[SP]funny[SP]over[SP]there...\nIs[SP]he[SP]really[SP]looking[SP]for[SP]the[SP]transmitter?",
     "nom_fr": "Ginko",
-    "texte_fr": "Eikichi agit bizarrement...\nCherche-t-il vraiment le transmetteur?"
+    "texte_fr": "Eikichi agit bizarrement... Cherche-t-il\nvraiment le transmetteur?"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
     "nom_fr": "Ginko",
-    "texte_fr": "Lui aussi est du Cercle Masqué? ... Il\navait l'air cool? Moins que toi, bien sûr, [1113]!"
+    "texte_fr": "Lui aussi est du Cercle Masqué? ... Il avait\nl'air cool? Moins que toi, bien sûr, [1113]!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Th-This[SP]leotard...[1205][001E][SP]How[SP]scandalous...![1205][001E]\nHrrrghhhh...[1205][001E][SP]*gasp*",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ce justaucorps...[1205][001E] C'est\nscandaleux...![1205][001E] Hrrrghhh...[1205][001E] *gasp*"
+    "texte_fr": "Ce justaucorps...[1205][001E] C'est scandaleux...![1205][001E]\nHrrrghhh...[1205][001E] *gasp*"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A-A[SP]man[SP]must[SP]never[SP]touch[SP]clothes[SP]that[SP]a\nlady[SP]has[SP]worn![SP]Never!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Un homme ne touche jamais les\nhabits d'une femme! Jamais!"
+    "texte_fr": "Un homme ne touche jamais les habits d'une\nfemme! Jamais!"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hmm,[SP]no[SP]luck[SP]here[SP]either.[SP]Hey[SP]Yukki,[SP]what\nabout--[1205][001E]Uhh,[SP]I'll[SP]leave[SP]her[SP]to[SP]that...",
     "nom_fr": "Maya",
-    "texte_fr": "Rien ici non plus. Hé Yukki, et\ntoi--[1205][001E]Euh, je vais la laisser faire..."
+    "texte_fr": "Rien ici non plus. Hé Yukki, et toi--[1205][001E]Euh, je\nvais la laisser faire..."
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
     "nom_fr": "Maya",
-    "texte_fr": "Cet homme...[1205][001E] J'ai l'impression\nde l'avoir déjà vu. Suivons-le!"
+    "texte_fr": "Cet homme...[1205][001E] J'ai l'impression de l'avoir\ndéjà vu. Suivons-le!"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]that[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]this[SP]is\nour[SP]chance[SP]to[SP]pump[SP]him[SP]for[SP]information[SP]about\nJoker.[SP]Let's[SP]hunt[SP]him[SP]down.",
     "nom_fr": "Yukino",
-    "texte_fr": "S'il fait partie du Cercle Masqué,\nc'est l'occasion d'avoir des\ninfos sur Joker. Traquons-le."
+    "texte_fr": "S'il fait partie du Cercle Masqué, c'est\nl'occasion d'avoir des infos sur Joker.\nTraquons-le."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "You![SP]God![SP]Damned![SP]Stupid![SP]Son[SP]of[SP]a...!\nWhat[SP]IS[SP]it,[SP][1113]!?[SP]Little[SP]busy[SP]here!",
     "nom_fr": "Yukino",
-    "texte_fr": "Espèce de... Satané imbécile!\nQuoi, [1113]!? Je suis occupée là!"
+    "texte_fr": "Espèce de... Satané imbécile! Quoi, [1113]!? Je\nsuis occupée là!"
   },
   {
     "id": 9,
@@ -147,6 +147,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "You![SP]God![SP]Damned![SP]Stupid![SP]Son[SP]of[SP]a...!\nWhat[SP]IS[SP]it,[SP][1113]!?[SP]Little[SP]busy[SP]here!",
     "nom_fr": "Yukino",
-    "texte_fr": "Espèce de... Satané imbécile!\nQuoi, [1113]!? Je suis occupée là!"
+    "texte_fr": "Espèce de... Satané imbécile! Quoi, [1113]!? Je\nsuis occupée là!"
   }
 ]

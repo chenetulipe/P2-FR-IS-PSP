@@ -12,7 +12,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "What's[SP]up,[SP][1112]?[1205][001E][SP]Looking[SP]for[SP]Ms.[SP]Saeko?\nI[SP]see![SP]I'm[SP]glad[SP]to[SP]hear[SP]it![SP]So[SP]you're[SP]finally\nready[SP]to[SP]do[SP]guidance[SP]counseling!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "Salut, [1112]![1205][001E] Tu cherches Mme. Saeko? T'es\nprêt pour le conseil d'orientation? Enfin!"
+    "texte_fr": "Salut, [1112]![1205][001E] Tu cherches Mme. Saeko? T'es prêt\npour le conseil d'orientation? Enfin!"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "I[SP]see![SP]Ms.[SP]Saeko[SP]seems[SP]to[SP]have[SP]gone[SP]to[SP]the\nfirst[SP]floor.[SP]Now,[SP]this[SP]concerns[SP]your[SP]future,\nso[SP]pay[SP]close[SP]attention![SP]Wahaha![SP]I[SP]see!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "Je vois! Mme. Saeko est au premier\nétage. Ça concerne ton futur, alors\nfais bien attention! Wahaha! Je vois!"
+    "texte_fr": "Je vois! Mme. Saeko est au premier étage. Ça\nconcerne ton futur, alors fais bien\nattention! Wahaha! Je vois!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "I[SP]saw[SP]Ms.[SP]Saeko[SP]in[SP]the[SP]hall[SP]on[SP]this[SP]floor\na[SP]moment[SP]ago.[SP]So[SP]you're[SP]finally[SP]gonna[SP]do\nguidance[SP]counseling,[SP]eh?[SP]I[SP]see![SP]Good[SP]luck!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "J'ai vu Mme. Saeko dans le hall, ici\nil y a un instant. Donc t'es prêt pour\nl'orientation scolaire? Bonne chance!"
+    "texte_fr": "J'ai vu Mme. Saeko dans le hall, ici il y a\nun instant. Donc t'es prêt pour\nl'orientation scolaire? Bonne chance!"
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "Ms.[SP]Saeko[SP]was[SP]looking[SP]for[SP]you[SP]too.[SP]Something\nabout[SP]checking[SP]the[SP]courtyard...[SP]You're[SP]doing\nguidance[SP]counseling[SP]at[SP]last,[SP]huh?[SP]I[SP]see!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "Mme. Saeko te cherchait aussi. Elle\nallait vérifier la cour... Tu fais enfin\nde l'orientation scolaire? Je vois!"
+    "texte_fr": "Mme. Saeko te cherchait aussi. Elle allait\nvérifier la cour... Tu fais enfin de\nl'orientation scolaire? Je vois!"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "Ms.[SP]Saeko[SP]couldn't[SP]track[SP]you[SP]down,[SP]so[SP]she[SP]said\nshe'd[SP]wait[SP]for[SP]you[SP]at[SP]your[SP]motorcycle.[SP]I[SP]see!\nI[SP]hope[SP]her[SP]counseling[SP]is[SP]helpful!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "Mme. Saeko te retrouvait pas, donc je pense\nqu'elle t'attend à ta moto. J'espère que\nses conseils d'orientation sont utiles!"
+    "texte_fr": "Mme. Saeko te retrouvait pas, donc je pense\nqu'elle t'attend à ta moto. J'espère que ses\nconseils d'orientation sont utiles!"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Mr.[SP]Oriri",
     "texte_orig": "Oh,[SP]really?[SP]You[SP]had[SP]this[SP]Joker[SP]smarten[SP]you[SP]up,\nso[SP]it's[SP]not[SP]really[SP]cheating?[SP]Oh,[SP]really...[1205][001E]\nThen[SP]how[SP]did[SP]you[SP]cheat?",
     "nom_fr": "M. Oriri",
-    "texte_fr": "Oh, vraiment? Ce Joker t'as rendu\nfuté, donc t'as pas triché? Oh,\nvraiment...[1205][001E] Bref, comment t'as triché?"
+    "texte_fr": "Oh, vraiment? Ce Joker t'as rendu futé, donc\nt'as pas triché? Oh, vraiment...[1205][001E] Bref,\ncomment t'as triché?"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Ugh![SP]This[SP]is[SP]discrimination![SP]My[SP]grades[SP]were\nlousy[SP]before,[SP]but[SP]this[SP]is[SP]just[SP]unfair!\nThere's[SP]no[SP]way[SP]that[SP]I'd[SP]cheat!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Ugh! C'est de la discrimination! Mes\nnotes étaient déjà nulles avant, mais\nc'est injuste! Je ne tricherais jamais!"
+    "texte_fr": "Ugh! C'est de la discrimination! Mes notes\nétaient déjà nulles avant, mais c'est\ninjuste! Je ne tricherais jamais!"
   },
   {
     "id": 8,
@@ -162,7 +162,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Hah![SP]Here[SP]goes![SP]Pi[SP]attack![1205][001E]\n3.14159265358979323846!\n2643383279502884197169!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Hah! Vas-y! Attaque de pi!\n[1205][001E] 3.14159265358979323846!\n2643383279502884197169!"
+    "texte_fr": "Hah! Vas-y! Attaque de pi! [1205][001E]\n3.14159265358979323846!\n2643383279502884197169!"
   },
   {
     "id": 11,
@@ -192,7 +192,7 @@
     "nom_orig": "Pained[SP]male[SP]student",
     "texte_orig": "0...[SP]08651328230664709!!!!\n384460955058223172!!!!!\n53594081284811174!!!!!",
     "nom_fr": "Lycéen mal en point",
-    "texte_fr": "08651328230664709!!!! 384460955058223172!!!!!\n53594081284811174!!!!!"
+    "texte_fr": "08651328230664709!!!!\n384460955058223172!!!!!\n53594081284811174!!!!!"
   },
   {
     "id": 13,
@@ -222,7 +222,7 @@
     "nom_orig": "Vein-throbbing[SP]male[SP]student",
     "texte_orig": "9...[SP]9644288!!!!!!!!!!\n10197566593344612847!!\n*pant*[SP]*pant*[1205][001E][SP]N-No[SP]more...",
     "nom_fr": "Lycéen exténué",
-    "texte_fr": "9... 9644288!!!!!!!!!! 10197566593344612847!!\n*souffle* *souffle*[1205][001E] J'en peux plus..."
+    "texte_fr": "9... 9644288!!!!!!!!!!\n10197566593344612847!! *souffle* *souffle*[1205][001E]\nJ'en peux plus..."
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Mr.[SP]Oriri",
     "texte_orig": "Oh,[SP]really?[SP]Well,[SP]I'm[SP]an[SP]English[SP]teacher,\nso[SP]I[SP]don't[SP]get[SP]what's[SP]so[SP]impressive[SP]about[SP]it.\nNow[SP]then,[SP]how[SP]did[SP]you[SP]cheat[SP]on[SP]the[SP]test?",
     "nom_fr": "M. Oriri",
-    "texte_fr": "Ah bon? ben, je suis professeur\nd'anglais, donc y'a rien d'impressionnant.\nBref, comment t'as triché?"
+    "texte_fr": "Ah bon? ben, je suis professeur d'anglais,\ndonc y'a rien d'impressionnant. Bref,\ncomment t'as triché?"
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Mr.[SP]Oriri",
     "texte_orig": "Oh,[SP]really?[SP]You[SP]had[SP]this[SP]Joker[SP]smarten[SP]you[SP]up,\nso[SP]it's[SP]not[SP]really[SP]cheating?[SP]Oh,[SP]really...[1205][001E]\nThen[SP]how[SP]did[SP]you[SP]cheat?",
     "nom_fr": "M. Oriri",
-    "texte_fr": "Oh, vraiment? Ce Joker t'as rendu\nfuté, donc t'as pas triché? Oh,\nvraiment...[1205][001E] Bref, comment t'as triché?"
+    "texte_fr": "Oh, vraiment? Ce Joker t'as rendu futé, donc\nt'as pas triché? Oh, vraiment...[1205][001E] Bref,\ncomment t'as triché?"
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Ugh![SP]This[SP]is[SP]discrimination![SP]My[SP]grades[SP]were\nlousy[SP]before,[SP]but[SP]this[SP]is[SP]just[SP]unfair!\nThere's[SP]no[SP]way[SP]that[SP]I'd[SP]cheat!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Ugh! C'est de la discrimination! Mes\nnotes étaient déjà nulles avant, mais\nc'est injuste! Je ne tricherais jamais!"
+    "texte_fr": "Ugh! C'est de la discrimination! Mes notes\nétaient déjà nulles avant, mais c'est\ninjuste! Je ne tricherais jamais!"
   },
   {
     "id": 18,
@@ -312,7 +312,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Hah![SP]Here[SP]goes![SP]Pi[SP]attack![1205][001E]\n3.14159265358979323846!\n2643383279502884197169!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Hah! Vas-y! Attaque de pi!\n[1205][001E] 3.14159265358979323846!\n2643383279502884197169!"
+    "texte_fr": "Hah! Vas-y! Attaque de pi! [1205][001E]\n3.14159265358979323846!\n2643383279502884197169!"
   },
   {
     "id": 21,
@@ -342,7 +342,7 @@
     "nom_orig": "Pained[SP]male[SP]student",
     "texte_orig": "0...[SP]08651328230664709!!!!\n384460955058223172!!!!!\n53594081284811174!!!!!",
     "nom_fr": "Lycéen mal en point",
-    "texte_fr": "08651328230664709!!!! 384460955058223172!!!!!\n53594081284811174!!!!!"
+    "texte_fr": "08651328230664709!!!!\n384460955058223172!!!!!\n53594081284811174!!!!!"
   },
   {
     "id": 23,
@@ -372,7 +372,7 @@
     "nom_orig": "Vein-throbbing[SP]male[SP]student",
     "texte_orig": "9...[SP]9644288!!!!!!!!!!\n10197566593344612847!!\n*pant*[SP]*pant*[1205][001E][SP]N-No[SP]more...",
     "nom_fr": "Lycéen exténué",
-    "texte_fr": "9... 9644288!!!!!!!!!! 10197566593344612847!!\n*souffle* *souffle*[1205][001E] J'en peux plus..."
+    "texte_fr": "9... 9644288!!!!!!!!!!\n10197566593344612847!! *souffle* *souffle*[1205][001E]\nJ'en peux plus..."
   },
   {
     "id": 25,
@@ -387,6 +387,6 @@
     "nom_orig": "Exhausted[SP]male[SP]student",
     "texte_orig": "*pant*[SP]*pant*[1205][001E][SP]That's[SP]Mr.[SP]Oriri,[SP]all[SP]right...\nIt's[SP]like[SP]shouting[SP]at[SP]a[SP]wall![SP]He's[SP]so[SP]tough...[1205][001E]\nHmph,[SP]fine.[SP]Joker[SP]really[SP]does[SP]exist.",
     "nom_fr": "",
-    "texte_fr": "*han* *han*[1205][001E] C'est bien M. Oriri... C'est\ncomme crier contre un mur ! Il est coriace...[1205][001E] Hmpf, bon. Le Joker existe vraiment."
+    "texte_fr": "*han* *han*[1205][001E] C'est bien M. Oriri... C'est\ncomme crier contre un mur ! Il est\ncoriace...[1205][001E] Hmpf, bon. Le Joker existe\nvraiment."
   }
 ]

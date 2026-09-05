@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
     "nom_fr": "Ginko",
-    "texte_fr": "[1113]! On doit se dépêcher de réserver!\nJe veux pas finir en oignons frits!"
+    "texte_fr": "[1113]! On doit se dépêcher de réserver! Je veux\npas finir en oignons frits!"
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Calm[SP]down,[SP]guys![SP]We[SP]need[SP]to[SP]think[SP]of[SP]likely\nhiding[SP]places![SP]Like,[SP]somewhere[SP]that's[SP]crammed\nfull[SP]of[SP]stuff!",
     "nom_fr": "Maya",
-    "texte_fr": "Calmez-vous! On doit penser à\ndes endroits dérobés! Quelque\npart rempli d'objets entassés!"
+    "texte_fr": "Calmez-vous! On doit penser à des endroits\ndérobés! Quelque part rempli d'objets\nentassés!"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]agree![SP]It's[SP]unbecoming[SP]of[SP]a[SP]heroine[SP]to\nmake[SP]a[SP]stopover[SP]before[SP]her[SP]dream[SP]comes[SP]true!",
     "nom_fr": "Maya",
-    "texte_fr": "Je suis d'accord! C'est indigne d'une\nhéroïne d'arrêter avant de réaliser son rêve!"
+    "texte_fr": "Je suis d'accord! C'est indigne d'une\nhéroïne d'arrêter avant de réaliser son\nrêve!"
   },
   {
     "id": 6,
@@ -117,6 +117,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "They're[SP]right![SP]I[SP]can't[SP]die[SP]as[SP]a[SP]mere\napprentice![SP]Plus...[SP]There's[SP]something[SP]I\nhave[SP]to[SP]get[SP]off[SP]my[SP]chest[SP]before[SP]I[SP]go!",
     "nom_fr": "Yukino",
-    "texte_fr": "C'est vrai ! Je peux pas mourir en simple\napprentie ! Et puis... Il y a quelque\nchose que je dois dire avant de partir !"
+    "texte_fr": "C'est vrai ! Je peux pas mourir en simple\napprentie ! Et puis... Il y a quelque chose\nque je dois dire avant de partir !"
   }
 ]

@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]right...[1205][001E][SP]We[SP]came[SP]here[SP]afterwards[SP]and\nhid[SP]our[SP]masks...[1205][001E][SP]And[SP]forgot[SP]all[SP]about[SP]it\never[SP]since...",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est ça...[1205][001E] On est ensuite venu\nici et on a caché nos masques...[1205][001E] Et depuis, on a tout oublié..."
+    "texte_fr": "C'est ça...[1205][001E] On est ensuite venu ici et on a\ncaché nos masques...[1205][001E] Et depuis, on a tout\noublié..."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Maya",
     "texte_orig": "A[SP]secret[SP]hideout[SP]and[SP]masks[SP]as[SP]treasure?[1205][001E]\nHonestly,[SP]it's[SP]like[SP]something[SP]a[SP]child[SP]would\ncome[SP]up[SP]with.",
     "nom_fr": "Maya",
-    "texte_fr": "Une planque secrète et des masques\nen guise de trésor?[1205][001E] Franchement,\non dirait une idée de gosse."
+    "texte_fr": "Une planque secrète et des masques en guise\nde trésor?[1205][001E] Franchement, on dirait une idée\nde gosse."
   },
   {
     "id": 4,
@@ -72,6 +72,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Another[SP]sad[SP]story[SP]about[SP]masks,[SP]huh?[1205][001E][SP]Humans\nseem[SP]doomed[SP]to[SP]suffer[SP]the[SP]same[SP]things[SP]over\nand[SP]over...",
     "nom_fr": "Yukino",
-    "texte_fr": "Encore une histoire triste de masques,\nhein ?[1205][001E] Ces gens souffrent tous."
+    "texte_fr": "Encore une histoire triste de masques, hein\n?[1205][001E] Ces gens souffrent tous."
   }
 ]

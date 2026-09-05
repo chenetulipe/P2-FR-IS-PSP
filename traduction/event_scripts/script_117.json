@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]gotta[SP]get[SP]going![SP]I'm[SP]worried[SP]about\nYukino-san's[SP]friend,[SP]and[SP]we[SP]gotta[SP]stop\nJun[SP]too...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Faut y aller! Je m'inquiète pour l'ami\nde Yukino, et on doit arrêter Jun..."
+    "texte_fr": "Faut y aller! Je m'inquiète pour l'ami de\nYukino, et on doit arrêter Jun..."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]don't[SP]even[SP]care[SP]what[SP]this[SP]Last[SP]Battalion\nthing[SP]is--they[SP]better[SP]not[SP]get[SP]in[SP]the[SP]way[SP]of\nrescuing[SP]Jun![SP]We[SP]gotta[SP]find[SP]him[SP]first!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je me fiche de ce qu'est ce Bataillon--\nils ont pas intérêt à nous empêcher de\nsauver Jun! On doit le trouver en premier!"
+    "texte_fr": "Je me fiche de ce qu'est ce Bataillon-- ils\nont pas intérêt à nous empêcher de sauver\nJun! On doit le trouver en premier!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Focused[SP]manpower[SP]and[SP]speed[SP]is[SP]essential[SP]when\nbreaking[SP]through![SP]Then[SP]again,[SP]there's[SP]only\nfive[SP]of[SP]us...[1205][001E][SP]But[SP]we[SP]still[SP]need[SP]to[SP]hurry!",
     "nom_fr": "Maya",
-    "texte_fr": "Vitesse et force sont vitales pour forcer\nle passage! Même à cinq...[1205][001E] Faut se dépêcher!"
+    "texte_fr": "Vitesse et force sont vitales pour forcer le\npassage! Même à cinq...[1205][001E] Faut se dépêcher!"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I've[SP]come[SP]here[SP]lots[SP]of[SP]times[SP]with[SP]Fujii-san...[1205][001E]\nWe'd[SP]talk[SP]about[SP]Zen[SP]with[SP]the[SP]monks,[SP]photograph\nthe[SP]night[SP]sky...[1205][001E][SP]I[SP]loved[SP]it[SP]here.",
     "nom_fr": "Yukino",
-    "texte_fr": "Je venais souvent avec Fujii...[1205][001E] Parler\ndu Zen avec les moines, photographier\nle ciel...[1205][001E] J'adorais cet endroit."
+    "texte_fr": "Je venais souvent avec Fujii...[1205][001E] Parler du\nZen avec les moines, photographier le\nciel...[1205][001E] J'adorais cet endroit."
   },
   {
     "id": 4,

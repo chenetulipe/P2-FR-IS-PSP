@@ -27,7 +27,7 @@
     "nom_orig": "Miho",
     "texte_orig": "Where've[SP]you[SP]been[SP]all[SP]this[SP]time,[SP]Lisa?\nWe[SP]were[SP]looking[SP]all[SP]over[SP]for[SP]you!",
     "nom_fr": "Miho",
-    "texte_fr": "Où est-ce que t'étais passée Lisa?\nOn t'a cherchée absolument partout!"
+    "texte_fr": "Où est-ce que t'étais passée Lisa? On t'a\ncherchée absolument partout!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Miho",
     "texte_orig": "Where've[SP]you[SP]been[SP]all[SP]this[SP]time,[SP]Lisa?\nWe[SP]were[SP]looking[SP]all[SP]over[SP]for[SP]you!",
     "nom_fr": "Miho",
-    "texte_fr": "Où est-ce que t'étais passée Lisa?\nOn t'a cherchée absolument partout!"
+    "texte_fr": "Où est-ce que t'étais passée Lisa? On t'a\ncherchée absolument partout!"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "So[SP]it[SP]was[SP]true[SP]that[SP]you[SP]made[SP]your[SP]debut.\nThen[SP]the[SP]rumored[SP]third[SP]member[SP]is...",
     "nom_fr": "Ginko",
-    "texte_fr": "Vos débuts étaient donc vrais.\nEt la rumeur du 3e membre..."
+    "texte_fr": "Vos débuts étaient donc vrais. Et la rumeur\ndu 3e membre..."
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Mami",
     "texte_orig": "Lisa,[SP]you[SP]remember[SP]that[SP]Print[SP]Club[SP]photo[SP]we\ntook[SP]here?[SP]We[SP]posted[SP]it[SP]on[SP]the[SP]board[SP]with[SP]a\nwish[SP]for[SP]us[SP]three[SP]to[SP]become[SP]idols[SP]someday.",
     "nom_fr": "Mami",
-    "texte_fr": "Lisa, tu te souviens de notre photo\nPrint Club? On l'a affichée avec le\nvœu de devenir idoles toutes les trois."
+    "texte_fr": "Lisa, tu te souviens de notre photo Print\nClub? On l'a affichée avec le vœu de devenir\nidoles toutes les trois."
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Mami",
     "texte_orig": "And[SP]the[SP]wish[SP]came[SP]true![SP]That[SP]producer[SP]Sasaki\nsaw[SP]the[SP]photo[SP]and[SP]recruited[SP]us!",
     "nom_fr": "Mami",
-    "texte_fr": "Et ce voeu s'est exhaussé! Sasaki a\nvu notre photo et nous a recrutées!"
+    "texte_fr": "Et ce voeu s'est exhaussé! Sasaki a vu notre\nphoto et nous a recrutées!"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Mami",
     "texte_orig": "Lisa,[SP]you[SP]remember[SP]that[SP]Print[SP]Club[SP]photo[SP]we\ntook[SP]here?[SP]We[SP]posted[SP]it[SP]on[SP]the[SP]board[SP]with[SP]a\nwish[SP]for[SP]us[SP]three[SP]to[SP]become[SP]idols[SP]someday.",
     "nom_fr": "Mami",
-    "texte_fr": "Lisa, tu te souviens de notre photo\nPrint Club? On l'a affichée avec le\nvœu de devenir idoles toutes les trois."
+    "texte_fr": "Lisa, tu te souviens de notre photo Print\nClub? On l'a affichée avec le vœu de devenir\nidoles toutes les trois."
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Mami",
     "texte_orig": "And[SP]the[SP]wish[SP]came[SP]true![SP]That[SP]producer[SP]Sasaki\nsaw[SP]the[SP]photo[SP]and[SP]recruited[SP]us!",
     "nom_fr": "Mami",
-    "texte_fr": "Et ce voeu s'est exhaussé! Sasaki a\nvu notre photo et nous a recrutées!"
+    "texte_fr": "Et ce voeu s'est exhaussé! Sasaki a vu notre\nphoto et nous a recrutées!"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "W-Wait[SP]a[SP]sec![SP]Sure,[SP]I[SP]remember[SP]posting[SP]that\npicture,[SP]but[SP]actually[SP]being[SP]an[SP]idol[SP]is...",
     "nom_fr": "Ginko",
-    "texte_fr": "U-Une seconde! Je me souviens de la\nphoto, mais de là à être idole..."
+    "texte_fr": "U-Une seconde! Je me souviens de la photo,\nmais de là à être idole..."
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Miho",
     "texte_orig": "Oh,[SP]and[SP]wait[SP]until[SP]you[SP]hear[SP]our[SP]debut[SP]song!\nThere's[SP]a[SP]solo[SP]part[SP]in[SP]English[SP]for[SP]you,\nsince[SP]you're[SP]bilingual!",
     "nom_fr": "Miho",
-    "texte_fr": "Attends d'entendre notre chanson!\nY'a un solo en anglais juste\npour toi, puisque tu es bilingue!"
+    "texte_fr": "Attends d'entendre notre chanson! Y'a un\nsolo en anglais juste pour toi, puisque tu\nes bilingue!"
   },
   {
     "id": 10,
@@ -177,7 +177,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "This[SP]has[SP]gone[SP]far[SP]enough![SP]I[SP]don't[SP]want[SP]to\nbe[SP]an[SP]idol!",
     "nom_fr": "Ginko",
-    "texte_fr": "C'en est assez! Je ne\nveux pas être une idole!"
+    "texte_fr": "C'en est assez! Je ne veux pas être une\nidole!"
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "You[SP]only[SP]want[SP]me[SP]to[SP]join[SP]because[SP]you[SP]know[SP]you\ntwo[SP]alone[SP]won't[SP]get[SP]enough[SP]press![SP]Don't[SP]act\nlike[SP]my[SP]friends[SP]when[SP]you're[SP]just[SP]using[SP]me!",
     "nom_fr": "Ginko",
-    "texte_fr": "Vous me voulez juste car à deux,\nvous n'attirerez personne! Jouez pas\nles amies si c'est pour m'utiliser!"
+    "texte_fr": "Vous me voulez juste car à deux, vous\nn'attirerez personne! Jouez pas les amies si\nc'est pour m'utiliser!"
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Miho",
     "texte_orig": "Wha...?[1205][001E][SP]That's[SP]horrible,[SP]Lisa...[SP]Do[SP]you[SP]not\nlike[SP]us[SP]anymore?",
     "nom_fr": "Miho",
-    "texte_fr": "Quoi...?[1205][001E] T'es terrible\nLisa... Tu ne nous aime plus?"
+    "texte_fr": "Quoi...?[1205][001E] T'es terrible Lisa... Tu ne nous\naime plus?"
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
     "nom_orig": "Mami",
     "texte_orig": "...I'm[SP]sorry[SP]we[SP]went[SP]ahead[SP]with[SP]it[SP]without\nasking[SP]you.[SP]We[SP]have[SP]a[SP]live[SP]radio[SP]performance\nat[SP]Giga[SP]Macho[SP]now.",
     "nom_fr": "Mami",
-    "texte_fr": "... Désolée d'avoir agi sans t'en parler.\nOn a un direct à la radio Giga Macho, là."
+    "texte_fr": "... Désolée d'avoir agi sans t'en parler. On\na un direct à la radio Giga Macho, là."
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Mami",
     "texte_orig": "If[SP]you[SP]change[SP]your[SP]mind,[SP]could[SP]you[SP]meet\nus[SP]there?[SP]Come[SP]on,[SP]Mee-ho...",
     "nom_fr": "Mami",
-    "texte_fr": "Rejoins-nous si tu changes\nd'avis. Allez, Mee-ho..."
+    "texte_fr": "Rejoins-nous si tu changes d'avis. Allez,\nMee-ho..."
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]don't[SP]think[SP]you[SP]needed[SP]to[SP]be[SP]so[SP]harsh\non[SP]them.[SP]Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]just[SP]let\nthem[SP]go?",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'pense pas que tu aurais dû\nêtre si crue. T'es sûre que tu\nvas juste les laisser partir?"
+    "texte_fr": "J'pense pas que tu aurais dû être si crue.\nT'es sûre que tu vas juste les laisser\npartir?"
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Shut[SP]up![SP]They'll[SP]do[SP]what[SP]they[SP]feel[SP]like.\nJust[SP]leave[SP]them[SP]be!",
     "nom_fr": "Ginko",
-    "texte_fr": "Tais-toi! Elles font ce\nqu'elles veulent. Laisse-les."
+    "texte_fr": "Tais-toi! Elles font ce qu'elles veulent.\nLaisse-les."
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Cool[SP]down[SP]for[SP]a[SP]second,[SP]Lisa![SP]You[SP]know...\nIf[SP]they[SP]got[SP]a[SP]debut[SP]off[SP]just[SP]a[SP]Print[SP]Club\nphoto,[SP]the[SP]Masked[SP]Circle[SP]might[SP]be[SP]involved.",
     "nom_fr": "Maya",
-    "texte_fr": "Calme-toi, Lisa! Tu sais... Devenir\nidoles juste avec une photo... Le\nCercle Masqué est sûrement derrière ça."
+    "texte_fr": "Calme-toi, Lisa! Tu sais... Devenir idoles\njuste avec une photo... Le Cercle Masqué est\nsûrement derrière ça."
   },
   {
     "id": 19,
@@ -297,6 +297,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]might[SP]be[SP]able[SP]to[SP]get[SP]some[SP]more[SP]details\nfrom[SP]those[SP]two.[SP]Let's[SP]head[SP]for[SP]Giga[SP]Macho.",
     "nom_fr": "Yukino",
-    "texte_fr": "On pourrait en apprendre davantage auprès\nde ces deux-là. Allons à Giga Macho."
+    "texte_fr": "On pourrait en apprendre davantage auprès de\nces deux-là. Allons à Giga Macho."
   }
 ]
