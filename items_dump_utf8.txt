@@ -1,0 +1,200 @@
+=== #00 ID:101 ===
+ORIG: 'But[SP]boutiques[SP]that[SP]sell[SP]armor?[SP]Restaurants\nthat[SP]sell[SP]weapons?[SP]How[SP]much[SP]more[SP]insane[SP]can\nthis[SP]city[SP]get?'
+FR  : "La Sorcière du Buffet, c'est la vieille femme\nqui vit dans un buffet, c'est ça ?[1106][NL]Pourquoi à l'usine abandonnée ?[1205][000F]\nJe ne m'en approcherai plus."
+
+=== #01 ID:102 ===
+ORIG: "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nTheir[SP]quality[SP]is[SP]great,[SP]but[SP]I[SP]hear[SP]they're\nexpensive."
+FR  : 'Rosa Candida à Aoba :\nbonne qualité, cher.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle.'
+
+=== #02 ID:104 ===
+ORIG: "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nTheir[SP]prices[SP]are[SP]certainly[SP]right,[SP]but[SP]there's\na[SP]certain[SP]lack[SP]of[SP]quality[SP]there."
+FR  : 'Rosa Candida à Aoba : prix corrects,\nmais qualité insuffisante.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle.'
+
+=== #03 ID:105 ===
+ORIG: 'But[SP]boutiques[SP]that[SP]sell[SP]armor?[SP]Restaurants\nthat[SP]sell[SP]weapons?[SP]How[SP]much[SP]more[SP]insane[SP]can\nthis[SP]city[SP]get?'
+FR  : "Effrayant d'acheter des armes en pleine rue à Yumezaki.\nBon choix, reprises basses.[1106][NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
+
+=== #04 ID:106 ===
+ORIG: 'Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nThey[SP]have[SP]a[SP]great[SP]selection,[SP]but[SP]their[SP]resale\nprices[SP]seem[SP]low.'
+FR  : 'Rosa Candida à Aoba :\ngrand choix, reprises basses.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle.'
+
+=== #05 ID:107 ===
+ORIG: 'But[SP]boutiques[SP]that[SP]sell[SP]armor?[SP]Restaurants\nthat[SP]sell[SP]weapons?[SP]How[SP]much[SP]more[SP]insane[SP]can\nthis[SP]city[SP]get?'
+FR  : "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité et prix moyens.[1106][NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
+
+=== #06 ID:113 ===
+ORIG: "I've[SP]never[SP]won[SP]any[SP]sweepstakes[SP]myself...[1205][000F][SP]But[SP]I\nhear[SP]if[SP]you[SP]win[SP]this[SP]magazine's[SP]contest,[SP]you'll\nget[SP]real[SP]weapons[SP]and[SP]items."
+FR  : "Je n'ai jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Difficile à gagner, mais lots sympas.\nJe devrais peut-être réessayer."
+
+=== #07 ID:115 ===
+ORIG: "I've[SP]never[SP]won[SP]any[SP]sweepstakes[SP]myself...[1205][000F][SP]But[SP]I\nhear[SP]if[SP]you[SP]win[SP]this[SP]magazine's[SP]contest,[SP]you'll\nget[SP]real[SP]weapons[SP]and[SP]items."
+FR  : 'Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Très rare de gagner, lots incroyables.\nJe devrais réessayer.'
+
+=== #08 ID:117 ===
+ORIG: "I've[SP]never[SP]won[SP]any[SP]sweepstakes[SP]myself...[1205][000F][SP]But[SP]I\nhear[SP]if[SP]you[SP]win[SP]this[SP]magazine's[SP]contest,[SP]you'll\nget[SP]real[SP]weapons[SP]and[SP]items."
+FR  : "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Facile à gagner, prix pourris.\nJe n'ai jamais gagné. J'ai la pire chance."
+
+=== #09 ID:119 ===
+ORIG: "I've[SP]never[SP]been[SP]interested[SP]in[SP]arcades,[SP]but[SP]it\nseems[SP]Mu[SP]has[SP]a[SP]casino[SP]now.[1205][000F][SP]I[SP]get[SP]a[SP]tingle[SP]of\nexcitement[SP]at[SP]the[SP]thought[SP]of[SP]gambling..."
+FR  : "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]Un ami y est allé. On peut gagner gros à la machine de poker n°5. Je ne sais pas jouer au poker."
+
+=== #10 ID:120 ===
+ORIG: "A[SP]friend[SP]of[SP]mine[SP]went...[1205][000F][SP]He[SP]said[SP]you[SP]can[SP]win\nbig[SP]at[SP]the[SP]#5[SP]poker[SP]machine.[SP]Unfortunately,\nI[SP]don't[SP]know[SP]how[SP]to[SP]play[SP]poker."
+FR  : "Rosa Candida vend des armures.\nQualité basse, prix bas.[1106][NL]Je ne sais si c'est vrai,\nmais je vais vérifier. Intéressant.[1205][000F]"
+
+=== #11 ID:121 ===
+ORIG: "I've[SP]never[SP]been[SP]interested[SP]in[SP]arcades,[SP]but[SP]it\nseems[SP]Mu[SP]has[SP]a[SP]casino[SP]now.[1205][000F][SP]I[SP]get[SP]a[SP]tingle[SP]of\nexcitement[SP]at[SP]the[SP]thought[SP]of[SP]gambling..."
+FR  : "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]Un ami y est allé. On peut gagner gros à la machine à sous du fond. #1 ou #8 ?"
+
+=== #12 ID:123 ===
+ORIG: "I've[SP]never[SP]been[SP]interested[SP]in[SP]arcades,[SP]but[SP]it\nseems[SP]Mu[SP]has[SP]a[SP]casino[SP]now.[1205][000F][SP]I[SP]get[SP]a[SP]tingle[SP]of\nexcitement[SP]at[SP]the[SP]thought[SP]of[SP]gambling..."
+FR  : "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]Un ami y est allé. On peut gagner gros au blackjack. Mais ce serait mal si ma femme le savait..."
+
+=== #13 ID:125 ===
+ORIG: 'I[SP]may[SP]not[SP]look[SP]it,[SP]but[SP]I[SP]love[SP]antiques.[SP]I[SP]used\nto[SP]frequent[SP]places[SP]like[SP]Time[SP]Castle.[1205][000F][SP]By[SP]the\nway,[SP]do[SP]you[SP]know[SP]what[SP]a[SP]legendary[SP]weapon[SP]is?'
+FR  : "J'adore les antiquités. Je fréquentais Time Castle.[1205][000F]\nAu fait, savez-vous ce qu'est une arme légendaire ?[NL]Shiraishi Ramen en aurait une.\nJ'aimerais au moins la voir."
+
+=== #14 ID:130 ===
+ORIG: "No[SP]wonder[SP]there's[SP]nothing[SP]like[SP]a[SP]legendary\nweapon[SP]at[SP]Time[SP]Castle.[SP]Apparently,[SP]it[SP]hasn't\nbeen[SP]delivered[SP]yet."
+FR  : "Pas étonnant qu'il n'y ait pas d'arme légendaire.\nElle n'a pas encore été livrée.[NL]Le vendeur attend à l'usine abandonnée,\nmais le propriétaire a peur des monstres. Quel lâche !"
+
+=== #15 ID:131 ===
+ORIG: "The[SP]seller[SP]is[SP]waiting[SP]at[SP]the[SP]abandoned\nfactory,[SP]but[SP]the[SP]owner's[SP]afraid[SP]of[SP]monsters\nand[SP]won't[SP]go[SP]meet[SP]him.[SP]What[SP]a[SP]coward!"
+FR  : "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[1106][NL]Et si c'est ce qu'il me fabrique ?[1205][000F]\nPourquoi vendre aussi des armures ?"
+
+=== #16 ID:133 ===
+ORIG: "Augh,[SP]I[SP]was[SP]too[SP]late...[SP]Apparently[SP]a[SP]terribly\nunlucky[SP]woman[SP]bought[SP]Time[SP]Castle's[SP]legendary\nweapon[SP]before[SP]I[SP]could[SP]see[SP]it."
+FR  : "Trop tard. Une femme malchanceuse a acheté\nl'arme légendaire avant que je puisse la voir.[NL]Un autre amateur d'antiquités.\nSi j'avais décidé plus tôt, j'aurais été premier. Quel dommage."
+
+=== #17 ID:134 ===
+ORIG: 'Must[SP]have[SP]been[SP]a[SP]fellow[SP]antique[SP]lover.[SP]If[SP]only\nI[SP]had[SP]made[SP]up[SP]my[SP]mind[SP]earlier,[SP]I[SP]could[SP]have\ngotten[SP]there[SP]first...[SP]What[SP]a[SP]pity.'
+FR  : "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[1106][NL]Et si c'est ce qu'il me fabrique ?[1205][000F]\nQualité et prix raisonnables, mais ce n'est pas le problème."
+
+=== #18 ID:135 ===
+ORIG: 'Honestly,[SP]of[SP]all[SP]the[SP]luck.[SP]It[SP]seems[SP]the[SP]owner\nof[SP]Time[SP]Castle[SP]gave[SP]away[SP]that[SP]legendary[SP]weapon.'
+FR  : "Quelle malchance. Le propriétaire a donné\nl'arme légendaire.[NL]À une fille aux cheveux courts, dit-on.\nIndice trop vague. *soupir* Si seulement je l'avais achetée !"
+
+=== #19 ID:136 ===
+ORIG: "To[SP]some[SP]girl[SP]with[SP]short[SP]hair,[SP]supposedly...\nBut[SP]that's[SP]too[SP]vague[SP]a[SP]hint[SP]to[SP]go[SP]on.[SP]*sigh*\nIf[SP]only[SP]I[SP]bought[SP]it[SP]before[SP]it[SP]was[SP]gone!"
+FR  : 'Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[1106][NL]Intéressant et excitant.[1106][NL]On gagne rarement, mais beaux lots.[1205][000F]\nPourquoi ne pas essayer ?'
+
+=== #20 ID:137 ===
+ORIG: "Have[SP]you[SP]heard[SP]the[SP]rumor[SP]that[SP]a[SP]woman's[SP]ghost\nis[SP]appearing[SP]in[SP]Aoba[SP]Park?[1205][000F]"
+FR  : "Tu as entendu ? Le fantôme d'une femme\n apparaît dans le parc d'Aoba.[1205][000F][NL]Tu crois que c'est vrai ?\nJe devrais changer mon itinéraire."
+
+=== #21 ID:138 ===
+ORIG: "Do[SP]you[SP]think[SP]it's[SP]true?[1205][000F][SP]If[SP]it[SP]is,[SP]I[SP]ought[SP]to\nchange[SP]my[SP]daily[SP]route."
+FR  : 'Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[1106][NL]Intéressant et excitant.[1106][NL]Facile à gagner, lots moyens.[1205][000F]\nPourquoi ne pas essayer quand même ?'
+
+=== #22 ID:139 ===
+ORIG: 'Wh-What[SP]are[SP]we[SP]going[SP]to[SP]do...?[SP]Even[SP]the[SP]fire\ndepartment[SP]was[SP]bombed...'
+FR  : "Qu'allons-nous faire... ?\nMême les pompiers ont été bombardés...[NL]Personne pour éteindre les flammes\n en cas de nouvelle attaque !"
+
+=== #23 ID:140 ===
+ORIG: "There's[SP]no[SP]one[SP]left[SP]to[SP]put[SP]out[SP]the[SP]flames[SP]in\ncase[SP]of[SP]another[SP]attack!"
+FR  : "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![1106][NL][1432][NULL][NULL][0014]Gros lots aux machines n°1 ![1432][NULL][NULL][0014] Pas pour des lycéens ! À signaler à l'association de parents d'élèves !"
+
+=== #24 ID:141 ===
+ORIG: "Do[SP]you[SP]know[SP]what[SP]this[SP]Last[SP]Battalion[SP]thing[SP]is?[1205][000F]\nI[SP]hear[SP]they're[SP]the[SP]terrorists[SP]responsible[SP]for\nthe[SP]attacks,[SP]but[SP]I've[SP]never[SP]heard[SP]of[SP]them."
+FR  : "Tu sais ce qu'est le Dernier Bataillon ?[1205][000F]\nOn dit qu'ils sont les terroristes responsables,\nmais je n'en ai jamais entendu parler.[NL]Le Cercle Masqué n'est pas le seul groupe ? Pourquoi attaquent-ils la ville !? Je ne sais pas quoi faire !"
+
+=== #25 ID:144 ===
+ORIG: "Geez![SP]I[SP]wish[SP]they'd[SP]be[SP]more[SP]specific[SP]with[SP]the\nnews[SP]broadcasts."
+FR  : "Dommage qu'ils ne soient pas plus précis\naux infos.[NL]Ils ne font que semer plus de confusion\n sur les terroristes !"
+
+=== #26 ID:145 ===
+ORIG: "They're[SP]just[SP]going[SP]to[SP]end[SP]up[SP]confusing[SP]more\npeople[SP]about[SP]who[SP]the[SP]terrorists[SP]are!"
+FR  : "Le vendeur de l'arme légendaire attend à l'usine,\nmais le proprio ne vient pas.[1106][NL]C'est malin. L'usine grouille de monstres.\nDangereux, de toute façon."
+
+=== #27 ID:147 ===
+ORIG: "Whew...[1205][000A][SP]Now[SP]that[SP]we're[SP]in[SP]the[SP]sky,[SP]my[SP]options\nfor[SP]walking[SP]are[SP]limited.[1205][000F][SP]Huh?[SP]Now's[SP]not[SP]the\ntime[SP]for[SP]that?"
+FR  : "Ouf... Dans le ciel, mes options de marche sont limitées.[1205][000F]\nHein ? Ce n'est pas le moment ?[NL]Inutile de paniquer. Ça a déjà trop empiré.\nJe m'en fiche qu'on évolue ou qu'on meure."
+
+=== #28 ID:148 ===
+ORIG: "But[SP]there's[SP]no[SP]use[SP]panicking[SP]if[SP]things[SP]have\ngotten[SP]this[SP]bad.[1205][000F][SP]I[SP]don't[SP]care[SP]anymore[SP]if[SP]we\nevolve[SP]or[SP]all[SP]die[SP]off."
+FR  : "Le proprio a donné l'arme à une fille aux cheveux courts.[1106][NL]C'est un joli geste, malgré tout.\nJ'aimerais recevoir des cadeaux parfois.\nMon mari sait à peine que j'existe.[1205][000F]"
+
+=== #29 ID:149 ===
+ORIG: 'Have[SP]you[SP]heard?[1205][000F][SP]There[SP]are[SP]countless[SP]rumors\nflying[SP]around[SP]about[SP]what[SP]kind[SP]of[SP]end[SP]the\npeople[SP]below[SP]will[SP]face.'
+FR  : "Tu as entendu ?[1205][000F]\nDes rumeurs sur la fin des gens d'en bas.[NL]La dernière : la Grande Croix provoquera\n une tempête magnétique brûlant la Terre."
+
+=== #30 ID:150 ===
+ORIG: "The[SP]latest[SP]is[SP]that[SP]when[SP]the[SP]Grand[SP]Cross[SP]is\ncomplete,[SP]an[SP]intense[SP]magnetic[SP]storm[SP]will[SP]arise\nand[SP]scorch[SP]the[SP]Earth's[SP]surface."
+FR  : "Joker s'est enfui à Caracol avec les cadres ![1205][000F]\nIl nous a laissés dans la merde ![1106][NL]Nos idéaux exaucés ? N'importe quoi !\nIl a juste aspiré notre Énergie Idéale pour ses propres rêves !"
+
+=== #31 ID:155 ===
+ORIG: "H-Hey,[SP]the[SP]rumor[SP]about[SP]that[SP]idol's[SP]ghost[SP]in\nAoba[SP]Park[SP]was[SP]real,[SP]wasn't[SP]it?[1205][000F][SP]I[SP]heard[SP]people\nin[SP]the[SP]city[SP]talking[SP]about[SP]it[SP]too!"
+FR  : "Hé, le fantôme de l'idole à Aoba était réel ?[1205][000F]\nJ'ai entendu des gens en parler ![NL]Qu'est-ce que je fais ?\nCela a toujours fait partie de mon itinéraire.[NL]Je ne veux pas me faire posséder. Je vais éviter de passer par ici désormais."
+
+=== #32 ID:161 ===
+ORIG: "Hey,[SP]what's[SP]a[SP]Jumping[SP]Geezer?[1205][000F][SP]Because[SP]I[SP]heard\na[SP]rumor[SP]there's[SP]a[SP]creature[SP]called[SP]that[SP]at\nMt.[SP]Katatsumuri."
+FR  : "C'est quoi un Sauteur Vieux ?[1205][000F]\nIl y en aurait un au mont Katatsumuri.[NL]Avec les soldats, je ne m'approchais déjà pas.\nC'est une chose après l'autre..."
+
+=== #33 ID:166 ===
+ORIG: "The[SP]Dresser[SP]Hag's[SP]that[SP]monster[SP]that's[SP]an[SP]old\nwoman[SP]living[SP]in[SP]a[SP]dresser,[SP]right?"
+FR  : "La Sorcière du Buffet, c'est la vieille femme\nqui vit dans un buffet, c'est ça ?[NL]Pourquoi à l'usine abandonnée ?\nJe ne m'en approcherai plus."
+
+=== #34 ID:174 ===
+ORIG: "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]the[SP]selection's\ngood,[SP]but[SP]the[SP]resale[SP]prices[SP]are[SP]low."
+FR  : "Effrayant d'acheter des armes en pleine rue à Yumezaki.\nBon choix, reprises basses.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
+
+=== #35 ID:176 ===
+ORIG: "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]their[SP]quality's\nnot[SP]much,[SP]but[SP]the[SP]prices[SP]are[SP]low."
+FR  : "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité médiocre, prix bas.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
+
+=== #36 ID:178 ===
+ORIG: "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]their[SP]quality\nand[SP]prices[SP]are[SP]average."
+FR  : "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité et prix moyens.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
+
+=== #37 ID:180 ===
+ORIG: "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]they're[SP]pretty\nexpensive,[SP]but[SP]very[SP]high[SP]quality."
+FR  : "Effrayant d'acheter des armes en rue à Yumezaki.\nChères, mais très haute qualité.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
+
+=== #38 ID:182 ===
+ORIG: "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?"
+FR  : "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nPeu de choix, reprises excellentes.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
+
+=== #39 ID:185 ===
+ORIG: "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?"
+FR  : "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nBon marché, mais basse qualité.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
+
+=== #40 ID:188 ===
+ORIG: "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?"
+FR  : "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nQualité excellente, cher, comme leur nourriture.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
+
+=== #41 ID:191 ===
+ORIG: "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?"
+FR  : "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nGrand choix, reprises assez basses.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
+
+=== #42 ID:194 ===
+ORIG: "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?"
+FR  : "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nQualité et prix moyens.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
+
+=== #43 ID:202 ===
+ORIG: 'Hey,[SP]have[SP]you[SP]heard?[SP]Rosa[SP]Candida[SP]in[SP]Rengedai\nsells[SP]real[SP]armor.[SP]Their[SP]quality[SP]and[SP]prices\nseem[SP]to[SP]be[SP]average.'
+FR  : "Le Rosa Candida de Rengedai vend des armures.\nQualité et prix moyens.[NL]Je ne sais si c'est vrai,\nmais je vais vérifier. Intéressant."
+
+=== #44 ID:204 ===
+ORIG: 'Hey,[SP]have[SP]you[SP]heard?[SP]Rosa[SP]Candida[SP]in[SP]Rengedai\nsells[SP]real[SP]armor.[SP]Their[SP]quality[SP]seems[SP]low,\nbut[SP]at[SP]least[SP]their[SP]prices[SP]are[SP]too.'
+FR  : "Rosa Candida vend des armures.\nQualité basse, prix bas.[NL]Je ne sais si c'est vrai,\nmais je vais vérifier. Intéressant."
+
+=== #45 ID:206 ===
+ORIG: "Hey,[SP]have[SP]you[SP]heard?[SP]Rosa[SP]Candida[SP]in[SP]Rengedai\nsells[SP]real[SP]armor.[SP]They're[SP]expensive,[SP]but[SP]the\nquality[SP]is[SP]amazing."
+FR  : "Rosa Candida vend des armures.\nCher, mais qualité incroyable.[NL]Je ne sais si c'est vrai,\nmais je vais vérifier. Intéressant."
+
+=== #46 ID:226 ===
+ORIG: "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?"
+FR  : "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nPourquoi vendre aussi des armures ?"
+
+=== #47 ID:228 ===
+ORIG: "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?"
+FR  : "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nBon marché, mais je ne peux pas travailler en armure !"
+
+=== #48 ID:230 ===
+ORIG: "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?"
+FR  : "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nQualité excellente, mais si ça me ruine, à quoi bon !"
+
+=== #49 ID:232 ===
+ORIG: "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?"
+FR  : "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nQualité et prix raisonnables, mais ce n'est pas le problème."
+

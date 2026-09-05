@@ -27,7 +27,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Could[SP]you[SP]take[SP]care[SP]of[SP]Lisa[SP]and[SP]Big[SP]Maya?\nI'll[SP]check[SP]on[SP]Michel.",
     "nom_fr": "Jun",
-    "texte_fr": "Peux-tu vérifier l'état de Lisa\net Maya? Je m'occupe de Michel."
+    "texte_fr": "Peux-tu vérifier l'état de Lisa et Maya? Je\nm'occupe de Michel."
   },
   {
     "id": 2,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "There's[SP]no[SP]way[SP]we[SP]can[SP]get[SP]all[SP]the[SP]way[SP]back\nup[SP]there...[1205][001E][SP]Let's[SP]take[SP]a[SP]minute[SP]to[SP]think\nabout[SP]what[SP]to[SP]do.",
     "nom_fr": "Maya",
-    "texte_fr": "Par contre, aucune chance de\nremonter d'ici...[1205][001E] Prenons une\nminute pour réfléchir à la suite."
+    "texte_fr": "Par contre, aucune chance de remonter\nd'ici...[1205][001E] Prenons une minute pour réfléchir à\nla suite."
   },
   {
     "id": 7,
@@ -117,6 +117,6 @@
     "nom_orig": "Eikichi",
     "texte_orig": "By[SP]the[SP]way,[SP]Jun...[1205][001E][SP]What're[SP]you[SP]staring[SP]at?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Au fait, Jun...[1205][001E] Qu'est-ce\nque tu regardes comme ça ?"
+    "texte_fr": "Au fait, Jun...[1205][001E] Qu'est-ce que tu regardes\ncomme ça ?"
   }
 ]

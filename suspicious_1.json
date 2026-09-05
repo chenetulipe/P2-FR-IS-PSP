@@ -1,0 +1,302 @@
+[
+  {
+    "file": "script_209.json",
+    "id": 0,
+    "orig": "Hahahahaha![1205][001E][SP]You've[SP]all[SP]learned[SP]something[SP]very\nimportant[SP]here:[SP]the[SP]undeniable[SP]truth[SP]of[SP]the\nworld[SP]that[SP]some[SP]things[SP]cannot[SP]be[SP]changed!",
+    "fr": "Hahahaha![1205][001E] Vous avez appris une leçon\nimportante: la vérité indéniable\nque certaines choses ne peuvent\nêtre changées dans le monde!"
+  },
+  {
+    "file": "script_209.json",
+    "id": 11,
+    "orig": "There[SP]is[SP]none[SP]here,[SP]in[SP]the[SP]seat[SP]of[SP]his[SP]power.\nHe[SP]draws[SP]strength[SP]from[SP]the[SP]negative[SP]emotions\nof[SP]people[SP]unconsciously[SP]desiring[SP]destruction...",
+    "fr": "Il n'y en a pas, avec les pouvoirs\nactuels. Il tire sa force des\némotions négatives de gens désirant\ninconsciemment la destruction..."
+  },
+  {
+    "file": "script_250.json",
+    "id": 10,
+    "orig": "Wh-Whoa,[SP]hold[SP]on[SP]there![1205][001E][SP]That's[SP]not[SP]why[SP]we[SP]came\nto[SP]interview[SP]students.[SP]We[SP]were[SP]just[SP]here[SP]to\ninvestigate[SP]Joker[SP]and[SP]the[SP]emblem[SP]curse...",
+    "fr": "W-Whoa, doucement![1205][001E] On n'est pas\nvenues interviewer les élèves\npour ça. On voulait juste enquêter\nsur le Joker et lamalédiction..."
+  },
+  {
+    "file": "script_250.json",
+    "id": 33,
+    "orig": "It's[SP]happened[SP]ever[SP]since[SP]the[SP]big[SP]clock[SP]started\nagain...[1205][000F][SP]Even[SP]the[SP]students[SP]who[SP]took[SP]their\nemblems[SP]off[SP]got[SP]sick,[SP]one[SP]after[SP]another...",
+    "fr": "C'est arrivé dès que la grande\nhorloge s'est remise remise en\nmarche... Même les élèves sans leur\nemblème tombent malades, un par un..."
+  },
+  {
+    "file": "script_250.json",
+    "id": 39,
+    "orig": "This[SP]makes[SP]no[SP]sense...[1205][000F][SP]The[SP]curse[SP]is[SP]lifted,\nbut[SP]the[SP]festival's[SP]still[SP]canceled?[1205][000F][SP]I[SP]guess[SP]it's\nunderstandable[SP]since[SP]the[SP]principal[SP]just[SP]died...",
+    "fr": "Ça n'a aucun sens...[1205][000F] La malédiction\nest levée, mais la fête est\nannulée? C'est compréhensible vu\nque le directeur vient de mourir..."
+  },
+  {
+    "file": "script_251.json",
+    "id": 22,
+    "orig": "This[SP]is[SP]terrible![SP]Just[SP]terrible![1205][000F][SP]Ms.[SP]Saeko[SP]is\ncaught[SP]somewhere,[SP]too![1205][000F][SP]But[SP]I'm[SP]sure[SP]Principal\nHanya[SP]will[SP]save[SP]her.",
+    "fr": "C'est terrible ! Vraiment terrible\n![1205][000F] Mme Saeko est aussi prisonnière\nquelque part ![1205][000F] Mais je suis sûre\nque le Proviseur Hanya va la sauver."
+  },
+  {
+    "file": "script_252.json",
+    "id": 18,
+    "orig": "This[SP]is[SP]terrible![SP]Just[SP]terrible![1205][000F][SP]Ms.[SP]Saeko[SP]is\ncaught[SP]somewhere,[SP]too![1205][000F][SP]But[SP]I'm[SP]sure[SP]Principal\nHanya[SP]will[SP]save[SP]her.",
+    "fr": "C'est terrible ! Vraiment terrible\n![1205][000F] Mme Saeko est aussi prisonnière\nquelque part ![1205][000F] Mais je suis sûre\nque le Proviseur Hanya va la sauver."
+  },
+  {
+    "file": "script_254.json",
+    "id": 34,
+    "orig": "Ever[SP]since[SP]that[SP]clock[SP]started,[SP]the[SP]whole\nschool's[SP]like,[SP]panicking?[SP]I[SP]wanna[SP]leave,[SP]but\nthe[SP]principal[SP]says[SP]no?[SP]And[SP]I[SP]like[SP]him,[SP]so...?",
+    "fr": "Depuis que l'horloge a démarré,\ngenre, tout le bahut panique? Je\nveux partir, mais le dirlo a dit non?\nEt comme je l'aime bien, alors...?"
+  },
+  {
+    "file": "script_255.json",
+    "id": 6,
+    "orig": "They[SP]call[SP]her[SP][1432][NULL][NULL][0014]the[SP]Rumormonger,[1432][NULL][NULL][0014][SP]so[SP]I[SP]thought\nshe[SP]might[SP]know[SP]something[SP]about[SP]the[SP]curse...\nMaybe[SP]she[SP]went[SP]to[SP]Peace[SP]Diner?",
+    "fr": "On l'appelle [1432][NULL][NULL][0014]la Rumouriste[1432][NULL][NULL][0014], alors je\npensais qu'elle pourrait savoir quelque\nchose sur la malédiction... Peut-être\nqu'elle est allée au Peace Diner ?"
+  },
+  {
+    "file": "script_256.json",
+    "id": 19,
+    "orig": "That[SP]big[SP]clock's[SP]stopped[SP]for[SP]good.[SP]I[SP]hope[SP]that\nputs[SP]the[SP]ghost's[SP]mind[SP]to[SP]rest.[1205][001E][SP]He[SP]shouldn't[SP]be\nchained[SP]down[SP]by[SP]worries[SP]in[SP]death[SP]like[SP]that.",
+    "fr": "L'horloge s'est arrêtée. J'espère\nque ça apaisera le fantôme.[1205][001E] Il\nne devrait pas être enchaîné par\ndes soucis dans la mort comme ça."
+  },
+  {
+    "file": "script_256.json",
+    "id": 27,
+    "orig": "*sniffle*[1205][001E][SP]The[SP]curse[SP]has[SP]been[SP]lifted,[SP]but[SP]that\ndastardly[SP]Boss[SP]is[SP]still[SP]here...[1205][001E][SP]I[SP]bet[SP]he's\ngoing[SP]to[SP]try[SP]something[SP]funny[SP]with[SP]me...[SP]*sob*",
+    "fr": "*snif*[1205][001E] La malédiction est levée,\nmais cet infâme Boss est toujours\nlà...[1205][001E] Je parie qu'il va essayer un\ntruc bizarre avec moi...*sanglot*"
+  },
+  {
+    "file": "script_256.json",
+    "id": 39,
+    "orig": "You[SP]should[SP]help[SP]clean[SP]up,[SP]Senpai.[SP]Principal\nHanya[SP]seemed[SP]mad...[SP]We[SP]should[SP]never[SP]have[SP]gone\naround[SP]destroying[SP]emblems.",
+    "fr": "Vous devriez aider à nettoyer,\nSenpai. Le Proviseur Hanya semblait\nfurieux... On n'aurait jamais\ndû détruire tous ces insignes."
+  },
+  {
+    "file": "script_257.json",
+    "id": 3,
+    "orig": "I[SP]wonder[SP]how[SP]many[SP]years[SP]it's[SP]been[SP]since[SP]that\ntragedy...[1205][001E][SP]It[SP]was[SP]gruesome.[SP]Namu[SP]Amida[SP]Butsu,\nNamu[SP]Amida[SP]Butsu...[1205]<[SP]Well,[SP]dinnertime!",
+    "fr": "Je me demande combien d'années ont\npassé depuis cette tragédie...[1205][001E] C'était\nhorrible. Namu Amida Butsu, Namu Amida\nButsu...[1205] < Bah, c'est l'heure du dîner !"
+  },
+  {
+    "file": "script_258.json",
+    "id": 26,
+    "orig": "Oh[SP]dear...[SP]The[SP]clock[SP]tower...[SP]It[SP]collapsed...\nWas[SP]it[SP]for[SP]the[SP]best...?[SP]I[SP]hope[SP]that[SP]teacher\ncan[SP]rest[SP]in[SP]peace[SP]now...",
+    "fr": "Oh là là... La tour de l'horloge...\nElle s'est effondrée... C'était\npour le mieux...? J'espère que cet\nenseignant peut reposer en paix..."
+  },
+  {
+    "file": "script_259.json",
+    "id": 7,
+    "orig": "Ms.[SP]Ideal's[SP]been[SP]teaching[SP]here[SP]for[SP]11[SP]years,\nright?[SP]She's[SP]always[SP]saying[SP]weird[SP]stuff,[SP]but\nlately[SP]she[SP]seems[SP]nervous[SP]about[SP]some[SP]oracle.",
+    "fr": "Mme Idéal enseigne ici depuis 11\nans, non? Elle dit toujours des\ntrucs bizarres, mais récemment elle\nest nerveuse à cause d'unoracle."
+  },
+  {
+    "file": "script_259.json",
+    "id": 9,
+    "orig": "I[SP]think[SP]if[SP]it[SP]did[SP]start[SP]moving,[SP]I'd[SP]smash[SP]it.\nBut[SP]don't[SP]get[SP]me[SP]wrong,[SP]it's[SP]not[SP]because[SP]I[SP]hate\nhim![SP]He's[SP]annoying[SP]and[SP]fussy[SP]and[SP]a[SP]great[SP]guy.",
+    "fr": "Je crois que si elle se mettait à\nbouger, je la casserais. Mais ne vous\nméprenez pas, j'ai beau le trouver\nchiant et maniaque, il est bien."
+  },
+  {
+    "file": "script_260.json",
+    "id": 7,
+    "orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]!",
+    "fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi! Allons\ndîner, [1113]! Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait\nde thamatite, il possède un magnétisme\nanormal.[E1][E2] La légende dit que c'est une\npierre gardienne où l'être céleste Hiremon\na scellé le démon Narurato Hotefu. Statue en\nl'honneur du directeur Hanya [NULL][NULL]Regardez-moi!\nSuivez-moi! Ne comptez pas sur moi![NULL][NULL] est\nlacitation contradictoire écrite ici. La\nregarder vous met étrangement en colère..."
+  },
+  {
+    "file": "script_261.json",
+    "id": 1,
+    "orig": "I[SP]remember[SP]when[SP]this[SP]place[SP]got[SP]a[SP]writeup[SP]in[SP]our\nsister[SP]magazine,[SP]Gourmet[SP]King.[1205][001E][SP]It[SP]got[SP]three[SP]stars\nfor[SP]its[SP]price,[SP]flavor,[SP]and[SP]generous[SP]portions.",
+    "fr": "Cet endroit a été mentionné dans\nnotre magazine partenaire, Gourmet\nKing.[1205][001E] Trois étoiles pour le\nprix, la saveur et les portions."
+  },
+  {
+    "file": "script_261.json",
+    "id": 73,
+    "orig": "There've[SP]been[SP]sightings[SP]of[SP]the[SP]Jumping[SP]Geezer\nat[SP]Mt.[SP]Katatsumuri.[SP]I[SP]thought[SP]it[SP]showed[SP]up[SP]on\nroads[SP]and[SP]tunnels...[SP]add[SP]mountains[SP]to[SP]the[SP]list.",
+    "fr": "On a aperçu le Vieux Sauteur au\nMont Katatsumuri. Je croyais qu'il\napparaissait sur les routes et\ntunnels... Ajoutons les montagnes."
+  },
+  {
+    "file": "script_262.json",
+    "id": 4,
+    "orig": "Huh?[SP]Ms.[SP]Saeko?[1205][001E][SP]I[SP]dunno...[SP]Maybe[SP]in[SP]the\nteacher's[SP]lounge[SP]on[SP]the[SP]second[SP]floor?[1205][001E][SP]*sigh*\nOf[SP]course[SP]it[SP]wasn't[SP]me[SP]you're[SP]after...",
+    "fr": "Hein ? Mme Saeko ?[1205][001E] Je sais pas...\nDans la salle des profs au deuxième\nétage ?[1205][001E] *soupir* Bien sûr que\nc'est pas moi que vous cherchez..."
+  },
+  {
+    "file": "script_263.json",
+    "id": 22,
+    "orig": "I[SP]heard[SP]it[SP]was[SP]the[SP]principal[SP]who[SP]lifted[SP]the\ncurse.[1205][000F][SP]But[SP]the[SP]Boss[SP]did[SP]his[SP]part,[SP]too![1205][000F][SP]As\nthanks,[SP]I[SP]gave[SP]him[SP]my[SP]first[SP]kiss...",
+    "fr": "J'ai entendu que c'est le proviseur qui\na levé la malédiction.[1205][000F] Mais le Boss a\naussi fait sa part ![1205][000F] En remerciement,\nje lui ai donné mon premier baiser..."
+  },
+  {
+    "file": "script_264.json",
+    "id": 6,
+    "orig": "The[SP]shoes[SP]Noriko[SP]is[SP]taking[SP]care[SP]of[SP]are[SP]Anna-\nsenpai's.[SP]She[SP]insists[SP]Senpai[SP]is[SP]coming[SP]back...[1205][001E]\nShe's[SP]been[SP]looking[SP]all[SP]over[SP]for[SP]her[SP]at[SP]night.",
+    "fr": "Les chaussures dont Noriko s'occupe\nsont celles d'Anna-senpai. Elle\ndit qu'elle reviendra...[1205][001E] La\nnuit, elle la cherche partout."
+  },
+  {
+    "file": "script_265.json",
+    "id": 48,
+    "orig": "You[SP]destroyed[SP]that[SP]one,[SP][1112]-senpai.\nNow[SP]go[SP]and[SP]take[SP]care[SP]of[SP]the[SP]others!",
+    "fr": "Tu as détruit celui-là, [1112]-senpai.\nMaintenant va t'occuper des autres!\nCe sont les restes d'une horloge qui\nétait au mur... Il y a une horloge au\nmur avec l'emblème de l'école dessus."
+  },
+  {
+    "file": "script_266.json",
+    "id": 11,
+    "orig": "You'd[SP]take[SP]the[SP]time[SP]to[SP]talk[SP]to[SP]someone[SP]like[SP]me,\nSenpai?[SP]Glad[SP]I[SP]dragged[SP]myself[SP]to[SP]school[SP]today...[1205][001E]\nMs.[SP]Saeko?[SP]I[SP]saw[SP]her[SP]on[SP]the[SP]first[SP]floor.",
+    "fr": "Tu viens vraiment me parler? Senpai?\nContente d'avoir pu me tirer hors\ndu lit aujourd'hui...[1205][001E] Mme. Saeko? Je\ncrois l'avoir vue au premier étage"
+  },
+  {
+    "file": "script_266.json",
+    "id": 18,
+    "orig": "Huh?[SP]You[SP]don't[SP]know?[1205][001E][SP]Our[SP]emblem's[SP]cursed,[SP]but\nrumor[SP]has[SP]it[SP]Cuss[SP]High's[SP]wards[SP]off[SP]evil.[SP]Thanks\nto[SP]that,[SP]our[SP]reputations[SP]have[SP]been[SP]switched.",
+    "fr": "Hein ? Tu sais pas ?[1205][001E] Notre emblème\nest maudit, mais la rumeur dit\nque Lycée Kasu repousse le mal. Du\ncoup nos réputations s'inversent."
+  },
+  {
+    "file": "script_267.json",
+    "id": 2,
+    "orig": "That[SP]principal[SP]remembers[SP]our[SP]last[SP]fight,[SP]right?[1205][000F]\nI[SP]wasn't[SP]holding[SP]back[SP]at[SP]all...[SP]I[SP]wouldn't[SP]be\nsurprised[SP]if[SP]he[SP]held[SP]a[SP]grudge[SP]over[SP]it.",
+    "fr": "Ce principal se rapelle notre dernier\ncombat, non? 5]non? Je me suis donné\nà fond... Je serais pas surpris\nsi il m'en veut par rapport à ça."
+  },
+  {
+    "file": "script_267.json",
+    "id": 18,
+    "orig": "As[SP]long[SP]as[SP]I'm[SP]still[SP]standing,[SP]I[SP]won't[SP]let[SP]you\nlay[SP]a[SP]hand[SP]on[SP]my[SP]wonderful[SP]students![1205][000F][SP]Go[SP]back\nto[SP]your[SP]boss[SP]and[SP]tell[SP]him[SP]I[SP]said[SP]so!",
+    "fr": "Tant que je reste debout, je ne\nvous laisserais pas toucher à un\ncheveu de mes [1205][000F]élèves! Retournez\nvoir votre chef et diteslui!"
+  },
+  {
+    "file": "script_267.json",
+    "id": 20,
+    "orig": "I[SP]had[SP]no[SP]idea[SP]the[SP]principal[SP]was[SP]so[SP]strong...[1205][000F]\nH-He[SP]whomped[SP]the[SP]Last[SP]Battalion[SP]left[SP]and\nright...[1205][000F][SP]He[SP]might[SP]be[SP]the[SP]strongest[SP]man[SP]alive!",
+    "fr": "Je pensais pas que le principal\nétait si [1205][000F] fort... I-Il a écrasé le\nBataillon à droite et à gauche...\nC'est l'homme le plus fort dumonde!"
+  },
+  {
+    "file": "script_267.json",
+    "id": 21,
+    "orig": "The[SP]Last[SP]Battalion's[SP]invasion[SP]and[SP]Principal\nHanya's[SP]miraculous[SP]return![1205][000F][SP]How[SP]could[SP]we[SP]call\nourselves[SP]journalists[SP]and[SP]not[SP]write[SP]this[SP]up!?",
+    "fr": "L'invasion du Bataillon et le\nretour miraculeux du Principal[1205][000F]\nHanya! Comment peut-on s'appeler des\njournalistes et ne peux pasécrire ça!?"
+  },
+  {
+    "file": "script_267.json",
+    "id": 22,
+    "orig": "The[SP]next[SP]issue[SP]of[SP]the[SP]Seven[SP]Sisters[SP]Times[SP]will\nbe[SP]about[SP]Hanya's[SP]resurrection[SP]and[SP]the[SP]utter\ndefeat[SP]of[SP]the[SP]Last[SP]Battalion![1205][000F][SP]This[SP]is[SP]GOLD!",
+    "fr": "Le prochain numéro du Times de Seven\nSisters sera sur la ressurection\nd'Hanya et la défaite écrasante\ndu BataillonC'est [1205][000F]du DIAMANT BRUT!"
+  },
+  {
+    "file": "script_268.json",
+    "id": 15,
+    "orig": "The[SP]Last[SP]Battalion's[SP]invasion[SP]and[SP]a[SP]graceful\nbeauty's[SP]sudden[SP]intervention![1205][000F][SP]How[SP]could[SP]we[SP]call\nourselves[SP]journalists[SP]and[SP]not[SP]write[SP]this[SP]up!?",
+    "fr": "L'invasion du Bataillon et\nl'intervention de cette bombe grâcieuse!\n[1205][000F]Comment peut-on toujours prétendre\nêtrejournalistes et ne pas écrire ceci!"
+  },
+  {
+    "file": "script_270.json",
+    "id": 27,
+    "orig": "Oh,[SP]by[SP]the[SP]way,[SP]the[SP]school[SP]festival[SP]is[SP]called\noff[SP]as[SP]a[SP]result[SP]of[SP]this.[SP]It[SP]had[SP]to[SP]happen.\nReally.[SP]But[SP]it's[SP]not[SP]the[SP]principal's[SP]fault.",
+    "fr": "Oh, et d'ailleurs, le festival du\nlycée est annulé à cause de ça.\nC'était obligé d'arriver. Vraiment.Mais\nc'est pas la faute du principal."
+  },
+  {
+    "file": "script_270.json",
+    "id": 29,
+    "orig": "I-It's[SP]tough[SP]with[SP]the[SP]principal[SP]gone...[SP]Not\neven[SP]I[SP]could've[SP]predicted[SP]this[SP]turn[SP]of[SP]events!\nBut[SP]it's[SP]fine.[SP]I'm[SP]sure[SP]he'll[SP]be[SP]back.",
+    "fr": "C'est dur depuis que le principal\nest parti... Même moi j'aurais\npas pu prédire ça! Mais c'est pas\ngrave. Je suis sûr qu'il reviendra."
+  },
+  {
+    "file": "script_270.json",
+    "id": 30,
+    "orig": "I-It'll[SP]be[SP]tough[SP]with[SP]the[SP]principal[SP]dead...[SP]Not\neven[SP]I[SP]could've[SP]predicted[SP]this[SP]turn[SP]of[SP]events!\nBut[SP]it's[SP]fine.[SP]I'm[SP]sure[SP]he's[SP]in[SP]heaven[SP]now.",
+    "fr": "Ça va être dur avec la mort du\nprincipal... Même moi j'aurais pas\npu prédire ça! Mais c'est pas grave.\nJe suis sûr qu'il repose enpaix."
+  },
+  {
+    "file": "script_271.json",
+    "id": 12,
+    "orig": "She[SP]yells[SP]random[SP]Chinese[SP]and[SP]she's[SP]kinda[SP]weird,\nbut[SP]man,[SP]it'd[SP]be[SP]awesome[SP]having[SP]a[SP]real[SP]blonde[SP]as\na[SP]girlfriend.[SP]I'd[SP]go[SP]after[SP]her[SP]if[SP]I[SP]were[SP]you.",
+    "fr": "Elle crie des mots chinois et elle\nest bizarre, mais ça serait trop bien\nd'avoir une copine vraiment blonde.Je\ntenterais ma chance si j'étais toi."
+  },
+  {
+    "file": "script_272.json",
+    "id": 32,
+    "orig": "Oh[SP]yeah,[SP]there[SP]were[SP]some[SP]emblems[SP]in[SP]the[SP]teachers'\nlounge[SP]on[SP]the[SP]second[SP]floor...[1205][000F][SP]But[SP]our[SP]teachers\nare[SP]there.[SP]I[SP]don't[SP]want[SP]them[SP]catching[SP]on!",
+    "fr": "Ah oui, il y avait des emblèmes dans\nla salle des profs au deuxième étage...\n205].. Mais nos profs sont là. Jeveux\npas qu'ils s'en rendent compte!"
+  },
+  {
+    "file": "script_272.json",
+    "id": 48,
+    "orig": "Oh[SP]yeah,[SP]there[SP]were[SP]some[SP]emblems[SP]in[SP]the[SP]teachers'\nlounge[SP]on[SP]the[SP]second[SP]floor...[1205][000F][SP]But[SP]our[SP]teachers\nare[SP]there.[SP]I[SP]don't[SP]want[SP]them[SP]catching[SP]on!",
+    "fr": "Ah oui, il y avait des emblèmes dans\nla salle des profs au deuxième étage...\n205].. Mais nos profs sont là. Jeveux\npas qu'ils s'en rendent compte!"
+  },
+  {
+    "file": "script_279.json",
+    "id": 41,
+    "orig": "I[SP]wonder[SP]if[SP]he's[SP]really[SP]sad[SP]because[SP]our\ngrandsons[SP]don't[SP]visit.[SP]Could[SP]you[SP]talk[SP]to\nhim?[SP]I'm[SP]sure[SP]he's[SP]wandering[SP]about[SP]town.",
+    "fr": "Je me demande s'il est vraiment triste\nque nos petits-enfants ne viennent\nplus. Tu pourrais lui parler ? Il\ndoit traîner quelque part en ville."
+  },
+  {
+    "file": "script_281.json",
+    "id": 23,
+    "orig": "Kehhei![SP]We[SP]heard[SP]it[SP]from[SP]Hanya,[SP]but[SP]Cuss[SP]High\nreally[SP]was[SP]behind[SP]the[SP]emblem[SP]curse![SP]I[SP]should've\nexpected[SP]a[SP]dirty[SP]trick[SP]like[SP]that[SP]from[SP]them!",
+    "fr": "Kehhei! On l'a appris de Hanya,\nle Lycée Kakasu était vraiment\nderrière la malédiction! J'aurais\ndû m'attendre à un coup aussi bas!"
+  },
+  {
+    "file": "script_281.json",
+    "id": 25,
+    "orig": "Things[SP]are[SP]getting[SP]serious.[SP]If[SP]it[SP]had[SP]been[SP]the\nwork[SP]of[SP]some[SP]yahoos,[SP]that's[SP]fine,[SP]but[SP]this[SP]went\nall[SP]the[SP]way[SP]to[SP]the[SP]student[SP]council[SP]president...",
+    "fr": "Ça devient grave. Si c'était\nl'œuvre de quelques idiots, passe\nencore, mais ça remonte jusqu'au\nprésident du conseil des élèves..."
+  },
+  {
+    "file": "script_281.json",
+    "id": 81,
+    "orig": "That's[SP]amazing![SP]I[SP]didn't[SP]know[SP]you[SP]were[SP]making\nyour[SP]debut,[SP]Lisa-san![SP]Wow![SP]...Alright,[SP]don't\nplay[SP]dumb.[SP]You're[SP]the[SP]third[SP]member,[SP]huh?",
+    "fr": "C'est incroyable! Je savais pas que\ntu faisais tes débuts, Lisa-san!\nWaouh!... Bon, fais pas l'innocente.\nTu es la troisième membre?"
+  },
+  {
+    "file": "script_281.json",
+    "id": 85,
+    "orig": "I'm[SP]currently[SP]listening[SP]in[SP]on[SP]the[SP]murmurs[SP]of\nsociety.[SP]Listening[SP]to[SP]rumors[SP]teaches[SP]you[SP]the\nlies[SP]and[SP]deceptions[SP]of[SP]the[SP]world[SP]very[SP]clearly.",
+    "fr": "J'écoute actuellement les murmures\nde la société. Écouter les\nrumeurs enseigne clairement les\nmensonges et tromperies du monde."
+  },
+  {
+    "file": "script_281.json",
+    "id": 106,
+    "orig": "The[SP][1432][NULL][NULL][0014]Jolly[SP]Roger[1432][NULL][NULL][0014][SP]refers[SP]to[SP]the[SP]skull[SP]and\ncrossbones...[SP]Between[SP]the[SP]ship-like[SP]decor[SP]and\nhis[SP]clothing,[SP]the[SP]owner[SP]may[SP]be[SP]an[SP]ex-pirate.",
+    "fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne\net os croisés... Entre le décor\nmarin et ses vêtements, le patron\nest peut-être un ex-pirate."
+  },
+  {
+    "file": "script_281.json",
+    "id": 159,
+    "orig": "Having[SP]your[SP]ideals[SP]granted[SP]is[SP]nothing[SP]special...[1205][001E]\nI[SP]thought[SP]it'd[SP]change[SP]my[SP]life...[1205][001E][SP]But[SP]everything\nis[SP]too[SP]much[SP]of[SP]a[SP]pain[SP]to[SP]bother[SP]with[SP]now...[1205][001E]",
+    "fr": "Avoir ses idéaux exaucés n'a rien\nde spécial...[1205][001E] Je pensais que ça\nchangerait ma vie...[1205][001E] Mais tout\nme pèse trop pour quej'agisse...[1205][001E] "
+  },
+  {
+    "file": "script_281.json",
+    "id": 169,
+    "orig": "Aoba's[SP]outdoor[SP]concert[SP]hall[SP]is[SP]often[SP]used[SP]by\nfamous[SP]artists.[SP]It's[SP]pretty[SP]amazing[SP]that[SP]it'll\nbe[SP]the[SP]venue[SP]for[SP]their[SP]first[SP]show.",
+    "fr": "La salle de concerts en plein\nair à Aoba accueille des artistes\ncélèbres. Impressionnant que\nce soit leur première scène."
+  },
+  {
+    "file": "script_281.json",
+    "id": 170,
+    "orig": "There[SP]was[SP]a[SP]rumor[SP]about[SP]the[SP]Masked[SP]Circle[SP]being\nbehind[SP]this[SP]terrorism,[SP]but[SP]is[SP]it[SP]true?[1205][000F][SP]I[SP]wonder\nif[SP]they're[SP]really[SP]an[SP]evil[SP]organization...",
+    "fr": "Il y avait une rumeur que le Cercle\nmasqué était derrière les attentats,\nmais c'est vrai? [1205][000F]Sont-ils vraiment\nune organisationmaléfique..."
+  },
+  {
+    "file": "script_281.json",
+    "id": 178,
+    "orig": "There's[SP]an[SP]idol's[SP]ghost[SP]haunting[SP]the[SP]outdoor\nconcert[SP]hall.[1205][000F][SP]I[SP]hear[SP]a[SP]lot[SP]of[SP]scary[SP]stories\nabout[SP]that[SP]place...[SP]like[SP]talking[SP]flowers.",
+    "fr": "Il y a le fantôme d'une idole\nqui hante la [1205][000F]salle de concerts\nen plein air. J'entends beaucoup\nd'histoires effrayantes sur celieu..."
+  },
+  {
+    "file": "script_281.json",
+    "id": 200,
+    "orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nTheir[SP]prices[SP]and[SP]quality[SP]seem[SP]pretty[SP]normal.",
+    "fr": "Il paraît que le Jolly Roger à Kounan\nvend de vraies armes. Je devrais\ny jeter un œil... Leurs prix et\nqualité semblent dans lamoyenne."
+  },
+  {
+    "file": "script_281.json",
+    "id": 237,
+    "orig": "Guess[SP]what?[SP]I[SP]heard[SP]the[SP]flowers[SP]in[SP]Aoba[SP]Park\ncan[SP]talk.[SP]I[SP]heard[SP]they're[SP]like[SP]people...\nThere's[SP]good[SP]ones[SP]and[SP]bad[SP]ones.",
+    "fr": "Vous savez quoi ? J'ai entendu que les\nfleurs du parc d'Aoba peuvent parler.\nParaît qu'elles sont comme des gens...\nY'en a des bonnes et des mauvaises."
+  },
+  {
+    "file": "script_285.json",
+    "id": 4,
+    "orig": "They[SP]must[SP]be[SP]desperate[SP]to[SP]believe[SP]that[SP]they[SP]can\nevolve[SP]and[SP]escape[SP]this[SP]world's[SP]destruction.[1205][000F]\nPeople...[1205][000F][SP]can[SP]be[SP]pitiful[SP]at[SP]times[SP]like[SP]this...",
+    "fr": "Ils doivent être desespérés pour\npenser pouvoir évoluer et fuir la\nfin du monde. [1205][000F]Les gens... peuvent\nêtrepitoyables dans ces moments-là..."
+  }
+]

@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Have[SP]some[SP]faith[SP]in[SP]Lisa...[1205][001E][SP]Dreams[SP]aren't[SP]a\ncrutch[SP]you[SP]can[SP]lean[SP]on[SP]or[SP]a[SP]gift[SP]you[SP]can[SP]be\ngiven.[SP]I'm[SP]sure[SP]she'll[SP]figure[SP]that[SP]out.",
     "nom_fr": "Maya",
-    "texte_fr": "Faites confiance à Lisa...[1205][001E] Un rêve n'est\npas une béquille ni un cadeau qu'on\nreçoit. Je suis sûre qu'elle comprendra."
+    "texte_fr": "Faites confiance à Lisa...[1205][001E] Un rêve n'est pas\nune béquille ni un cadeau qu'on reçoit. Je\nsuis sûre qu'elle comprendra."
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Shift[SP]boss",
     "texte_orig": "Hey,[SP]you[SP]four![SP]What're[SP]you[SP]part-timers\nlounging[SP]around[SP]for!?",
     "nom_fr": "Chef",
-    "texte_fr": "Hé, vous quatre! Pourquoi vous\nglandez, les intérimaires!?"
+    "texte_fr": "Hé, vous quatre! Pourquoi vous glandez, les\nintérimaires!?"
   },
   {
     "id": 6,
@@ -102,6 +102,6 @@
     "nom_orig": "Shift[SP]boss",
     "texte_orig": "Get[SP]out[SP]there[SP]and[SP]guard[SP]the[SP]stage![SP]And[SP]you\ngirls,[SP]go[SP]collect[SP]tickets![SP]What,[SP]am[SP]I[SP]not\nmaking[SP]myself[SP]clear?[SP]Get[SP]going!",
     "nom_fr": "Chef",
-    "texte_fr": "Allez garder la scène ! Et vous les\nfilles, allez collecter les billets\n! C'est pas clair ? Bougez-vous !"
+    "texte_fr": "Allez garder la scène ! Et vous les filles,\nallez collecter les billets ! C'est pas\nclair ? Bougez-vous !"
   }
 ]

@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "H-Huh?[SP]I've[SP]never[SP]seen[SP]that[SP]girl[SP]here[SP]before...",
     "nom_fr": "Eikichi",
-    "texte_fr": "H-Hein? J'ai jamais vu\ncette fille ici avant..."
+    "texte_fr": "H-Hein? J'ai jamais vu cette fille ici\navant..."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Oh[SP]wow,[SP]what[SP]cute[SP]little[SP]justice[SP]heroes!\nCiaaao!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Oh wow, quels adorables petits\nhéros de la justice! Ciao!"
+    "texte_fr": "Oh wow, quels adorables petits héros de la\njustice! Ciao!"
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "I'm[SP]visiting[SP]the[SP]shrine.[SP]I'm[SP]praying[SP]to[SP]become\nwhat[SP]I[SP]want[SP]in[SP]the[SP]future...[1205][001E][SP]Like[SP]that!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Je visite le sanctuaire. Je prie pour\ndevenir ce que je veux plus tard...[1205][001E] Comme ça!"
+    "texte_fr": "Je visite le sanctuaire. Je prie pour\ndevenir ce que je veux plus tard...[1205][001E] Comme\nça!"
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wh-Whatever[SP]the[SP]b-boss[SP]of[SP]the[SP]Masked\nC-Circle[SP]says[SP]goes.[SP]Th-The[SP]boss[SP]gets[SP]to\ndecide[SP]what[SP]everyone[SP]d-does[SP]and[SP]b-becomes.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ce que le c-chef du C-Cercle masqué\ndit est la loi. Le chef décide ce\nque chacun d-doit faire ou d-devenir."
+    "texte_fr": "Ce que le c-chef du C-Cercle masqué dit est\nla loi. Le chef décide ce que chacun d-doit\nfaire ou d-devenir."
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Wow![SP]Then[SP]will[SP]you[SP]make[SP]me[SP]what[SP]I[SP]want\nto[SP]be[SP]too?",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Wow! Alors tu feras de moi\nce que je veux devenir aussi?"
+    "texte_fr": "Wow! Alors tu feras de moi ce que je veux\ndevenir aussi?"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wh-What[SP]should[SP]we[SP]d-do?[SP]I-I[SP]wouldn't\nm-mind[SP]letting[SP]her[SP]j-join[SP]our[SP]group...",
     "nom_fr": "Eikichi",
-    "texte_fr": "On d-doit faire quoi? Ça me gênerait\npas qu'elle vienne dans notre groupe.."
+    "texte_fr": "On d-doit faire quoi? Ça me gênerait pas\nqu'elle vienne dans notre groupe.."
   },
   {
     "id": 9,
@@ -162,7 +162,7 @@
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Thanks![SP]Hey,[SP]want[SP]to[SP]see[SP]something?[SP]It's[SP]a\nchant[SP]that's[SP]rumored[SP]to[SP]let[SP]you[SP]be[SP]able[SP]to\nsee[SP]your[SP]future[SP]self...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Merci! Hé, vous voulez voir un truc?\nC'est un chant qui permettrait de voir\nà quoi on ressemblera plus tard..."
+    "texte_fr": "Merci! Hé, vous voulez voir un truc? C'est\nun chant qui permettrait de voir à quoi on\nressemblera plus tard..."
   },
   {
     "id": 11,
@@ -192,6 +192,6 @@
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Well,[SP]it's[SP]called[SP]the[SP]Persona[SP]Game,[SP]and...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Ça s'appelle le Jeu du Persona,\net... c'est difficile à expliquer."
+    "texte_fr": "Ça s'appelle le Jeu du Persona, et... c'est\ndifficile à expliquer."
   }
 ]

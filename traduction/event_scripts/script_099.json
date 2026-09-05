@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yeah,[SP]you're[SP]right...[1205][001E][SP]I[SP]felt[SP]like[SP]this[SP]ten\nyears[SP]ago,[SP]too...",
     "nom_fr": "Eikichi",
-    "texte_fr": "T'as raison...[1205][001E] Je me sentais\npareil il y a 10 ans aussi"
+    "texte_fr": "T'as raison...[1205][001E] Je me sentais pareil il y a\n10 ans aussi"
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "But[SP]don't[SP]you[SP]think[SP]the[SP]one[SP]who[SP]was[SP]forgotten\nwould[SP]feel[SP]horrible?",
     "nom_fr": "Maya",
-    "texte_fr": "Mais vous ne pensez pas que\ncelui oublié se sentirait mal?"
+    "texte_fr": "Mais vous ne pensez pas que celui oublié se\nsentirait mal?"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Real[SP]life[SP]isn't[SP]a[SP]video[SP]game.[SP]You[SP]can't[SP]just\npress[SP]the[SP]reset[SP]button.[SP]The[SP]sins[SP]you've\ncommitted[SP]will[SP]never[SP]disappear.",
     "nom_fr": "Maya",
-    "texte_fr": "La vrai vie n'est pas comme un jeu\nvidéo. C'est impossible de recommencer.\nVos péchés ne vont jamais disparaitre."
+    "texte_fr": "La vrai vie n'est pas comme un jeu vidéo.\nC'est impossible de recommencer. Vos péchés\nne vont jamais disparaitre."
   },
   {
     "id": 6,

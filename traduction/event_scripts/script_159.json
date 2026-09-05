@@ -12,7 +12,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]is[SP]still[SP]kicking...[1205][001E]\nDo[SP]we[SP]really[SP]have[SP]no[SP]choice[SP]but[SP]to[SP]fight\nJun's[SP]dad?",
     "nom_fr": "Ginko",
-    "texte_fr": "Le Cercle Masqué tient bon...[1205][001E] Faut\nvraiment qu'on affronte le père de Jun?"
+    "texte_fr": "Le Cercle Masqué tient bon...[1205][001E] Faut vraiment\nqu'on affronte le père de Jun?"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Heh...![1205][001E][SP]He's[SP]mocking[SP]us...[1205][001E][SP]Daring[SP]us[SP]to[SP]hurry\nup[SP]and[SP]reach[SP]him.",
     "nom_fr": "Eikichi",
-    "texte_fr": "[1205][001E]Il se moque de nous...[1205][001E] Il nous\ndéfie d'arriver jusqu'à lui."
+    "texte_fr": "[1205][001E]Il se moque de nous...[1205][001E] Il nous défie\nd'arriver jusqu'à lui."
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]my[SP]impostor...[SP]He's[SP]here[SP]in[SP]this[SP]temple...",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est mon imposteur...\nIl est dans ce temple..."
+    "texte_fr": "C'est mon imposteur... Il est dans ce\ntemple..."
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Earth,[SP]water,[SP]fire,[SP]wind...[1205][001E][SP]Four[SP]elements.\nEarth[SP]is[SP]Taurus...[SP]Water[SP]is[SP]Scorpio...[SP]Fire[SP]is\nLeo...[SP]and[SP]Wind[SP]is[SP]Aquarius...",
     "nom_fr": "Maya",
-    "texte_fr": "Terre, eau, feu, air...[1205][001E] Quatre\néléments. Terre = Taureau. Eau =\nScorpion. Feu = Lion. Air = Verseau..."
+    "texte_fr": "Terre, eau, feu, air...[1205][001E] Quatre éléments.\nTerre = Taureau. Eau = Scorpion. Feu = Lion.\nAir = Verseau..."
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]relief[SP]must[SP]show[SP]the[SP]relationship[SP]of\nthose[SP]elements[SP]to[SP]each[SP]other.",
     "nom_fr": "Maya",
-    "texte_fr": "Ce relief montre sûrement les\nrelations entre ces éléments."
+    "texte_fr": "Ce relief montre sûrement les relations\nentre ces éléments."
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Each[SP]element[SP]rules[SP]over[SP]another[SP]one.\nFor[SP]example,[SP]fire[SP]rules[SP]over[SP]wind,[SP]but[SP]it's\nsubservient[SP]to[SP]water...",
     "nom_fr": "Maya",
-    "texte_fr": "Chaque élément domine un autre.\nExemple: le feu domine l'air,\nmais il est soumis à l'eau..."
+    "texte_fr": "Chaque élément domine un autre. Exemple: le\nfeu domine l'air, mais il est soumis à\nl'eau..."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Maya",
     "texte_orig": "So[SP]if[SP]we[SP]remove[SP]the[SP]Fire[SP]Skull,[SP]water[SP]has[SP]no\nunderling,[SP]making[SP]it[SP]weaker--but[SP]wind[SP]has[SP]no\nmaster,[SP]making[SP]it[SP]stronger.",
     "nom_fr": "Maya",
-    "texte_fr": "Si on enlève le Crâne de Feu,\nl'eau, sans subordonné, s'affaiblit;\nl'air, sans maître, se renforce"
+    "texte_fr": "Si on enlève le Crâne de Feu, l'eau, sans\nsubordonné, s'affaiblit; l'air, sans maître,\nse renforce"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It[SP]all[SP]probably[SP]affects[SP]each[SP]temple's\nstructure[SP]and[SP]how[SP]strong[SP]the[SP]demons[SP]in\nit[SP]are...",
     "nom_fr": "Maya",
-    "texte_fr": "Ça change la structure des\ntemples et la force des démons..."
+    "texte_fr": "Ça change la structure des temples et la\nforce des démons..."
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Alright...[1205][001E][SP]Like[SP]it[SP]or[SP]not,[SP]this[SP]is[SP]the[SP]last\none.[SP]Let's[SP]steel[SP]ourselves[SP]and[SP]do[SP]this!",
     "nom_fr": "Maya",
-    "texte_fr": "Bon...[1205][001E] C'est le dernier.\nPréparez-vous, on y va!"
+    "texte_fr": "Bon...[1205][001E] C'est le dernier. Préparez-vous, on y\nva!"
   },
   {
     "id": 11,
@@ -192,7 +192,7 @@
     "nom_orig": "Jun",
     "texte_orig": "The[SP]four[SP]constellations[SP]of[SP]the[SP]Grand[SP]Cross[SP]are\neach[SP]associated[SP]with[SP]one[SP]of[SP]the[SP]elements[SP]of\nearth,[SP]water,[SP]fire,[SP]and[SP]wind.",
     "nom_fr": "Jun",
-    "texte_fr": "Les quatre constellations de la\nGrande Croix sont chacune associées\nà un élément: terre, eau, feu, air."
+    "texte_fr": "Les quatre constellations de la Grande Croix\nsont chacune associées à un élément: terre,\neau, feu, air."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Jun",
     "texte_orig": "These[SP]four[SP]elements[SP]maintain[SP]the[SP]balance[SP]of[SP]the\nworld,[SP]and[SP]each[SP]has[SP]strengths[SP]and[SP]weaknesses.[1205][001E]\nIt's[SP]a[SP]brand[SP]of[SP]mysticism[SP]Father[SP]told[SP]me[SP]about.",
     "nom_fr": "Jun",
-    "texte_fr": "Ces quatre éléments maintiennent\nl'équilibre du monde, chacun a\nses forces et faiblesses.[1205][001E] C'est un\nmysticisme que mon père m'a enseigné."
+    "texte_fr": "Ces quatre éléments maintiennent l'équilibre\ndu monde, chacun a ses forces et faiblesses.[1205][001E]\nC'est un mysticisme que mon père m'a\nenseigné."
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Xibalba[SP]is,[SP]in[SP]other[SP]words,[SP]a[SP]model[SP]for[SP]the\nnew[SP]world...[1205][001E][SP]The[SP]balance[SP]of[SP]the[SP]temples\nsymbolizing[SP]the[SP]world[SP]may[SP]be[SP]important...",
     "nom_fr": "Jun",
-    "texte_fr": "Xibalba est un modèle du nouveau\nmonde...[1205][001E] L'équilibre des temples qui\nsymbolisent le monde est crucial..."
+    "texte_fr": "Xibalba est un modèle du nouveau monde...[1205][001E]\nL'équilibre des temples qui symbolisent le\nmonde est crucial..."
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Even[SP]from[SP]here,[SP]I[SP]can[SP]sense[SP]Father's[SP]presence...[1205][001E]\nHis[SP]will[SP]is[SP]enveloping[SP]the[SP]city...",
     "nom_fr": "Jun",
-    "texte_fr": "Même d'ici, je sens mon père...[1205][001E] Sa volonté enveloppe la ville..."
+    "texte_fr": "Même d'ici, je sens mon père...[1205][001E] Sa volonté\nenveloppe la ville..."
   },
   {
     "id": 16,

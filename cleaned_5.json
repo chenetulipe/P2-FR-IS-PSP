@@ -1,0 +1,50 @@
+[
+  {
+    "file": "script_379.json",
+    "id": 91,
+    "fr_cleaned": "Certains nécessitent des conditions\nspéciales. Ils sommeillent[1205][000A]dans l'inconscient... Il faudra\nun moyen de les éveiller.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_379.json",
+    "id": 170,
+    "fr_cleaned": "Êtes-vous sûr de vous séparer de ce \nPersona?[1205][000A][1208][0002]Oui\nNon",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_382.json",
+    "id": 16,
+    "fr_cleaned": "Je ne pensais pas qu'Eikichi\nréagirait autant au poisson. On[1205][000A]dirait un réflexe conditionné...\nOu plutôt une empreinteanimale?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_382.json",
+    "id": 80,
+    "fr_cleaned": "Je suis enfin président de\nl'entreprise, je veux dépenser un peu[1205][000A]et m'offrir un poisson entier, mais\nmes goûts [1205][000F]restent. Un thon, chef!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_382.json",
+    "id": 81,
+    "fr_cleaned": "Hahaha. [1205][000F]J'ai entendu dire qu'il y\naura une mascarade pour le festival[1205][000A]de Lycée Kakasu. Ces enfants ont\ndes idées vraimentintéressantes.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_382.json",
+    "id": 111,
+    "fr_cleaned": "On a aperçu le Vieux Sauteur au\nMont Katatsumuri. Je croyais qu'il[1205][000A]apparaissait sur les routes et\ntunnels... Ajoutons les montagnes.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_387.json",
+    "id": 7,
+    "fr_cleaned": "On dirait que le Bataillon [1205][000F]ne s'en\nest même pas servi. C'est comme[1205][000A]s'il était conçu spécialement pour\nnous...",
+    "garbage_removed": " Se téléporter à Seven?[SP][SP] OuiNon"
+  },
+  {
+    "file": "script_390.json",
+    "id": 53,
+    "fr_cleaned": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la\nFEMME. Elle regarde, pensive, par[1205][000A]la fenêtre. Elle réalise qu'elle\npense de plus en plus à l'HOMME...[1432][NULL][NULL][0014]",
+    "garbage_removed": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "file": "MMAP01.json",
+    "id": 56,
+    "orig": "From[SP]what[SP]I[SP]heard,[SP]the[SP]lady[SP]at[SP]Shiraishi[SP]Ramen\nwas[SP]really[SP]a[SP]Russian[SP]spy.",
+    "fr": "Il paraît que la dame de Shiraishi Ramen\nest une espionne russe.[NL]Si tu commandes des ramens au porc et à la\nbanane, elle te vend des armes ! Drôle de monde, hein ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 57,
+    "orig": "You[SP]can[SP]tell[SP]because[SP]she'll[SP]sell[SP]you[SP]real\nweapons[SP]if[SP]you[SP]order[SP]banana[SP]char[SP]siu[SP]ramen![1205][000F]\nFunny[SP]old[SP]world,[SP]huh?",
+    "fr": "Il paraît qu'il y a un monstre Mégère à Commode\nà l'usine... Vraiment ? Mégère\n[NULL][NULL][0014]Mégère à Commode[1432][NULL][NULL][0014] ?[1106][NL]C'est pas une commode avec des bras et des jambes, si ? Pfff. Ces monstres ont de ces noms...[1205][000F] "
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 58,
+    "orig": "From[SP]what[SP]I[SP]heard,[SP]the[SP]new[SP]Leader[SP]at[SP]Cuss[SP]High\nwasn't[SP]stronger[SP]than[SP]Eikichi[SP]at[SP]all.[1205][000F][SP]But[SP]then,\nwho[SP]is[SP]stronger[SP]than[SP]that[SP]kid?",
+    "fr": "Le nouveau chef de Kakasu n'est pas plus\nfort qu'Eikichi.[1205][000F] Mais qui est plus fort\nque ce gamin ?[NL]Le Boss Calbute n'a pas perdu la main."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 60,
+    "orig": "You[SP]can[SP]buy[SP]real[SP]shooters[SP]and[SP]blades[SP]at[SP]this\nguy[SP]Tony's[SP]shop[SP]in[SP]Yumezaki?[1205][000F][SP]Damn...[SP]sounds\ndangerous,[SP]if[SP]you[SP]ask[SP]me.",
+    "fr": "On peut acheter des armes à feu et des lames\nchez Tony à Yumezaki ?[1205][000F] Mince... ça craint.[NL]Je l'ai appris du gros Toro à Gatten Sushi.\nSi tu veux en savoir plus, va lui demander."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 62,
+    "orig": "I[SP]guess[SP]people[SP]are[SP]pretty[SP]worked[SP]up[SP]over[SP]this\nnew[SP]singer.[1205][000F][SP]Me,[SP]I[SP]prefer[SP]enka.",
+    "fr": "Les gens sont à fond sur cette nouvelle\nchanteuse.[1205][000F] Moi, je préfère l'enka.[NL]Il n'y a pas un événement live en ce moment à\nGiga Macho ? Quoi, tu vas pas y aller ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 66,
+    "orig": "Looks[SP]like[SP]it[SP]wasn't[SP]just[SP]the[SP]concert[SP]hall.\nThose[SP]five[SP]guys[SP]were[SP]inside[SP]Smile[SP]Hirasaka\ntoo,[SP]just[SP]before[SP]things[SP]went[SP]down[SP]there.",
+    "fr": "Pas que la salle de concert. Ces cinq-là étaient\naussi à Smile Hirasaka avant que ça dégénère.[NL]Ça me semble lié. Ce sont des individus louches,\nà mon avis. Tu ne crois pas, petit ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 70,
+    "orig": "What[SP]the!?[SP]D-Didn't[SP]you[SP]guys[SP]just[SP]pass[SP]by[SP]here?",
+    "fr": "Quel délire !? V-Vous ne venez pas\nde passer là ?[NL]Alors qui c'était... ? J-Je vois double...[NL]H-Hahaha... J'ai dû trop boire hier soir...\nIl faut vraiment que je lève le pied sur l'alcool..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 75,
+    "orig": "Well,[SP]I'll[SP]be[SP]damned![1205][000F][SP]That[SP]Xibalba[SP]thing[SP]was\nthis[SP]big!?[1205][000A][SP]Not[SP]too[SP]many[SP]people[SP]can[SP]say[SP]they\nlive[SP]in[SP]a[SP]city[SP]in[SP]the[SP]sky.",
+    "fr": "Nom d'un chien ![1205][000F] Ce Xibalba était aussi grand !? \nPeu de gens peuvent dire qu'ils vivent\ndans une ville dans le ciel.[NL]Mais je ne crois pas à cette histoire de fin du monde. Tu peux rien y faire, petit !?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 77,
+    "orig": "Everyone[SP]I[SP]know's[SP]talkin'[SP]about[SP]how[SP]the[SP]world's\ngonna[SP]end![1205][000A]",
+    "fr": "Tout le monde dit que c'est la fin du monde ! [NL]Inondations, météores... Dès que cette Grande\nJe-Sais-Pas-Quoi arrivera...[NL]Ce que je pige pas, c'est que ça va tous les tuer\nen bas, non ? Quel intérêt de prédire comment ils vont mourir ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 81,
+    "orig": "Hey,[SP]I[SP]heard[SP]the[SP]world[SP]will[SP]stop[SP]spinning[SP]if\nthe[SP]Grand[SP]Cross[SP]happens.[1205][000A][SP]Somethin'[SP]about[SP]the\nbalance[SP]of[SP]gravity[SP]and[SP]stuff...[SP]Over[SP]my[SP]head.",
+    "fr": "J'ai entendu dire que la Terre arrêtera de tourner\navec la Croix. Un truc sur la gravité...\nÇa me dépasse.[NL]À quel point ce serait grave si ça arrivait ? J'en sais rien..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 84,
+    "orig": "Hey,[SP]kid.[SP]Ya[SP]know[SP]that[SP]club[SP]Zodiac?[SP]People[SP]say\nthe[SP]second[SP]floor's[SP]a[SP]huge[SP]dungeon,[SP]packed[SP]with\ngreat[SP]stuff.",
+    "fr": "Hé, petit. Tu connais le Zodiac ? On dit que\nle 2e étage est un immense donjon rempli\nde super trucs.[NL]Pourquoi tu vas pas fouiner ? Montre tes talents et je parie que ta copine va te sauter dessus. Hahahaha !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 87,
+    "orig": "What,[SP]there's[SP]another[SP]ghost[SP]at[SP]Cuss[SP]High?\nBukimi[SP]this[SP]time?",
+    "fr": "Quoi, y a un autre fantôme au lycée Kakasu ?\nBukimi cette fois ?[NL]Je peux pas blâmer une fille appelée Bukimi de\nvouloir se venger."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 89,
+    "orig": "I[SP]hear[SP]a[SP]dead[SP]idol's[SP]ghost[SP]is[SP]hauntin'[SP]Aoba\nPark.[SP]Guess[SP]dead[SP]or[SP]alive,[SP]girls[SP]like[SP]flowers.",
+    "fr": "Le fantôme d'une idole morte hante le parc Aoba.\nMortes ou vives, les filles aiment les fleurs.[NL]Mais une fille morte jouant dans les\nfleurs... C'est bien triste, à mon avis."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 94,
+    "orig": "I[SP]guess[SP]kids[SP]your[SP]age[SP]wouldn't[SP]know[SP]about\nKuchisake-onna,[SP]huh?",
+    "fr": "Les gosses de ton âge connaissent pas\nKuchisake-onna, hein ?[NL]Elle vient te voir la bouche couverte et te\ndemande si tu la trouves jolie...[NL]La rumeur dit que Kuchisake-onna est apparue au Mt Iwato.[NL]Faut avouer que ce genre d'histoires me donnait la chair de poule quand j'étais gosse."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 97,
+    "orig": "I[SP]gotta[SP]admit,[SP]stories[SP]like[SP]that[SP]used[SP]to[SP]give\nme[SP]the[SP]willies[SP]when[SP]I[SP]was[SP]a[SP]kid.",
+    "fr": "Mu a un casino ? Je savais pas !\nJ'adore ça ! Je suis à fond ![1106][NL]En plus, tu gagnes gros au\nblackjack. Hah, mon préféré !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 99,
+    "orig": "I-I[SP]just[SP]heard[SP]a[SP]hell[SP]of[SP]a[SP]thing...[SP]Do[SP]you\nknow[SP]about[SP]this?",
+    "fr": "J-Je viens d'entendre un truc de fou...\nT'es au courant ?[NL]C-Ce Kudan... Il est à l'usine abandonnée,\net... Gaaah, je peux même pas le dire... !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 102,
+    "orig": "Hidden[SP]from[SP]who,[SP]is[SP]what[SP]I[SP]wanna[SP]know.\nYou[SP]know[SP]anything[SP]about[SP]this?",
+    "fr": "Hé, des démons ont vraiment volé l'arme\nlégendaire de Time Castle ?[1106][NL]Quelle connerie.[1205][000F] M'enfin, on\npeut s'attendre à tout de nos jours..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 103,
+    "orig": "From[SP]what[SP]I[SP]heard,[SP]there's[SP]this[SP]Dresser[SP]Hag\nmonster[SP]at[SP]the[SP]abandoned[SP]factory...[SP]Really,\nnow?[SP][1432][NULL][NULL][0014]Dresser[SP]Hag[1432][NULL][NULL][0014]?",
+    "fr": "Il paraît qu'il y a un monstre Mégère à Commode\nà l'usine... Vraiment ? Mégère\n[NULL][NULL][0014]Mégère à Commode[1432][NULL][NULL][0014] ?[NL]C'est pas une commode avec des bras et des jambes, si ? Pfff. Ces monstres ont de ces noms..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 104,
+    "orig": "It's[SP]not[SP]like[SP]it's[SP]a[SP]dresser[SP]with[SP]arms[SP]and\nlegs,[SP]is[SP]it?[SP]Sheesh.[SP]All[SP]these[SP]monsters[SP]got\nthe[SP]worst[SP]names,[SP]I[SP]tell[SP]ya.",
+    "fr": "Hé, t'as entendu ? Le boss de Time Castle a\ndistribué son arme légendaire à une fille\naux cheveux courts.[1106][NL]Hahaha, plutôt généreux, non ? C'est ça un vrai homme."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 106,
+    "orig": "It's[SP]a[SP]dangerous[SP]world[SP]we[SP]live[SP]in,[SP]I[SP]tell[SP]ya.",
+    "fr": "Hyaaaah ![1205][000F] C'était juste une rumeur ?[1205][000F] On\nparle d'une statue vivante à Seven... Aime\n5]Aime le pécheur, hais le péché ![1106][NL]Avoir une telle statue à l'école doit gêner sérieusement l'éducation de ces élèves.[1205][000F][1106][NL]En tant qu'étudiant, j'apporterai le châtiment divin à cette statue ! Éventuellement..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 108,
+    "orig": "It's[SP]a[SP]dangerous[SP]world[SP]we[SP]live[SP]in,[SP]I[SP]tell[SP]ya.",
+    "fr": "Hyaaaah ! J'arrive pas à croire que j'ai\ngobé une rumeur infondée ![1205][000F] Quoi ? Tu veux\nen savoir plus sur ma folie ?[1106][NL]J'ai entendu une rumeur disant qu'il y avait de vraies armures à Anima Mundi à Yumezaki.[1106][NL]Mais en fait, il n'y avait rien de tel ! Les employés se sont même moqués de moi ![1106][NL]Mais mes infos étaient peut-être fausses...[1205][000F] Ce grand costaud sait peut-être quelque chose.[1205][000F] Il s'appelle Toro, et adore le thon gras."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 110,
+    "orig": "It's[SP]a[SP]dangerous[SP]world[SP]we[SP]live[SP]in,[SP]I[SP]tell[SP]ya.",
+    "fr": "Hyaaaah ![1205][000F] J'aime Ginji Sasaki moi aussi ![1205][000F]\nJe ne les écoute pas vraiment, mais j'ai acheté\ntout ce qu'il a produit ! Même sa compil ![1106][NL]Mais je hais qu'il entraîne des filles innocentes devant étudier dans cette industrie tape-à-l'œil ![1106][NL]Bien que je ne déteste pas vraiment sa musique.[1205][000F] Est-ce que je me contredis ?[1205][000F] Oui, n'est-ce pas... ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 112,
+    "orig": "I[SP]hear[SP]his[SP]selection's[SP]good,[SP]but[SP]his[SP]resale\nprice[SP]ain't[SP]so[SP]hot.",
+    "fr": "Hyaaaah ![1205][000F] On parle de terrorisme par-ci\npar-là, mais on devrait connaître leurs\nrevendications maintenant.[1106][NL]Pourtant, aucune n'a été faite. C'est peut-être l'œuvre de quelqu'un qui s'amuse...[1205][000F] Ma colère ne s'apaisera jamais !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 114,
+    "orig": "I[SP]hear[SP]his[SP]stuff's[SP]cheap,[SP]but[SP]not[SP]what[SP]you'd\ncall[SP]quality.",
+    "fr": "Hyaaaah ![1205][000F] Hmm, si mes souvenirs du lycée\nsont exacts, cette dame d'il y a un\ninstant était de Seven...[1106][NL]Il s'est passé un truc pour qu'elle se rue ainsi à l'agence de détectives ?[1205][000F] *gasp* Non ! Quelle pensée affreuse ![1106][NL]C'est terriblement vulgaire de s'immiscer dans la vie privée des autres.[1205][000F] Je dois me faire une raison ![1205][000F] Je vais copier le code civil !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 116,
+    "orig": "I[SP]hear[SP]the[SP]quality[SP]and[SP]price[SP]of[SP]his[SP]stuff\nis[SP]pretty[SP]average.",
+    "fr": "Hyaaaah ![1205][000F] L'invasion du Bataillon est un\ngrave problème, mais l'In Lak'ech est\nencore plus sérieux ![1106][NL]S'il dit vrai, le monde fera face à une destruction totale bientôt.[1106][NL]Si ça arrive, que deviendra mon rêve !?[1205][000F] Comment intégrer la meilleure université du pays si le pays est détruit !?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 118,
+    "orig": "I[SP]hear[SP]he[SP]has[SP]good[SP]stuff,[SP]but[SP]it's[SP]expensive.",
+    "fr": "Hyaaaah ![1205][0008] Entrer dans une grande faculté, bosser\npour la meilleure boîte... C'est mon rêve\ndepuis 31 ans...[1205][000F] Aucun ne se réalisera...[1106][NL]Au moins, je verrai la fin de notre\nTerre, puisque ma vie sera épargnée.[1205][000F]\nFaut-il oublier les vieilles connaissances... *sniff*[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant\nHyaaaah ![1205][0008] J'entends dire que quand la Croix\nCosmique sera terminée, un trou noir va se\nformer au centre et engloutir cette planète.[1106][NL]Mais si ça arrivait, alors nous ne\nserions pas non plus en sécurité. \nÇa ressemble à un canular."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 151,
+    "orig": "So[SP]Mu[SP]is[SP]actually[SP]a[SP]gambling[SP]parlor?[SP]I[SP]didn't\nknow[SP]that![SP]I[SP]love[SP]gambling![SP]Now[SP]I'm[SP]excited!",
+    "fr": "Mu a un casino ? Je savais pas !\nJ'adore ça ! Je suis à fond ![NL]En plus, tu gagnes gros au\nblackjack. Hah, mon préféré !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 152,
+    "orig": "Plus,[SP]I[SP]hear[SP]you[SP]can[SP]win[SP]big[SP]there[SP]at\nblackjack.[SP]Hah,[SP]my[SP]favorite!",
+    "fr": "Hyaaaah ![1205][000F] Donc il est VRAI qu'Anima Mundi\nvend des armures ![1106][NL]J'entends dire que leur qualité et leurs prix\nsont dans la moyenne, cela dit."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 157,
+    "orig": "Hey,[SP]is[SP]it[SP]true[SP]some[SP]demons[SP]stole[SP]the[SP]legendary\nweapon[SP]from[SP]Time[SP]Castle?",
+    "fr": "Hé, des démons ont vraiment volé l'arme\nlégendaire de Time Castle ?[NL]Quelle connerie. M'enfin, on\npeut s'attendre à tout de nos jours..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 159,
+    "orig": "I[SP]heard[SP]some[SP]unlucky[SP]woman[SP]bought[SP]the[SP]legendary\nweapon[SP]at[SP]Time[SP]Castle.[SP]A[SP]lady's[SP]got[SP]no[SP]business\nownin'[SP]something[SP]that[SP]dangerous.",
+    "fr": "Une femme malchanceuse a acheté l'arme\nlégendaire de Time Castle. Une dame avec ça, sérieux.[NL]Hein ? Je suis ringard ? M'en fiche !\nPour moi, les hommes protègent les femmes !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 161,
+    "orig": "Hey,[SP]did[SP]ya[SP]hear?[SP]The[SP]owner[SP]of[SP]Time[SP]Castle[SP]gave\nthat[SP]legendary[SP]weapon[SP]to[SP]some[SP]girl[SP]with[SP]short\nhair.",
+    "fr": "Hé, t'as entendu ? Le boss de Time Castle a\ndistribué son arme légendaire à une fille\naux cheveux courts.[NL]Hahaha, plutôt généreux, non ? C'est ça un vrai homme."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 162,
+    "orig": "Hahaha,[SP]pretty[SP]generous[SP]of[SP]him,[SP]huh?[SP]Now[SP]there's\na[SP]man[SP]for[SP]you.",
+    "fr": "Hyaaaah ! Les tailleurs fabriquent même des armures ?\nOn peut apparemment en acheter à\nLondon Clothier.[1106][NL]Leurs prix sont bas, mais leurs biens sont de mauvaise qualité."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 163,
+    "orig": "Hyaaaaah![SP]I'm[SP]not[SP]a[SP]Cuss[SP]High[SP]student[SP]anymore.\nI[SP]used[SP]to[SP]be[SP]one,[SP]but[SP]no[SP]longer.",
+    "fr": "Hyaaaaah ! Je ne suis plus à Kakasu.\nJ'y étais, mais plus maintenant.[NL]Maintenant, j'étudie dur pour intégrer\nla meilleure université du pays ![NL]Cependant ! L'afflux de femmes ici est troublant ! Mon école est populaire, mais ça me distrait !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 164,
+    "orig": "Now,[SP]I[SP]am[SP]a[SP]washout[SP]who's[SP]fighting[SP]to[SP]study\nhard[SP]and[SP]make[SP]it[SP]into[SP]the[SP]best[SP]university[SP]in\nthe[SP]country!",
+    "fr": "Hyaaaah ! Les tailleurs fabriquent même des armures ?\nOn peut apparemment en acheter à\nLondon Clothier.[1106][NL]Leur qualité et leurs prix sont tout à fait moyens."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 165,
+    "orig": "However![SP]The[SP]recent[SP]influx[SP]of[SP]women[SP]into[SP]this\ncity[SP]is[SP]troubling![SP]While[SP]I'm[SP]happy[SP]my[SP]alma[SP]mater\nis[SP]gaining[SP]popularity,[SP]they're[SP]distracting!",
+    "fr": "Hyaaaah ! Les tailleurs fabriquent même des armures ?\nOn peut apparemment en acheter à\nLondon Clothier.[1106][NL]Leur sélection est pauvre, mais les prix de rachat qu'ils offrent sont généreux."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 166,
+    "orig": "Hyaaaah![1205][000F][SP]Was[SP]it[SP]only[SP]a[SP]groundless[SP]rumor?[1205][000F][SP]I[SP]hear\ntell[SP]of[SP]a[SP]walking[SP]statue[SP]at[SP]Sevens,[SP]my[SP]alma\nmater's[SP]rival...[1205][000F][SP]Hate[SP]the[SP]sin,[SP]love[SP]the[SP]sinner!",
+    "fr": "Hyaaaah ![1205][000F] C'était juste une rumeur ?[1205][000F] On\nparle d'une statue vivante à Seven... Aime\n5]Aime le pécheur, hais le péché ![NL]Avoir une telle statue à l'école doit gêner sérieusement l'éducation de ces élèves.[NL]En tant qu'étudiant, j'apporterai le châtiment divin à cette statue ! Éventuellement..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 167,
+    "orig": "Having[SP]such[SP]a[SP]statue[SP]on[SP]school[SP]grounds[SP]must[SP]be\na[SP]serious[SP]impediment[SP]to[SP]the[SP]education[SP]of[SP]the\nstudents[SP]there.[1205][000F]",
+    "fr": "Hyaaaah ![1205][000F] Est-il vrai qu'on peut gagner de vraies armes\ndans un concours de magazine ?[1106][NL]On gagne très rarement, mais les prix\npour ceux qui y parviennent sont exquis."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 168,
+    "orig": "As[SP]a[SP]fighting[SP]student,[SP]I[SP]will[SP]bring[SP]divine\npunishment[SP]to[SP]that[SP]vexing[SP]statue![SP]Eventually,\nthat[SP]is...",
+    "fr": "Hyaaaah ![1205][000F] Est-il vrai qu'on peut gagner de vraies armes\ndans un concours de magazine ?[1106][NL]Il n'est pas difficile de gagner, mais on peut\nse demander pourquoi on a pris la peine."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 169,
+    "orig": "H-Hyaaaah...![1205][000F][SP]My[SP]vision[SP]is[SP]blurry[SP]with[SP]tears...\nThe[SP]students[SP]at[SP]my[SP]alma[SP]mater[SP]are[SP]incredible!",
+    "fr": "H-Hyaaaah... ![1205][000F] J'ai les larmes aux yeux...\nLes élèves de mon école sont incroyables ![NL]Vous êtes de brillants exemples !\nJ'ai longtemps attendu une telle chose ![NL]Le festival montre les fruits de l'éducation et des traditions scolaires ![NL]Faire un bal masqué comme ça prouve votre esprit international ![NL]C'est dans la nature de la jeunesse d'être imprudent au nom de la liberté ![NL]Les gouttes d'eau usent la pierre ! Faites de votre mieux pour votre avenir, et des lendemains radieux vous attendent !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 170,
+    "orig": "You[SP]are[SP]all[SP]shining[SP]examples![1205][000F][SP]I[SP]have[SP]long\nawaited[SP]such[SP]a[SP]sight!",
+    "fr": "Hyaaaah ![1205][000F] Je suis un simple étudiant voulant intégrer\nla meilleure faculté. Je n'ai pas de temps à perdre\ndans les jeux d'argent ![1106][NL]...Cependant, il ne faut pas négliger le monde réel. J'entends qu'on peut gagner gros à la machine #1...[1205][000F] Ça ne ferait pas de mal d'essayer."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 171,
+    "orig": "A[SP]school[SP]festival[SP]is[SP]an[SP]important[SP]event[SP]that\nshows[SP]the[SP]fruits[SP]of[SP]daily[SP]education[SP]and[SP]school\ntraditions![1205][000F]",
+    "fr": "Hyaaaah ![1205][000F] Je suis un simple étudiant voulant intégrer\nla meilleure faculté. Je n'ai pas de temps à perdre\ndans les jeux d'argent ![1106][NL]Mais le blackjack est une exception. Je n'aime pas ça, pas vraiment, mais il paraît qu'on peut y gagner gros. Mes études ne sont pas gratuites !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 173,
+    "orig": "It[SP]is[SP]in[SP]the[SP]nature[SP]of[SP]youth[SP]to[SP]be[SP]reckless\nin[SP]the[SP]name[SP]of[SP]freedom![1205][000F]",
+    "fr": "Hyaaaah ![1205][000F] Y a-t-il vraiment une arme légendaire\nen stock chez Clair de Lune ?[1106][NL]Bah ! Les armes d'un étudiant sont les stylos\net les livres ! Cela ne me concerne pas."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 174,
+    "orig": "Even[SP]drops[SP]of[SP]water[SP]wear[SP]away[SP]at[SP]stone![1205][000F][SP]Do[SP]your\nbest[SP]to[SP]work[SP]towards[SP]your[SP]future,[SP]and[SP]a[SP]bright\ntomorrow[SP]will[SP]await[SP]you[SP]all!",
+    "fr": "Hyaaaah ![1205][000F] Ce propriétaire de Time Castle... Prétendre\nne pas avoir ce qu'il a en fait, dans le but\nde faire monter son prix, est impardonnable.[1106][NL]Mais Time Castle a-t-il vraiment une arme légendaire, pour commencer ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 175,
+    "orig": "Hyaaaah![SP]I[SP]can't[SP]believe[SP]I[SP]let[SP]myself[SP]be[SP]taken\nin[SP]by[SP]a[SP]groundless[SP]rumor![1205][000F][SP]What?[SP]You[SP]wish[SP]to\nknow[SP]more[SP]of[SP]my[SP]folly?",
+    "fr": "Hyaaaah ! J'arrive pas à croire que j'ai\ngobé une rumeur infondée ![1205][000F] Quoi ? Tu veux\nen savoir plus sur ma folie ?[NL]J'ai entendu une rumeur disant qu'il y avait de vraies armures à Anima Mundi à Yumezaki.[NL]Mais en fait, il n'y avait rien de tel ! Les employés se sont même moqués de moi ![NL]Mais mes infos étaient peut-être fausses... Ce grand costaud sait peut-être quelque chose. Il s'appelle Toro, et adore le thon gras."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 177,
+    "orig": "But[SP]in[SP]truth,[SP]there[SP]was[SP]nothing[SP]of[SP]the[SP]kind!\nThe[SP]employees[SP]there[SP]even[SP]mocked[SP]me[SP]for[SP]asking!",
+    "fr": "Hyaaaah ![1205][000F] L'arme légendaire de\nTime Castle a été vendue ! J'entends qu'une femme\nparticulièrement malchanceuse l'a achetée.[1106][NL]Hrghhh... Quel culot ! Et si elle l'utilisait pour mettre fin à ses jours !? S'il me l'avait confiée, j'en aurais fait bon usage..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 178,
+    "orig": "But[SP]perhaps[SP]my[SP]information[SP]was[SP]bad...[1205][000F][SP]Maybe\nthat[SP]stout[SP]man[SP]knows[SP]something.[1205][000F][SP]I[SP]believe[SP]his\nname[SP]is[SP]Toro,[SP]and[SP]he[SP]loves[SP]fatty[SP]tuna.",
+    "fr": "Hyaaaah ![1205][000F] Ce lâche propriétaire de Time Castle !\nIl a donné l'arme légendaire à une femme\naux cheveux courts ! Comment a-t-il pu !?[1106][NL]Eh ? Quel genre de femme était-ce ? B-Belle, je suppose...[1205][000F] J-Je ne suis pas envieux, pas du tout !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 179,
+    "orig": "Hyaaaah![1205][000F][SP]I[SP]heard[SP]that[SP]the[SP]members[SP]of[SP]Muses[SP]are\nall[SP]still[SP]in[SP]high[SP]school!",
+    "fr": "Hyaaaah ![1205][000F] J'ai entendu dire que les membres de\nMuses sont toutes encore au lycée ![NL]Qu'en est-il de leurs études !? Et leurs\nexamens d'entrée à la fac !? Avez-vous seulement passé vos examens finaux !?[NL]La beauté seule ne suffit pas ! Comment osent-elles se laisser éblouir par le show-biz !? Le premier devoir d'un étudiant est d'étudier !"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 182,
+    "orig": "Hyaaaah![1205][000F][SP]I[SP]like[SP]Ginji[SP]Sasaki[SP]too![1205][000F][SP]I[SP]don't[SP]really\nlisten[SP]to[SP]them,[SP]but[SP]I've[SP]bought[SP]everything[SP]he's\nproduced![SP]Even[SP]his[SP]compilation[SP]album!",
+    "fr": "Hyaaaah ![1205][000F] J'aime Ginji Sasaki moi aussi ![1205][000F]\nJe ne les écoute pas vraiment, mais j'ai acheté\ntout ce qu'il a produit ! Même sa compil ![NL]Mais je hais qu'il entraîne des filles innocentes devant étudier dans cette industrie tape-à-l'œil ![NL]Bien que je ne déteste pas vraiment sa musique. Est-ce que je me contredis ? Oui, n'est-ce pas... ?"
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 185,
+    "orig": "Hyaaaah![1205][000F][SP]I[SP]don't[SP]know[SP]if[SP]it[SP]was[SP]actually[SP]a\nterrorism[SP]wave,[SP]but[SP]my[SP]cram[SP]school[SP]was[SP]shut\ndown[SP]because[SP]of[SP]fools[SP]playing[SP]with[SP]fire!",
+    "fr": "Hyaaaah ![1205][000F] Je ne sais pas s'il y a vraiment\nune vague de terrorisme, mais ma prépa a\nfermé à cause d'idiots qui jouent avec le feu ![NL]Rien ne m'empêchera d'étudier ! La plume est plus forte que l'épée ! Je ferai tomber le Cercle masqué ! Bientôt..."
+  },
+  {
+    "file": "MMAP01.json",
+    "id": 187,
+    "orig": "Hyaaaah![1205][000F][SP]People[SP]talk[SP]about[SP]terrorism[SP]this[SP]and\nterrorism[SP]that,[SP]but[SP]if[SP]this[SP]is[SP]the[SP]work[SP]of\nterrorists,[SP]we[SP]should[SP]know[SP]their[SP]demands[SP]now.",
+    "fr": "Hyaaaah ![1205][000F] On parle de terrorisme par-ci\npar-là, mais on devrait connaître leurs\nrevendications maintenant.[NL]Pourtant, aucune n'a été faite. C'est peut-être l'œuvre de quelqu'un qui s'amuse... Ma colère ne s'apaisera jamais !"
+  }
+]

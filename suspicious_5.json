@@ -1,0 +1,50 @@
+[
+  {
+    "file": "script_379.json",
+    "id": 91,
+    "orig": "Some[SP]require[SP]special[SP]conditions[SP]to[SP]be[SP]summoned.\nThey[SP]slumber[SP]at[SP]the[SP]depths[SP]of[SP]the[SP]unconscious\nmind...[SP]You[SP]will[SP]need[SP]a[SP]way[SP]to[SP]awaken[SP]them.",
+    "fr": "Certains nécessitent des conditions\nspéciales. Ils sommeillent\ndans l'inconscient... Il faudra\nun moyen de les éveiller."
+  },
+  {
+    "file": "script_379.json",
+    "id": 170,
+    "orig": "Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]let[SP]go[SP]of[SP]this[SP]Persona?\n[1208][0002]Yes\nNo",
+    "fr": "Êtes-vous sûr de vous séparer de ce \nPersona?\n[1208][0002]Oui\nNon"
+  },
+  {
+    "file": "script_382.json",
+    "id": 16,
+    "orig": "I[SP]didn't[SP]expect[SP]Eikichi[SP]to[SP]react[SP]so[SP]violently\nto[SP]fish.[SP]It's[SP]like[SP]a[SP]conditioned[SP]response...\nOr[SP]is[SP]it[SP]more[SP]like[SP]animal[SP]imprinting?",
+    "fr": "Je ne pensais pas qu'Eikichi\nréagirait autant au poisson. On\ndirait un réflexe conditionné...\nOu plutôt une empreinteanimale?"
+  },
+  {
+    "file": "script_382.json",
+    "id": 80,
+    "orig": "I'm[SP]finally[SP]company[SP]president,[SP]so[SP]I[SP]want[SP]to\nsplurge[SP]a[SP]little[SP]and[SP]get[SP]an[SP]entire[SP]fish,[SP]but\nmy[SP]tastes[SP]haven't[SP]changed.[1205][000F][SP]One[SP]albacore,[SP]chef!",
+    "fr": "Je suis enfin président de\nl'entreprise, je veux dépenser un peu\net m'offrir un poisson entier, mais\nmes goûts [1205][000F]restent. Un thon, chef!"
+  },
+  {
+    "file": "script_382.json",
+    "id": 81,
+    "orig": "Hahaha.[1205][000F][SP]I[SP]hear[SP]there's[SP]going[SP]to[SP]be[SP]a[SP]masquerade\nas[SP]part[SP]of[SP]Cuss[SP]High's[SP]school[SP]festival.[1205][000F][SP]Kids\nsure[SP]come[SP]up[SP]with[SP]some[SP]interesting[SP]ideas.",
+    "fr": "Hahaha. [1205][000F]J'ai entendu dire qu'il y\naura une mascarade pour le festival\nde Lycée Kakasu. Ces enfants ont\ndes idées vraimentintéressantes."
+  },
+  {
+    "file": "script_382.json",
+    "id": 111,
+    "orig": "There've[SP]been[SP]sightings[SP]of[SP]the[SP]Jumping[SP]Geezer\nat[SP]Mt.[SP]Katatsumuri.[SP]I[SP]thought[SP]it[SP]showed[SP]up[SP]on\nroads[SP]and[SP]tunnels...[SP]add[SP]mountains[SP]to[SP]the[SP]list.",
+    "fr": "On a aperçu le Vieux Sauteur au\nMont Katatsumuri. Je croyais qu'il\napparaissait sur les routes et\ntunnels... Ajoutons les montagnes."
+  },
+  {
+    "file": "script_387.json",
+    "id": 7,
+    "orig": "It's[SP]strange...[1205][000F][SP]It[SP]doesn't[SP]look[SP]as[SP]though[SP]the\nLast[SP]Battalion[SP]even[SP]used[SP]this.[1205][000F][SP]It's[SP]like[SP]they\nleft[SP]it[SP]just[SP]for[SP]us...",
+    "fr": "On dirait que le Bataillon [1205][000F]ne s'en\nest même pas servi. C'est comme\ns'il était conçu spécialement pour\nnous... Se téléporter à Seven?[SP][SP] OuiNon"
+  },
+  {
+    "file": "script_390.json",
+    "id": 53,
+    "orig": "[1432][NULL][NULL][0014]CLOSE-UP[SP]on[SP]the[SP]WOMAN's[SP]face.[SP]She[SP]stares\npensively[SP]out[SP]the[SP]window.[SP]She[SP]realizes[SP]that[SP]she's\nbeen[SP]thinking[SP]about[SP]the[SP]MAN[SP]more[SP]and[SP]more...[1432][NULL][NULL][0014]",
+    "fr": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la\nFEMME. Elle regarde, pensive, par\nla fenêtre. Elle réalise qu'elle\npense de plus en plus à l'HOMME...[1432][NULL][NULL][0014]"
+  }
+]

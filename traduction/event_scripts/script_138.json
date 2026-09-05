@@ -42,7 +42,7 @@
     "nom_orig": "Joker",
     "texte_orig": "It[SP]seems[SP]all[SP]the[SP]players[SP]have[SP]taken[SP]the[SP]stage.[1205][001E]\nThe[SP]three[SP]factions[SP]here[SP]are[SP]qualified[SP]to[SP]raise\nXibalba[SP]and[SP]have[SP]their[SP]desires[SP]granted.",
     "nom_fr": "Joker",
-    "texte_fr": "On dirait que tous les joueurs sont présents.[1205][001E]\nLes trois factions présentes peuvent invoquer\nXibalba et voir leurs souhaits exaucés."
+    "texte_fr": "On dirait que tous les joueurs sont\nprésents.[1205][001E] Les trois factions présentes\npeuvent invoquer Xibalba et voir leurs\nsouhaits exaucés."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Fuhrer",
     "texte_orig": "Exactly.[SP]My[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance,\nsymbolizing[SP]the[SP]Zodiac,[SP]has[SP]those\nqualifications[SP]as[SP]well.",
     "nom_fr": "Führer",
-    "texte_fr": "Exactement. Mon Ordre de la\nLance Sacrée, représentant le\nZodiac, possède aussi ce pouvoir."
+    "texte_fr": "Exactement. Mon Ordre de la Lance Sacrée,\nreprésentant le Zodiac, possède aussi ce\npouvoir."
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Fuhrer",
     "texte_orig": "Only[SP]those[SP]born[SP]under[SP]the[SP]holy[SP]constellation\nof[SP]the[SP]Grand[SP]Cross[SP]can[SP]control[SP]the[SP]five[SP]skulls.",
     "nom_fr": "Führer",
-    "texte_fr": "Seuls ceux nés sous la constellation\nde la Croix Cosmique peuvent\ncontrôler les cinq crânes."
+    "texte_fr": "Seuls ceux nés sous la constellation de la\nCroix Cosmique peuvent contrôler les cinq\ncrânes."
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Joker",
     "texte_orig": "Ha...[1205][001E][SP]And[SP]what[SP]would[SP]a[SP]ghost[SP]from[SP]the[SP]past,\nresurrected[SP]by[SP]rumors,[SP]wish[SP]for?",
     "nom_fr": "Joker",
-    "texte_fr": "Ha...[1205][001E] Et que désire donc un fantôme\ndu passé réanimé par les rumeurs?"
+    "texte_fr": "Ha...[1205][001E] Et que désire donc un fantôme du passé\nréanimé par les rumeurs?"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Fuhrer",
     "texte_orig": "The[SP]same[SP]as[SP]you,[SP]marionette[SP]of[SP]the[SP]Wheel\nof[SP]Fortune.",
     "nom_fr": "Führer",
-    "texte_fr": "Comme vous, marionnette\nde la roue de la fortune."
+    "texte_fr": "Comme vous, marionnette de la roue de la\nfortune."
   },
   {
     "id": 8,
@@ -147,7 +147,7 @@
     "nom_orig": "Fuhrer",
     "texte_orig": "It[SP]was[SP]your[SP]fears[SP]and[SP]expectations[SP]of[SP]them\nwhich[SP]summoned[SP]me.[SP]And[SP]now[SP]that[SP]I[SP]am[SP]here,\nI[SP]must[SP]live[SP]up[SP]to[SP]them,[SP]nein?",
     "nom_fr": "Führer",
-    "texte_fr": "Ce sont vos peurs et vos attentes qui\nm'ont invoqué. Et maintenant que je\nsuis ici, je me dois d'y répondre, nein?"
+    "texte_fr": "Ce sont vos peurs et vos attentes qui m'ont\ninvoqué. Et maintenant que je suis ici, je\nme dois d'y répondre, nein?"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Joker",
     "texte_orig": "True...[SP]But[SP]that's[SP]my[SP]duty.[SP]I[SP]wish[SP]you'd\nleave,[SP]old[SP]man...[1205][001E][SP]Along[SP]with[SP]that[SP]trash\nover[SP]there...",
     "nom_fr": "Joker",
-    "texte_fr": "C'est vrai... Mais c'est mon devoir. Je\nvoudrais que tu partes...[1205][001E] Avec tes déchets..."
+    "texte_fr": "C'est vrai... Mais c'est mon devoir. Je\nvoudrais que tu partes...[1205][001E] Avec tes\ndéchets..."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Maya",
     "texte_orig": "You're[SP]wrong,[SP]Jun-kun![SP]Dreams[SP]aren't[SP]meant\nto[SP]be[SP]given!",
     "nom_fr": "Maya",
-    "texte_fr": "C'est faux, Jun! Les rêves\nne doivent pas être offerts!"
+    "texte_fr": "C'est faux, Jun! Les rêves ne doivent pas\nêtre offerts!"
   },
   {
     "id": 12,
@@ -207,7 +207,7 @@
     "nom_orig": "Joker",
     "texte_orig": "Foolish[SP]girl...[1205][001E][SP]Do[SP]you[SP]believe[SP]that[SP]all[SP]humans\nhave[SP]such[SP]a[SP]sugarcoated[SP]view[SP]of[SP]the[SP]world?",
     "nom_fr": "Joker",
-    "texte_fr": "Idiote...[1205][001E] Tu crois vraiment que tous les\nhumains ont une vision si édulcorée du monde?"
+    "texte_fr": "Idiote...[1205][001E] Tu crois vraiment que tous les\nhumains ont une vision si édulcorée du\nmonde?"
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Fuhrer",
     "texte_orig": "The[SP]masses[SP]will[SP]always[SP]desire[SP]a[SP]leader[SP]who\ndecides[SP]everything[SP]for[SP]them...[1205][001E][SP]Anxiety[SP]over\nthe[SP]future[SP]only[SP]causes[SP]them[SP]pain!",
     "nom_fr": "Führer",
-    "texte_fr": "Les masses voudront toujours un chef qui\ndécide à leur place...[1205][001E] L'inquiétude du\nfutur provoque uniquement leur douleur!"
+    "texte_fr": "Les masses voudront toujours un chef qui\ndécide à leur place...[1205][001E] L'inquiétude du futur\nprovoque uniquement leur douleur!"
   },
   {
     "id": 16,

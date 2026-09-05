@@ -57,7 +57,7 @@
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "When[SP]I[SP]think[SP]hard,[SP]I[SP]know[SP]I[SP]had[SP]a[SP]Mama[SP]and\nPapa...[1205][001E][SP]But[SP]now[SP]when[SP]I[SP]go[SP]home,[SP]I'll[SP]be\nall[SP]alone...",
     "nom_fr": "Sosie de Jun",
-    "texte_fr": "Quand j'y pense, je sais que\nj'avais un papa et une maman...[1205][001E] Mais si je rentre, je serai seul..."
+    "texte_fr": "Quand j'y pense, je sais que j'avais un papa\net une maman...[1205][001E] Mais si je rentre, je serai\nseul..."
   },
   {
     "id": 4,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry,[SP]leave[SP]it[SP]to[SP]us![SP]We'll[SP]thrash\nthose[SP]bad[SP]guys[SP]in[SP]no[SP]time[SP]and[SP]make[SP]sure[SP]you\nget[SP]your[SP]parents[SP]back!",
     "nom_fr": "Maya",
-    "texte_fr": "Ne vous inquiétez pas, on s'en\ncharge! On va rosser ces méchants en\ndeux temps et ramener vos parents!"
+    "texte_fr": "Ne vous inquiétez pas, on s'en charge! On va\nrosser ces méchants en deux temps et ramener\nvos parents!"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP]kids![SP]Mind[SP]telling[SP]me[SP]what[SP]you[SP]want[SP]to\nbe[SP]when[SP]you[SP]grow[SP]up?",
     "nom_fr": "Maya",
-    "texte_fr": "Hé, les gamins! C'est quoi\nvotre rêve pour plus tard?"
+    "texte_fr": "Hé, les gamins! C'est quoi votre rêve pour\nplus tard?"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]Big[SP]Maya...[SP]I[SP]don't[SP]think[SP]now's[SP]the[SP]time\nto[SP]ask[SP]stuff[SP]like[SP]that...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé, Grande Maya... C'est vraiment\nle bon moment pour ça...?"
+    "texte_fr": "Hé, Grande Maya... C'est vraiment le bon\nmoment pour ça...?"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]go[SP]to[SP]Italy[SP]and[SP]be[SP]a[SP]soccer[SP]player!",
     "nom_fr": "Écolier",
-    "texte_fr": "Je vais aller en Italie\net devenir footballeur!"
+    "texte_fr": "Je vais aller en Italie et devenir\nfootballeur!"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]be[SP]a[SP]singer![SP]And[SP]I'm[SP]taking[SP]dance\nclasses[SP]too!",
     "nom_fr": "Écolier",
-    "texte_fr": "Je vais devenir chanteuse! Et\nje prends des cours de danse!"
+    "texte_fr": "Je vais devenir chanteuse! Et je prends des\ncours de danse!"
   },
   {
     "id": 11,
@@ -297,7 +297,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]the[SP]Ideal[SP]Energy[SP]stored[SP]in[SP]the[SP]five[SP]skulls\nis[SP]released,[SP]the[SP]people[SP]I[SP]turned[SP]into[SP]shadowmen\nmay[SP]be[SP]returned[SP]to[SP]normal...",
     "nom_fr": "Jun",
-    "texte_fr": "Si l'Énergie Idéale des cinq crânes est\nlibérée, les gens que j'ai transformés\nen Ombres redeviendront normaux..."
+    "texte_fr": "Si l'Énergie Idéale des cinq crânes est\nlibérée, les gens que j'ai transformés en\nOmbres redeviendront normaux..."
   },
   {
     "id": 20,
@@ -327,7 +327,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]we[SP]take[SP]back[SP]all[SP]the[SP]skulls[SP]and[SP]bring[SP]down\nXibalba[SP]before[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]we[SP]can\nprevent[SP]further[SP]tragedy...",
     "nom_fr": "Jun",
-    "texte_fr": "Si on récupère tous les crânes et abat\nXibalba avant la Croix Cosmique, on\npourra prévenir d'autres tragédies..."
+    "texte_fr": "Si on récupère tous les crânes et abat\nXibalba avant la Croix Cosmique, on pourra\nprévenir d'autres tragédies..."
   },
   {
     "id": 22,
@@ -342,7 +342,7 @@
     "nom_orig": "Jun",
     "texte_orig": "By[SP]now,[SP]they'll[SP]have[SP]placed[SP]the[SP]skulls[SP]of\nearth,[SP]water,[SP]wind,[SP]and[SP]fire[SP]in[SP]their\nrespective[SP]shrines[SP]to[SP]control[SP]them[SP]there.",
     "nom_fr": "Jun",
-    "texte_fr": "D'ici là, ils auront placé les crânes\nde la terre, l'eau, le vent et le feu\ndans leurs sanctuaires respectifs."
+    "texte_fr": "D'ici là, ils auront placé les crânes de la\nterre, l'eau, le vent et le feu dans leurs\nsanctuaires respectifs."
   },
   {
     "id": 23,
@@ -357,7 +357,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Our[SP]goal[SP]should[SP]be[SP]to[SP]first[SP]take[SP]back[SP]these\nfour[SP]skulls,[SP]and[SP]then[SP]take[SP]over[SP]Xibalba.",
     "nom_fr": "Jun",
-    "texte_fr": "Notre objectif: récupérer ces quatre\ncrânes et prendre le contrôle de Xibalba."
+    "texte_fr": "Notre objectif: récupérer ces quatre crânes\net prendre le contrôle de Xibalba."
   },
   {
     "id": 24,
@@ -372,7 +372,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]father...[1205][001E][SP]should[SP]be[SP]chasing[SP]the[SP]Heaven[SP]Skull\nand[SP]the[SP]Fuhrer[SP]to[SP]the[SP]center[SP]of[SP]Xibalba...",
     "nom_fr": "Jun",
-    "texte_fr": "Mon père...[1205][001E] devrait poursuivre\nle Crâne Céleste et le Führer\njusqu'au centre de Xibalba..."
+    "texte_fr": "Mon père...[1205][001E] devrait poursuivre le Crâne\nCéleste et le Führer jusqu'au centre de\nXibalba..."
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Sorry[SP]to[SP]spring[SP]this[SP]on[SP]you,[SP]guys...[1205][001E][SP]But[SP]I'm\ngonna[SP]part[SP]ways[SP]here.[SP]I've[SP]been[SP]thinking[SP]of\nstaying[SP]in[SP]the[SP]city.",
     "nom_fr": "Yukino",
-    "texte_fr": "Désolée de vous surprendre comme\nça...[1205][001E] Mais je vais vous quitter\nici. J'ai pensé rester en ville."
+    "texte_fr": "Désolée de vous surprendre comme ça...[1205][001E] Mais\nje vais vous quitter ici. J'ai pensé rester\nen ville."
   },
   {
     "id": 26,
@@ -417,7 +417,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "And[SP]I[SP]thought[SP]if[SP]that[SP]happens,[SP]it'd[SP]be[SP]best[SP]to\nhave[SP]someone[SP]who[SP]can[SP]fight[SP]there[SP]to[SP]handle[SP]it.\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]die...",
     "nom_fr": "Yukino",
-    "texte_fr": "J'ai pensé que si ça arrive, il vaudrait\nmieux avoir quelqu'un pouvant se battre\nlà-bas. Je ne veux plus personne qui meure..."
+    "texte_fr": "J'ai pensé que si ça arrive, il vaudrait\nmieux avoir quelqu'un pouvant se battre\nlà-bas. Je ne veux plus personne qui\nmeure..."
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]see[SP]what[SP]you[SP]mean,[SP]but...[1205][001E][SP]It's[SP]crazy[SP]to[SP]try\nand[SP]fight[SP]them[SP]alone[SP]and[SP]without[SP]a[SP]Persona,\neven[SP]for[SP]you!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je vois ce que tu veux dire, mais...[1205][001E] C'est fou de les combattre seul\net sans Persona, même pour toi!"
+    "texte_fr": "Je vois ce que tu veux dire, mais...[1205][001E] C'est\nfou de les combattre seul et sans Persona,\nmême pour toi!"
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
     "nom_orig": "Anna",
     "texte_orig": "Don't[SP]worry,[SP]she[SP]won't[SP]be[SP]alone.[SP]I'll[SP]protect\nYukino...[SP]I[SP]won't[SP]let[SP]anyone[SP]touch[SP]her.",
     "nom_fr": "Anna",
-    "texte_fr": "Ne t'inquiète pas, elle ne sera pas\nseule. Je veillerai sur Yukino..."
+    "texte_fr": "Ne t'inquiète pas, elle ne sera pas seule.\nJe veillerai sur Yukino..."
   },
   {
     "id": 30,
@@ -462,7 +462,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Then[SP]there's[SP]nothing[SP]to[SP]worry[SP]about![SP]Take[SP]good\ncare[SP]of[SP]Yukki[SP]for[SP]us,[SP]Anna-san!",
     "nom_fr": "Maya",
-    "texte_fr": "Alors rien à craindre! Prenez\nsoin de Yukki pour nous, Anna-san!"
+    "texte_fr": "Alors rien à craindre! Prenez soin de Yukki\npour nous, Anna-san!"
   },
   {
     "id": 31,
@@ -477,7 +477,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "One[SP]thing,[SP]guys.[SP]If[SP]there[SP]ever[SP]comes[SP]a[SP]time\nwhen[SP]you[SP]need[SP]to[SP]ride[SP]something...[SP]Do[SP]NOT\nlet[SP]Maya-san[SP]drive!",
     "nom_fr": "Yukino",
-    "texte_fr": "Un truc, les gars. S'il arrivait\nque vous deviez vous déplacer... Ne\nlaissez JAMAIS Maya-san conduire!"
+    "texte_fr": "Un truc, les gars. S'il arrivait que vous\ndeviez vous déplacer... Ne laissez JAMAIS\nMaya-san conduire!"
   },
   {
     "id": 32,
@@ -552,7 +552,7 @@
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "When[SP]I[SP]think[SP]hard,[SP]I[SP]know[SP]I[SP]had[SP]a[SP]Mama[SP]and\nPapa...[1205][001E][SP]But[SP]now[SP]when[SP]I[SP]go[SP]home,[SP]I'll[SP]be\nall[SP]alone...",
     "nom_fr": "Sosie de Jun",
-    "texte_fr": "Quand j'y pense, je sais que\nj'avais un papa et une maman...[1205][001E] Mais si je rentre, je serai seul..."
+    "texte_fr": "Quand j'y pense, je sais que j'avais un papa\net une maman...[1205][001E] Mais si je rentre, je serai\nseul..."
   },
   {
     "id": 37,
@@ -597,7 +597,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry,[SP]leave[SP]it[SP]to[SP]us![SP]We'll[SP]thrash\nthose[SP]bad[SP]guys[SP]in[SP]no[SP]time[SP]and[SP]make[SP]sure[SP]you\nget[SP]your[SP]parents[SP]back!",
     "nom_fr": "Maya",
-    "texte_fr": "Ne vous inquiétez pas, on s'en\ncharge! On va rosser ces méchants en\ndeux temps et ramener vos parents!"
+    "texte_fr": "Ne vous inquiétez pas, on s'en charge! On va\nrosser ces méchants en deux temps et ramener\nvos parents!"
   },
   {
     "id": 40,
@@ -612,7 +612,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP]kids![SP]Mind[SP]telling[SP]me[SP]what[SP]you[SP]want[SP]to\nbe[SP]when[SP]you[SP]grow[SP]up?",
     "nom_fr": "Maya",
-    "texte_fr": "Hé, les gamins! C'est quoi\nvotre rêve pour plus tard?"
+    "texte_fr": "Hé, les gamins! C'est quoi votre rêve pour\nplus tard?"
   },
   {
     "id": 41,
@@ -627,7 +627,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]Big[SP]Maya...[SP]I[SP]don't[SP]think[SP]now's[SP]the[SP]time\nto[SP]ask[SP]stuff[SP]like[SP]that...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé, Grande Maya... C'est vraiment\nle bon moment pour ça...?"
+    "texte_fr": "Hé, Grande Maya... C'est vraiment le bon\nmoment pour ça...?"
   },
   {
     "id": 42,
@@ -642,7 +642,7 @@
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]go[SP]to[SP]Italy[SP]and[SP]be[SP]a[SP]soccer[SP]player!",
     "nom_fr": "Écolier",
-    "texte_fr": "Je vais aller en Italie\net devenir footballeur!"
+    "texte_fr": "Je vais aller en Italie et devenir\nfootballeur!"
   },
   {
     "id": 43,
@@ -657,7 +657,7 @@
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]be[SP]a[SP]singer![SP]And[SP]I'm[SP]taking[SP]dance\nclasses[SP]too!",
     "nom_fr": "Écolier",
-    "texte_fr": "Je vais devenir chanteuse! Et\nje prends des cours de danse!"
+    "texte_fr": "Je vais devenir chanteuse! Et je prends des\ncours de danse!"
   },
   {
     "id": 44,
@@ -792,7 +792,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]the[SP]Ideal[SP]Energy[SP]stored[SP]in[SP]the[SP]five[SP]skulls\nis[SP]released,[SP]the[SP]people[SP]I[SP]turned[SP]into[SP]shadowmen\nmay[SP]be[SP]returned[SP]to[SP]normal...",
     "nom_fr": "Jun",
-    "texte_fr": "Si l'Énergie Idéale des cinq crânes est\nlibérée, les gens que j'ai transformés\nen Ombres redeviendront normaux..."
+    "texte_fr": "Si l'Énergie Idéale des cinq crânes est\nlibérée, les gens que j'ai transformés en\nOmbres redeviendront normaux..."
   },
   {
     "id": 53,
@@ -822,7 +822,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]we[SP]take[SP]back[SP]all[SP]the[SP]skulls[SP]and[SP]bring[SP]down\nXibalba[SP]before[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]we[SP]can\nprevent[SP]further[SP]tragedy...",
     "nom_fr": "Jun",
-    "texte_fr": "Si on récupère tous les crânes et abat\nXibalba avant la Croix Cosmique, on\npourra prévenir d'autres tragédies..."
+    "texte_fr": "Si on récupère tous les crânes et abat\nXibalba avant la Croix Cosmique, on pourra\nprévenir d'autres tragédies..."
   },
   {
     "id": 55,
@@ -837,7 +837,7 @@
     "nom_orig": "Jun",
     "texte_orig": "By[SP]now,[SP]they'll[SP]have[SP]placed[SP]the[SP]skulls[SP]of\nearth,[SP]water,[SP]wind,[SP]and[SP]fire[SP]in[SP]their\nrespective[SP]shrines[SP]to[SP]control[SP]them[SP]there.",
     "nom_fr": "Jun",
-    "texte_fr": "D'ici là, ils auront placé les crânes\nde la terre, l'eau, le vent et le feu\ndans leurs sanctuaires respectifs."
+    "texte_fr": "D'ici là, ils auront placé les crânes de la\nterre, l'eau, le vent et le feu dans leurs\nsanctuaires respectifs."
   },
   {
     "id": 56,
@@ -852,7 +852,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Our[SP]goal[SP]should[SP]be[SP]to[SP]first[SP]take[SP]back[SP]these\nfour[SP]skulls,[SP]and[SP]then[SP]take[SP]over[SP]Xibalba.",
     "nom_fr": "Jun",
-    "texte_fr": "Notre objectif: récupérer ces quatre\ncrânes et prendre le contrôle de Xibalba."
+    "texte_fr": "Notre objectif: récupérer ces quatre crânes\net prendre le contrôle de Xibalba."
   },
   {
     "id": 57,
@@ -867,7 +867,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]father...[1205][001E][SP]should[SP]be[SP]chasing[SP]the[SP]Heaven[SP]Skull\nand[SP]the[SP]Fuhrer[SP]to[SP]the[SP]center[SP]of[SP]Xibalba...",
     "nom_fr": "Jun",
-    "texte_fr": "Mon père...[1205][001E] devrait poursuivre\nle Crâne Céleste et le Führer\njusqu'au centre de Xibalba..."
+    "texte_fr": "Mon père...[1205][001E] devrait poursuivre le Crâne\nCéleste et le Führer jusqu'au centre de\nXibalba..."
   },
   {
     "id": 58,
@@ -882,7 +882,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Philemon[SP]told[SP]us[SP]to[SP]show[SP]the[SP]power[SP]of[SP]our\nfeelings[SP]that[SP]we've[SP]fostered[SP]for[SP]the[SP]last\nten[SP]years...",
     "nom_fr": "Ginko",
-    "texte_fr": "Philémon nous a dit de montrer la force de\nnos sentiments cultivés durant ces dix ans..."
+    "texte_fr": "Philémon nous a dit de montrer la force de\nnos sentiments cultivés durant ces dix\nans..."
   },
   {
     "id": 59,
@@ -897,7 +897,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Well,[SP]I've[SP]got[SP]ten[SP]years'[SP]worth[SP]of[SP]unrequited\nlove[SP]power![SP]I[SP]hope[SP]the[SP]Masked[SP]Circle[SP]and[SP]the\nLast[SP]Battalion[SP]are[SP]ready[SP]for[SP]it!",
     "nom_fr": "Ginko",
-    "texte_fr": "Eh bien, j'ai dix ans d'amour non partagé\nen réserve! J'espère que le Cercle\nmasqué et le Bataillon sont prêts!"
+    "texte_fr": "Eh bien, j'ai dix ans d'amour non partagé en\nréserve! J'espère que le Cercle masqué et le\nBataillon sont prêts!"
   },
   {
     "id": 60,
@@ -912,7 +912,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Philemon[SP]told[SP]us[SP]to[SP]show[SP]the[SP]power[SP]of[SP]our\nfeelings[SP]that[SP]we've[SP]fostered[SP]for[SP]the[SP]last\nten[SP]years...",
     "nom_fr": "Ginko",
-    "texte_fr": "Philémon nous a dit de montrer la force de\nnos sentiments cultivés durant ces dix ans..."
+    "texte_fr": "Philémon nous a dit de montrer la force de\nnos sentiments cultivés durant ces dix\nans..."
   },
   {
     "id": 61,
@@ -927,7 +927,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]going[SP]in[SP]there[SP]to[SP]avenge[SP]Yukino-san,\nso[SP]we[SP]can't[SP]lose![SP]I[SP]hope[SP]the[SP]Masked[SP]Circle\nand[SP]Last[SP]Battalion[SP]are[SP]ready[SP]to[SP]get[SP]creamed!",
     "nom_fr": "Ginko",
-    "texte_fr": "On entre là-dedans pour venger Yukino-san,\nalors on ne peut pas perdre! J'espère que\nle Cercle masqué et le Bataillon sont prêts!"
+    "texte_fr": "On entre là-dedans pour venger Yukino-san,\nalors on ne peut pas perdre! J'espère que le\nCercle masqué et le Bataillon sont prêts!"
   },
   {
     "id": 62,
@@ -942,7 +942,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We're[SP]finally[SP]reunited,[SP]all[SP]five[SP]of[SP]us...[1205][001E]\nI[SP]feel[SP]like[SP]nothing[SP]can[SP]stop[SP]me,[SP]Masked\nCircle[SP]or[SP]Last[SP]Battalion[SP]or[SP]whatever!",
     "nom_fr": "Eikichi",
-    "texte_fr": "On est enfin réunis, tous les cinq...[1205][001E] Je me sens invincible, que ce soit\nle Cercle masqué ou le Bataillon!"
+    "texte_fr": "On est enfin réunis, tous les cinq...[1205][001E] Je me\nsens invincible, que ce soit le Cercle\nmasqué ou le Bataillon!"
   },
   {
     "id": 63,
@@ -957,7 +957,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We're[SP]finally[SP]reunited,[SP]all[SP]five[SP]of[SP]us...[1205][001E]\nI[SP]feel[SP]like[SP]nothing[SP]can[SP]stop[SP]me,[SP]Masked\nCircle[SP]or[SP]Last[SP]Battalion[SP]or[SP]whatever!",
     "nom_fr": "Eikichi",
-    "texte_fr": "On est enfin réunis, tous les cinq...[1205][001E] Je me sens invincible, que ce soit\nle Cercle masqué ou le Bataillon!"
+    "texte_fr": "On est enfin réunis, tous les cinq...[1205][001E] Je me\nsens invincible, que ce soit le Cercle\nmasqué ou le Bataillon!"
   },
   {
     "id": 64,
@@ -972,7 +972,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Now[SP]if[SP]only[SP]Yukino-san[SP]were[SP]here,[SP]that'd[SP]be\nall[SP]there[SP]was[SP]to[SP]say[SP]on[SP]the[SP]matter...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si seulement Yukino-san était là, ce\nserait parfait, rien de plus à dire..."
+    "texte_fr": "Si seulement Yukino-san était là, ce serait\nparfait, rien de plus à dire..."
   },
   {
     "id": 65,
@@ -1002,7 +1002,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We[SP]should[SP]concentrate[SP]on[SP]gathering[SP]the[SP]skulls\nfor[SP]now.[SP]Jun-kun,[SP][1113]-kun...[SP]With[SP]you[SP]two\non[SP]our[SP]side,[SP]we'll[SP]be[SP]fine,[SP]come[SP]what[SP]may!",
     "nom_fr": "Maya",
-    "texte_fr": "Concentrons-nous d'abord sur les\ncrânes. Jun-kun, [1113]-kun... Avec vous deux\nnous serons bien quoi qu'il arrive!"
+    "texte_fr": "Concentrons-nous d'abord sur les crânes.\nJun-kun, [1113]-kun... Avec vous deux nous serons\nbien quoi qu'il arrive!"
   },
   {
     "id": 67,
@@ -1032,7 +1032,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We[SP]should[SP]concentrate[SP]on[SP]gathering[SP]the[SP]skulls\nfor[SP]now.[SP]We[SP]can't[SP]let[SP]Yukki[SP]down[SP]on[SP]her[SP]final\nwish[SP]she[SP]gave[SP]to[SP]Jun-kun!",
     "nom_fr": "Maya",
-    "texte_fr": "Concentrons-nous d'abord sur les\ncrânes. On ne peut pas décevoir Yukki\naprès son dernier vœu pour Jun-kun!"
+    "texte_fr": "Concentrons-nous d'abord sur les crânes. On\nne peut pas décevoir Yukki après son dernier\nvœu pour Jun-kun!"
   },
   {
     "id": 69,
@@ -1047,7 +1047,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Getting[SP]the[SP]four[SP]skulls[SP]back[SP]and[SP]taking[SP]over\nXibalba...[SP]It[SP]will[SP]be[SP]difficult,[SP]but[SP]there's\nno[SP]other[SP]way[SP]to[SP]save[SP]everyone.",
     "nom_fr": "Jun",
-    "texte_fr": "Récupérer les quatre crânes et prendre\nXibalba... Ce sera difficile, mais c'est\nla seule façon de sauver tout le monde."
+    "texte_fr": "Récupérer les quatre crânes et prendre\nXibalba... Ce sera difficile, mais c'est la\nseule façon de sauver tout le monde."
   },
   {
     "id": 70,
@@ -1062,6 +1062,6 @@
     "nom_orig": "Jun",
     "texte_orig": "Please,[SP][1113],[SP]I'll[SP]need[SP]your[SP]strength...\nI[SP]have[SP]to[SP]stop[SP]Father![SP]It's[SP]the[SP]only[SP]way[SP]I\ncan[SP]atone[SP]for[SP]what[SP]I've[SP]done.",
     "nom_fr": "Jun",
-    "texte_fr": "S'il te plaît, [1113], j'ai besoin de ta\nforce... Je dois arrêter Père ! C'est la\nseule façon d'expier ce que j'ai fait."
+    "texte_fr": "S'il te plaît, [1113], j'ai besoin de ta force...\nJe dois arrêter Père ! C'est la seule façon\nd'expier ce que j'ai fait."
   }
 ]

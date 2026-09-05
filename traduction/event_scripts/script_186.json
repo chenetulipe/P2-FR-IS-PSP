@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Does[SP]this[SP]mean[SP]we[SP]haven't[SP]even[SP]seen[SP]the[SP]worst\nof[SP]what[SP]they're[SP]gonna[SP]throw[SP]at[SP]us?",
     "nom_fr": "Eikichi",
-    "texte_fr": "En gros on n'a pas encore vu le pire\nde ce qu'ils vont nous lancer dessus?"
+    "texte_fr": "En gros on n'a pas encore vu le pire de ce\nqu'ils vont nous lancer dessus?"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We've[SP]already[SP]been[SP]through[SP]that[SP]oven[SP]room...[1205][001E]\nMaybe[SP]the[SP]next[SP]one[SP]will[SP]have[SP]lasers?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Une salle avec un four... Peut-être\n[1205][001E]que la prochaine aura des lasers?"
+    "texte_fr": "Une salle avec un four... Peut-être [1205][001E]que la\nprochaine aura des lasers?"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Does[SP]this[SP]mean[SP]we[SP]haven't[SP]even[SP]seen[SP]the[SP]worst\nof[SP]what[SP]they're[SP]gonna[SP]throw[SP]at[SP]us?",
     "nom_fr": "Eikichi",
-    "texte_fr": "En gros on n'a pas encore vu le pire\nde ce qu'ils vont nous lancer dessus?"
+    "texte_fr": "En gros on n'a pas encore vu le pire de ce\nqu'ils vont nous lancer dessus?"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We've[SP]already[SP]been[SP]through[SP]that[SP]laser[SP]room...[1205][001E]\nMaybe[SP]the[SP]next[SP]one[SP]will[SP]be[SP]like[SP]an[SP]oven?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Une salle avec un laser...[1205][001E] Peut-être\nque la prochaine aura un four?"
+    "texte_fr": "Une salle avec un laser...[1205][001E] Peut-être que la\nprochaine aura un four?"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]worried[SP]about[SP]Ms.[SP]Ideal[SP]now.\nLet's[SP]keep[SP]going!",
     "nom_fr": "Maya",
-    "texte_fr": "Je m'inquiète pour Mme\nIdeal maintenant. On y va!"
+    "texte_fr": "Je m'inquiète pour Mme Ideal maintenant. On\ny va!"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't[1121]see[SP]Ms.[SP]Ideal's[SP]corpse[SP]here,[SP]so[SP]I[SP]bet\nshe's[SP]still[SP]alive...[1205][001E][SP]But[SP]I[SP]wonder[SP]where\nshe[SP]went.",
     "nom_fr": "Maya",
-    "texte_fr": "Le [1121]corps de Mme Ideal ne semble\npas ici, elle est peut-être encore\n[1205][001E]en vie... où elle est passée."
+    "texte_fr": "Le [1121]corps de Mme Ideal ne semble pas ici,\nelle est peut-être encore [1205][001E]en vie... où elle\nest passée."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "He[SP]was[SP]pretty[SP]strong,[SP]but[SP]he[SP]came[SP]to[SP]a[SP]real\nsudden[SP]end...",
     "nom_fr": "Ginko",
-    "texte_fr": "Il était costaud, mais il a\neu une fin assez soudaine..."
+    "texte_fr": "Il était costaud, mais il a eu une fin assez\nsoudaine..."
   },
   {
     "id": 12,
@@ -237,7 +237,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]I[SP]hadn't[SP]made[SP]him[SP]an[SP]executive,[SP]he[SP]wouldn't\nhave[SP]had[SP]to[SP]die[SP]like[SP]this...",
     "nom_fr": "Jun",
-    "texte_fr": "Si je ne l'avais pas fait dirigeant,\nil ne serait pas mort comme ça..."
+    "texte_fr": "Si je ne l'avais pas fait dirigeant, il ne\nserait pas mort comme ça..."
   },
   {
     "id": 16,

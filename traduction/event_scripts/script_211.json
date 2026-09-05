@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Arrrrgh![SP]No![SP]That's[SP]not[SP]it[SP]at[SP]all!\nYou[SP]guys[SP]have[SP]no[SP]rhythm!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Arrrgh! Mais Non! Rien à voir!\nVous n'avez aucun rythme!"
+    "texte_fr": "Arrrgh! Mais Non! Rien à voir! Vous n'avez\naucun rythme!"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Ken",
     "texte_orig": "Of[SP]course[SP]we[SP]don't.[SP]I[SP]haven't[SP]played[SP]an\ninstrument[SP]since[SP]my[SP]recorder[SP]back[SP]in\nmiddle[SP]school...",
     "nom_fr": "Ken",
-    "texte_fr": "C'est clair que non. J'ai pas\ntouché à un instrument depuis\nla flûte à bec au collège..."
+    "texte_fr": "C'est clair que non. J'ai pas touché à un\ninstrument depuis la flûte à bec au\ncollège..."
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Ken",
     "texte_orig": "Oh[SP]yeah,[SP]Michel-san...[SP]You[SP]know[SP]that[SP]guy\n[1113][SP][1112][SP]at[SP]Sevens?",
     "nom_fr": "Ken",
-    "texte_fr": "Ah ouais, Michel... Tu\nconnais ce mec [1113] [1112] de Seven?"
+    "texte_fr": "Ah ouais, Michel... Tu connais ce mec [1113] [1112] de\nSeven?"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Ken",
     "texte_orig": "I[SP]hear[SP]he's[SP]the[SP]most[SP]popular[SP]guy[SP]at[SP]Sevens,\nand[SP]he's[SP]hot[SP]with[SP]the[SP]ladies,[SP]too![SP]Why[SP]don't\nyou[SP]invite[SP]him[SP]into[SP]the[SP]band?",
     "nom_fr": "Ken",
-    "texte_fr": "Il paraît que c'est le gars populaire\nde Seven. Et un vrai tombeur en\nplus! Invite le dans le groupe, non?"
+    "texte_fr": "Il paraît que c'est le gars populaire de\nSeven. Et un vrai tombeur en plus! Invite le\ndans le groupe, non?"
   },
   {
     "id": 6,
@@ -117,6 +117,6 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Well...[SP]I[SP]do[SP]need[SP]more[SP]members.[SP]I[SP]guess[SP]it\nwouldn't[SP]hurt[SP]to[SP]meet[SP]him.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Bah... J'ai besoin de plus de\nmembres. Je suppose que ça ne\nferait pas de mal de le rencontrer."
+    "texte_fr": "Bah... J'ai besoin de plus de membres. Je\nsuppose que ça ne ferait pas de mal de le\nrencontrer."
   }
 ]

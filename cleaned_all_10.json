@@ -1,0 +1,302 @@
+[
+  {
+    "file": "TM_EVE.json",
+    "id": 95,
+    "fr_cleaned": "AWOOOOOOOOO! PÈRE!\nTU M'AS MANQUÉ![E1][E2][E3]",
+    "garbage_removed": "Ha... Qu'une chose aussi laide soit\nma progéniture... Quelle blague.\n"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 98,
+    "fr_cleaned": "Quel destin cruel m'a donné un tel père?[742B][B_00][E1][E2][E3][E4][B_81][B_00][B_7F]",
+    "garbage_removed": "Ah, Hel, ma chère enfant...\nC'est ce que tu veux entendre, sale femelle?\n\nLoki\nAllons. Prête ta force à cet humain.\nCela rendra ton royaume des morts plus vivant.\nOh, quelle splendide idée, Père!"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 100,
+    "fr_cleaned": "Oh, quelle splendide idée, Père![E1][E2][E3]",
+    "garbage_removed": "Ah, Hel, ma chère enfant...\nC'est ce que tu veux entendre, sale femelle?\nQuel destin cruel m'a donné un tel père?\nLoki\nAllons. Prête ta force à cet humain.\nCela rendra ton royaume des morts plus vivant.\n"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 105,
+    "fr_cleaned": "Tu [120E]n'essaies pas de nuire à cet humain?[NULL][E1][E2][0303][3111][8114][B_00][B_7F]",
+    "garbage_removed": "\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\nComme vous voulez, Maître Michael."
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 107,
+    "fr_cleaned": "La volonté du Seigneur est-elle bien transmise?[NULL][6113][B_00][E1][E2][E4][B_81][B_00][B_7F]",
+    "garbage_removed": "Tu [120E]n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\n\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\nComme vous voulez, Maître Michael."
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 110,
+    "fr_cleaned": "Pas d'emphase. Aide simplement cet humain.[612D][B_00][E1][E2][E3][E4][B_81][B_00][B_49]",
+    "garbage_removed": "Tu n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\n\nComme vous voulez, Maître Michael."
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 111,
+    "fr_cleaned": "Comme vous voulez, Maître Michael.[E1][E2][E3]",
+    "garbage_removed": "Tu n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\n"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 112,
+    "fr_cleaned": "Le jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki![B_27][E1][E2][E3][E4][B_81][B_00][B_7F]",
+    "garbage_removed": "\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 113,
+    "fr_cleaned": "Menteur, voleur de mon trône! Je me vengerai![NULL][B_27][E1][E2][E3][E4][B_81][B_00][B_7F]",
+    "garbage_removed": "Le [120E]jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\n\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 114,
+    "fr_cleaned": "Ne me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?[6F35][B_00][E1][E2][E3][E4][B_81][B_00][B_7F]",
+    "garbage_removed": "Le jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\n\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 115,
+    "fr_cleaned": "Argh… Je ne peux te pardonner!\nPrépare-toi![6511][B_00][E1][E2][E3][E4][B_81][B_00][B_7F]",
+    "garbage_removed": "Le jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\n\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
+  },
+  {
+    "file": "TM_EVE.json",
+    "id": 117,
+    "fr_cleaned": "Par l'ordre de Spenta Mainyu, je te détruirai![E1][E2][E3]",
+    "garbage_removed": "Le jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\n"
+  },
+  {
+    "file": "event_scripts/script_011.json",
+    "id": 20,
+    "fr_cleaned": "La clé... La clé... Je la vois souvent... Tant\npis, je vais dîner.",
+    "garbage_removed": "Poster de l'actrice\nSaiyuri Yoshikawa. Ses lèvres sont usées sans\nraison... Calendrier de l'actrice Saiyuri\nYoshikawa... d'il y a 30 ans! Ses lèvres sont\nusées... Cordes et bougies dans la boîte...\nPour les urgences... Vieille TV. Elle a même\nun bouton pour les chaînes. Cachées parmi les\nphotos de Saiyuri dans le tiroir...<\ndes coupures de la même actrice. Le frigo est\nplein de plats sous film plastique. Rien dans\nle placard. Il y a des futons au fond."
+  },
+  {
+    "file": "event_scripts/script_016.json",
+    "id": 11,
+    "fr_cleaned": "Mec, j'ai complètement oublié d'apporter le\nmasque qu'ils m'avaient donné ! J'étais comme\n: et maintenant !? Heureusement y'avait des\nrechanges !",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_026.json",
+    "id": 24,
+    "fr_cleaned": "Je déteste la violence...[1205][001E] Mais je suppose que\nje n'ai plus le choix. Tu mourras en\nregrettant de t'être mêlé de ça !\nGueueueueueue !",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 26,
+    "fr_cleaned": "Techniquement on est ouverts aujourd'hui, mais\non est fermés pour un tournage de clip. Et\navec tous ces clients...",
+    "garbage_removed": "Machine #1 de la\nrangée des bornes Wild 9.[E1][E2] [E3][E4][NULL][NULL]\"Manager Oh désolé,\nmonsieur! Vous ne pouvez pas jouer\nmaintenant.C'est un peu chaotique en ce\nmoment. Machine #2 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 27,
+    "fr_cleaned": "Oh désolé, monsieur ! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.[E1][E2][E3]",
+    "garbage_removed": "Machine #3 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 28,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #3 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 29,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #4 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 30,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #5 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 31,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #6 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 32,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #7 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 33,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #8 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 34,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #9 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 35,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #10 de la rangée des bornes\nWild 9."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 36,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine de blackjack [NULL][NULL]Unissons nos\nForces[NULL][NULL]."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 37,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #1 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 38,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #2 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 39,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #3 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 40,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #4 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 41,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #5 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 42,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #6 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 43,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #7 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_028.json",
+    "id": 44,
+    "fr_cleaned": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.",
+    "garbage_removed": "Machine #8 de la rangée des machines\nArouse Blank."
+  },
+  {
+    "file": "event_scripts/script_042.json",
+    "id": 9,
+    "fr_cleaned": "Une performance émouvante, Lisa. Plus une\nproie se débat, plus elle devient\nattachante...[1205][001E] Tu sais comment attiser\nmondésir.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_058.json",
+    "id": 7,
+    "fr_cleaned": "S'il est du Cercle masqué, on peut lui tirer\ndes infos sur Joker. Traquons-le.",
+    "garbage_removed": "Le casier\ncontient un mot: [NULL][NULL]stupide[NULL][NULL]... et une [E4][NULL][NULL]bombe[E4][NULL][NULL].[E4][NULL][NULL]\nJuste une [E4][NULL][NULL]bombe[E4][NULL][NULL] dans la poubelle.[E4][NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_085.json",
+    "id": 30,
+    "fr_cleaned": "Mais les anciens Maïens d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs, les Bolontiku,\ncontrôlentXibalba...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_085.json",
+    "id": 38,
+    "fr_cleaned": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le, ou vous raterez\nquelquechose!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_085.json",
+    "id": 109,
+    "fr_cleaned": "Il l'a dit! [1205][001E]C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des ruines du\nmondeentier!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_113.json",
+    "id": 6,
+    "fr_cleaned": "Je suis [E4][NULL][NULL][0005]Maia[E4][NULL][NULL][0002]... messagère éveillée des\nPléiades:[1205][001E] Fleurs au passé; fertilité à ton\ncœur. La lune du seizième soir\nbrilledésormais...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_123.json",
+    "id": 3,
+    "fr_cleaned": "Attends, Elf.[1205][001E] Mon sonar a repéré un truc.",
+    "garbage_removed": "Ordre de la Sainte Lance Unité anti-Persona du\nDernier Bataillon, 13 chevaliers pilotantles\nMarionette Jaeger [NULL][NULL]Himmel Feurer.[NULL][NULL][E4][NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_124.json",
+    "id": 19,
+    "fr_cleaned": "Je suis [E4][NULL][NULL][0005]Durga[E4][NULL][NULL][0002].[1205][001E] Mon devoir est de pourfendre le\nmal qui menace ce monde...[1205][001E] Sache que ton\ndestin n'est rien de moinsque cela.",
+    "garbage_removed": "Le stock\nde Personae est plein. Veuillez libérer un\nemplacement.[E4][NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_124.json",
+    "id": 30,
+    "fr_cleaned": "Il fait froid ici...[1205][001E] Mais attends-moi...[1205][001E] Je\nreviendrai vite te chercher...",
+    "garbage_removed": "Le corps de\nFujii. Son visage est paisible et fier. Le\nvisage d'un homme ayant accompli ses rêves..."
+  },
+  {
+    "file": "event_scripts/script_136.json",
+    "id": 12,
+    "fr_cleaned": "On aimait tous les deux Grande Sœur...[1205][001E] On\navait promis de protéger notre [1432][NULL][NULL][0014]Maman[1432][NULL][NULL][0014] quoi\nqu'il arrive...[1205][001E] Et toi tu as brisé cette\npromesse et tu l'as tuée !",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_142.json",
+    "id": 14,
+    "fr_cleaned": "Je suis [E4][NULL][NULL][0005]Hermès[E4][NULL][NULL][0002]...[1205][001E] Donneur de fortune et de\ngloire, héraut des âmes...[1205][001E] À mon alter égo:\nAime ton voisin, incarne le vent\nded'altruisme...",
+    "garbage_removed": "Le stock de Personae est\nplein. Libérez un emplacement.[E4][NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_142.json",
+    "id": 22,
+    "fr_cleaned": "La force d'atteindre son rêve... Un rien\nsuffira pour que les étoiles brillent même\ndans les ténébres. Prenez votre destin\nenmain...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_142.json",
+    "id": 41,
+    "fr_cleaned": "Je suis [E4][NULL][NULL][0005]Hermès[E4][NULL][NULL][0002]...[1205][001E] Donneur de fortune et de\ngloire, héraut des âmes...[1205][001E] À mon alter égo:\nAime ton voisin, incarne le vent\nded'altruisme...",
+    "garbage_removed": "Le stock de Personae est\nplein. Libérez un emplacement.[E4][NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_152.json",
+    "id": 15,
+    "fr_cleaned": "Ces éléments maintiennent l'équilibre du\nmonde, chacun a ses forces et ses faiblesses.[1205][001E]\nC'est un symbole du mysticisme dont Père\nm'aparlé.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_168.json",
+    "id": 7,
+    "fr_cleaned": "Mais ces mots ne valent rien...[1205][001E] Je représente\nl'arrogance, comment pourrais-je aider\nquiconque à atteindre ses idéaux?",
+    "garbage_removed": "Quelque\nchose est écrit dans le relief."
+  },
+  {
+    "file": "event_scripts/script_250.json",
+    "id": 10,
+    "fr_cleaned": "W-Whoa, doucement![1205][001E] On n'est pas venues\ninterviewer les élèves pour ça. On voulait\njuste enquêter sur le Joker et\nlamalédiction...",
+    "garbage_removed": ""
+  }
+]

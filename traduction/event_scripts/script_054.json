@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Isn't[SP]security[SP]here[SP]a[SP]little[SP]too[SP]tight[SP]if\nwe[SP]need[SP]a[SP]current[SP]member[SP]to[SP]vouch[SP]for[SP]us\njust[SP]to[SP]take[SP]a[SP]peek[SP]inside...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "La sécurité est un peu trop stricte\ns'il nous faut un membre en garant\npour juste jeter un coup d'œil...?"
+    "texte_fr": "La sécurité est un peu trop stricte s'il\nnous faut un membre en garant pour juste\njeter un coup d'œil...?"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Kinda,[SP]yeah.[SP]We're[SP]pretty[SP]lucky[SP]Maya-san's\nroommate[SP]has[SP]a[SP]membership.",
     "nom_fr": "Yukino",
-    "texte_fr": "Un peu, ouais. Heureusement que la\ncoloc de Maya-san est adhérente."
+    "texte_fr": "Un peu, ouais. Heureusement que la coloc de\nMaya-san est adhérente."
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Receptionist",
     "texte_orig": "I[SP]apologize[SP]for[SP]the[SP]wait.[SP]You're[SP]the[SP]ones\nMs.[SP]Ulala[SP]Serizawa[SP]referred[SP]to[SP]us?[SP]Please\ngo[SP]on[SP]in.",
     "nom_fr": "Réception",
-    "texte_fr": "Pardon pour l'attente. Vous\nvenez de la part de Mlle Ulala\nSerizawa? Je vous en prie, entrez."
+    "texte_fr": "Pardon pour l'attente. Vous venez de la part\nde Mlle Ulala Serizawa? Je vous en prie,\nentrez."
   },
   {
     "id": 3,
@@ -57,6 +57,6 @@
     "nom_orig": "Maya",
     "texte_orig": "Looks[SP]like[SP]Ulala's[SP]here.[SP]I[SP]should[SP]stop[SP]by\nthe[SP]boxing[SP]ring[SP]and[SP]tell[SP]her[SP]to[SP]evacuate.",
     "nom_fr": "Maya",
-    "texte_fr": "Il semble qu'Ulala soit là. Je devrais passer\nau ring de boxe pour lui dire d'évacuer."
+    "texte_fr": "Il semble qu'Ulala soit là. Je devrais\npasser au ring de boxe pour lui dire\nd'évacuer."
   }
 ]

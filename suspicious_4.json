@@ -1,0 +1,302 @@
+[
+  {
+    "file": "script_351.json",
+    "id": 48,
+    "orig": "O-Oh[SP]my[SP]goodness![SP]They[SP]were[SP]flying![1205][000F][SP]There[SP]were\nsoldiers[SP]flying[SP]through[SP]the[SP]sky![SP]I[SP]saw[SP]it[SP]with\nmy[SP]own[SP]eyes![SP]Long[SP]spears[SP]and[SP]black[SP]armor...",
+    "fr": "M-Mon Dieu! Ils volaient! [1205][000F]Des soldats\nvolaient dans le ciel! Je l'ai vu\nde mes propres yeux! De longues\nlances et des armures noires..."
+  },
+  {
+    "file": "script_352.json",
+    "id": 18,
+    "orig": "I've[SP]always[SP]wanted[SP]to[SP]be[SP]rich.[1205][000F][SP]I[SP]talk[SP]like[SP]this\nand[SP]wear[SP]expensive[SP]clothes,[SP]but[SP]really,[SP]we're\nin[SP]the[SP]red...[1205][000F][SP]I[SP]work[SP]to[SP]repay[SP]my[SP]debt...",
+    "fr": "J'ai toujours voulu être [1205][000F]riche.\nJe parle ainsi et porte des habits\ncoûteux, mais en vrai je suis dans\nle rouge. Je bosse pour payer."
+  },
+  {
+    "file": "script_356.json",
+    "id": 16,
+    "orig": "Then[SP]again...[1205][000F][SP]Is[SP]that[SP]really[SP]the[SP]best[SP]way...?[1205][000F]\nHaving[SP]my[SP]purpose[SP]just[SP]giftwrapped[SP]for[SP]me[SP]like\nthat...[SP]Will[SP]that[SP]really[SP]make[SP]me[SP]happy...?",
+    "fr": "Mais quand même...[1205][000F] Est-ce la\nmeilleure façon...? Qu'on me remette\nmon but sur un plateau comme ça...\nÇa me rendra vraimentheureuse...?"
+  },
+  {
+    "file": "script_359.json",
+    "id": 97,
+    "orig": "Hey,[SP]you're[SP]back.",
+    "fr": "Tiens, de retour. Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres Rien\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez une région.\nRengedai Yumezaki Aoba Kounan Aucune\nChoisissez un sujet. Concours magazines\nRumeurs Mu Armes légendaires Aucun\nVérifié. Soumettre. Patientez après envoi."
+  },
+  {
+    "file": "script_359.json",
+    "id": 120,
+    "orig": "Hey,[SP]I[SP]heard[SP]some[SP]Masked[SP]Circle[SP]group[SP]is[SP]doing\nall[SP]this.[SP]Is[SP]that[SP]true?[1205][000F][SP]I[SP]don't[SP]like[SP]it...\nI[SP]thought[SP]Sumaru[SP]was[SP]supposed[SP]to[SP]be[SP]peaceful...",
+    "fr": "Hé, j'ai entendu que c'est un\ngroupe, le Cercle masqué, qui fait\nça. 05]ça. C'est vrai? J'aime pas\nça... Sumaru devait être paisible..."
+  },
+  {
+    "file": "script_360.json",
+    "id": 35,
+    "orig": "Hey,[SP]you're[SP]back.",
+    "fr": "Te revoilà. Choisis une option. Demander\ndes rumeurs Parler avec Baofu Annuler\nChoisis un sujet. Rumeurs armureries\nRumeurs armures Autres Rien\nChoisis une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisis une région.\nRengedai Yumezaki Aoba Kounan Aucune Choisis\nun sujet. Rumeurs concours Rumeurs Mu\nRumeurs armes légendaires Aucune Vérifié.\nSoumettre les infos. Après envoi, patientez."
+  },
+  {
+    "file": "script_361.json",
+    "id": 27,
+    "orig": "The[SP]end[SP]must[SP]be[SP]near.[SP]Huh?[SP]Haven't[SP]I[SP]seen[SP]that\nboy[SP]somewhere?",
+    "fr": "La fin est proche. Ce garçon... je l'ai déjà\nvu quelque part? Panneau SS: Accueil général,\nBureau étrangers RDC: Objets trouvés,\nPermis, Conseillers 2e: Aide victimes,\nAide sinistrés Panneau 3e: Interrogatoire,\nAffaires internes 4e: Labo, Crimes juvéniles\n5e: Personnesdisparues, Enquêtes spéciales"
+  },
+  {
+    "file": "script_361.json",
+    "id": 37,
+    "orig": "Katsuya[SP]is[SP]really[SP]popular[SP]with[SP]the[SP]ladies[SP]on\nthe[SP]force...[1205][000F][SP]But[SP]he[SP]doesn't[SP]have[SP]a[SP]girlfriend.\nIs[SP]he[SP]the[SP]kinda[SP]guy[SP]who's[SP]married[SP]to[SP]his[SP]job?",
+    "fr": "Katsuya est très populaire auprès des femmes\ndu commissariat...[1205][000F] Mais pas de petite\namie. Il est du genre marié à son boulot?\nAvis Si vous voyez cet homme, appelez le\n17! Je crois l'avoir vu quelque part..."
+  },
+  {
+    "file": "script_362.json",
+    "id": 36,
+    "orig": "Man,[SP]first[SP]that[SP]putz[SP]escaped,[SP]and[SP]now[SP]these\nweird[SP]soldiers[SP]are[SP]here...[1205][000F][SP]Why[SP]am[SP]I[SP]so[SP]unlucky?",
+    "fr": "Ce crétin s'est échappé, et maintenant\nces soldats... Pourquoi j'ai si peu de\nchance? Une nouvelle chaîne. [1205][000F]La seule\nchose propre ici. Jouer un CD? OuiNon"
+  },
+  {
+    "file": "script_364.json",
+    "id": 0,
+    "orig": "Was[SP]the[SP]shock[SP]too[SP]much[SP]for[SP]Jun?[1205][000F][SP]His[SP]image[SP]of\nBig[SP]Maya[SP]just[SP]got[SP]smashed[SP]to[SP]smithereens.[SP]The\ngap[SP]between[SP]image[SP]and[SP]reality[SP]was[SP]too[SP]big...",
+    "fr": "Le choc était trop fort pour Jun?\n[1205][000F]Son image de Maya a été réduite\nen miettes. L'écart entre l'image\net la réalité était trop grand..."
+  },
+  {
+    "file": "script_364.json",
+    "id": 5,
+    "orig": "But[SP]you[SP]know...[SP]I[SP]think[SP]I[SP]could[SP]go[SP]for[SP]a\nyounger[SP]guy[SP]too.[1205][000F][SP]Maybe[SP]I'll[SP]find[SP]a[SP]cute[SP]one\nand[SP]keep[SP]him[SP]while[SP]I[SP]can...",
+    "fr": "Mais tu sais... un plus jeune me\ntente aussi. Si j'en trouve un mignon,\nje le[1205][000F] garde tant que je peux... Un\nradiocassette neuf. La seule chose\npropre de la pièce. Lire un CD? OuiNon"
+  },
+  {
+    "file": "script_365.json",
+    "id": 10,
+    "orig": "They[SP]just[SP]built[SP]that[SP]Aerospace[SP]Museum.[SP]People\nPeople[SP]thought[SP]it[SP]didn't[SP]fit[SP]in[SP]Sumaru[SP]at[SP]first,\nbut[SP]it[SP]gets[SP]a[SP]lot[SP]of[SP]guests[SP]now.",
+    "fr": "Quand le Musée de l'Aéronautique\nfut construit, les gens ont\ndit que ça jurait dans Sumaru.\nDésormais y'a foule de visiteurs."
+  },
+  {
+    "file": "script_365.json",
+    "id": 17,
+    "orig": "I'm[SP]always[SP]surprised[SP]by[SP]Maya-san's[SP]courage[SP]in\nthe[SP]face[SP]of[SP]danger.[SP]She's[SP]never[SP]piloted[SP]a\nblimp[SP]before![SP]At[SP]least[SP]I[SP]don't[SP]think[SP]so...",
+    "fr": "Le courage de Maya face au danger\nm'impressionne toujours. Elle\na jamais piloté de dirigeable\navant! Je pense pas en toutcas..."
+  },
+  {
+    "file": "script_366.json",
+    "id": 10,
+    "orig": "There's[SP]a[SP]lot[SP]I[SP]won't[SP]know[SP]until[SP]the[SP]time\ncomes,[SP]but[SP]I[SP]want[SP]to[SP]believe[SP]I'll[SP]do[SP]the[SP]right\nthing.[1205][000F][SP]I[SP]don't[SP]want[SP]to[SP]wear[SP]any[SP]more[SP]masks...",
+    "fr": "Le moment venu j'ignorerai encore\ntant de choses, mais je veux croire\nque je ferais le [1205][000F]bon choix. Je\nne veux plus porter de masque..."
+  },
+  {
+    "file": "script_367.json",
+    "id": 70,
+    "orig": "Are[SP]you[SP]buying[SP]armor[SP]to[SP]defend[SP]yourself[SP]from\nthe[SP]terroists[SP]as[SP]well?[SP]I[SP]hear[SP]this[SP]Masked[SP]Circle\nholds[SP]a[SP]human[SP]in[SP]no[SP]more[SP]esteem[SP]than[SP]a[SP]stone...",
+    "fr": "Vous achetez des armures contre\nles terroristes? Il paraît que ce\nCercle Masqué n'accorde pas plus de\nvaleur à un homme qu'àune pierre..."
+  },
+  {
+    "file": "script_368.json",
+    "id": 15,
+    "orig": "I'm[SP]not[SP]as[SP]talented[SP]as[SP]some,[SP]but[SP]I[SP]had[SP]my[SP]place\nin[SP]the[SP]art[SP]world.[1205][000F][SP]I[SP]am[SP]no[SP]longer[SP]interested[SP]in\nmaterial[SP]things.[1205][000F][SP]It's[SP]not[SP]my[SP]world[SP]anymore...",
+    "fr": "Je n'étais pas le plus doué, mais\nj'avais ma place dans l'art. [1205][000F]Les\nbiens matériels ne m'intéressent\nplus. Ce n'est plus mon monde..."
+  },
+  {
+    "file": "script_369.json",
+    "id": 46,
+    "orig": "The[SP]world's[SP]going[SP]to[SP]end?[SP]Really?[SP]We'll[SP]evolve\ninto[SP]Idealians?[SP]Honestly?[SP]And[SP]the[SP]one[SP]I've[SP]been\nwaiting[SP]for[SP]still[SP]isn't[SP]here!?[SP]Seriously!?",
+    "fr": "Le monde va s'éteindre? Vraiment?\nOn va évoluer en Idéaliens?\nSérieusement? Et celui que j'attends\nn'est toujours pas là!?Vraiment!?"
+  },
+  {
+    "file": "script_370.json",
+    "id": 9,
+    "orig": "I[SP]didn't[SP]quite[SP]get[SP]there,[SP]but[SP]I[SP]finally[SP]found\nmyself...[1205][000F][SP]It's[SP]hard[SP]to[SP]explain,[SP]but[SP]I[SP]feel[SP]like\nI[SP]finally[SP]found[SP]the[SP]real[SP]me,[SP]with[SP]no[SP]facade.",
+    "fr": "Je n'y suis pas tout à fait arrivée,[1205][000F]\nmais j'ai fini par me trouver moi-même...\nême... C'est dur à expliquer, maisje\nsens que j'ai trouvé le vrai moi."
+  },
+  {
+    "file": "script_373.json",
+    "id": 37,
+    "orig": "I[SP]didn't[SP]expect[SP]Eikichi[SP]to[SP]react[SP]so[SP]violently\nto[SP]fish.[SP]It's[SP]like[SP]a[SP]conditioned[SP]response...\nOr[SP]is[SP]it[SP]more[SP]like[SP]animal[SP]imprinting?",
+    "fr": "Je ne pensais pas qu'Eikichi\nréagirait autant au poisson. On\ndirait un réflexe conditionné...\nOu plutôt une empreinteanimale?"
+  },
+  {
+    "file": "script_373.json",
+    "id": 58,
+    "orig": "Toro[SP]recommended[SP]me[SP]some[SP]shoes[SP]that[SP]help[SP]you\nget[SP]slim[SP]just[SP]by[SP]wearing[SP]them.[1205][000F][SP]But[SP]I[SP]don't\nknow[SP]if[SP]I[SP]trust[SP]him[SP]for[SP]weight[SP]loss[SP]tips...",
+    "fr": "Toro m'a recommandé des chaussures\npour maigrir juste en les portant.\n[1205][000F]Mais puis-je lui faire confiance\npour ce genre de choses..."
+  },
+  {
+    "file": "script_373.json",
+    "id": 104,
+    "orig": "Kasugayama's[SP]school[SP]festival[SP]looks[SP]like[SP]a[SP]real\nblast[SP]this[SP]year.[SP]That[SP]student[SP]council[SP]president\nof[SP]theirs[SP]is[SP]something[SP]else,[SP]right,[SP]Eikichi!?",
+    "fr": "Le festival du Lycée Kasu a l'air\ngénial cette année. Leur président\ndu BDE est vraiment pas comme\nles autres, pas vrai Eikichi!?"
+  },
+  {
+    "file": "script_373.json",
+    "id": 159,
+    "orig": "That[SP]guy[SP]over[SP]there[SP]had[SP]a[SP]sudden[SP]stroke[SP]of[SP]luck.\nHe[SP]used[SP]to[SP]moan[SP]all[SP]the[SP]time[SP]that[SP]he'd[SP]always\nbe[SP]a[SP]wage[SP]slave[SP]with[SP]ever-spiraling[SP]debts.",
+    "fr": "Ce type là-bas a eu un coup de\nchance soudain. Il se plaignait\ntoujours qu'il resterait un esclave\nsalarié avec des dettes sans fin."
+  },
+  {
+    "file": "script_373.json",
+    "id": 167,
+    "orig": "Hwaha![SP]I've[SP]finally[SP]been[SP]promoted[SP]to[SP]president.\nEating[SP]sushi[SP]at[SP]lunch[SP]while[SP]my[SP]underlings[SP]do\nall[SP]the[SP]work[SP]proves[SP]I've[SP]gone[SP]up[SP]the[SP]ladder!",
+    "fr": "Mwaha! Je suis enfin devenu président.\nManger des sushis le midi pendant\nque mes sous-fifres bossent prouve\nque j'ai grimpé les échelons!"
+  },
+  {
+    "file": "script_373.json",
+    "id": 179,
+    "orig": "The[SP]In[SP]Lak'ech...[SP]Hahaha,[SP]wonderful![SP]This[SP]dull\nworld[SP]will[SP]end[SP]and[SP]we'll[SP]start[SP]down[SP]a[SP]new[SP]path\nas[SP]transhumans--man's[SP]true[SP]ideal![SP]Hahaha!",
+    "fr": "In Lak'ech... Haha, formidable!\nCe monde morne va tomber et on\nentamera une nouvelle voie en\ntranshumains: l'idéal de l'homme! Haha!"
+  },
+  {
+    "file": "script_375.json",
+    "id": 33,
+    "orig": "I[SP]think[SP]it's[SP]fine[SP]to[SP]tell[SP]him[SP]he's[SP]safe[SP]here.\nThe[SP]last[SP]target[SP]has[SP]to[SP]be[SP]the[SP]Aerospace[SP]Museum,\nand[SP]I'd[SP]hate[SP]for[SP]him[SP]to[SP]worry[SP]so[SP]much.",
+    "fr": "Je crois qu'on peut lui dire\nqu'il est en sécurité. La dernière\ncible sera le Musée aérospatial,\nautant qu'il s'inquiète pas trop."
+  },
+  {
+    "file": "script_375.json",
+    "id": 48,
+    "orig": "Those[SP]lost[SP]in[SP]life's[SP]labyrinth[SP]drift[SP]here.[1205][000F]\nWe[SP]are[SP]a[SP]light[SP]shining[SP]upon[SP]a[SP]path[SP]into[SP]the\ndismal[SP]future.[1205][000F][SP]I[SP]am[SP]the[SP]keeper,[SP]Sumaru[SP]Genie.",
+    "fr": "Ceux perdus dans le labyrinthe\nde la vie [1205][000F]dérivent jusqu'ici.\nNous éclairons leur chemin vers\nl'avenir. Je suis la Génie de Sumaru."
+  },
+  {
+    "file": "script_375.json",
+    "id": 49,
+    "orig": "It[SP]seems[SP]this[SP]is[SP]your[SP]first[SP]visit.[1205][000F][SP]Are[SP]you[SP]one\nwho[SP]has[SP]lost[SP]his[SP]way[SP]to[SP]the[SP]future?[SP]Or[SP]have[SP]you\ncome[SP]to[SP]hear[SP]tales[SP]of[SP]this[SP]transitory[SP]world?",
+    "fr": "Votre première visite, on dirait.\n[1205][000F]Êtes-vous quelqu'un qui a perdu sa\nvoie vers le futur? Ou venez-vous\nentendreles récits de ce monde éphémère?"
+  },
+  {
+    "file": "script_375.json",
+    "id": 91,
+    "orig": "For[SP]the[SP]foreseeable[SP]future,[SP]your[SP]positive\noutlook[SP]will[SP]give[SP]rise[SP]to[SP]new[SP]understandings,\ncausing[SP]all[SP]negotiations[SP]to[SP]proceed[SP]smoothly.",
+    "fr": "Pour les prochains temps, votre\noptimisme fera naître de nouvelles\nperspectives, permettant à toutes\nles négociations de se dérouler bien."
+  },
+  {
+    "file": "script_375.json",
+    "id": 114,
+    "orig": "They[SP]tell[SP]of[SP][E4][NULL][NULL][0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki,[SP]which\nsells[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]quality[SP]is[SP]exquisite,\nthough[SP]the[SP]prices[SP]are[SP]high[E4][NULL][NULL][0002].[SP]How[SP]dangerous...",
+    "fr": "On dit que [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki\nvend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. [1205][000F]Leur qualité\nLL][NULL][0006]qualité est exquise, mais les prix\nsont élevés[E4][NULL][NULL][0002]. Que c'est dangereux..."
+  },
+  {
+    "file": "script_375.json",
+    "id": 115,
+    "orig": "Ah.[SP]So[SP]Eikichi[SP]of[SP]Kasugayama[SP]has[SP]abandoned[SP]his\npost[SP]as[SP]Boss...[1205][000F][SP]Knowing[SP]little[SP]about[SP]student\nlife,[SP]I[SP]am[SP]unsure[SP]as[SP]to[SP]this[SP]story's[SP]value.",
+    "fr": "Ah. Eikichi de Kasugayama a quitté\nson poste de Boss...[1205] Ne connaissant\nguère la vie étudiante, j'ignore\nla valeur de cettehistoire."
+  },
+  {
+    "file": "script_375.json",
+    "id": 118,
+    "orig": "It[SP]would[SP]appear[SP][E4][NULL][NULL][0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]sells[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F]\nI'm[SP]quite[SP]surprised[SP]that[SP]one[SP]so[SP]near[SP]to[SP]us[SP]would\nsell[SP][E4][NULL][NULL][0006]high-quality,[SP]high-price[SP]armaments[E4][NULL][NULL][0002].",
+    "fr": "Il semble que [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] vende\nde [E4][NULL][NULL][0006]vraies[1205][000F] armes[E4][NULL][NULL][0002]. Je suis surprise\nqu'un si proche voisin vende des\n[E4][NULL][NULL][0006]armements de qualité, au prix fort[E4][NULL][NULL][0002]."
+  },
+  {
+    "file": "script_375.json",
+    "id": 140,
+    "orig": "When[SP]I[SP]came[SP]to,[SP]I[SP]was[SP]here...[1205][000F][SP]This[SP][1432][NULL][NULL][0014]crystal[1432][NULL][NULL][0014]\nball[SP]is[SP]just[SP]glass.[SP]Everything[SP]I[SP]said,[SP]I[SP]made\nup...[1205][000F][SP]The[SP]thing[SP]is,[SP]it[SP]comes[SP]true[SP]anyway!",
+    "fr": "Quand je suis revenu(e) [1205][000F]à moi,\nj'étais ici... Cette [1432][NULL][NULL][0014]boule de cristal[1432][NULL][NULL][0014]\nn'est que du verre. J'inventais...\nSauf que ça se réalise quandmême!"
+  },
+  {
+    "file": "script_375.json",
+    "id": 141,
+    "orig": "Trust[SP]me,[SP]no[SP]one[SP]was[SP]more[SP]surprised[SP]than[SP]me.[1205][000F]\nB-But[SP]the[SP]more[SP]it[SP]happened,[SP]the[SP]more[SP]I[SP]was\nconvinced...[1205][000F][SP]My[SP]readings[SP]always[SP]come[SP]true.",
+    "fr": "Croyez-moi, j'en étais le plus\nsurpris(e). [1205][000F]Mais plus ça se produisait,\nplus j'étais convaincu(e)... Mes\nprédictions se réalisenttoujours."
+  },
+  {
+    "file": "script_375.json",
+    "id": 146,
+    "orig": "Hm.[SP]I[SP]have[SP]told[SP]you[SP]all[SP]the[SP]tales[SP]I[SP]know[SP]for\nthe[SP]nonce.[SP]Let[SP]us[SP]share[SP]stories[SP]once[SP]more[SP]when\nI[SP]have[SP]learned[SP]something[SP]worth[SP]telling.",
+    "fr": "Hm. Je vous ai dit toutes les\nhistoires que je connais pour\nl'instant. Partageons à nouveau quand\nj'en aurai de nouvelles à raconter."
+  },
+  {
+    "file": "script_375.json",
+    "id": 178,
+    "orig": "That[SP]reminds[SP]me...[SP]The[SP]Genie[SP]here...[SP]You[SP]can't\nsee[SP]her[SP]face,[SP]but[SP]I[SP]feel[SP]like[SP]I've[SP]heard[SP]that\nvoice[SP]somewhere.[SP]Can't[SP]put[SP]my[SP]finger[SP]on[SP]it...",
+    "fr": "En parlant de ça... La Génie ici...\nOn ne voit pas son visage mais cette\nvoix... Je l'ai entendue quelque\npart Impossible de savoiroù..."
+  },
+  {
+    "file": "script_375.json",
+    "id": 193,
+    "orig": "But[SP]my[SP]main[SP]job's[SP]a[SP]ship's[SP]captain,[SP]so[SP]I[SP]drive\nwith[SP]my[SP]yacht[SP]hat[SP]on.[1205][000F][SP]I[SP]make[SP]bank[SP]late[SP]at[SP]night,\nso[SP]I[SP]sleep[SP]in[SP]my[SP]cab[SP]at[SP]the[SP]factory[SP]by[SP]day.",
+    "fr": "Mon vrai boulot c'est capitaine de\nbateau. Je roule avec mon chapeau\nde [1205][000F]yacht. Je gagne bien la nuit,\nalorsje dors dans mon taxi à l'usine."
+  },
+  {
+    "file": "script_375.json",
+    "id": 194,
+    "orig": "There's[SP]some[SP]guy[SP]who[SP]copies[SP]my[SP]style,[SP]but[SP]I\nain't[SP]seen[SP]him[SP]around[SP]lately,[SP]so[SP]I[SP]came[SP]lookin'\nfor[SP]him.[1205][000F][SP]You[SP]know[SP]anythin'[SP]about[SP]that,[SP]buddy?",
+    "fr": "Y'a un type qui copie mon style,\nmais j'le vois plus trop depuis un\nmoment, alors j'suis venu le chercher.[1205][000F]\nT'aurais pas entendu parler de lui ?"
+  },
+  {
+    "file": "script_376.json",
+    "id": 10,
+    "orig": "The[SP]fire[SP]crystal[SP]skull...[SP]This[SP]is[SP]the[SP]second\ntime[SP]we've[SP]had[SP]this[SP]one.[1205][000F][SP]It's[SP]the[SP]one[SP]my[SP]Shadow\ntook[SP]off[SP]with...[SP]I[SP]still[SP]feel[SP]bad[SP]about[SP]that.",
+    "fr": "Le crâne de cristal de feu...\nC'est la deuxième fois qu'on la eu\nC'est ]C'est celui que mon ombre a\nemporté... Je m'en sens toujours mal."
+  },
+  {
+    "file": "script_376.json",
+    "id": 16,
+    "orig": "The[SP]closer[SP]you[SP]are[SP]to[SP]the[SP]poles,[SP]the[SP]lower[SP]the\nimpact[SP]will[SP]be...[SP]But[SP]the[SP]tsunamis[SP]and[SP]quakes\nwill[SP]still[SP]prevent[SP]anyone[SP]from[SP]surviving...",
+    "fr": "Le plus proche tu es aux pôles,\nplus l'impact sera faible... Mais\nles tsunamis et tremblements de\nterre n'épargnerontpersonne..."
+  },
+  {
+    "file": "script_376.json",
+    "id": 58,
+    "orig": "For[SP]the[SP]foreseeable[SP]future,[SP]you[SP]will[SP]be[SP]blessed\nwith[SP]good[SP]fortune[SP]and[SP]live[SP]in[SP]happiness.",
+    "fr": "Bientôt, la fortune t'accompgnera et\ntu vivras dans le bohnneur. [E4][NULL][NULL]\"Génie\nSumaru, colporteuse de rumeurs Oui...\nJe vois... Ton destin se cristalise...\nHmm... C'est... La Tempérance..."
+  },
+  {
+    "file": "script_376.json",
+    "id": 121,
+    "orig": "You[SP]know[SP]what[SP]that[SP]means?[1205][000F][SP]As[SP]a[SP]politician,\nI'll[SP]be[SP]the[SP]most[SP]powerful[SP]man[SP]alive![1205][000F][SP]Wahahahaha!",
+    "fr": "Tu sais ce que ça veut dire? En tant que\n[1205][000F]politicien, je serai l'homme le plus puissant\ndu monde! Mwahahaha! Message de debug. Vous\nne devriez pas me voir. Reset du BIT voyance."
+  },
+  {
+    "file": "script_376.json",
+    "id": 122,
+    "orig": "I[SP]work[SP]at[SP]Sumaru[SP]TV,[SP]and[SP]one[SP]of[SP]my[SP]coworkers\nis[SP]the[SP]biggest[SP]scaredy[SP]cat.[1205][000F][SP]We[SP]were[SP]at[SP]the[SP]old\nabandoned[SP]factory[SP]and[SP]I[SP]told[SP]him[SP]a[SP]scary[SP]story.",
+    "fr": "Je bosse à Sumaru TV, et un collègue\nest un vrai trouillard. à la 205]la\nvieille usine abandonnée je lui\nai raconté une histoire flippante."
+  },
+  {
+    "file": "script_376.json",
+    "id": 124,
+    "orig": "And[SP]just[SP]like[SP]I[SP]thought,[SP]whatever[SP]he[SP]imagined\nfreaked[SP]him[SP]out.[SP]He[SP]went[SP]white[SP]as[SP]a[SP]sheet![1205][000F]\nHeeheehee...[SP]Ahahaha![SP]It[SP]still[SP]cracks[SP]me[SP]up!",
+    "fr": "Et comme je le pensais, ce qu'il a\nimaginé l'a terrorisé. Il est devenu\nblanc comme un linge ![1205][000F] Hihi...\nAhaha ! Ça me fait encore rire !"
+  },
+  {
+    "file": "script_377.json",
+    "id": 24,
+    "orig": "My[SP]fees[SP]depend[SP]on[SP]the[SP]current[SP]market[SP]value[SP]for\nhealing,[SP]but[SP]I[SP]do[SP]cure[SP]everyone,[SP]so[SP]you[SP]might\nsave[SP]a[SP]little[SP]in[SP]the[SP]long[SP]run.",
+    "fr": "Mes tarifs dépendent de la valeur du\nmarché pour les soins, mais je soigne\ntout le monde, donc tu pourras économiser\nunpeu au final. Erreur Aucun BIT de saut.\nContactez Kanada, ou plutôt votre chef QA."
+  },
+  {
+    "file": "script_377.json",
+    "id": 34,
+    "orig": "Alright![SP]Pain,[SP]pain,[SP]go[SP]a...[SP]Hey![SP]You[SP]don't\nhave[SP]enough[SP]money![SP]Come[SP]back[SP]when[SP]your\nwallet's[SP]fuller!",
+    "fr": "D'accord! Douleur, douleur, va-t'... Hé! T'as\npas assez d'argent! Reviens quand tes poches\nseront pleines! Erreur Aucun BIT de saut.\nContactez Kanada, ou plutôt votre chef QA."
+  },
+  {
+    "file": "script_378.json",
+    "id": 3,
+    "orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
+    "fr": "Une vraie dame japonaise est\nmodeste, discrète, respecte la piété\nfiliale et les[1205][001E] règles du foyer.\n[001E]Viens, ta leçon de thécommence."
+  },
+  {
+    "file": "script_378.json",
+    "id": 5,
+    "orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
+    "fr": "Une vraie dame japonaise est\nmodeste, discrète, respecte la piété\nfiliale et les[1205][001E] règles du foyer.\n[001E]Viens, ta leçon de thécommence."
+  },
+  {
+    "file": "script_378.json",
+    "id": 24,
+    "orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
+    "fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le. Lettre\n[NULL][NULL]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnantcette\nfois. Tentez à nouveau votre chance![NULL][NULL]"
+  },
+  {
+    "file": "script_378.json",
+    "id": 25,
+    "orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
+    "fr": "Le tirage au sort? Ah oui, bien sûr.\nCeci a été livré ici. Tenez, prenez-le.\nLettre [NULL][NULL]Merci d'avoir participé à\nnotre tirage. Félicitations! Vous\navez été sélectionnégagnant! [NULL][NULL]Veuillez\naccepter ceci [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nTentez à nouveau votre chance![NULL][NULL] Vous\nn'avez plus de place pour un autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "script_379.json",
+    "id": 27,
+    "orig": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
+    "fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie,\npour un utilisateur comme vous,\nl'accepter en soi. Posséder sa\ncarte seule ne vous servira àrien."
+  }
+]

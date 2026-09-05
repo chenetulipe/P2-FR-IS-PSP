@@ -1,0 +1,302 @@
+[
+  {
+    "file": "script_285.json",
+    "id": 23,
+    "fr_cleaned": "Il est assez suspect et s'exprime\ncomme s'il pouvait voir à travers\n[1205][000A]les gens. Il se fait même appeler\nComte... Doncla rumeur ne m'étonne pas.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 26,
+    "fr_cleaned": "Je n'entend pas de très bonne\nrumeurs sur lui, tu sais. Certains\n[1205][000A]disent même qu'il baigne dans le\ncrime organisé. Peut-être, qui sait?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 29,
+    "fr_cleaned": "Aussi, le Garçon là-bas aurait\nchassé des voyous armés de couteaux,\n[1205][000A]ajoutant qu'il aurait un fusil la\nprochainefois. Il n'est pas ordinaire.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 35,
+    "fr_cleaned": "Tu vois cette boutique, [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002]?\nOn y achète de [E4][NULL][NULL][0006]vraies armures.\n[1205][000A]E4][NULL][NULL][0002]. D'après la rumeur, les [E4][NULL][NULL][0006]prix\net la qualité sont convenables[E4][NULL][NULL][0002].",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 53,
+    "fr_cleaned": "C'est peut-être pour ça que les\ngens sont aussi réceptifs aux\n[1205][000A]rumeurs...[1205][000F] Ceci dit, celles de\nSumaru sont particulièrementbizarres.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 56,
+    "fr_cleaned": "Ce sont les rumeurs que je connais.\nJe t'en dirais plus quand j'en\n[1205][000A]aurais d'autres. Assure-toi d'avoir\ndesinformations alléchantes pour moi!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 60,
+    "fr_cleaned": "Il y a plein de rumeurs sur comment\nla Croix Cosmique va amener la fin\n[1205][000A]du monde. La chute [1205][000F]de météorite\nest la théorie la pluspopulaire...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 73,
+    "fr_cleaned": "Apparemment le Vieux Rebondissant\na été vu au[1205][000F] Mont Katatsumuri.\n[1205][000A]Je sais pas trop ce que c'est...\nPeut-être juste ce que son nomimplie?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 90,
+    "fr_cleaned": "On dirait que Jolly Roger à Kounan\nvend de vraies armes. Je pourrais\n[1205][000A]y faire un tour... Leurs prix et\nleur sélection semblent normaux.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 94,
+    "fr_cleaned": "On dirait que Jolly Roger à Kounan\nvend de vraies armes. Je pourrais y\n[1205][000A]faire un tour... C'est très cher,\nmais la qualité vaut le coup.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_285.json",
+    "id": 152,
+    "fr_cleaned": "Ah! Voyez, mes frères! [1205][000F]Une flèche\nde lumière fut tirée de l'école\n[1205][000A]portant le fardeau du destin des\nsept soeurs! Notre évolutiondémarre!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_286.json",
+    "id": 1,
+    "fr_cleaned": "Un haori traditionnel et une maison\njaponaise... Je me demande ce\n[1205][000A]qu'il trouve si formidable dans\nce pays. Je n'y comprendsrien.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_286.json",
+    "id": 41,
+    "fr_cleaned": "C'est comme un manoir![1205][001E] On ne voit\nplus souvent une architecture\n[1205][000A]japonaise authentique comme ça.\nÇa ferait une belle photo...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_286.json",
+    "id": 49,
+    "fr_cleaned": "Maya-san, tu es sûre qu'il était\njuste de laisser cette Ixquic\n[1205][000A]partir? J'ai un mauvais pressentiment\nqu'elle reviendra nousharceler...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_286.json",
+    "id": 60,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\n[1205][000A]Allez, prenez-le.",
+    "garbage_removed": " Lettre [NULL][NULL]Merci de\nvotre participation au tirage. Hélas,\nvous n'êtes pas gagnant cettefois.\nNous vous encourageons à continuer![NULL][NULL]"
+  },
+  {
+    "file": "script_286.json",
+    "id": 61,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\n[1205][000A]Allez, prenez-le.",
+    "garbage_removed": " Lettre [NULL][NULL]Merci de votre\nparticipation au tirage. Félicitations!\nVous avez étésélectionné comme gagnant!\n[NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez\npas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "script_286.json",
+    "id": 68,
+    "fr_cleaned": "La danse japonaise n'est-elle pas\npréférable? Les jeunes façonneront\n[1205][000A]l'avenir du pays, j'aurais aimé\nqu'ils maîtrisent sestraditions...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_286.json",
+    "id": 74,
+    "fr_cleaned": "Je crois que Lisa a appris quelque\nchose vital. C'est le devoir d'un père\n[1205][000A]de la laisser agir en silence...Je\nprie pour ton retour, ma fille.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_286.json",
+    "id": 75,
+    "fr_cleaned": "J'entends parler d'un petit groupe\nqui a stoppé l'attentat de Smile\n[1205][000A]Hirasaka. Vouloir risquer leurs\nvies... De vrais enfants duJapon!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_287.json",
+    "id": 20,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\n[1205][000A]Allez, prenez-le.",
+    "garbage_removed": " Lettre [NULL][NULL]Merci de\nvotre participation au tirage. Hélas,\nvous n'êtes pas gagnant cettefois.\nNous vous encourageons à continuer![NULL][NULL]"
+  },
+  {
+    "file": "script_287.json",
+    "id": 21,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\n[1205][000A]Allez, prenez-le.",
+    "garbage_removed": " Lettre [NULL][NULL]Merci de votre\nparticipation au tirage. Félicitations!\nVous avez étésélectionné comme gagnant!\n[NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez\npas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "script_287.json",
+    "id": 24,
+    "fr_cleaned": "Je ne peux plus retenir ma fille à\nce stade. C'est ]C'est pourquoi je\n[1205][000A]voudrais vous confier sa sécurité.\nVeuillez veiller sur Lisa à maplace.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_287.json",
+    "id": 25,
+    "fr_cleaned": "J'ai entendu que des soldats ont\nenvahi le Lycée Seven Sisters. Les\n[1205][000A]élèves et profs[1205][000F] sont-ils sains?\nS'attaquer aux lycées, quelleaudace!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_287.json",
+    "id": 28,
+    "fr_cleaned": "J'ai entendu que quelqu'un était\nintervenu pour sauver les élèves de\n[1205][000A]Seven Sisters High.[1205][000F] Il reste donc des\ngens à Sumaru prêts à se battre...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_290.json",
+    "id": 53,
+    "fr_cleaned": "C'est bien d'éparpiller bravement\nvos pétales, mais ne préférez-vous\n[1205][000A]pas être une fleur de victoire?\nAlorsvous devez vous vêtir de fleurs.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_290.json",
+    "id": 67,
+    "fr_cleaned": "Mais ne détestez-vous pas qu'on\nvous juge pour ça? C'est pourquoi\n[1205][000A]je veux des vêtements décents. Je\ngagne peu, mais je paie àcrédit...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_290.json",
+    "id": 72,
+    "fr_cleaned": "À quoi ressemblent les Idéaliens?\nJe suis curieuse depuis que j'ai\n[1205][000A]lu ce livre. Ce sont des humains\nconnaissant le sens de la vie,non?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_290.json",
+    "id": 79,
+    "fr_cleaned": "Pas pour y retourner, non. Maintenant\nje dirai la même chose aux hommes\n[1205][000A]qui rampent vers moi! [1205][000F]Haha...\nJe suis un sacré numéro, non?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_291.json",
+    "id": 14,
+    "fr_cleaned": "Bref.[1205][0008] Et notre concept mode pour\ncette année? On 00F]On a eu raison\n[1205][000A]de miser sur les armures? Nos\nprévisions ne se trompent jamais!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_294.json",
+    "id": 89,
+    "fr_cleaned": "Pour aujourd'hui, le parfum\nd'amarante. Symbole d'amour\n[1205][000A]éternel... Leur odeur apportera la\npuissance à ceux qui yparviennent.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_295.json",
+    "id": 51,
+    "fr_cleaned": "Et aujourd'hui, le parfum de la\nfleur légendaire... Éphémère, mais\n[1205][000A]toujours présente. Son souffle\nvous donne la force de survivre...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_296.json",
+    "id": 66,
+    "fr_cleaned": "Je pensais que le président\ndes élèves serait... populaire.\n[1205][000A]Ce n'est pas l'impression que\ndonne Eikichi quand il en parle.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_296.json",
+    "id": 308,
+    "fr_cleaned": "Voulez-vous vous séparer de\ncette Persona?\n[1205][000A][1208][0002]Oui\nNon",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_298.json",
+    "id": 19,
+    "fr_cleaned": "Le président m'avait ordonné de\nvous attirer tous dans l'abri...\n[1205][000A]Je me sentais si coupable... Je\nsuis si soulagé de vous voirsains!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_298.json",
+    "id": 20,
+    "fr_cleaned": "Tous les lycées ont au moins sept\nlégendes urbaines, mais ce lycée\n[1205][000A]n'en a qu'une. [1432][NULL][NULL][0014]Une fois dans l'abri,\nimpossible de trouver lasortie.[1432][NULL][NULL][0014]",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_304.json",
+    "id": 4,
+    "fr_cleaned": "Après tout, mon visage est en\nsale état. [1205][000F]Je voulais juste un peu\n[1205][000A]d'action... J'avais pourtant choisi\nun lycée avec un festivalexprès...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_305.json",
+    "id": 27,
+    "fr_cleaned": "Le nouvel élève...[1205][000F] Ouais, cette\nclasse en avait un... Mais ça fait\n[1205][000A]une éternité que je l'ai pas vu...\nPeu importe... Ça me regardepas...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_309.json",
+    "id": 30,
+    "fr_cleaned": "J'ai su qu'on était pauvres...\naux portes ouvertes... Les autres\n[1205][000A]mères étaient bien habillées... La\nmienne seule... avait l'airsale...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_312.json",
+    "id": 1,
+    "fr_cleaned": "Ils en ont rien à foutre de ceux\nrestés en bas!? Tch, j'commence à\n[1205][000A]me demander si ça vaut le coup de\nse battre pour ces sales types.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_312.json",
+    "id": 6,
+    "fr_cleaned": "Les désirs cachés du coeur humain\ndonnent [1205][000F]forme aux rumeurs. L'humain\n[1205][000A]a une part sombre... Mais aussi\nde la bonté et del'empathie.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_312.json",
+    "id": 51,
+    "fr_cleaned": "... D'accord...[1205][000F] Bah, ça change rien... Bien,\nc'est parti!",
+    "garbage_removed": "[E3] Eikichi mange...[E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
+  },
+  {
+    "file": "script_313.json",
+    "id": 4,
+    "fr_cleaned": "Ce mec est fou, hein? Je sais pas\nsi c'est à cause de l'Oracle ou\n[1205][000A]quoi, mais devenir pyromane pour une\nprophétie c'est vraimenttrès con.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_313.json",
+    "id": 34,
+    "fr_cleaned": "Si le Bataillon s'est montré si\nvite, c'est peut-être qu'au fond\n[1205][000A]les humains souhaitent la fin du\nmonde...[1205][000F] En est-il de même pournous?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_313.json",
+    "id": 44,
+    "fr_cleaned": "Je sais que ce livre est la cause\nde tout [1205][000F]ça... Mais honnêtement c'est\n[1205][000A]les habitants qu'il faut blâmer.\nJe sais pas trop quoi enpenser.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_313.json",
+    "id": 75,
+    "fr_cleaned": "Genre ce mec avant. Il croyait\npas que j'étais un gars, donc je\n[1205][000A]lui ai montré! Ce con a hurlé et\nfui vers l'agence de détective.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_313.json",
+    "id": 85,
+    "fr_cleaned": "Le Cercle Masqué accomplira mon\nidéal! Chaque humain idiot sur le\n[1205][000A]globe brûlera, nous épargnant nous\ndont les rêves ont été exaucés!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_315.json",
+    "id": 21,
+    "fr_cleaned": "C'est dur, je sais... Mais on ne\npeut pas permettre d'autres victimes,\n[1205][000A]pour ceux qui ont été entraînés\nlà-dedans. Allons l'arrêter!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_315.json",
+    "id": 66,
+    "fr_cleaned": "J'ai vu les portraits-robots, et\nj'ai été surpris de voir qu'ils\n[1205][000A]étaient bien plus jeunes que prévu.\nIls avaient votre âge, enfait.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_315.json",
+    "id": 75,
+    "fr_cleaned": "Elle est curieuse, mais qu'une\nfille s'infiltre dans un lycée\n[1205][000A]pour garçons ainsi...[1205][000F] Eh bien,\nj'admire au moins son intrépidité.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_318.json",
+    "id": 2,
+    "fr_cleaned": "Tant que l'homme vivra, il souffrira\net [1205][000F]affrontera des épreuves. La\n[1205][000A]vie continue... C'est ainsi qu'on\ntrouve ses raisons de vivre.",
+    "garbage_removed": ""
+  }
+]

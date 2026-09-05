@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "What're[SP]you[SP]guys[SP]doing[SP]here!?[SP]You[SP]gotta[SP]run!\nThere's[SP]bombs[SP]everywhere!",
     "nom_fr": "Ginko",
-    "texte_fr": "Pourquoi vous êtes là!? Sortez,\nl'endroit est rempli de bombes!"
+    "texte_fr": "Pourquoi vous êtes là!? Sortez, l'endroit\nest rempli de bombes!"
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Alright,[SP]we[SP]don't[SP]have[SP]time[SP]to[SP]fool[SP]around\neither!",
     "nom_fr": "Yukino",
-    "texte_fr": "Allez, on a vraiment pas\nle temps de discuter!"
+    "texte_fr": "Allez, on a vraiment pas le temps de\ndiscuter!"
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I'll[SP]never[SP]let[SP]those[SP]creeps[SP]get[SP]their[SP]way!\nRight,[SP][1113]!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Je laisserais pas faire\nces tarés! Pas vrai, [1113]!?"
+    "texte_fr": "Je laisserais pas faire ces tarés! Pas vrai,\n[1113]!?"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
     "nom_fr": "Ginko",
-    "texte_fr": "[1113]! On se dépêche et on sort! J'ai\ntout sauf envie de finir carbonisée!"
+    "texte_fr": "[1113]! On se dépêche et on sort! J'ai tout sauf\nenvie de finir carbonisée!"
   },
   {
     "id": 6,
@@ -177,6 +177,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "They're[SP]right![SP]I[SP]can't[SP]die[SP]as[SP]a[SP]mere\napprentice![SP]Plus...[SP]There's[SP]something[SP]I\nhave[SP]to[SP]get[SP]off[SP]my[SP]chest[SP]before[SP]I[SP]go!",
     "nom_fr": "Yukino",
-    "texte_fr": "C'est vrai ! Je peux pas mourir en simple\napprentie ! Et puis... Il y a quelque\nchose que je dois dire avant de partir !"
+    "texte_fr": "C'est vrai ! Je peux pas mourir en simple\napprentie ! Et puis... Il y a quelque chose\nque je dois dire avant de partir !"
   }
 ]

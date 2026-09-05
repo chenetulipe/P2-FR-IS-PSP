@@ -1,0 +1,302 @@
+[
+  {
+    "file": "event_scripts/script_250.json",
+    "id": 33,
+    "fr_cleaned": "C'est arrivé dès que la grande horloge s'est\nremise en marche... Même les élèves\nsans leur emblème tombent malades, un par\nun...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_255.json",
+    "id": 6,
+    "fr_cleaned": "On l'appelle [1432][NULL][NULL][0014]la Rumouriste[1432][NULL][NULL][0014], alors je pensais\nqu'elle pourrait savoir quelque chose sur la\nmalédiction... Peut-être qu'elle est allée au\nPeace Diner ?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_256.json",
+    "id": 27,
+    "fr_cleaned": "*snif*[1205][001E] La malédiction est levée, mais cet\ninfâme Boss est toujours là...[1205][001E] Je parie qu'il\nva essayer un truc bizarre avec\nmoi...*sanglot*",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_257.json",
+    "id": 3,
+    "fr_cleaned": "Je me demande combien d'années ont passé\ndepuis cette tragédie...[1205][001E] C'était horrible.\nNamu Amida Butsu, Namu Amida Butsu...[1205] < Bah,\nc'est l'heure du dîner !",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_258.json",
+    "id": 26,
+    "fr_cleaned": "Oh là là... La tour de l'horloge... Elle s'est\neffondrée... C'était pour le mieux...?\nJ'espère que cet enseignant peut reposer en\npaix...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_259.json",
+    "id": 7,
+    "fr_cleaned": "Mme Idéal enseigne ici depuis 11 ans, non?\nElle dit toujours des trucs bizarres, mais\nrécemment elle est nerveuse à cause\nd'un oracle.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_259.json",
+    "id": 9,
+    "fr_cleaned": "Je crois que si elle se mettait à bouger, je\nla casserais. Mais ne vous méprenez pas, j'ai\nbeau le trouver chiant et maniaque, il est\nbien.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_260.json",
+    "id": 7,
+    "fr_cleaned": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi! Allons\ndîner, [1113]!",
+    "garbage_removed": "Pierre Narurato Un mégalithe déterré\nà la construction du lycée. Fait de thamatite,\nil possède un magnétisme anormal.[E1][E2] La légende\ndit que c'est une pierre gardienne où l'être\ncéleste Hiremon a scellé le démon Narurato\nHotefu. Statue en l'honneur du directeur Hanya\n[NULL][NULL]Regardez-moi! Suivez-moi! Ne comptez pas sur\nmoi![NULL][NULL] est lacitation contradictoire écrite ici.\nLa regarder vous met étrangement en colère..."
+  },
+  {
+    "file": "event_scripts/script_261.json",
+    "id": 1,
+    "fr_cleaned": "Cet endroit a été mentionné dans notre\nmagazine partenaire, Gourmet King.[1205][001E] Trois\nétoiles pour le prix, la saveur et les\nportions.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_261.json",
+    "id": 73,
+    "fr_cleaned": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il apparaissait sur\nles routes et tunnels... Ajoutons les\nmontagnes.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_262.json",
+    "id": 4,
+    "fr_cleaned": "Hein ? Mme Saeko ?[1205][001E] Je sais pas... Dans la\nsalle des profs au deuxième étage ?[1205][001E] *soupir*\nBien sûr que c'est pas moi que vous\ncherchez...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_263.json",
+    "id": 22,
+    "fr_cleaned": "J'ai entendu que c'est le proviseur qui a levé\nla malédiction.[1205][000F] Mais le Boss a aussi fait sa\npart ![1205][000F] En remerciement, je lui ai donné mon\npremier baiser...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_265.json",
+    "id": 48,
+    "fr_cleaned": "Tu as détruit celui-là, [1112]-senpai. Maintenant va\nt'occuper des autres!",
+    "garbage_removed": "Ce sont les restes d'une\nhorloge qui était au mur... Il y a une horloge\nau mur avec l'emblème de l'école dessus."
+  },
+  {
+    "file": "event_scripts/script_266.json",
+    "id": 11,
+    "fr_cleaned": "Tu viens vraiment me parler? Senpai? Contente\nd'avoir pu me tirer hors du lit aujourd'hui...[1205][001E]\nMme. Saeko? Je crois l'avoir vue au premier\nétage",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_267.json",
+    "id": 2,
+    "fr_cleaned": "Ce principal se rapelle notre dernier combat,\nnon?[1205][000F] Je me suis donné à fond... Je\nserais pas surpris si il m'en veut par rapport\nà ça.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_267.json",
+    "id": 20,
+    "fr_cleaned": "Je pensais pas que le principal était si [1205][000F]\nfort... I-Il a écrasé le Bataillon à droite et\nà gauche... C'est l'homme le plus fort\ndu monde!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_267.json",
+    "id": 21,
+    "fr_cleaned": "L'invasion du Bataillon et le retour\nmiraculeux du Principal[1205][000F] Hanya! Comment peut-on\ns'appeler des journalistes et ne peux\npas écrire ça!?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_268.json",
+    "id": 11,
+    "fr_cleaned": "Fiou.. ça faisait longtemp qu'un combat m'a\nfait transpirer autant. Hereusement, j'ai été\nà la chambre de velours avant. Tout le monde va\nbien?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_268.json",
+    "id": 15,
+    "fr_cleaned": "L'invasion du Bataillon et l'intervention de\ncette bombe grâcieuse! [1205][000F]Comment peut-on\ntoujours prétendre être journalistes et ne pas\nécrire ceci!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_270.json",
+    "id": 27,
+    "fr_cleaned": "Oh, et d'ailleurs, le festival du lycée est\nannulé à cause de ça. C'était obligé\nd'arriver. Vraiment. Mais c'est pas la faute du\nprincipal.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_270.json",
+    "id": 30,
+    "fr_cleaned": "Ça va être dur avec la mort du principal...\nMême moi j'aurais pas pu prédire ça! Mais\nc'est pas grave. Je suis sûr qu'il repose\nen paix.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_271.json",
+    "id": 12,
+    "fr_cleaned": "Elle crie des mots chinois et elle est\nbizarre, mais ça serait trop bien d'avoir une\ncopine vraiment blonde. Je tenterais ma chance\nsi j'étais toi.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_272.json",
+    "id": 32,
+    "fr_cleaned": "Ah oui, il y avait des emblèmes dans la salle\ndes profs au deuxième étage...[1205][000F] Mais nos\nprofs sont là. Je veux pas qu'ils s'en rendent\ncompte!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_272.json",
+    "id": 48,
+    "fr_cleaned": "Ah oui, il y avait des emblèmes dans la salle\ndes profs au deuxième étage...[1205][000F] Mais nos\nprofs sont là. Je veux pas qu'ils s'en rendent\ncompte!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_279.json",
+    "id": 41,
+    "fr_cleaned": "Je me demande s'il est vraiment triste que nos\npetits-enfants ne viennent plus. Tu pourrais\nlui parler ? Il doit traîner quelque part en\nville.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_281.json",
+    "id": 85,
+    "fr_cleaned": "J'écoute actuellement les murmures de la\nsociété. Écouter les rumeurs enseigne\nclairement les mensonges et tromperies du\nmonde.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_281.json",
+    "id": 106,
+    "fr_cleaned": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne et os\ncroisés... Entre le décor marin et ses\nvêtements, le patron est peut-être un\nex-pirate.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_281.json",
+    "id": 159,
+    "fr_cleaned": "Avoir ses idéaux exaucés n'a rien de\nspécial...[1205][001E] Je pensais que ça changerait ma\nvie...[1205][001E] Mais tout me pèse trop pour\nque j'agisse...[1205][001E]",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_281.json",
+    "id": 169,
+    "fr_cleaned": "La salle de concerts en plein air à Aoba\naccueille des artistes célèbres.\nImpressionnant que ce soit leur première\nscène.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_281.json",
+    "id": 237,
+    "fr_cleaned": "Vous savez quoi ? J'ai entendu que les fleurs\ndu parc d'Aoba peuvent parler. Paraît qu'elles\nsont comme des gens... Y'en a des bonnes et\ndes mauvaises.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 4,
+    "fr_cleaned": "Ils doivent être desespérés pour penser\npouvoir évoluer et fuir la fin du monde. [1205][000F]Les\ngens... peuvent être pitoyables dans ces\nmoments-là...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 23,
+    "fr_cleaned": "Il est assez suspect et s'exprime comme s'il\npouvait voir à travers les gens. Il se fait\nmême appeler Comte... Donc la rumeur ne\nm'étonne pas.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 29,
+    "fr_cleaned": "Aussi, le Garcon là-bas aurait chassé des\nvoyous armés de couteaux, ajoutant qu'il\naurait un fusil la prochaine fois. Il n'est pas\nordinaire.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 53,
+    "fr_cleaned": "C'est peut-être pour ça que les gens sont\naussi réceptifs aux rumeurs...[1205][000F] Ceci dit,\ncelles de Sumaru sont\nparticulièrement bizarres.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 56,
+    "fr_cleaned": "Ce sont les rumeurs que je connais. Je t'en\ndirais plus quand j'en aurais d'autres.\nAssure-toi d'avoir des informations alléchantes\npour moi!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 60,
+    "fr_cleaned": "Il y a plein de rumeurs sur comment la Croix\nCosmique va amener la fin du monde. La chute\n[1205][000F]de météorite est la théorie la\nplus populaire...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_285.json",
+    "id": 152,
+    "fr_cleaned": "Ah! Voyez, mes frères! [1205][000F]Une flèche de lumière\nfut tirée de l'école portant le fardeau du\ndestin des sept soeurs! Notre\névolution démarre!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_286.json",
+    "id": 49,
+    "fr_cleaned": "Maya-san, tu es sûre qu'il était juste de\nlaisser cette Ixquic partir? J'ai un mauvais\npressentiment qu'elle reviendra\nnous harceler...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_286.json",
+    "id": 60,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci de votre participation au tirage.\nHélas, vous n'êtes pas gagnant cettefois. Nous\nvous encourageons à continuer![NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_286.json",
+    "id": 61,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci de votre participation au tirage.\nFélicitations! Vous avez étésélectionné comme\ngagnant! [NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez pas de\nplace pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "event_scripts/script_286.json",
+    "id": 68,
+    "fr_cleaned": "La danse japonaise n'est-elle pas préférable?\nLes jeunes façonneront l'avenir du pays,\nj'aurais aimé qu'ils maîtrisent\nses traditions...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_286.json",
+    "id": 74,
+    "fr_cleaned": "Je crois que Lisa a appris quelque chose\nvital. C'est le devoir d'un père de la laisser\nagir en silence... Je prie pour ton retour, ma\nfille.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_286.json",
+    "id": 75,
+    "fr_cleaned": "J'entends parler d'un petit groupe qui a\nstoppé l'attentat de Smile Hirasaka. Vouloir\nrisquer leurs vies... De vrais enfants\ndu Japon!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_287.json",
+    "id": 20,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci de votre participation au tirage.\nHélas, vous n'êtes pas gagnant cettefois. Nous\nvous encourageons à continuer![NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_287.json",
+    "id": 21,
+    "fr_cleaned": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci de votre participation au tirage.\nFélicitations! Vous avez étésélectionné comme\ngagnant! [NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez pas de\nplace pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "event_scripts/script_287.json",
+    "id": 24,
+    "fr_cleaned": "Je ne peux plus retenir ma fille à ce stade.[1205][000F]\nC'est pourquoi je voudrais vous confier\nsa sécurité. Veuillez veiller sur Lisa à\nma place.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_287.json",
+    "id": 25,
+    "fr_cleaned": "J'ai entendu que des soldats ont envahi le\nLycée Seven Sisters. Les élèves et profs[1205][000F]\nsont-ils sains? S'attaquer aux lycées,\nquelle audace!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_287.json",
+    "id": 28,
+    "fr_cleaned": "J'ai entendu que quelqu'un était intervenu\npour sauver les élèves de Seven Sisters High.[1205][000F]\nIl reste donc des gens à Sumaru prêts à se\nbattre...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_290.json",
+    "id": 53,
+    "fr_cleaned": "C'est bien d'éparpiller bravement vos pétales,\nmais ne préférez-vous pas être une fleur de\nvictoire? Alors vous devez vous vêtir de\nfleurs.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_294.json",
+    "id": 89,
+    "fr_cleaned": "Pour aujourd'hui, le parfum d'amarante.\nSymbole d'amour éternel... Leur odeur\napportera la puissance à ceux qui\ny parviennent.",
+    "garbage_removed": ""
+  }
+]

@@ -1,520 +1,546 @@
 [
-  {
-    "id": 0,
-    "offset": 209294,
-    "data_size": 256,
-    "slot_size": 256,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "If[SP]this[SP]store[SP]is[SP]still[SP]open[SP]after[SP]the[SP]owner\ngives[SP]his[SP]customers[SP]lip[SP]like[SP]that,[SP]business\nmust[SP]be[SP]booming[SP]for[SP]him[SP]now.",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Si ce magasin est encore ouvert alors\nque le gérant ést super désagréable,\nle business doit imploser maintenant."
-  },
-  {
-    "id": 1,
-    "offset": 209556,
-    "data_size": 214,
-    "slot_size": 214,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Grrrr![SP]Like[SP]father,[SP]like[SP]son![SP]I[SP]was[SP]the[SP]sweetest\nlittle[SP]boy[SP]when[SP]I[SP]was[SP]his[SP]age.[SP]Just[SP]adorable.",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Grrr! Tel père, tel fils! Moi\nj'étais bien plus gentil à son\nâge. Un garçon vraiment adorable."
-  },
-  {
-    "id": 2,
-    "offset": 209776,
-    "data_size": 282,
-    "slot_size": 282,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "Hey,[SP]this[SP]guy[SP]says[SP]he's[SP]in[SP]the[SP]Masked[SP]Circle.\nShould[SP]we[SP]tell[SP]him[SP]that[SP]even[SP]with[SP]the[SP]best\narmor,[SP]he's[SP]screwed[SP]if[SP]he[SP]messes[SP]with[SP]us?",
-    "nom_fr": "Ginko",
-    "texte_fr": "Hé, ce gars dit être membre du Cercle Masqué.\nOn le prévient que même avec la meilleure\narmure, on l'explosera s'il nous cherche?"
-  },
-  {
-    "id": 3,
-    "offset": 210064,
-    "data_size": 168,
-    "slot_size": 168,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "Well,[SP]it's[SP]true[SP]that[SP]Eikichi[SP]was[SP]an[SP]adorable\nlittle[SP]butterball[SP]back[SP]then.",
-    "nom_fr": "Ginko",
-    "texte_fr": "Ben, c'est vrai qu'avant Eikichi\nétait un adorable enfant tout potelé."
-  },
-  {
-    "id": 4,
-    "offset": 210238,
-    "data_size": 114,
-    "slot_size": 114,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Umm...[1205][000A][SP]A-Are[SP]you[SP]the[SP]owner's[SP]son?[1205][000F][SP]H-Hello...",
-    "nom_fr": "Maya",
-    "texte_fr": "Hum, Êtes-vous le fils du gérant? [1205][000F]Salut..."
-  },
-  {
-    "id": 5,
-    "offset": 210358,
-    "data_size": 196,
-    "slot_size": 196,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "That[SP]boy's[SP]good...[1205][001E][SP]He[SP]even[SP]deflected[SP]my[SP]smile\nguaranteed[SP]to[SP]make[SP]a[SP]crying[SP]baby[SP]giggle.",
-    "nom_fr": "Maya",
-    "texte_fr": "Ce garçon est doué,[1205][001E] il repousse mon sourire\nauquel aucun bébé en pleurs ne résiste."
-  },
-  {
-    "id": 6,
-    "offset": 210560,
-    "data_size": 290,
-    "slot_size": 290,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Jun",
-    "texte_orig": "Try[SP]not[SP]to[SP]pick[SP]on[SP]them[SP]too[SP]much,[SP]Lisa...[1205][001E]\nThey[SP]are[SP]in[SP]the[SP]Masked[SP]Circle,[SP]but[SP]apart[SP]from\nthat,[SP]they're[SP]no[SP]different[SP]from[SP]anyone[SP]else...",
-    "nom_fr": "Jun",
-    "texte_fr": "Ne sois pas trop rude avec eux, Lisa...[1205][001E] Ils ont beau être dans le Cercle Masqué,\nce sont des gens comme les autres..."
-  },
-  {
-    "id": 7,
-    "offset": 210856,
-    "data_size": 232,
-    "slot_size": 232,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Jun",
-    "texte_orig": "My[SP]younger[SP]days...[1205][001E][SP]They're[SP]nostalgic,[SP]and[SP]sad\nas[SP]well...[1205][001E][SP]But[SP]I[SP]can't[SP]keep[SP]dwelling[SP]on[SP]the\npast[SP]forever.",
-    "nom_fr": "Jun",
-    "texte_fr": "Mon enfance...[1205][001E] Me rend nostalgique,\net triste aussi...[1205][001E] Mais je dois\ncesser d'être bloqué dans le passé."
-  },
-  {
-    "id": 8,
-    "offset": 211094,
-    "data_size": 212,
-    "slot_size": 212,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "You[SP]still[SP]want[SP]something?\n[1208][0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Tu veux encore autre chose?\n[1208][0005]Acheter \nVendre \nDiscuter \nRien merci\nS'en aller",
-    "question_orig": "You[SP]still[SP]want[SP]something?",
-    "choix_orig": [
-      "Buy[SP]armor",
-      "Sell[SP]items",
-      "Talk[SP]to[SP]Whistler",
-      "Never[SP]mind",
-      "Leave[SP]the[SP]store"
-    ],
-    "count_tag": "[0005]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 9,
-    "offset": 211312,
-    "data_size": 318,
-    "slot_size": 318,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
-    "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
-    "choix_orig": [
-      "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
-      "[111F]Sell[SP]items",
-      "[111F]Sell[SP]weapons",
-      "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
-      "[111F]Sell[SP]armor",
-      "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
-      "[111F]Sell[SP]accessories"
-    ],
-    "count_tag": "[0007]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 10,
-    "offset": 211636,
-    "data_size": 204,
-    "slot_size": 204,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
-    "nom_fr": "Siffleur",
-    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
-    "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
-    "choix_orig": [
-      "Make[SP]small[SP]talk",
-      "Ask[SP]about[SP]shopping",
-      "[1210][B_00][B_00]ndisplayed[SP]selection"
-    ],
-    "count_tag": "[0003]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 11,
-    "offset": 211846,
-    "data_size": 152,
-    "slot_size": 152,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "Seems[SP]like[SP]they're[SP]still[SP]fighting[SP]inside[SP]that\nweird[SP]building...",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Ils se battent encore dans ce\nbâtiment étrange, on dirait..."
-  },
-  {
-    "id": 12,
-    "offset": 212004,
-    "data_size": 42,
-    "slot_size": 42,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "Beat[SP]it.",
-    "nom_fr": "Siffleur",
-    "texte_fr": "File."
-  },
-  {
-    "id": 13,
-    "offset": 212052,
-    "data_size": 62,
-    "slot_size": 62,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Masked[SP]Circle[SP]member",
-    "texte_orig": "......",
-    "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": ".."
-  },
-  {
-    "id": 14,
-    "offset": 212120,
-    "data_size": 304,
-    "slot_size": 304,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Masked[SP]Circle[SP]member",
-    "texte_orig": "Looks[SP]like[SP]our[SP]comrades[SP]are[SP]fighting[SP]against\nthe[SP]Last[SP]Battalion[SP]inside[SP]that[SP]temple[SP]as[SP]we\nspeak.[1205][000F][SP]I[SP]better[SP]hurry[SP]and[SP]help[SP]them!",
-    "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple.\nJe [1205][000F]dois me dépêcher d'aller les aider!"
-  },
-  {
-    "id": 15,
-    "offset": 212430,
-    "data_size": 326,
-    "slot_size": 326,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Masked[SP]Circle[SP]member",
-    "texte_orig": "...But[SP]the[SP]armor[SP]here[SP]is[SP]a[SP]little[SP]pricey...[1205][000F]\nAnd[SP]going[SP]into[SP]battle[SP]without[SP]it[SP]is[SP]suicide...[1205][000F]\nI've[SP]gotta[SP]do[SP]something[SP]about[SP]that[SP]first...",
-    "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "... Mais les armures ici ne sont pas\n[1205][000F]données... Et aller au front sans serait du\nsuicide... Je dois d'abord m'occuper de ça..."
-  },
-  {
-    "id": 16,
-    "offset": 212762,
-    "data_size": 208,
-    "slot_size": 208,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?\n[1208][0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Ouais, tu veux quoi?\n[1208][0005]Acheter \nVendre \nDiscuter \nRien merci\nS'en aller",
-    "question_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?",
-    "choix_orig": [
-      "Buy[SP]armor",
-      "Sell[SP]items",
-      "Talk[SP]to[SP]Whistler",
-      "Never[SP]mind",
-      "Leave[SP]the[SP]store"
-    ],
-    "count_tag": "[0005]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 17,
-    "offset": 212976,
-    "data_size": 318,
-    "slot_size": 318,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
-    "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
-    "choix_orig": [
-      "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
-      "[111F]Sell[SP]items",
-      "[111F]Sell[SP]weapons",
-      "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
-      "[111F]Sell[SP]armor",
-      "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
-      "[111F]Sell[SP]accessories"
-    ],
-    "count_tag": "[0007]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 18,
-    "offset": 213300,
-    "data_size": 204,
-    "slot_size": 204,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
-    "nom_fr": "Siffleur",
-    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
-    "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
-    "choix_orig": [
-      "Make[SP]small[SP]talk",
-      "Ask[SP]about[SP]shopping",
-      "[1210][B_00][B_00]ndisplayed[SP]selection"
-    ],
-    "count_tag": "[0003]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 19,
-    "offset": 213510,
-    "data_size": 48,
-    "slot_size": 48,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler's[SP]son",
-    "texte_orig": "Well?",
-    "nom_fr": "Fils",
-    "texte_fr": "Et bien?"
-  },
-  {
-    "id": 20,
-    "offset": 213564,
-    "data_size": 124,
-    "slot_size": 124,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler's[SP]son",
-    "texte_orig": "Get[SP]outta[SP]here[SP]if[SP]you're[SP]just[SP]gonna[SP]browse.",
-    "nom_fr": "Fils",
-    "texte_fr": "Barre-toi si t'es juste venu regarder."
-  },
-  {
-    "id": 21,
-    "offset": 213694,
-    "data_size": 72,
-    "slot_size": 72,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "You[SP]got[SP]nothing[SP]I[SP]want.",
-    "nom_fr": "Siffleur",
-    "texte_fr": "T'as rien de valable."
-  },
-  {
-    "id": 22,
-    "offset": 213772,
-    "data_size": 92,
-    "slot_size": 92,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
-    "question_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.",
-    "choix_orig": [
-      "Yes",
-      "No"
-    ],
-    "count_tag": "[0002]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
-    "id": 23,
-    "offset": 213870,
-    "data_size": 220,
-    "slot_size": 224,
-    "_term": [
-      4358,
-      4354,
-      5169
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "You[SP]actually[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?\nFfff.[SP]Choose[SP][1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]buy[SP]some[SP]armor.",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Faut vraiment t'expliquer un magasin?\nPfff. Choisis [1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014] pour une armure."
-  },
-  {
-    "id": 24,
-    "offset": 214094,
-    "data_size": 264,
-    "slot_size": 268,
-    "_term": [
-      4358,
-      4354,
-      5169
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "Only[SP]certain[SP]people[SP]can[SP]wear[SP]certain[SP]pieces\nof[SP]armor.[SP]Check[SP]before[SP]you[SP]buy[SP]anything,\nbecause[SP]all[SP]sales[SP]here[SP]are[SP]final.",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Chaque personne ne peut porter que\ncertains types de pièces. Vérifie avant\nd'acheter, car tu peux plus annuler après."
-  },
-  {
-    "id": 25,
-    "offset": 214362,
-    "data_size": 308,
-    "slot_size": 312,
-    "_term": [
-      4358,
-      4354,
-      5169
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "Or[SP]you[SP]can[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]if[SP]you[SP]have\nsomething[SP]you[SP]want[SP]to[SP]get[SP]rid[SP]of.[SP]Pick[SP]which\nkind[SP]of[SP]item,[SP]then[SP]choose[SP]what[SP]you[SP]wanna[SP]sell.",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Sinon tu peux choisir [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
-  },
-  {
-    "id": 26,
-    "offset": 214674,
-    "data_size": 276,
-    "slot_size": 276,
-    "_term": [
-      4358,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "I[SP]pay[SP]about[SP]half[SP]the[SP]retail[SP]price.[SP]Them's[SP]the\nbreaks.[SP]And[SP]I[SP]won't[SP]buy[SP]anything[SP]you[SP]got\nequipped[SP]or[SP]anything[SP]I[SP]got[SP]no[SP]use[SP]for.",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Je paye environ la moitié du prix d'achat.\nC'est comme ça. Et j'achète rien qui\nest équipé sur toi ou qui m'est inutile."
-  },
-  {
-    "id": 27,
-    "offset": 214956,
-    "data_size": 92,
-    "slot_size": 100,
-    "_term": [
-      4361,
-      4354,
-      4355
-    ],
-    "nom_orig": "Whistler",
-    "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
-    "nom_fr": "Siffleur",
-    "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
-    "question_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.",
-    "choix_orig": [
-      "Yes",
-      "No"
-    ],
-    "count_tag": "[0002]",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  }
+    {
+        "id": 0,
+        "offset": 209294,
+        "data_size": 256,
+        "slot_size": 256,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "If[SP]this[SP]store[SP]is[SP]still[SP]open[SP]after[SP]the[SP]owner\ngives[SP]his[SP]customers[SP]lip[SP]like[SP]that,[SP]business\nmust[SP]be[SP]booming[SP]for[SP]him[SP]now.",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Si ce magasin est encore ouvert alors que le\ngérant ést super désagréable, le business\ndoit imploser maintenant."
+    },
+    {
+        "id": 1,
+        "offset": 209556,
+        "data_size": 214,
+        "slot_size": 214,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Grrrr![SP]Like[SP]father,[SP]like[SP]son![SP]I[SP]was[SP]the[SP]sweetest\nlittle[SP]boy[SP]when[SP]I[SP]was[SP]his[SP]age.[SP]Just[SP]adorable.",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Grrr! Tel père, tel fils! Moi j'étais bien\nplus gentil à son âge. Un garçon vraiment\nadorable."
+    },
+    {
+        "id": 2,
+        "offset": 209776,
+        "data_size": 282,
+        "slot_size": 282,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "Hey,[SP]this[SP]guy[SP]says[SP]he's[SP]in[SP]the[SP]Masked[SP]Circle.\nShould[SP]we[SP]tell[SP]him[SP]that[SP]even[SP]with[SP]the[SP]best\narmor,[SP]he's[SP]screwed[SP]if[SP]he[SP]messes[SP]with[SP]us?",
+        "nom_fr": "Ginko",
+        "texte_fr": "Hé, ce gars dit être membre du Cercle\nMasqué. On le prévient que même avec la\nmeilleure armure, on l'explosera s'il nous\ncherche?"
+    },
+    {
+        "id": 3,
+        "offset": 210064,
+        "data_size": 168,
+        "slot_size": 168,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "Well,[SP]it's[SP]true[SP]that[SP]Eikichi[SP]was[SP]an[SP]adorable\nlittle[SP]butterball[SP]back[SP]then.",
+        "nom_fr": "Ginko",
+        "texte_fr": "Ben, c'est vrai qu'avant Eikichi était un\nadorable enfant tout potelé."
+    },
+    {
+        "id": 4,
+        "offset": 210238,
+        "data_size": 114,
+        "slot_size": 114,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Umm...[1205][000A][SP]A-Are[SP]you[SP]the[SP]owner's[SP]son?[1205][000F][SP]H-Hello...",
+        "nom_fr": "Maya",
+        "texte_fr": "Hum, Êtes-vous le fils du gérant? [1205][000F]Salut..."
+    },
+    {
+        "id": 5,
+        "offset": 210358,
+        "data_size": 196,
+        "slot_size": 196,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "That[SP]boy's[SP]good...[1205][001E][SP]He[SP]even[SP]deflected[SP]my[SP]smile\nguaranteed[SP]to[SP]make[SP]a[SP]crying[SP]baby[SP]giggle.",
+        "nom_fr": "Maya",
+        "texte_fr": "Ce garçon est doué,[1205][001E] il repousse mon sourire\nauquel aucun bébé en pleurs ne résiste."
+    },
+    {
+        "id": 6,
+        "offset": 210560,
+        "data_size": 290,
+        "slot_size": 290,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Jun",
+        "texte_orig": "Try[SP]not[SP]to[SP]pick[SP]on[SP]them[SP]too[SP]much,[SP]Lisa...[1205][001E]\nThey[SP]are[SP]in[SP]the[SP]Masked[SP]Circle,[SP]but[SP]apart[SP]from\nthat,[SP]they're[SP]no[SP]different[SP]from[SP]anyone[SP]else...",
+        "nom_fr": "Jun",
+        "texte_fr": "Ne sois pas trop rude avec eux, Lisa...[1205][001E] Ils\nont beau être dans le Cercle Masqué, ce sont\ndes gens comme les autres..."
+    },
+    {
+        "id": 7,
+        "offset": 210856,
+        "data_size": 232,
+        "slot_size": 232,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Jun",
+        "texte_orig": "My[SP]younger[SP]days...[1205][001E][SP]They're[SP]nostalgic,[SP]and[SP]sad\nas[SP]well...[1205][001E][SP]But[SP]I[SP]can't[SP]keep[SP]dwelling[SP]on[SP]the\npast[SP]forever.",
+        "nom_fr": "Jun",
+        "texte_fr": "Mon enfance...[1205][001E] Me rend nostalgique, et\ntriste aussi...[1205][001E] Mais je dois cesser d'être\nbloqué dans le passé."
+    },
+    {
+        "id": 8,
+        "offset": 211094,
+        "data_size": 212,
+        "slot_size": 212,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "You[SP]still[SP]want[SP]something?\n[1208][0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Tu veux encore autre chose?\n[1208][0005]Acheter \nVendre \nDiscuter \nRien merci\nS'en aller",
+        "question_orig": "You[SP]still[SP]want[SP]something?",
+        "choix_orig": [
+            "Buy[SP]armor",
+            "Sell[SP]items",
+            "Talk[SP]to[SP]Whistler",
+            "Never[SP]mind",
+            "Leave[SP]the[SP]store"
+        ],
+        "count_tag": "[0005]",
+        "question_fr": "Tu veux encore autre chose?",
+        "choix_fr": [
+            "Acheter ",
+            "Vendre ",
+            "Discuter ",
+            "Rien merci",
+            "S'en aller"
+        ]
+    },
+    {
+        "id": 9,
+        "offset": 211312,
+        "data_size": 318,
+        "slot_size": 318,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Qu'est-ce que t'as pour moi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+        "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
+        "choix_orig": [
+            "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
+            "[111F]Sell[SP]items",
+            "[111F]Sell[SP]weapons",
+            "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
+            "[111F]Sell[SP]armor",
+            "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
+            "[111F]Sell[SP]accessories"
+        ],
+        "count_tag": "[0007]",
+        "question_fr": "Qu'est-ce que t'as pour moi?",
+        "choix_fr": [
+            "[111F][1210][B_00][U+5501][B_00]Sélection cachée",
+            "[111F]Objets",
+            "[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]",
+            "[111F][1210][B_00][U+5301][B_00]Armure de tête",
+            "[111F]Armure[SP][SP][SP][SP][SP][SP][SP]",
+            "[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]",
+            "[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]"
+        ]
+    },
+    {
+        "id": 10,
+        "offset": 211636,
+        "data_size": 204,
+        "slot_size": 204,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
+        "nom_fr": "Siffleur",
+        "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
+        "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
+        "choix_orig": [
+            "Make[SP]small[SP]talk",
+            "Ask[SP]about[SP]shopping",
+            "[1210][B_00][B_00]ndisplayed[SP]selection"
+        ],
+        "count_tag": "[0003]",
+        "question_fr": "De quoi parler?",
+        "choix_fr": [
+            "Bavarder",
+            "Parler boutique",
+            "[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]"
+        ]
+    },
+    {
+        "id": 11,
+        "offset": 211846,
+        "data_size": 152,
+        "slot_size": 152,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "Seems[SP]like[SP]they're[SP]still[SP]fighting[SP]inside[SP]that\nweird[SP]building...",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Ils se battent encore dans ce bâtiment\nétrange, on dirait..."
+    },
+    {
+        "id": 12,
+        "offset": 212004,
+        "data_size": 42,
+        "slot_size": 42,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "Beat[SP]it.",
+        "nom_fr": "Siffleur",
+        "texte_fr": "File."
+    },
+    {
+        "id": 13,
+        "offset": 212052,
+        "data_size": 62,
+        "slot_size": 62,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Masked[SP]Circle[SP]member",
+        "texte_orig": "......",
+        "nom_fr": "Membre du Cercle masqué",
+        "texte_fr": ".."
+    },
+    {
+        "id": 14,
+        "offset": 212120,
+        "data_size": 304,
+        "slot_size": 304,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Masked[SP]Circle[SP]member",
+        "texte_orig": "Looks[SP]like[SP]our[SP]comrades[SP]are[SP]fighting[SP]against\nthe[SP]Last[SP]Battalion[SP]inside[SP]that[SP]temple[SP]as[SP]we\nspeak.[1205][000F][SP]I[SP]better[SP]hurry[SP]and[SP]help[SP]them!",
+        "nom_fr": "Membre du Cercle masqué",
+        "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple. Je [1205][000F]dois\nme dépêcher d'aller les aider!"
+    },
+    {
+        "id": 15,
+        "offset": 212430,
+        "data_size": 326,
+        "slot_size": 326,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Masked[SP]Circle[SP]member",
+        "texte_orig": "...But[SP]the[SP]armor[SP]here[SP]is[SP]a[SP]little[SP]pricey...[1205][000F]\nAnd[SP]going[SP]into[SP]battle[SP]without[SP]it[SP]is[SP]suicide...[1205][000F]\nI've[SP]gotta[SP]do[SP]something[SP]about[SP]that[SP]first...",
+        "nom_fr": "Membre du Cercle masqué",
+        "texte_fr": "... Mais les armures ici ne sont pas\n[1205][000F]données... Et aller au front sans serait du\nsuicide... Je dois d'abord m'occuper de\nça..."
+    },
+    {
+        "id": 16,
+        "offset": 212762,
+        "data_size": 208,
+        "slot_size": 208,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?\n[1208][0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Ouais, tu veux quoi?\n[1208][0005]Acheter \nVendre \nDiscuter \nRien merci\nS'en aller",
+        "question_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?",
+        "choix_orig": [
+            "Buy[SP]armor",
+            "Sell[SP]items",
+            "Talk[SP]to[SP]Whistler",
+            "Never[SP]mind",
+            "Leave[SP]the[SP]store"
+        ],
+        "count_tag": "[0005]",
+        "question_fr": "Ouais, tu veux quoi?",
+        "choix_fr": [
+            "Acheter ",
+            "Vendre ",
+            "Discuter ",
+            "Rien merci",
+            "S'en aller"
+        ]
+    },
+    {
+        "id": 17,
+        "offset": 212976,
+        "data_size": 318,
+        "slot_size": 318,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Qu'est-ce que t'as pour moi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+        "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
+        "choix_orig": [
+            "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
+            "[111F]Sell[SP]items",
+            "[111F]Sell[SP]weapons",
+            "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
+            "[111F]Sell[SP]armor",
+            "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
+            "[111F]Sell[SP]accessories"
+        ],
+        "count_tag": "[0007]",
+        "question_fr": "Qu'est-ce que t'as pour moi?",
+        "choix_fr": [
+            "[111F][1210][B_00][U+5501][B_00]Sélection cachée",
+            "[111F]Objets",
+            "[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]",
+            "[111F][1210][B_00][U+5301][B_00]Armure de tête",
+            "[111F]Armure[SP][SP][SP][SP][SP][SP][SP]",
+            "[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]",
+            "[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]"
+        ]
+    },
+    {
+        "id": 18,
+        "offset": 213300,
+        "data_size": 204,
+        "slot_size": 204,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
+        "nom_fr": "Siffleur",
+        "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
+        "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
+        "choix_orig": [
+            "Make[SP]small[SP]talk",
+            "Ask[SP]about[SP]shopping",
+            "[1210][B_00][B_00]ndisplayed[SP]selection"
+        ],
+        "count_tag": "[0003]",
+        "question_fr": "De quoi parler?",
+        "choix_fr": [
+            "Bavarder",
+            "Parler boutique",
+            "[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]"
+        ]
+    },
+    {
+        "id": 19,
+        "offset": 213510,
+        "data_size": 48,
+        "slot_size": 48,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler's[SP]son",
+        "texte_orig": "Well?",
+        "nom_fr": "Fils",
+        "texte_fr": "Et bien?"
+    },
+    {
+        "id": 20,
+        "offset": 213564,
+        "data_size": 124,
+        "slot_size": 124,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler's[SP]son",
+        "texte_orig": "Get[SP]outta[SP]here[SP]if[SP]you're[SP]just[SP]gonna[SP]browse.",
+        "nom_fr": "Fils",
+        "texte_fr": "Barre-toi si t'es juste venu regarder."
+    },
+    {
+        "id": 21,
+        "offset": 213694,
+        "data_size": 72,
+        "slot_size": 72,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "You[SP]got[SP]nothing[SP]I[SP]want.",
+        "nom_fr": "Siffleur",
+        "texte_fr": "T'as rien de valable."
+    },
+    {
+        "id": 22,
+        "offset": 213772,
+        "data_size": 92,
+        "slot_size": 92,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
+        "question_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.",
+        "choix_orig": [
+            "Yes",
+            "No"
+        ],
+        "count_tag": "[0002]",
+        "question_fr": "Ça fera [120E][NULL] yen.",
+        "choix_fr": [
+            "Oui",
+            "Non"
+        ]
+    },
+    {
+        "id": 23,
+        "offset": 213870,
+        "data_size": 220,
+        "slot_size": 224,
+        "_term": [
+            4358,
+            4354,
+            5169
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "You[SP]actually[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?\nFfff.[SP]Choose[SP][1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]buy[SP]some[SP]armor.",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Faut vraiment t'expliquer un magasin? Pfff.\nChoisis [1432][NU[E4][NULL][NULL][0014]Acheter,[1432][NU[E4][NULL][NULL][0014] pour une armure."
+    },
+    {
+        "id": 24,
+        "offset": 214094,
+        "data_size": 264,
+        "slot_size": 268,
+        "_term": [
+            4358,
+            4354,
+            5169
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "Only[SP]certain[SP]people[SP]can[SP]wear[SP]certain[SP]pieces\nof[SP]armor.[SP]Check[SP]before[SP]you[SP]buy[SP]anything,\nbecause[SP]all[SP]sales[SP]here[SP]are[SP]final.",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Chaque personne ne peut porter que certains\ntypes de pièces. Vérifie avant d'acheter,\ncar tu peux plus annuler après."
+    },
+    {
+        "id": 25,
+        "offset": 214362,
+        "data_size": 308,
+        "slot_size": 312,
+        "_term": [
+            4358,
+            4354,
+            5169
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "Or[SP]you[SP]can[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]if[SP]you[SP]have\nsomething[SP]you[SP]want[SP]to[SP]get[SP]rid[SP]of.[SP]Pick[SP]which\nkind[SP]of[SP]item,[SP]then[SP]choose[SP]what[SP]you[SP]wanna[SP]sell.",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Sinon tu peux choisir [1432][NU[E4][NULL][NULL][0014]Vendre[1432][NU[E4][NULL][NULL][0014] si tu veux te\ndébarrasser d'un truc, puis choisir le type\nd'objet et quoi me vendre exactement."
+    },
+    {
+        "id": 26,
+        "offset": 214674,
+        "data_size": 276,
+        "slot_size": 276,
+        "_term": [
+            4358,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "I[SP]pay[SP]about[SP]half[SP]the[SP]retail[SP]price.[SP]Them's[SP]the\nbreaks.[SP]And[SP]I[SP]won't[SP]buy[SP]anything[SP]you[SP]got\nequipped[SP]or[SP]anything[SP]I[SP]got[SP]no[SP]use[SP]for.",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Je paye environ la moitié du prix d'achat.\nC'est comme ça. Et j'achète rien qui est\néquipé sur toi ou qui m'est inutile."
+    },
+    {
+        "id": 27,
+        "offset": 214956,
+        "data_size": 92,
+        "slot_size": 100,
+        "_term": [
+            4361,
+            4354,
+            4355
+        ],
+        "nom_orig": "Whistler",
+        "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
+        "nom_fr": "Siffleur",
+        "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
+        "question_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.",
+        "choix_orig": [
+            "Yes",
+            "No"
+        ],
+        "count_tag": "[0002]",
+        "question_fr": "Ça fera [120E][NULL] yen.",
+        "choix_fr": [
+            "Oui",
+            "Non"
+        ]
+    }
 ]

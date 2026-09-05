@@ -1,0 +1,496 @@
+=== [0] MMAP01.json ID 302 ===
+ORIG :
+Hyaaaah![1205][000F][SP]I[SP]am[SP]a[SP]mere[SP]student[SP]striving[SP]to[SP]make
+it[SP]into[SP]the[SP]country's[SP]best[SP]college.[SP]I[SP]have[SP]no
+time[SP]to[SP]fritter[SP]away[SP]on[SP]gambling!
+FR[0]:
+Hyaaaah ![1205][000F] Je suis un simple étudiant voulant intégrer
+la meilleure faculté. Je n'ai pas de temps à perdre
+dans les jeux d'argent !
+----------------------------------------
+
+=== [1] MMAP01.json ID 305 ===
+ORIG :
+Hyaaaah![1205][000F][SP]Is[SP]there[SP]really[SP]a[SP]legendary[SP]weapon
+in[SP]stock[SP]at[SP]Clair[SP]de[SP]Lune?
+FR[0]:
+Hyaaaah ![1205][000F] Y a-t-il vraiment une arme légendaire
+en stock chez Clair de Lune ?
+----------------------------------------
+
+=== [2] MMAP01.json ID 307 ===
+ORIG :
+Hyaaaah![1205][000F][SP]That[SP]owner[SP]at[SP]Time[SP]Castle...[SP]Claiming
+not[SP]to[SP]have[SP]what[SP]he[SP]in[SP]fact[SP]does,[SP]in[SP]a[SP]bid[SP]to
+drive[SP]up[SP]its[SP]price,[SP]is[SP]unforgivable.
+FR[0]:
+Hyaaaah ![1205][000F] Ce propriétaire de Time Castle... Prétendre
+ne pas avoir ce qu'il a en fait, dans le but
+de faire monter son prix, est impardonnable.
+----------------------------------------
+
+=== [3] MMAP01.json ID 309 ===
+ORIG :
+Hyaaaah![1205][000F][SP]A[SP]merchant[SP]should[SP]meet[SP]the[SP]needs[SP]of
+his[SP]customers[SP]even[SP]at[SP]the[SP]risk[SP]of[SP]his[SP]own[SP]life!
+Yet[SP]that[SP]owner[SP]at[SP]Time[SP]Castle...
+FR[0]:
+Hyaaaah ![1205][000F] Un marchand doit répondre aux besoins
+de ses clients au péril de sa vie !
+Pourtant ce propriétaire...
+----------------------------------------
+
+=== [4] MMAP01.json ID 314 ===
+ORIG :
+Hyaaaah![1205][000F][SP]It[SP]seems[SP]the[SP]legendary[SP]weapon[SP]at
+Time[SP]Castle[SP]has[SP]been[SP]sold![SP]I[SP]hear[SP]that[SP]an
+unusually[SP]unlucky[SP]woman[SP]bought[SP]it.
+FR[0]:
+Hyaaaah ![1205][000F] L'arme légendaire de
+Time Castle a été vendue ! J'entends qu'une femme
+particulièrement malchanceuse l'a achetée.
+----------------------------------------
+
+=== [5] MMAP01.json ID 316 ===
+ORIG :
+Hyaaaah![1205][000F][SP]That[SP]dastardly[SP]owner[SP]of[SP]Time[SP]Castle!
+He[SP]gave[SP]the[SP]legendary[SP]weapon[SP]to[SP]a[SP]woman[SP]with
+short[SP]hair![SP]How[SP]dare[SP]he[SP]become[SP]so[SP]smitten!?
+FR[0]:
+Hyaaaah ![1205][000F] Ce lâche propriétaire de Time Castle !
+Il a donné l'arme légendaire à une femme
+aux cheveux courts ! Comment a-t-il pu !?
+----------------------------------------
+
+=== [6] MMAP01.json ID 334 ===
+ORIG :
+[1113]-kun?[1205][000F][SP]Should[SP]we[SP]search[SP]through[SP]here?
+FR[0]:
+[1113]-kun ?[1205][000F] On devrait chercher par ici ?
+[NULL][NULL]Ouais, jetons un œil.[NULL][NULL] Non,
+L][NULL]Non, c'est pas le bon endroit.[NULL][NULL]
+----------------------------------------
+
+=== [7] MMAP01.json ID 337 ===
+ORIG :
+This[SP]place[SP]is[SP]safe[SP]and[SP]sound.
+Question[SP]is,[SP]where's[SP]the[SP]next[SP]target...?
+GOLD[SP]or[SP]Pachinko[SP]Silver?
+FR[0]:
+Cet endroit est sain et sauf.
+Mais où est la prochaine cible... ? GOLD
+ou Pachinko Silver ?
+----------------------------------------
+
+=== [8] MMAP01.json ID 348 ===
+ORIG :
+[1113]-kun?[1205][000F][SP]Should[SP]we[SP]search[SP]through[SP]here?
+FR[0]:
+[1113]-kun ?[1205][000F] On devrait chercher par ici ?
+[NULL][NULL]Ouais, jetons un œil.[NULL][NULL] Non,
+L][NULL]Non, c'est pas le bon endroit.[NULL][NULL]
+----------------------------------------
+
+=== [9] MMAP01.json ID 360 ===
+ORIG :
+Hello?[1205][000F][SP]It's[SP]me,[SP]Elly.[1205][000F][SP]I've[SP]narrowed[SP]down[SP]the
+next[SP]target.[SP]This[SP]clue's[SP]also[SP]related[SP]to
+astrology...
+FR[0]:
+Allô ?[1205][000F] C'est moi, Elly.[1205][000F] J'ai réduit la
+prochaine cible. Cet indice est aussi lié à
+l'astrologie...
+----------------------------------------
+
+=== [10] MMAP01.json ID 365 ===
+ORIG :
+Look[SP]alive,[SP]people![SP]This[SP]is[SP]not[SP]the[SP]time[SP]for
+moping![SP]We[SP]have[SP]to[SP]get[SP]a[SP]grip[SP]if[SP]we[SP]want[SP]to
+stop[SP]any[SP]more[SP]deaths!
+FR[0]:
+Réveillez-vous ! Ce n'est pas le moment
+de broyer du noir ! Reprenons-nous si on veut
+éviter d'autres morts !
+----------------------------------------
+
+=== [11] MMAP02.json ID 0 ===
+ORIG :
+Yo,[SP]you[SP]here[SP]to[SP]have[SP]some[SP]fun[SP]too?[1205][000F][SP]'Course[SP]you
+are.[SP]Yumezaki's[SP]the[SP]district[SP]for[SP]kids![SP]Wall-to-
+wall[SP]entertainment!
+FR[0]:
+Yo, tu viens t'amuser aussi ?[1205][000F] Bien sûr.
+Yumezaki est pour les jeunes ! Du
+divertissement partout !
+----------------------------------------
+
+=== [12] MMAP02.json ID 7 ===
+ORIG :
+Ugh,[SP]I[SP]was[SP]just[SP]at[SP]Giga[SP]Macho,[SP]and[SP]it[SP]was[SP]packed
+with[SP]guys[SP]trying[SP]to[SP]scope[SP]out[SP]the[SP]Muses[SP]event.[1205][000F]
+Bandwagon-hopping[SP]bastards...
+FR[0]:
+Ugh, j'étais à Giga Macho, c'était rempli de
+gars voulant voir l'événement des Muses.[1205][000F]
+Bande de moutons...
+----------------------------------------
+
+=== [13] MMAP02.json ID 10 ===
+ORIG :
+Hey,[SP]what's[SP]the[SP]Masked[SP]Circle?[1205][000F][SP]They're[SP]the[SP]ones
+who[SP]set[SP]fire[SP]to[SP]the[SP]concert[SP]hall,[SP]right?[SP]That's
+what[SP]my[SP]friend's[SP]friend[SP]said.
+FR[0]:
+Hé, c'est quoi le Cercle masqué ?[1205][000F] Ce sont
+eux qui ont incendié la salle de concert,
+non ? C'est ce qu'un pote a dit.
+----------------------------------------
+
+=== [14] MMAP02.json ID 12 ===
+ORIG :
+Hey,[SP]is[SP]it[SP]true[SP]the[SP]terrorists[SP]targeted
+Smile[SP]Hirasaka[SP]too?
+FR[0]:
+Hé, les terroristes ont aussi ciblé
+Smile Hirasaka ?
+----------------------------------------
+
+=== [15] MMAP02.json ID 19 ===
+ORIG :
+Are[SP]those[SP]guys[SP]not[SP]the[SP]culprits?[1205][000F][SP]Or[SP]are[SP]they
+really[SP]terrorists[SP]after[SP]all?
+FR[0]:
+Muses garde toujours sa troisième membre
+secrète ?[1205][000F] Je sais que c'est du marketing,
+mais j'aimerais qu'ils arrêtent ce teasing.[1106]
+----------------------------------------
+
+=== [16] MMAP02.json ID 22 ===
+ORIG :
+Was[SP]he[SP]a[SP]Cuss[SP]High[SP]student?[SP]He[SP]had[SP]a[SP]really
+cute[SP]girl[SP]with[SP]him,[SP]though...
+FR[0]:
+J'irais à la campagne si je le pouvais.[1205][000F]
+Malheureusement, ce n'est pas possible.[1106]
+----------------------------------------
+
+=== [17] MMAP02.json ID 23 ===
+ORIG :
+Hm?[SP]Are[SP]you[SP]hitting[SP]on[SP]me?[1205][000F][SP]If[SP]you[SP]are,[SP]I[SP]hate
+to[SP]break[SP]it[SP]to[SP]you,[SP]but[SP]I'm[SP]a[SP]little[SP]busy.
+FR[0]:
+Hm ? Tu me dragues ?[1205][000F] Si c'est le cas,
+désolée de te décevoir, mais je suis occupée.
+----------------------------------------
+
+=== [18] MMAP02.json ID 24 ===
+ORIG :
+Oh,[SP]you[SP]weren't?[SP]Haha,[SP]sorry[SP]about[SP]that,[SP]then.[1205][000F]
+That[SP]reminds[SP]me,[SP]do[SP]you[SP]go[SP]to[SP]Cuss[SP]High?
+FR[0]:
+[1432][NULL][NULL][0014]Ils ont visé GOLD, donc on est
+saufs[1432][NULL][NULL][0014] !? Il est sérieux !?[1106]
+----------------------------------------
+
+=== [19] MMAP02.json ID 27 ===
+ORIG :
+Someone[SP]from[SP]Cuss[SP]High[SP]came[SP]to[SP]sell[SP]tickets[SP]to
+the[SP]masquerade[SP]just[SP]now.
+FR[0]:
+Un gars de Kakasu est venu vendre
+des billets pour le bal.
+----------------------------------------
+
+=== [20] MMAP02.json ID 30 ===
+ORIG :
+Is[SP]Muses[SP]still[SP]keeping[SP]their[SP]third[SP]member[SP]a
+secret?[1205][000F][SP]I[SP]know[SP]it's[SP]a[SP]marketing[SP]strategy,[SP]but
+I[SP]wish[SP]they'd[SP]stop[SP]fanning[SP]the[SP]flames.
+FR[0]:
+Muses garde toujours sa troisième membre
+secrète ?[1205][000F] Je sais que c'est du marketing,
+mais j'aimerais qu'ils arrêtent ce teasing.
+----------------------------------------
+
+=== [21] MMAP02.json ID 32 ===
+ORIG :
+They[SP]just[SP]revealed[SP]the[SP]third[SP]member,[SP]and[SP]they're
+already[SP]giving[SP]a[SP]concert?[1205][000F][SP]That's[SP]pretty[SP]sudden.
+FR[0]:
+Ils viennent de révéler la troisième membre
+et ils donnent déjà un concert ?[1205][000F] Rapide.
+----------------------------------------
+
+=== [22] MMAP02.json ID 34 ===
+ORIG :
+They[SP]say[SP]these[SP]bombings[SP]are[SP]part[SP]of[SP]a[SP]wave
+of[SP]terror.[1205][000F][SP]There's[SP]no[SP]knowing[SP]where[SP]they'll
+strike[SP]next.
+FR[0]:
+Ces attentats sont une vague de terreur.[1205][000F]
+Impossible de savoir où ils frapperont.
+----------------------------------------
+
+=== [23] MMAP02.json ID 36 ===
+ORIG :
+I'd[SP]evacuate[SP]to[SP]the[SP]countryside[SP]if[SP]I[SP]could.[1205][000F]
+Unfortunately,[SP]that's[SP]not[SP]an[SP]option.
+FR[0]:
+J'irais à la campagne si je le pouvais.[1205][000F]
+Malheureusement, ce n'est pas possible.
+----------------------------------------
+
+=== [24] MMAP02.json ID 37 ===
+ORIG :
+I've[SP]got[SP]a[SP]huge[SP]backlog[SP]at[SP]work[SP]and[SP]there's
+no[SP]sign[SP]that[SP]this[SP]place[SP]will[SP]be[SP]bombed.
+FR[0]:
+Le Cercle masqué et le groupe...[1205][000F] Tous deux sont suspects, mais sans preuves...[1106]
+----------------------------------------
+
+=== [25] MMAP02.json ID 38 ===
+ORIG :
+But[SP]I[SP]know[SP]I'll[SP]regret[SP]it[SP]immediately[SP]if[SP]there
+IS[SP]a[SP]bombing[SP]here.
+FR[0]:
+On dit que les terroristes sont une unité
+appelée le Bataillon.[1205][000F][1106]
+----------------------------------------
+
+=== [26] MMAP02.json ID 39 ===
+ORIG :
+I[SP]wonder[SP]if[SP]I'm[SP]just[SP]too[SP]used[SP]to[SP]everything
+being[SP]peaceful[SP]that[SP]I[SP]can't[SP]make[SP]up[SP]my[SP]mind.
+FR[0]:
+J'ai entendu dire qu'ils avaient publié
+les portraits-robots, alors je suis allé
+voir...[1205][000F] Des visages familiers, en effet.[1106]
+----------------------------------------
+
+=== [27] MMAP02.json ID 40 ===
+ORIG :
+[1432][NULL][NULL][0014]If[SP]GOLD[SP]was[SP]the[SP]target,[SP]then[SP]our[SP]building's
+safe.[1432][NULL][NULL][0014][SP]That's[SP]what[SP]he[SP]thinks,[SP]anyway.
+FR[0]:
+[1432][NULL][NULL][0014]Si GOLD était la cible, notre bâtiment
+est sauf.[1432][NULL][NULL][0014] C'est ce qu'il pense, bref.
+----------------------------------------
+
+=== [28] MMAP02.json ID 42 ===
+ORIG :
+[1432][NULL][NULL][0014]They[SP]went[SP]after[SP]GOLD,[SP]so[SP]our[SP]building's
+safe[1432][NULL][NULL][0014]!?[SP]Is[SP]he[SP]serious!?
+FR[0]:
+[1432][NULL][NULL][0014]Ils ont visé GOLD, donc on est
+saufs[1432][NULL][NULL][0014] !? Il est sérieux !?
+----------------------------------------
+
+=== [29] MMAP02.json ID 43 ===
+ORIG :
+What[SP]on[SP]Earth[SP]is[SP]my[SP]idiot[SP]boss[SP]thinking!?[1205][000F]
+I'm[SP]giving[SP]notice[SP]as[SP]soon[SP]as[SP]I[SP]get[SP]back!
+FR[0]:
+On dit qu'une pluie de météores s'abattra
+avec la Croix Cosmique.[1106]
+----------------------------------------
+
+=== [30] MMAP02.json ID 46 ===
+ORIG :
+If[SP]they're[SP]here,[SP]then[SP]the[SP]secret[SP]treasure[SP]of
+Sumaru[SP]City[SP]must[SP]also[SP]exist.[1205][000F][SP]Which[SP]means[SP]that
+Oracle[SP]thing[SP]is[SP]true...
+FR[0]:
+S'ils sont là, le trésor secret de Sumaru
+doit aussi exister.[1205][000F] Ce qui signifie que
+cet Oracle dit vrai...
+----------------------------------------
+
+=== [31] MMAP02.json ID 47 ===
+ORIG :
+The[SP]next[SP]line[SP]was,[SP][1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far
+and[SP]wide,[1432][NULL][NULL][0014][SP]right?[1205][000F][SP]Wh-What's[SP]that[SP]supposed[SP]to
+mean?[1205][000F][SP]I[SP]don't[SP]understand...
+FR[0]:
+Ça dégénère... J'entends dire maintenant
+que le deuxième étage de Zodiac est devenu
+un gigantesque donjon.[1106]
+----------------------------------------
+
+=== [32] MMAP02.json ID 51 ===
+ORIG :
+A[SP]city[SP]for[SP]the[SP]young...[1205][000F][SP]That's[SP]what[SP]those
+layabouts[SP]think.[SP]For[SP]us[SP]men[SP]making[SP]an[SP]honest
+day's[SP]pay,[SP]this[SP]place[SP]is[SP]part[SP]of[SP]society[SP]too.
+FR[0]:
+Une ville pour jeunes...[1205][000F] C'est ce que
+pensent ces fainéants. Pour nous qui bossons,
+ça fait partie de la société.
+----------------------------------------
+
+=== [33] MMAP02.json ID 62 ===
+ORIG :
+Some[SP]people[SP]are[SP]saying[SP]the[SP]Masked[SP]Circle[SP]is[SP]to
+blame[SP]for[SP]the[SP]chaos,[SP]but[SP]are[SP]they[SP]really[SP]the
+culprits[SP]here?[1205][000F][SP]Granted,[SP]they're[SP]suspicious...
+FR[0]:
+Certains accusent le Cercle masqué pour
+ce chaos, mais sont-ils vraiment les
+coupables ?[1205][000F] Certes, ils sont louches...
+----------------------------------------
+
+=== [34] MMAP02.json ID 64 ===
+ORIG :
+The[SP]Masked[SP]Circle[SP]and[SP]the[SP]group[SP]of[SP]five...[1205][000F]
+They're[SP]both[SP]suspects[SP]behind[SP]the[SP]terrorist
+attacks,[SP]but[SP]there's[SP]no[SP]proof...
+FR[0]:
+Le Cercle masqué et le groupe...[1205][000F] Tous deux sont suspects, mais sans preuves...
+----------------------------------------
+
+=== [35] MMAP02.json ID 67 ===
+ORIG :
+Now[SP]people[SP]are[SP]saying[SP]the[SP]terrorists[SP]behind
+these[SP]attacks[SP]are[SP]a[SP]special[SP]unit[SP]called[SP]the
+Last[SP]Battalion.[1205][000F]
+FR[0]:
+On dit que les terroristes sont une unité
+appelée le Bataillon.[1205][000F]
+----------------------------------------
+
+=== [36] MMAP02.json ID 70 ===
+ORIG :
+I[SP]heard[SP]they[SP]released[SP]the[SP]composite[SP]sketches[SP]of
+the[SP]suspects,[SP]so[SP]I[SP]went[SP]to[SP]check[SP]'em[SP]out...[1205][000F]
+Those[SP]were[SP]some[SP]familiar[SP]faces,[SP]all[SP]right.
+FR[0]:
+J'ai entendu dire qu'ils avaient publié
+les portraits-robots, alors je suis allé
+voir...[1205][000F] Des visages familiers, en effet.
+----------------------------------------
+
+=== [37] MMAP02.json ID 76 ===
+ORIG :
+Now[SP]where[SP]did[SP]that[SP]monstrosity[SP]come[SP]from...?[1205][000A]
+The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion[SP]are
+having[SP]it[SP]out[SP]in[SP]there[SP]now.
+FR[0]:
+D'où sort cette monstruosité... ? 
+Le Cercle masqué et le Bataillon se
+battent là-dedans maintenant.
+----------------------------------------
+
+=== [38] MMAP02.json ID 78 ===
+ORIG :
+From[SP]what[SP]I've[SP]heard,[SP]a[SP]meteor[SP]shower[SP]will
+rain[SP]down[SP]on[SP]the[SP]Earth[SP]when[SP]the[SP]Grand[SP]Cross
+happens.
+FR[0]:
+On dit qu'une pluie de météores s'abattra
+avec la Croix Cosmique.
+----------------------------------------
+
+=== [39] MMAP02.json ID 80 ===
+ORIG :
+I'm[SP]sure[SP]you[SP]know[SP]already,[SP]but[SP]there[SP]are
+several[SP]theories[SP]in[SP]Sumaru[SP]about[SP]how[SP]life
+down[SP]there[SP]on[SP]Earth[SP]will[SP]end.
+FR[0]:
+Tu le sais, mais il y a
+plusieurs théories sur la fin du monde.
+----------------------------------------
+
+=== [40] MMAP02.json ID 82 ===
+ORIG :
+*sigh*[SP]More[SP]and[SP]more,[SP]it's[SP]getting[SP]unanimous
+as[SP]to[SP]how[SP]the[SP]Earth[SP]will[SP]meet[SP]its[SP]end.
+FR[0]:
+*soupir* De plus en plus, l'unanimité se
+fait sur la façon dont la Terre finira.
+----------------------------------------
+
+=== [41] MMAP02.json ID 86 ===
+ORIG :
+Things[SP]are[SP]getting[SP]out[SP]of[SP]hand...[SP]I'm[SP]hearing
+now[SP]that[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]has[SP]become
+a[SP]gigantic[SP]dungeon.
+FR[0]:
+Ça dégénère... J'entends dire maintenant
+que le deuxième étage de Zodiac est devenu
+un gigantesque donjon.
+----------------------------------------
+
+=== [42] MMAP02.json ID 89 ===
+ORIG :
+It[SP]sounds[SP]like[SP]there's[SP]a[SP]ghost[SP]named[SP]Bukimi
+appearing[SP]in[SP]Kasugayama[SP]High.
+FR[0]:
+On dirait qu'un fantôme nommé Bukimi
+apparaît au lycée Kakasu.
+----------------------------------------
+
+=== [43] MMAP02.json ID 94 ===
+ORIG :
+But[SP]I[SP]doubt[SP]it's[SP]this[SP]one.[1205][000F][SP]R-Right?
+FR[0]:
+Fais les concours
+des magazines un jour.[1106]
+----------------------------------------
+
+=== [44] MMAP02.json ID 107 ===
+ORIG :
+As[SP]I[SP]recall,[SP]word[SP]is[SP]they're[SP]cheap,[SP]but[SP]not
+great[SP]quality.[1205][000F][SP]Me,[SP]I[SP]think[SP]it's[SP]an[SP]ingenious
+way[SP]to[SP]do[SP]business.
+FR[0]:
+Yeee ! J'ai eu des billets pour le bal masqué ![1205][000F]
+Parfait pour trouver un petit ami de Kakasu ![1106]
+----------------------------------------
+
+=== [45] MMAP02.json ID 139 ===
+ORIG :
+Why[SP]don't[SP]you[SP]enter[SP]the[SP]magazine[SP]sweepstakes
+sometime?
+FR[0]:
+Fais les concours
+des magazines un jour.
+----------------------------------------
+
+=== [46] MMAP02.json ID 140 ===
+ORIG :
+Winners[SP]get[SP]real[SP]weapons[SP]and[SP]items.[SP]As[SP]I
+recall,[SP]it's[SP]hard[SP]to[SP]win,[SP]but[SP]you[SP]can[SP]get
+some[SP]nice[SP]stuff[SP]if[SP]you[SP]do.
+FR[0]:
+Ce Tony était un contrebandier d'armes ?[1205][000F]
+Je le savais.[1205][000F] Je sentais qu'il préparait un
+mauvais coup.[1106]
+----------------------------------------
+
+=== [47] MMAP02.json ID 141 ===
+ORIG :
+Why[SP]don't[SP]you[SP]enter[SP]the[SP]magazine[SP]sweepstakes
+sometime?
+FR[0]:
+Fais les concours
+des magazines un jour.
+----------------------------------------
+
+=== [48] MMAP02.json ID 142 ===
+ORIG :
+Winners[SP]get[SP]real[SP]weapons[SP]and[SP]items.[SP]As[SP]I
+recall,[SP]you[SP]rarely[SP]win,[SP]but[SP]you[SP]can[SP]get
+some[SP]rare[SP]stuff[SP]if[SP]you[SP]do.
+FR[0]:
+Hé, Clair de Lune à Aoba vend
+des armes, non ?[1106]
+----------------------------------------
+
+=== [49] MMAP02.json ID 143 ===
+ORIG :
+Why[SP]don't[SP]you[SP]enter[SP]the[SP]magazine[SP]sweepstakes
+sometime?
+FR[0]:
+Fais les concours
+des magazines un jour.
+----------------------------------------
+

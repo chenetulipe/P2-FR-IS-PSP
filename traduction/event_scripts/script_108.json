@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "She[SP]was[SP]beautiful...[SP]energetic...[SP]kind...[1205][001E]\nShe[SP]taught[SP]us[SP]to[SP]follow[SP]our[SP]dreams...[1205][001E]\nAnd[SP]then...[SP]I...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Elle était belle... vive...\ndouce...[1205][001E] Elle nous disait de suivre\nnos rêves...[1205][001E] Et puis... j'ai..."
+    "texte_fr": "Elle était belle... vive... douce...[1205][001E] Elle\nnous disait de suivre nos rêves...[1205][001E] Et\npuis... j'ai..."
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We[SP]played[SP]the[SP]Persona[SP]Game[SP]together.[1205][001E]\nBig[SP]Sis[SP]watched[SP]us[SP]with[SP]a[SP]huge[SP]smile[SP]on\nher[SP]face[SP]the[SP]whole[SP]time...",
     "nom_fr": "Ginko",
-    "texte_fr": "On jouait au Persona Game ensemble.[1205][001E]\nSœurette nous regardait avec un\ngrand sourire tout le temps..."
+    "texte_fr": "On jouait au Persona Game ensemble.[1205][001E] Sœurette\nnous regardait avec un grand sourire tout le\ntemps..."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "She[SP]told[SP]us[SP]that[SP]whether[SP]our[SP]dream[SP]comes\ntrue[SP]depends[SP]on[SP]us![1205][001E][SP]But[SP]then...[SP]I...[SP]I...!",
     "nom_fr": "Ginko",
-    "texte_fr": "Elle disait que nos rêves ne dépendaient\nque de nous![1205][001E] Mais après... je... je...!"
+    "texte_fr": "Elle disait que nos rêves ne dépendaient que\nde nous![1205][001E] Mais après... je... je...!"
   },
   {
     "id": 4,
@@ -87,6 +87,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Now[SP]I[SP]see...[SP]So[SP]that's[SP]why[SP]you[SP]guys[SP]can[SP]use\nPersonas.[1205][001E][SP]You'd[SP]played[SP]the[SP]Persona[SP]Game\nafter[SP]all...",
     "nom_fr": "Yukino",
-    "texte_fr": "Je vois maintenant... Alors c'est\npour ça que vous faites tout ça."
+    "texte_fr": "Je vois maintenant... Alors c'est pour ça\nque vous faites tout ça."
   }
 ]

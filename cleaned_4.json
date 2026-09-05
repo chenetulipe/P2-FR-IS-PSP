@@ -1,0 +1,302 @@
+[
+  {
+    "file": "script_351.json",
+    "id": 48,
+    "fr_cleaned": "M-Mon Dieu! Ils volaient! [1205][000F]Des soldats\nvolaient dans le ciel! Je l'ai vu[1205][000A]de mes propres yeux! De longues\nlances et des armures noires...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_352.json",
+    "id": 18,
+    "fr_cleaned": "J'ai toujours voulu être [1205][000F]riche.\nJe parle ainsi et porte des habits[1205][000A]coûteux, mais en vrai je suis dans\nle rouge. Je bosse pour payer.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_356.json",
+    "id": 16,
+    "fr_cleaned": "Mais quand même...[1205][000F] Est-ce la\nmeilleure façon...? Qu'on me remette[1205][000A]mon but sur un plateau comme ça...\nÇa me rendra vraimentheureuse...?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_359.json",
+    "id": 97,
+    "fr_cleaned": "Tiens, de retour.",
+    "garbage_removed": "Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres Rien\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez une région.\nRengedai Yumezaki Aoba Kounan Aucune\nChoisissez un sujet. Concours magazines\nRumeurs Mu Armes légendaires Aucun\nVérifié. Soumettre. Patientez après envoi."
+  },
+  {
+    "file": "script_359.json",
+    "id": 120,
+    "fr_cleaned": "Hé, j'ai entendu que c'est un\ngroupe, le Cercle masqué, qui fait[1205][000A]ça. 05]ça. C'est vrai? J'aime pas\nça... Sumaru devait être paisible...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_360.json",
+    "id": 35,
+    "fr_cleaned": "Te revoilà.",
+    "garbage_removed": "Choisis une option. Demander\ndes rumeurs Parler avec Baofu Annuler\nChoisis un sujet. Rumeurs armureries\nRumeurs armures Autres Rien\nChoisis une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisis une région.\nRengedai Yumezaki Aoba Kounan Aucune Choisis\nun sujet. Rumeurs concours Rumeurs Mu\nRumeurs armes légendaires Aucune Vérifié.\nSoumettre les infos. Après envoi, patientez."
+  },
+  {
+    "file": "script_361.json",
+    "id": 27,
+    "fr_cleaned": "La fin est proche. Ce garçon... je l'ai déjà\nvu quelque part?",
+    "garbage_removed": "Panneau SS: Accueil général,\nBureau étrangers RDC: Objets trouvés,\nPermis, Conseillers 2e: Aide victimes,\nAide sinistrés Panneau 3e: Interrogatoire,\nAffaires internes 4e: Labo, Crimes juvéniles\n5e: Personnesdisparues, Enquêtes spéciales"
+  },
+  {
+    "file": "script_361.json",
+    "id": 37,
+    "fr_cleaned": "Katsuya est très populaire auprès des femmes\ndu commissariat...[1205][000F] Mais pas de petite[1205][000A]amie. Il est du genre marié à son boulot?",
+    "garbage_removed": "Avis Si vous voyez cet homme, appelez le\n17! Je crois l'avoir vu quelque part..."
+  },
+  {
+    "file": "script_362.json",
+    "id": 36,
+    "fr_cleaned": "Ce crétin s'est échappé, et maintenant\nces soldats... Pourquoi j'ai si peu de[1205][000A]chance?",
+    "garbage_removed": "Une nouvelle chaîne. [1205][000F]La seule\nchose propre ici. Jouer un CD? OuiNon"
+  },
+  {
+    "file": "script_364.json",
+    "id": 0,
+    "fr_cleaned": "Le choc était trop fort pour Jun?\n[1205][000F]Son image de Maya a été réduite[1205][000A]en miettes. L'écart entre l'image\net la réalité était trop grand...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_364.json",
+    "id": 5,
+    "fr_cleaned": "Mais tu sais... un plus jeune me\ntente aussi. Si j'en trouve un mignon,[1205][000A]je le[1205][000F] garde tant que je peux...",
+    "garbage_removed": "Un\nradiocassette neuf. La seule chose\npropre de la pièce. Lire un CD? OuiNon"
+  },
+  {
+    "file": "script_365.json",
+    "id": 10,
+    "fr_cleaned": "Quand le Musée de l'Aéronautique\nfut construit, les gens ont[1205][000A]dit que ça jurait dans Sumaru.\nDésormais y'a foule de visiteurs.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_365.json",
+    "id": 17,
+    "fr_cleaned": "Le courage de Maya face au danger\nm'impressionne toujours. Elle[1205][000A]a jamais piloté de dirigeable\navant! Je pense pas en toutcas...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_366.json",
+    "id": 10,
+    "fr_cleaned": "Le moment venu j'ignorerai encore\ntant de choses, mais je veux croire[1205][000A]que je ferais le [1205][000F]bon choix. Je\nne veux plus porter de masque...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_367.json",
+    "id": 70,
+    "fr_cleaned": "Vous achetez des armures contre\nles terroristes? Il paraît que ce[1205][000A]Cercle Masqué n'accorde pas plus de\nvaleur à un homme qu'àune pierre...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_368.json",
+    "id": 15,
+    "fr_cleaned": "Je n'étais pas le plus doué, mais\nj'avais ma place dans l'art. [1205][000F]Les[1205][000A]biens matériels ne m'intéressent\nplus. Ce n'est plus mon monde...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_369.json",
+    "id": 46,
+    "fr_cleaned": "Le monde va s'éteindre? Vraiment?\nOn va évoluer en Idéaliens?[1205][000A]Sérieusement? Et celui que j'attends\nn'est toujours pas là!?Vraiment!?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_370.json",
+    "id": 9,
+    "fr_cleaned": "Je n'y suis pas tout à fait arrivée,[1205][000F]\nmais j'ai fini par me trouver moi-même...[1205][000A]ême... C'est dur à expliquer, maisje\nsens que j'ai trouvé le vrai moi.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_373.json",
+    "id": 37,
+    "fr_cleaned": "Je ne pensais pas qu'Eikichi\nréagirait autant au poisson. On[1205][000A]dirait un réflexe conditionné...\nOu plutôt une empreinteanimale?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_373.json",
+    "id": 58,
+    "fr_cleaned": "Toro m'a recommandé des chaussures\npour maigrir juste en les portant.[1205][000A][1205][000F]Mais puis-je lui faire confiance\npour ce genre de choses...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_373.json",
+    "id": 104,
+    "fr_cleaned": "Le festival du Lycée Kasu a l'air\ngénial cette année. Leur président[1205][000A]du BDE est vraiment pas comme\nles autres, pas vrai Eikichi!?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_373.json",
+    "id": 159,
+    "fr_cleaned": "Ce type là-bas a eu un coup de\nchance soudain. Il se plaignait[1205][000A]toujours qu'il resterait un esclave\nsalarié avec des dettes sans fin.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_373.json",
+    "id": 167,
+    "fr_cleaned": "Mwaha! Je suis enfin devenu président.\nManger des sushis le midi pendant[1205][000A]que mes sous-fifres bossent prouve\nque j'ai grimpé les échelons!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_373.json",
+    "id": 179,
+    "fr_cleaned": "In Lak'ech... Haha, formidable!\nCe monde morne va tomber et on[1205][000A]entamera une nouvelle voie en\ntranshumains: l'idéal de l'homme! Haha!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 33,
+    "fr_cleaned": "Je crois qu'on peut lui dire\nqu'il est en sécurité. La dernière[1205][000A]cible sera le Musée aérospatial,\nautant qu'il s'inquiète pas trop.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 48,
+    "fr_cleaned": "Ceux perdus dans le labyrinthe\nde la vie [1205][000F]dérivent jusqu'ici.[1205][000A]Nous éclairons leur chemin vers\nl'avenir. Je suis la Génie de Sumaru.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 49,
+    "fr_cleaned": "Votre première visite, on dirait.\n[1205][000F]Êtes-vous quelqu'un qui a perdu sa[1205][000A]voie vers le futur? Ou venez-vous\nentendreles récits de ce monde éphémère?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 91,
+    "fr_cleaned": "Pour les prochains temps, votre\noptimisme fera naître de nouvelles[1205][000A]perspectives, permettant à toutes\nles négociations de se dérouler bien.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 114,
+    "fr_cleaned": "On dit que [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki\nvend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. [1205][000F]Leur qualité[1205][000A]LL][NULL][0006]qualité est exquise, mais les prix\nsont élevés[E4][NULL][NULL][0002]. Que c'est dangereux...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 115,
+    "fr_cleaned": "Ah. Eikichi de Kasugayama a quitté\nson poste de Boss...[1205] Ne connaissant[1205][000A]guère la vie étudiante, j'ignore\nla valeur de cettehistoire.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 118,
+    "fr_cleaned": "Il semble que [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] vende\nde [E4][NULL][NULL][0006]vraies[1205][000F] armes[E4][NULL][NULL][0002]. Je suis surprise[1205][000A]qu'un si proche voisin vende des\n[E4][NULL][NULL][0006]armements de qualité, au prix fort[E4][NULL][NULL][0002].",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 140,
+    "fr_cleaned": "Quand je suis revenu(e) [1205][000F]à moi,\nj'étais ici... Cette [1432][NULL][NULL][0014]boule de cristal[1432][NULL][NULL][0014][1205][000A]n'est que du verre. J'inventais...\nSauf que ça se réalise quandmême!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 141,
+    "fr_cleaned": "Croyez-moi, j'en étais le plus\nsurpris(e). [1205][000F]Mais plus ça se produisait,[1205][000A]plus j'étais convaincu(e)... Mes\nprédictions se réalisenttoujours.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 146,
+    "fr_cleaned": "Hm. Je vous ai dit toutes les\nhistoires que je connais pour[1205][000A]l'instant. Partageons à nouveau quand\nj'en aurai de nouvelles à raconter.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 178,
+    "fr_cleaned": "En parlant de ça... La Génie ici...\nOn ne voit pas son visage mais cette[1205][000A]voix... Je l'ai entendue quelque\npart Impossible de savoiroù...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 193,
+    "fr_cleaned": "Mon vrai boulot c'est capitaine de\nbateau. Je roule avec mon chapeau[1205][000A]de [1205][000F]yacht. Je gagne bien la nuit,\nalorsje dors dans mon taxi à l'usine.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_375.json",
+    "id": 194,
+    "fr_cleaned": "Y'a un type qui copie mon style,\nmais j'le vois plus trop depuis un[1205][000A]moment, alors j'suis venu le chercher.[1205][000F]\nT'aurais pas entendu parler de lui ?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_376.json",
+    "id": 10,
+    "fr_cleaned": "Le crâne de cristal de feu...\nC'est la deuxième fois qu'on la eu[1205][000A]C'est ]C'est celui que mon ombre a\nemporté... Je m'en sens toujours mal.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_376.json",
+    "id": 16,
+    "fr_cleaned": "Le plus proche tu es aux pôles,\nplus l'impact sera faible... Mais[1205][000A]les tsunamis et tremblements de\nterre n'épargnerontpersonne...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_376.json",
+    "id": 58,
+    "fr_cleaned": "Bientôt, la fortune t'accompgnera et\ntu vivras dans le bohnneur.",
+    "garbage_removed": "[E4][NULL][NULL]\"Génie\nSumaru, colporteuse de rumeurs Oui...\nJe vois... Ton destin se cristalise...\nHmm... C'est... La Tempérance..."
+  },
+  {
+    "file": "script_376.json",
+    "id": 121,
+    "fr_cleaned": "Tu sais ce que ça veut dire? En tant que\n[1205][000F]politicien, je serai l'homme le plus puissant[1205][000A]du monde! Mwahahaha!",
+    "garbage_removed": "Message de debug. Vous\nne devriez pas me voir. Reset du BIT voyance."
+  },
+  {
+    "file": "script_376.json",
+    "id": 122,
+    "fr_cleaned": "Je bosse à Sumaru TV, et un collègue\nest un vrai trouillard. à la 205]la[1205][000A]vieille usine abandonnée je lui\nai raconté une histoire flippante.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_376.json",
+    "id": 124,
+    "fr_cleaned": "Et comme je le pensais, ce qu'il a\nimaginé l'a terrorisé. Il est devenu[1205][000A]blanc comme un linge ![1205][000F] Hihi...\nAhaha ! Ça me fait encore rire !",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_377.json",
+    "id": 24,
+    "fr_cleaned": "Mes tarifs dépendent de la valeur du\nmarché pour les soins, mais je soigne[1205][000A]tout le monde, donc tu pourras économiser\nunpeu au final.",
+    "garbage_removed": "Erreur Aucun BIT de saut.\nContactez Kanada, ou plutôt votre chef QA."
+  },
+  {
+    "file": "script_377.json",
+    "id": 34,
+    "fr_cleaned": "D'accord! Douleur, douleur, va-t'... Hé! T'as\npas assez d'argent! Reviens quand tes poches[1205][000A]seront pleines!",
+    "garbage_removed": "Erreur Aucun BIT de saut.\nContactez Kanada, ou plutôt votre chef QA."
+  },
+  {
+    "file": "script_378.json",
+    "id": 3,
+    "fr_cleaned": "Une vraie dame japonaise est\nmodeste, discrète, respecte la piété[1205][000A]filiale et les[1205][001E] règles du foyer.\n[001E]Viens, ta leçon de thécommence.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_378.json",
+    "id": 5,
+    "fr_cleaned": "Une vraie dame japonaise est\nmodeste, discrète, respecte la piété[1205][000A]filiale et les[1205][001E] règles du foyer.\n[001E]Viens, ta leçon de thécommence.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "script_378.json",
+    "id": 24,
+    "fr_cleaned": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.",
+    "garbage_removed": "Lettre\n[NULL][NULL]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnantcette\nfois. Tentez à nouveau votre chance![NULL][NULL]"
+  },
+  {
+    "file": "script_378.json",
+    "id": 25,
+    "fr_cleaned": "Le tirage au sort? Ah oui, bien sûr.\nCeci a été livré ici. Tenez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci d'avoir participé à\nnotre tirage. Félicitations! Vous\navez été sélectionnégagnant! [NULL][NULL]Veuillez\naccepter ceci [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nTentez à nouveau votre chance![NULL][NULL] Vous\nn'avez plus de place pour un autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "script_379.json",
+    "id": 27,
+    "fr_cleaned": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie,\npour un utilisateur comme vous,[1205][000A]l'accepter en soi. Posséder sa\ncarte seule ne vous servira àrien.",
+    "garbage_removed": ""
+  }
+]

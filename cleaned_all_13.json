@@ -1,0 +1,110 @@
+[
+  {
+    "file": "event_scripts/script_375.json",
+    "id": 129,
+    "fr_cleaned": "J'ai une faveur à vous demander...[1205][000F]\nConnaissez-vous un bon diseur de bonne\naventure? Oh... Oui, j'en suis une\nmoi-même,mais...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_375.json",
+    "id": 140,
+    "fr_cleaned": "Quand je suis revenu(e) [1205][000F]à moi, j'étais ici...\nCette [1432][NULL][NULL][0014]boule de cristal[1432][NULL][NULL][0014] n'est que du verre.\nJ'inventais... Sauf que ça se réalise\nquandmême!",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_375.json",
+    "id": 141,
+    "fr_cleaned": "Croyez-moi, j'en étais le plus surpris(e).\n[1205][000F]Mais plus ça se produisait, plus j'étais\nconvaincu(e)... Mes prédictions se\nréalisenttoujours.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_375.json",
+    "id": 178,
+    "fr_cleaned": "En parlant de ça... La Génie ici... On ne voit\npas son visage mais cette voix... Je l'ai\nentendue quelque part Impossible de\nsavoiroù...",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_375.json",
+    "id": 194,
+    "fr_cleaned": "Y'a un type qui copie mon style, mais j'le\nvois plus trop depuis un moment, alors j'suis\nvenu le chercher.[1205][000F] T'aurais pas entendu parler\nde lui ?",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_376.json",
+    "id": 10,
+    "fr_cleaned": "Le crâne de cristal de feu... C'est la\ndeuxième fois qu'on la eu C'est ]C'est celui\nque mon ombre a emporté... Je m'en sens\ntoujours mal.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_376.json",
+    "id": 58,
+    "fr_cleaned": "Bientôt, la fortune t'accompgnera et tu vivras\ndans le bohnneur.",
+    "garbage_removed": "[E4][NULL][NULL]\"Génie Sumaru, colporteuse\nde rumeurs Oui... Je vois... Ton destin se\ncristalise... Hmm... C'est... La Tempérance..."
+  },
+  {
+    "file": "event_scripts/script_376.json",
+    "id": 121,
+    "fr_cleaned": "Tu sais ce que ça veut dire? En tant que\n[1205][000F]politicien, je serai l'homme le plus puissant\ndu monde! Mwahahaha!",
+    "garbage_removed": "Message de debug. Vous ne\ndevriez pas me voir. Reset du BIT voyance."
+  },
+  {
+    "file": "event_scripts/script_376.json",
+    "id": 122,
+    "fr_cleaned": "Je bosse à Sumaru TV, et un collègue est un\nvrai trouillard. à la 205]la vieille usine\nabandonnée je lui ai raconté une histoire\nflippante.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_377.json",
+    "id": 24,
+    "fr_cleaned": "Mes tarifs dépendent de la valeur du marché\npour les soins, mais je soigne tout le monde,\ndonc tu pourras économiser unpeu au final.",
+    "garbage_removed": "Erreur Aucun BIT de saut. Contactez Kanada, ou\nplutôt votre chef QA."
+  },
+  {
+    "file": "event_scripts/script_377.json",
+    "id": 34,
+    "fr_cleaned": "D'accord! Douleur, douleur, va-t'... Hé! T'as\npas assez d'argent! Reviens quand tes poches\nseront pleines!",
+    "garbage_removed": "Erreur Aucun BIT de saut.\nContactez Kanada, ou plutôt votre chef QA."
+  },
+  {
+    "file": "event_scripts/script_378.json",
+    "id": 3,
+    "fr_cleaned": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les[1205][001E]\nrègles du foyer. [001E]Viens, ta leçon de\nthécommence.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_378.json",
+    "id": 5,
+    "fr_cleaned": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les[1205][001E]\nrègles du foyer. [001E]Viens, ta leçon de\nthécommence.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_378.json",
+    "id": 24,
+    "fr_cleaned": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci\nd'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnantcette\nfois. Tentez à nouveau votre chance![NULL][NULL]"
+  },
+  {
+    "file": "event_scripts/script_378.json",
+    "id": 25,
+    "fr_cleaned": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.",
+    "garbage_removed": "Lettre [NULL][NULL]Merci\nd'avoir participé à notre tirage.\nFélicitations! Vous avez été\nsélectionnégagnant! [NULL][NULL]Veuillez accepter ceci [E4][NULL][NULL][NULL][E4][NULL][NULL] en\nguise de prix. Tentez à nouveau votre chance![NULL][NULL]\nVous n'avez plus de place pour un autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+  },
+  {
+    "file": "event_scripts/script_382.json",
+    "id": 81,
+    "fr_cleaned": "Hahaha. [1205][000F]J'ai entendu dire qu'il y aura une\nmascarade pour le festival de Lycée Kakasu.\nCes enfants ont des idées\nvraimentintéressantes.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_382.json",
+    "id": 111,
+    "fr_cleaned": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il apparaissait sur\nles routes et tunnels... Ajoutons les\nmontagnes.",
+    "garbage_removed": ""
+  },
+  {
+    "file": "event_scripts/script_387.json",
+    "id": 7,
+    "fr_cleaned": "On dirait que le Bataillon [1205][000F]ne s'en est même\npas servi. C'est comme s'il était conçu\nspécialement pour nous...",
+    "garbage_removed": "Se téléporter à\nSeven?[SP][SP] OuiNon"
+  }
+]
